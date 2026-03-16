@@ -1,0 +1,3 @@
+- [HD11](https://1drv.ms/f/c/2c6e7480743f438e/IgCOQz90gHRuIIAsdEsBAAAAAVPnfuahcy2JBIQWwfyeZuo?e=GzYrFA): [[E5C3 dTomato]] p19 [[L4i]] vs [[Hematopoiesis/E8|E8]]. [[Hematopoiesis/day 6 vascular protocol|6+ days]]. Flow days 7, 9, 11, 13, 15, 18, 20, 21 [[CD34.CD45]]. 
+- 
+- 
