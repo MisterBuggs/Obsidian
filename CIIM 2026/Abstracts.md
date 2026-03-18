@@ -7,4 +7,4 @@
 - 34: [[Poster walk 4]]: Single cell RNAseq-guided identification of a BKV protein VP1- and HLA-B\*07:02 restricted TCR for personalized gene engineered T cell therapy. Floegel, Eiz-Vesper.
 - ?37: [[Poster walk 4]]: Aid-based engineering of B cells through the integration of HIV-receptor exons. Ahmad, de la Rosa. 
 - ?39: [[Poster walk 4]]: Lipid nanoparticle-encapsulated mRNA programs human myeloid cells to produce tick-borne encephalitis virus-neutralizing antibodies. Shandheep, Kalinke.
-- 
+- 2026-03-18
