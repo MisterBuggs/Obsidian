@@ -1,3 +1,8 @@
+---
+modified:
+  - 2026-03-18T11:22:12+01:00
+created: 2026-03-18T08:48:02+01:00
+---
 - 10, [[CIIM 2026/Session 5|Session 5]]: HLA-independent Chimeric Ligand Receptor (CLR)-T cells recognizing the HCMV immune evasion protein UL18 for universal HCMV immunotherapy. Ahmed, Bonifacius.
 - ?12, [[CIIM 2026/Poster walk 2|Poster walk 2]]: Genetic determinants of immune responses across diverse populations link variation in immunity to disease. Botey-Battaller, Li. 
 - ?13: [[CIIM 2026/Poster walk 2|Poster walk 2]]: MoReHealth Niedersachsen: A Best Practice for Standardized Multi omics Health Research in Personalized Medicine in Lower Saxony. Haag, Illig.
