@@ -1,2 +1,2 @@
-- 10 HLA-independent Chimeric Ligand Receptor (CLR)-T cells recognizing the HCMV immune evasion protein UL18 for universal HCMV immunotherapy. Ahmed, Bonifacius.
-- 12, [Walk 2]: Genetic determinants of immune responses across diverse populations link variation in immunity to disease
+- 10, [[CIIM 2026/Session 5|Session 5]]: HLA-independent Chimeric Ligand Receptor (CLR)-T cells recognizing the HCMV immune evasion protein UL18 for universal HCMV immunotherapy. Ahmed, Bonifacius.
+- 12, [[CIIM 2026/Poster walk 2|Poster walk 2]]: Genetic determinants of immune responses across diverse populations link variation in immunity to disease. Botey-Battaller, Li. 
