@@ -6,5 +6,5 @@ tags:
   - Effort
   - JHU
 ---
-- RUES2 L4i & E8 [[2D]]
+- RUES2 L4i & E8 [[+Effort/JHU/2D]]
 - ![[Get files]]
