@@ -4,3 +4,4 @@
 - ?15: [[Poster walk 2]]: GENSEC: Your Unified Hub for Advanced Multi-Omics Research. Hassan, Dorda.
 - ?20:  [[Poster walk 2]]: Generation of Human Alveolar Macrophages to Model Lung Innate Immunity and RSV Infection. Nägler, Lachmann. 
 - !21: [[Poster walk 2]]: Immune response activation and dynamic profiling of human iPSC-derived macrophages in tuberculosis infection models
+- 34: [[Poster walk 2]]: Single cell RNAseq-guided identification of a BKV protein VP1- and HLA-B'**'*07:02 restricted TCR for personalized gene engineered T cell therapy. Floegel, Eiz-Vesper.
