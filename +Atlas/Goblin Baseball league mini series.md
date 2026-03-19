@@ -37,11 +37,11 @@ When Goblin Rookie Hitter has four or more +1/+1 counters on it, shuffle it into
 When you do, it deals damage to target opponent equal to its power.
 "Me? I'm just a lil lad. Don't even worry about me!"
 
-## Blue Jaced Drive Hitter, 1U
+## Jace's Blue Drive Hitter, 1U
 Creature - Goblin Baseball Batter
 2/1
-When you sacrifice this creature, you may instead return it to its owner's library and shuffle. 
-Sacrifice this creature, then Scry 1. If the scryed card has the same name as this card, you may cast it without paying its mana cost. "Wow, just... Did the Umpire not see this?"
+When this creature dies during combat, you may return it to your library instead. If you do, Scry X, where X is the damage this creature dealt to your opponent this turn. If one of the scryed cards has the same name as this card, you may cast it without paying its mana cost. 
+"Wow, just... Did the Umpire not see this?"
 
 ## Red Socked Drive Hitter, **1R**  
 Creature — Goblin Baseball Batter
