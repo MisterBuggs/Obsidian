@@ -2,6 +2,10 @@
 modified:
   - 2026-03-19T15:13:14+01:00
 created: 2026-03-19T15:05:43+01:00
+tags:
+  - Leisure
+  - MTG
+  - Writing
 ---
 Goblin Baseball league mini series for MTG, Work in Progress:
 
@@ -38,14 +42,20 @@ When Goblin Rookie Hitter has four or more +1/+1 counters on it, shuffle it into
 When you do, it deals damage to target opponent equal to its power.
 "Me? I'm just a lil lad. Don't even worry about me!"
 
-## Goblin Drive Hitter, **1R**  
+## Red Socked Drive Hitter, **1R**  
+Creature — Goblin Baseball Batter
+2/1  
+When Goblin Drive Hitter deals damage to a player, return it into its owner’s library and shuffle.
+Goblin Drive Hitter deals damage to target opponent equal to its power.
+"And he's still RUNNIN'!!1!"
+
+## White Socked Drive Hitter, **1R**  
 Creature — Goblin Baseball Batter
 2/1  
 Whenever Goblin Drive Hitter deals combat damage to a player, put a +1/+1 counters on it.  
 When Goblin Drive Hitter has four or more +1/+1 counters on it, return it into its owner’s library.
 Goblin Drive Hitter deals damage to target opponent equal to its power.
 "And he's still RUNNIN'!!1!"
-
 ## Goblin Joe from the West, **2RWU**
 2/4
 Creature - Legendary Goblin Baseball Referee, 
@@ -84,7 +94,7 @@ Target opponent selects a creature card out of your library. Put it on the battl
 
 ## Root, Root, Root, **RWU**
 Sorcery
-Target opponent selects a creature they control. You gain control of that creature. It gains +3/+3 unless that opponent pay
+Target opponent selects a creature they control. You gain control of that creature. It gains +3/+3 unless that opponent pays 3. 
 ## World Series Stadium
 Mythic Land — Baseball Stadium
 Each player controls World Series Stadium during their turn.  
