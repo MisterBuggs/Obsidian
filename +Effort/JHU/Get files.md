@@ -1,3 +1,6 @@
-- [HD10](https://1drv.ms/f/c/2c6e7480743f438e/IgCOQz90gHRuIIAsajUBAAAAAcYt5W4TPn0OUqvt51PRXb8?e=Ou7WWI): Cell Line? FCS files? [[7+ days|(7+ days)]]. Flow days 3, 5, 7, 9: [[GATA6.NANOG]], [[GATA6.TBXT]], [[TBXT.FoxA2​]], [[CD56.GATA6]], days 7, 9, 11, 13: [[CD34.CD45]], [[CD34.CD43]]. 
-- [HD17](https://1drv.ms/f/c/2c6e7480743f438e/IgBRfWwUDZYZQrSmwpsVcOvXAXPXnxNuTDafehSaNOmpC7Q?e=jxaphO). Flow data, contamination?
-- 
+---
+modified:
+  - 2026-03-19T15:52:42+01:00
+created: 2026-03-16T15:03:44+01:00
+---
+
