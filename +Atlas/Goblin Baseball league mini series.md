@@ -101,7 +101,7 @@ Target opponent selects a creature they control. You gain control of that creatu
 
 ## World Series Stadium
 Mythic Land — Baseball Stadium
-Each player controls World Series Stadium during their turn.  
+The player with the highest life total controls World Series Stadium. 
 T: Add R, W, or U.
 
 ## Pee Wee Goblin League
@@ -110,9 +110,9 @@ T: Create a 0/1 red Goblin Rookie creature token with haste and evolve.
 
 ## Derby
 Special Land — Baseball Stadium
-Each player controls Derby.  
+1: Take control of Derby. Each player may activate this ability. 
 T: Add R, W, or U.  
-If a player has any unspent mana at the end of a phase, that player loses life equal to the amount of unspent mana. “BOO!!1! Foul play!”
+ “BOO!!1! Foul play!”
 
 ## Home Field
 Mythic Land — Baseball Stadium
