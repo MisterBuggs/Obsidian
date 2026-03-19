@@ -8,11 +8,6 @@ tags:
   - Writing
 ---
 Goblin Baseball league mini series for MTG, Work in Progress:
-
-## Goblin Pee Wee Baseball League, **RWU**  
-Sorcery
-Create a number of 1/1 Goblin Baseball Rookie Creature Tokens with "This creatue must attack if it can." equal to your devotion to Red, White, and Blue.
-
 ## Buy me some peanuts, **WU**
 Instant
 Target opponent cannot attack or block this turn unless they pay 2 to create 1 Food Token under your control.
