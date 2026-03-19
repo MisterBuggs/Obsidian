@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-03-19T15:07:58+01:00
+  - 2026-03-19T15:13:14+01:00
 created: 2026-03-19T15:05:43+01:00
 ---
 Goblin Baseball league mini series for MTG, Work in Progress:
@@ -61,6 +61,10 @@ UR: Return a creature you control with four or more +1/+1 counters on it to its 
 Goblin Baby Ruthless deals damage to target opponent equal to that creature’s power.
 "Ruthless calls the shot as he puts home run no. 2 right into the field!!1! - Baffled Goblin Reporter".
 
+## Goblin Team Captain, **2RWU**
+4/4
+Mythic Creature - Goblin Baseball Captain
+Whenever Goblin Team Captain attacks, each other attacking Goblin gains the abilities of all other attacking Goblins until end of combat.
 ## Bases Loaded, **XRWU**  
 Sorcery  
 Choose X creatures you control. They gain trample until end of turn.  
@@ -78,6 +82,9 @@ If any player lost life this way, copy this spell.
 Sorcery
 Target opponent selects a creature card out of your library. Put it on the battlefield under your control without paying its mana cost. It has haste. Shuffle your library.
 
+## Root, Root, Root, **RWU**
+Sorcery
+Target opponent selects a creature they control. You gain control of that creature. It gains +3/+3 unless that opponent pay
 ## World Series Stadium
 Mythic Land — Baseball Stadium
 Each player controls World Series Stadium during their turn.  
