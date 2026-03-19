@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-03-19T15:22:26+01:00
+  - 2026-03-19T15:27:37+01:00
 created: 2026-03-19T15:05:43+01:00
 tags:
   - Leisure
@@ -37,22 +37,17 @@ XW, T: Support X+X.
 ## Goblin Rookie Hitter, **RW**
 Creature — Goblin Baseball Novice Batter
 0/1
-Evolve  
+Evolve
 When Goblin Rookie Hitter has four or more +1/+1 counters on it, shuffle it into its owner’s library.
 When you do, it deals damage to target opponent equal to its power.
 "Me? I'm just a lil lad. Don't even worry about me!"
 
-## Red Socked Drive Hitter, **1R**  
+## Goblin Drive Hitter, **WR**  
 Creature — Goblin Baseball Batter
 2/1  
-When Goblin Drive Hitter deals damage to a player, you may return it into its owner’s library and shuffle. When you do, Goblin Drive Hitter deals damage to target opponent equal to its power.
+Goblin Drive Hitter deals combat damage to a player, while it has at least 3 +1/+1 counters on it, shuffle it into its owner’s library. Then, Goblin Drive Hitter deals damage to target opponent equal to its power.
 "And he's still RUNNIN'!!1!"
 
-## White Socked Drive Hitter, **1R**  
-Creature — Goblin Baseball Batter
-2/1  
-Whenever Goblin Drive Hitter deals combat damage to a player, put a +1/+1 counters on it.  
-"Aother base, he gets another BASE!!1!"
 ## Goblin Joe from the West, **2RWU**
 2/4
 Creature - Legendary Goblin Baseball Referee, 
