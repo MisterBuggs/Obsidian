@@ -29,18 +29,24 @@ Creature - Goblin Baseball Advisor
 XW, T: Support X+X.
 "Alright, big lad, here's how you play this, now GO!!1!"
 
-## Goblin Hitter Profi, **RW**
+## Goblin Hitter Prodigy, **RW**
 Creature — Goblin Baseball Novice Batter
 0/1
-Evolve
+Evolve, Haste
 When Goblin Rookie Hitter has four or more +1/+1 counters on it, shuffle it into its owner’s library.
 When you do, it deals damage to target opponent equal to its power.
 "Me? I'm just a lil lad. Don't even worry about me!"
 
+## Blue Jaced Drive Hitter, 1U
+Creature - Goblin Baseball Batter
+2/1
+When you sacrifice this creature, you may instead return it to its owner's library and shuffle. 
+Sacrifice this creature, then Scry 
+
 ## Red Socked Drive Hitter, **1R**  
 Creature — Goblin Baseball Batter
 2/1  
-When Red Socked Drive Hitter deals combat damage to a player, you may shuffle it into its owner’s library. If you do, Goblin Drive Hitter deals damage to target opponent equal to its power.
+When Red Socked Drive Hitter deals combat damage to a player, you may sacrifice it. If you do, Goblin Drive Hitter deals damage to target opponent equal to its power.
 "And he's still RUNNIN'!!1!"
 
 ## White Socked Drive Hitter, **1W**  
