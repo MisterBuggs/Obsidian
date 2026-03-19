@@ -33,13 +33,15 @@ XW, T: Support X+X.
 Creature - Goblin Baseball Novice
 0/1
 Evolve
-Whilr attacking with one or more Goblins, Goblin Rookie ha
+When attacking together with one or more Goblins, select one Goblin not named Goblin Rookie. Goblin Rookie gains its ability for the duration of combat. 
+"Me? I'm just a lil lad. Don't even worry about me!"
+
 ## Goblin Hitter Prodigy, **RWU**
 Creature — Goblin Baseball Promise
 1/1
 Evolve, Haste
-While attacking with one or more Goblins, Goblin Hitter Prodigy prodigy has the abilities of all other Goblins in the attack. 
-"Me? I'm just a lil lad. Don't even worry about me!"
+While attacking together with one or more Goblins, Goblin Hitter Prodigy prodigy has the abilities of all other Goblins in the attack. 
+"No, they didn't... How's that even POSSIBLE?!1!" 
 
 ## Jace's Blue Drive Hitter, 1U
 Creature - Goblin Baseball Batter
