@@ -41,7 +41,7 @@ When you do, it deals damage to target opponent equal to its power.
 Creature - Goblin Baseball Batter
 2/1
 When you sacrifice this creature, you may instead return it to its owner's library and shuffle. 
-Sacrifice this creature, then Scry 
+Sacrifice this creature, then Scry 1. If the scryed card has the same name as this card, you may cast it without paying its mana cost. "Wow, just... Did the Umpire not see this?"
 
 ## Red Socked Drive Hitter, **1R**  
 Creature — Goblin Baseball Batter
