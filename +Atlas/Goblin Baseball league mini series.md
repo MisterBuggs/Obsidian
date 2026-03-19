@@ -29,19 +29,23 @@ Creature - Goblin Baseball Advisor
 XW, T: Support X+X.
 "Alright, big lad, here's how you play this, now GO!!1!"
 
-## Goblin Hitter Prodigy, **RW**
-Creature — Goblin Baseball Novice Batter
+## Goblin Rookie, R/W
+Creature - Goblin Baseball Novice
 0/1
+Evolve
+Whilr attacking with one or more Goblins, Goblin Rookie ha
+## Goblin Hitter Prodigy, **RWU**
+Creature — Goblin Baseball Promise
+1/1
 Evolve, Haste
-When Goblin Rookie Hitter has four or more +1/+1 counters on it, shuffle it into its owner’s library.
-When you do, it deals damage to target opponent equal to its power.
+While attacking with one or more Goblins, Goblin Hitter Prodigy prodigy has the abilities of all other Goblins in the attack. 
 "Me? I'm just a lil lad. Don't even worry about me!"
 
 ## Jace's Blue Drive Hitter, 1U
 Creature - Goblin Baseball Batter
 2/1
 When this creature dies during combat, you may return it to your library instead. If you do, Scry X, where X is the damage this creature dealt to your opponent this turn. If one of the scryed cards has the same name as this card, you may cast it without paying its mana cost. 
-"Wow, just... Did the Umpire not see this?"
+"Back to the dug out for a quick pep talk and, wait a second, looks like they got another inning IN THEM!!1!"
 
 ## Red Socked Drive Hitter, **1R**  
 Creature — Goblin Baseball Batter
