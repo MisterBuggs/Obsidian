@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-03-19T15:13:14+01:00
+  - 2026-03-19T15:22:26+01:00
 created: 2026-03-19T15:05:43+01:00
 tags:
   - Leisure
@@ -45,17 +45,14 @@ When you do, it deals damage to target opponent equal to its power.
 ## Red Socked Drive Hitter, **1R**  
 Creature — Goblin Baseball Batter
 2/1  
-When Goblin Drive Hitter deals damage to a player, return it into its owner’s library and shuffle.
-Goblin Drive Hitter deals damage to target opponent equal to its power.
+When Goblin Drive Hitter deals damage to a player, you may return it into its owner’s library and shuffle. When you do, Goblin Drive Hitter deals damage to target opponent equal to its power.
 "And he's still RUNNIN'!!1!"
 
 ## White Socked Drive Hitter, **1R**  
 Creature — Goblin Baseball Batter
 2/1  
 Whenever Goblin Drive Hitter deals combat damage to a player, put a +1/+1 counters on it.  
-When Goblin Drive Hitter has four or more +1/+1 counters on it, return it into its owner’s library.
-Goblin Drive Hitter deals damage to target opponent equal to its power.
-"And he's still RUNNIN'!!1!"
+"Aother base, he gets another BASE!!1!"
 ## Goblin Joe from the West, **2RWU**
 2/4
 Creature - Legendary Goblin Baseball Referee, 
@@ -63,13 +60,13 @@ UW, T: Counter target spell unless its controller sacrifices permanents with tot
 "It's out when I say it is!!1!"
 
 ## Goblin Baby Ruthless, **2RW**
-5/1
-Creature - Legendary Goblin Baseball Batter
+5/2
+Legendary Creature - Goblin Baseball Batter
 At the beginning of combat on your turn, choose a number X. 
 If an opponent is dealt exactly X damage this turn, distribute X +1/+1 counters among creatures you control.
-UR: Return a creature you control with four or more +1/+1 counters on it to its owner's library.
+U: Return a creature you control with four or more +1/+1 counters on it to its owner's library and shuffle.
 Goblin Baby Ruthless deals damage to target opponent equal to that creature’s power.
-"Ruthless calls the shot as he puts home run no. 2 right into the field!!1! - Baffled Goblin Reporter".
+"Ruthless calls the shot as he puts home run no. 2 right into the FIELD!!1! - Baffled Goblin Reporter".
 
 ## Goblin Team Captain, **2RWU**
 4/4
@@ -85,8 +82,6 @@ you may return it to its owner’s library. If you do, the creature deals damage
 Sorcery  
 Untap all creatures that attacked or blocked this turn. 
 After this main phase, there is an additional combat phase followed by an additional main phase.
-Then, for each creature that could have attacked or blocked this turn but didn’t, its controller loses 1 life. 
-If any player lost life this way, copy this spell.
 
 ## Take Me Out, **UW**
 Sorcery
@@ -94,7 +89,8 @@ Target opponent selects a creature card out of your library. Put it on the battl
 
 ## Root, Root, Root, **RWU**
 Sorcery
-Target opponent selects a creature they control. You gain control of that creature. It gains +3/+3 unless that opponent pays 3. 
+Target opponent selects a creature they control. You gain control of that creature and it gains +3/+3. 
+
 ## World Series Stadium
 Mythic Land — Baseball Stadium
 Each player controls World Series Stadium during their turn.  
