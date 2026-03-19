@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-03-19T15:27:37+01:00
+  - 2026-03-19T15:30:55+01:00
 created: 2026-03-19T15:05:43+01:00
 tags:
   - Leisure
@@ -42,17 +42,23 @@ When Goblin Rookie Hitter has four or more +1/+1 counters on it, shuffle it into
 When you do, it deals damage to target opponent equal to its power.
 "Me? I'm just a lil lad. Don't even worry about me!"
 
-## Goblin Drive Hitter, **WR**  
+## Red Socked Drive Hitter, **1R**  
 Creature — Goblin Baseball Batter
 2/1  
-Goblin Drive Hitter deals combat damage to a player, while it has at least 3 +1/+1 counters on it, shuffle it into its owner’s library. Then, Goblin Drive Hitter deals damage to target opponent equal to its power.
+When Red Socked Drive Hitter deals combat damage to a player, you may shuffle it into its owner’s library. If you do, Goblin Drive Hitter deals damage to target opponent equal to its power.
 "And he's still RUNNIN'!!1!"
+
+## White Socked Drive Hitter, **1W**  
+Creature — Goblin Baseball Batter
+2/1  
+Whenever White Socked Drive Hitter deals combat damage to a player, put a +1/+1 counters on it.  
+"Another base, he gets another BASE!!1!"
 
 ## Goblin Joe from the West, **2RWU**
 2/4
 Creature - Legendary Goblin Baseball Referee, 
 UW, T: Counter target spell unless its controller sacrifices permanents with total mana value greater than or equal to that spell’s mana value. 
-"It's out when I say it is!!1!"
+"It's out WHEN I SAY IT IS!!1!"
 
 ## Goblin Baby Ruthless, **2RW**
 5/2
