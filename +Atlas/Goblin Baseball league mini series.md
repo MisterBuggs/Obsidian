@@ -29,7 +29,7 @@ Creature - Goblin Baseball Advisor
 XW, T: Support X+X.
 "Alright, big lad, here's how you play this, now GO!!1!"
 
-## Goblin Rookie Hitter, **RW**
+## Goblin Hitter Profi, **RW**
 Creature — Goblin Baseball Novice Batter
 0/1
 Evolve
