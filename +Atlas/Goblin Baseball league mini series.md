@@ -43,7 +43,7 @@ Evolve, Haste
 While attacking together with one or more Goblins, Goblin Hitter Prodigy prodigy has the abilities of all other Goblins in the attack. 
 "No, they didn't... How's that even POSSIBLE?!1!" 
 
-## Jace's Blue Drive Hitter, 1U
+## Blue Jaces Drive Hitter, 1U
 Creature - Goblin Baseball Batter
 2/1
 When this creature dies during combat, you may return it to your library instead. If you do, Scry X, where X is the damage this creature dealt to your opponent this turn. If one of the scryed cards has the same name as this card, you may cast it without paying its mana cost. 
@@ -67,13 +67,10 @@ Creature - Legendary Goblin Baseball Referee,
 UW, T: Counter target spell unless its controller sacrifices permanents with total mana value greater than or equal to that spell’s mana value. 
 "It's out WHEN I SAY IT IS!!1!"
 
-## Goblin Baby Ruthless, **2RW**
+## Goblin Baby Ruthless, **1RWU**
 5/2
 Legendary Creature - Goblin Baseball Batter
-At the beginning of combat on your turn, choose a number X. 
-If an opponent is dealt exactly X damage this turn, distribute X +1/+1 counters among creatures you control.
-U: Return a creature you control with four or more +1/+1 counters on it to its owner's library and shuffle.
-Goblin Baby Ruthless deals damage to target opponent equal to that creature’s power.
+At the beginning of combat on your turn, choose a number X. If an opponent is dealt exactly X damage this turn, distribute X +1/+1 tokens among creatures you control. 
 "Ruthless calls the shot as he puts home run no. 2 right into the FIELD!!1! - Baffled Goblin Reporter".
 
 ## Goblin Team Captain, **2RWU**
@@ -110,14 +107,14 @@ T: Create a 0/1 red Goblin Rookie creature token with haste and evolve.
 
 ## Derby
 Special Land — Baseball Stadium
-1: Take control of Derby. Each player may activate this ability. 
+1: Take control of this land. Each player may activate this ability. 
 T: Add R, W, or U.  
- “BOO!!1! Foul play!”
+“Boo, no, Yeah, no, Foul play!”
 
 ## Home Field
 Mythic Land — Baseball Stadium
 Home Field doesn’t untap during your untap step unless you dealt combat damage last turn.
-T: Roll a four‑sided die. Add mana based on the result —  
+T: Roll a four‑sided die. Add mana based on the result:
 1 — R
 2 — W
 3 — U
@@ -128,16 +125,16 @@ Special Land — Baseball Stadium
 Away Field doesn’t untap during your untap step unless your opponent attacked last turn.
 T: Add R, W, or U.
 
-## Steppe Goblin Stadium
+## Goblin Soldiers Home Stadium
 Special Land — Baseball Plains Stadium  
 Steppe Goblin Stadium enters the battlefield tapped and doesn’t untap during your untap step unless you dealt combat damage last turn.  
 T: Add W W.
 
-## Pirate Goblin Stadium
+## Goblin Pirates Home Stadium
 Pirate Goblin Stadium enters the battlefield tapped and doesn’t untap during your untap step unless you dealt combat damage last turn.  
 T: Add U U.
 
-## Cave Goblin Stadium
+## Goblin Raiders Home Stadium
 Special Land — Baseball Mountain Stadium  
 Cave Goblin Stadium enters the battlefield tapped and doesn’t untap during your untap step unless you dealt combat damage last turn.  
 T: Add R R.
