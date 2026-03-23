@@ -1,6 +1,6 @@
 ---
-title: "Precision Immunotherapy to Improve Sepsis Outcomes"
-source: "https://jamanetwork.com/journals/jama/article-abstract/2842634"
+title: Precision Immunotherapy to Improve Sepsis Outcomes
+source: https://jamanetwork.com/journals/jama/article-abstract/2842634
 author:
   - "[[Evangelos J. Giamarellos-Bourboulis]]"
   - "[[Antigone Kotsaki]]"
@@ -294,8 +294,10 @@ author:
   - "[[Eloisa Sofia  Tanzarella]]"
 published: 2025-12-08
 created: 2026-03-20
-description: "This randomized trial assesses whether precision immunotherapy tailored to macrophage activation–like syndrome or sepsis-induced immunoparalysis improved"
+description: This randomized trial assesses whether precision immunotherapy tailored to macrophage activation–like syndrome or sepsis-induced immunoparalysis improved
 tags:
-  - "clippings"
+  - clippings
+modified:
+  - 2026-03-23T12:22:40+01:00
 ---
-[\[Skip to Navigation\]](https://jamanetwork.com/journals/jama/article-abstract/#skip-to-navigation)
+#To_Do Add to CV / Biosketch: Personal Statement how my UKE papers predicted this.
