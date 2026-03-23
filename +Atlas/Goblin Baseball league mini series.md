@@ -1,5 +1,6 @@
 ---
 modified:
+  - 2026-03-21T19:56:51+01:00
   - 2026-03-19T15:30:55+01:00
 created: 2026-03-19T15:05:43+01:00
 tags:
@@ -12,7 +13,7 @@ Goblin Baseball league mini series for MTG, Work in Progress:
 Instant
 Target opponent cannot attack or block this turn unless they pay 2 to create 1 Food Token under your control.
 
-I don't care if I ever come back, **2RWU**
+## I don't care if I ever come back, **2RWU**
 Sorcery
 When a creature deals combat damage this turn, you may sacrifice it. If you do, it deals damage to that opponent equal to its power.
 
@@ -46,7 +47,7 @@ While attacking together with one or more Goblins, Goblin Hitter Prodigy prodigy
 ## Blue Jaces Drive Hitter, 1U
 Creature - Goblin Baseball Batter
 2/1
-When this creature dies during combat, you may return it to your library instead. If you do, Scry X, where X is the damage this creature dealt to your opponent this turn. If one of the scryed cards has the same name as this card, you may cast it without paying its mana cost. 
+When this creature dies after dealing combat damage this turn, you may return it to your library instead. If you do, shuffle, then Scry X, where X is the damage this creature dealt to target opponent this turn. If one of the scryed cards has the same name as this card, you may cast it without paying its mana cost. 
 "Back to the dug out for a quick pep talk and, wait a second, looks like they got another inning IN THEM!!1!"
 
 ## Red Socked Drive Hitter, **1R**  
