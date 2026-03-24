@@ -12,7 +12,7 @@ created: 2026-03-24T16:32:27+01:00
 - [ ] Lohnsteuerbescheinigung 2025 für Hannover (**Elster**?)
 - [ ] Unversteuertes Einkommen Borkum ![[WB_Rechnung Borkum.pdf]]![[20260324_1657_Buchungsdetails.pdf]]
 - [ ] Steuerbescheinigung Dividenden 2025 (**Elster**? MLP Seite?)
-- [ ] Flugrechnung & Hotels Bewerbungstour 2025
+- [x] Flugrechnung & Hotels Bewerbungstour 2025
 
 ## Additional (?)
 - [ ] Form W2 2025
