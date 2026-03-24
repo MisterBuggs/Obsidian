@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-03-24T16:39:45+01:00
+  - 2026-03-24T16:52:58+01:00
 created: 2026-03-24T16:32:27+01:00
 ---
 "info@petzoldt-steuerberatung.de" Steuerberatung Petzoldt, Krefeld
@@ -11,6 +11,7 @@ created: 2026-03-24T16:32:27+01:00
 - [ ] Letzter Steuerbescheid (**Elster**?)
 - [ ] Lohnsteuerbescheinigung 2025 (**Elster**? Ist das Einkommen für Borkum schon versteuert?)
 - [ ] Steuerbescheinigung Dividenden 2025  (**Elster**?)
+- [ ] Flugrechnung & Hotels Bewerbungstour 2025
 
 ## Additional (?)
 - [ ] Form W2 2025
