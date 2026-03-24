@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-03-24T08:15:26+01:00
+  - 2026-03-24T21:48:22+01:00
   - 2026-03-23T22:49:38+01:00
   - 2026-03-21T19:56:51+01:00
   - 2026-03-19T15:30:55+01:00
@@ -107,7 +107,7 @@ T: Add R, W, or U.
 ## Pee Wee Goblin League
 Special Land — Baseball Training Stadium
 T: Create a 0/1 red Goblin Rookie creature token with evolve.
-T, Sacrifice a Goblin: Add R, W, or U.
+T, Sacrifice a Goblin: Add R, W, or U. 
 
 ## Derby
 Special Land — Baseball Stadium
