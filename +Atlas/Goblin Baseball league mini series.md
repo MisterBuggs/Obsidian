@@ -4,7 +4,7 @@ modified:
   - 2026-03-23T22:49:38+01:00
   - 2026-03-21T19:56:51+01:00
   - 2026-03-19T15:30:55+01:00
-  - 2026-03-26T09:49:57+01:00
+  - 2026-03-26T09:55:17+01:00
 created: 2026-03-19T15:05:43+01:00
 tags:
   - Leisure
@@ -149,4 +149,4 @@ T: Add R R.
 You may activate one of Grix’s loyalty abilities an additional time each turn for each *non‑token* creature you control that dealt combat damage to a player this turn.
 +1 — **ZAP!!1!** Grix deals 1 damage to any target.
 –9 — **Weather Break** Each player shuffles all creatures they control into their library, then draws that many cards. They may cast any number of creature spells drawn this way without paying their mana costs.
-–27 — **That's the series done** You win the game.
+–27 — **Series cancelled** Target opponent loses the game.
