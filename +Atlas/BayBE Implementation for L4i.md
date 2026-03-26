@@ -1527,4 +1527,10 @@ top_p: 0.5
 
 ![[PLOS Bouktif.pdf]]
 
-![[RSC_Fitzner.pdf]]
+![[RSC_Fitzner.pdf]]![[2508.10642v1.pdf]]
+
+![[d2dd00028h.pdf]]
+
+![[2511.07671v1.pdf]]
+
+![[s41524-021-00662-x.pdf]]
