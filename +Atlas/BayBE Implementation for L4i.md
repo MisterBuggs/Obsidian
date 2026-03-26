@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-03-26T12:37:45+01:00
+  - 2026-03-26T15:06:24+01:00
 created: 2026-03-26T12:36:25+01:00
 ---
 SYSTEM: You are a helpful assistant.
@@ -1533,4 +1533,22 @@ top_p: 0.5
 
 ![[2511.07671v1.pdf]]
 
-![[s41524-021-00662-x.pdf]]
+![[s41524-021-00662-x.pdf]]![[1706.07094v2.pdf]]
+
+![[238_Learning_relevant_contextu.pdf]]
+
+![[on-the-development-of-a-practical-bayesian-optimization-algorithm-for-expensive-experiments-and-simulations-with-changing-environmental-conditions.pdf]]
+
+![[s41598-024-75539-2.pdf]]
+
+![[s10845-025-02597-2.pdf]]
+
+![[2508.10642v1 1.pdf]]
+
+![[journal.pcsy.0000082.pdf]]
+
+![[daulton22a.pdf]]
+
+![[d4dd00391h.pdf]]
+
+![[Bayesian_optimization_for_robust_engineering_design_with_noise_factors.pdf]]
