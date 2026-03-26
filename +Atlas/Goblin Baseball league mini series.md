@@ -4,7 +4,7 @@ modified:
   - 2026-03-23T22:49:38+01:00
   - 2026-03-21T19:56:51+01:00
   - 2026-03-19T15:30:55+01:00
-  - 2026-03-26T09:40:02+01:00
+  - 2026-03-26T09:42:53+01:00
 created: 2026-03-19T15:05:43+01:00
 tags:
   - Leisure
@@ -148,7 +148,7 @@ T: Add R R.
 
 1RWU — Legendary Planeswalker — Goblin **Loyalty: 1**
 
-You may activate one of Grix’s loyalty abilities a number of times each turn equal to the number of *non-token* creatures you control that dealt combat damage to a player this turn.
+You may activate one of Grix’s loyalty abilities an additional time each turn for each *non‑token* creature you control that dealt combat damage to a player this turn.
 
 +1 — **ZAP!!1!** Grix deals 1 damage to any target.
 
