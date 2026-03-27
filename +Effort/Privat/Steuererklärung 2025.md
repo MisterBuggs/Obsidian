@@ -22,4 +22,4 @@ created: 2026-03-24T16:32:27+01:00
 |                  |                                                      | 68109642   | Deposit | Saving                   | 15085        | Dez 2      |                                        |
 |                  |                                                      | 200746     | Deposit | Company shares (Apobank) | 7500         | Dez 31     | community owned (*Genossenschaftlich*) |
 | MLP Bank         | Alte Heerstraße 40  <br>D-69168 Wiesloch             | 8505963915 | Deposit | Investment account       | 17323        | Feb 10     |                                        |
-|                  |                                                      |            |         |                          |              |            |                                        |
+
