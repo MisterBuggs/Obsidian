@@ -4940,7 +4940,7 @@ This implementation:
 
 You were exactly right - the intelligence about what "Robust" means must be implemented in your experiment function, not in BayBE. BayBE simply treats "Robust" as another context/task value, and it's up to you to provide the correct measurements for that context.
 
-![[DOE Bayesian Summaries]]
+![[Bayesian DOE]]
 ![[Thesis_Borrotti.pdf]]
 
 ![[NeurIPS_Balandat.pdf]]

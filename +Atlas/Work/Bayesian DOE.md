@@ -1,10 +1,14 @@
 ---
 modified:
   - 2026-03-26T15:39:47+01:00
+  - 2026-03-30T12:33:06+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
 ---
+Options with BayBE:
+- Define a multi-objective campaign with one or two stacked outcome variables, e.g., NANOG or TRA181 purity [%] at passage 5 and NANOG^+ total cell number at p5 for efficiency.
+- Define a single-objective campaign with a self-calculated composite outcome, e.g., [NANOG]^+ cell numbers at p5 x NANOG^+ purity [%]^2 
 ## Ant Colony Optimization Algorithm for Interpretable Bayesian Classifiers Combination (Bouktif et al., 2014)
 
 This paper is relevant mainly as a *metaheuristic template* for exploring large combinatorial design spaces while maintaining *interpretability* of the learned model. Their key idea is to **decompose models into “chunks”** (here: conditional-probability pieces of Naive Bayes tied to feature-intervals), and then use **Ant Colony Optimization (ACO)** to recombine chunks guided by a context dataset, balancing exploration (pheromone evaporation, stochastic choice) and exploitation (pheromone reinforcement). For your cell-culture DoE setting, what is appropriable is not the Bayesian-classifier specifics but: (i) **chunking** the decision policy/response surface into modular components (e.g., per-factor or per-subspace local models), (ii) an **ACO-style sequential search** that can operate under **noisy outcomes and random failures**, and (iii) a framework for **robustness/generalization across “contexts”** (they use datasets from different populations; you have different cell lines). It does not directly address continuous experimental factors, narrow optima, or dead runs, but it offers a useful paradigm for *guided stochastic search with memory* and a strong emphasis on interpretability of the “final recipe”.
