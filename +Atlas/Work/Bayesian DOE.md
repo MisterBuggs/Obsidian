@@ -1,7 +1,7 @@
 ---
 modified:
   - 2026-03-26T15:39:47+01:00
-  - 2026-03-30T16:02:57+02:00
+  - 2026-03-30T16:06:25+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -9,9 +9,9 @@ tags:
 Options with BayBE:
 - Objective:
 	- Define a multi-objective campaign with 2 or more outcome variables, e.g., NANOG<sub>pos</sub> purity [%] at passage 5 as high-weight objective and NANOG<sub>pos</sub> total cell number at p5 as lower weight objective, compounded using BayBE's [desirability objective](https://emdgroup.github.io/baybe/stable/userguide/objectives#DesirabilityObjective)
-	- Define a single-objective campaign with a self-calculated composite outcome, e.g., NANOG<sub>pos</sub> cell numbers at p5 x NANOG<sub>pos</sub> purity X%<sup>2</sup> to exclude failed campaigns.
 	- Design a [pareto-objective](https://emdgroup.github.io/baybe/stable/userguide/objectives#ParetoObjective.html/) that encodes performance and robustness as separate objectives for pareto-optimization. How to encode robustness, which is a function of performance over different cell lines, in this case?
-	- Two-phase design, in which a number of n+1 TaskParameters is defined for n cell lines of interest. In phase 1, only cell lines K<sub>1</sub> through K<sub>n</sub> are active. Then, K<sub>1</sub> through K<sub>n</sub> are inactivated to instead optimize for self-calulated composite outcome 
+	- Define a single-objective campaign with a self-calculated composite outcome, e.g., NANOG<sub>pos</sub> cell numbers at p5 x NANOG<sub>pos</sub> purity X%<sup>2</sup> to exclude failed campaigns. This completely blinds BayBE to the existence of multiple cell lines, thereby increasing noise but baking robustness into one central combined objective.
+	- As an extension of the aforementioned design, a two-phase design, in which a number of n+1 TaskParameters is defined for n cell lines of interest. In phase 1, only cell lines K<sub>1</sub> through K<sub>n</sub> are active. Then, K<sub>1</sub> through K<sub>n</sub> are inactivated, any cell lines that never worked are dropped, the virtual cell line K<sub>n+1</sub> is activated, which reports a self-calculated composite outcome of performance across cell lines K<sub>1</sub> through K<sub>n-dropouts</sub>, for example by passing the second-worst performance of all tested cell lines to BayBE. 
 - Parameters: 
 	- Define base media as continuous variables, each bound 0-1, constrained to sum to 1.
 	- Define base media as discrete numerical parameters, each bound 0-1 in 0.05 steps, constrained to sum to 1 using the *SubspaceDiscrete.from_simplex* function, and custom encoded with their media components using the CustomDiscreteParameters function to capture similarity between media.
