@@ -7,7 +7,7 @@ tags:
   - MHH
 ---
 Options with BayBE:
-- Define a multi-objective campaign with 2 or more outcome variables, e.g., NANOG<sub>pos</sub> purity [%] at passage 5 as high-weight objective and NANOG<sub>pos</sub> total cell number at p5 as secondary (lower weight) efficiency objective.
+- Define a multi-objective campaign with 2 or more outcome variables, e.g., NANOG<sub>pos</sub> purity [%] at passage 5 as high-weight objective and NANOG<sub>pos</sub> total cell number at p5 as lower weight objective.
 - Define a single-objective campaign with a self-calculated composite outcome, e.g., NANOG<sub>pos</sub> cell numbers at p5 x NANOG<sub>pos</sub> purity X%<sup>2</sup> to exclude failed campaigns.
 - 
 
