@@ -1,7 +1,7 @@
 ---
 modified:
   - 2026-03-26T15:39:47+01:00
-  - 2026-03-30T17:50:36+02:00
+  - 2026-03-30T17:56:47+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -20,8 +20,8 @@ Options with BayBE:
 	- Define base media as continuous variables, each bound 0-1, constrained to sum to 1.
 	- Define base media as discrete numerical parameters, each bound 0-1 in 0.05 steps, constrained to sum to 1 using the *SubspaceDiscrete.from_simplex* function, and custom encoded with their media components using the CustomDiscreteParameters function to capture similarity between media.
 - Set Up:
-	- Rather use Noisy Expected Improvement instead of [active learning](https://emdgroup.github.io/baybe/latest/userguide/active_learning.html) vs expected improvement? Is active learning independent of the objective used, i.e., are the acquisition function and the objective function separate?
-	- Test the final code using the [simulation function](https://emdgroup.github.io/baybe/stable/userguide/simulation.html) for example by using the [Branin function](https://www.sfu.ca/~ssurjano/branin.html) as look-up and [fake noise](https://emdgroup.github.io/baybe/stable/userguide/utils.html). 
+	- Rather use [qNoisyExpectedImprovement](https://emdgroup.github.io/baybe/stable/_autosummary/baybe.acquisition.acqfs.qNoisyExpectedImprovement.html#baybe.acquisition.acqfs.qNoisyExpectedImprovement "baybe.acquisition.acqfs.qNoisyExpectedImprovement") instead of [active learning](https://emdgroup.github.io/baybe/latest/userguide/active_learning.html) to optimize for the outcome encompassing noisy uncertainty, instead of primarily exploring the space. 
+	- Test the final code using the [simulation function](https://emdgroup.github.io/baybe/stable/userguide/simulation.html) for example by using the [Branin function](https://www.sfu.ca/~ssurjano/branin.html) as look-up and [fake noise](https://emdgroup.github.io/baybe/stable/userguide/utils.html) or by pulling some real-word data of fully realized DOE experiments from [Fitzner et al.](https://pubs.rsc.org/en/content/articlehtml/2025/dd/d5dd00050e#cit20)
 	
 ## Ant Colony Optimization Algorithm for Interpretable Bayesian Classifiers Combination (Bouktif et al., 2014)
 
