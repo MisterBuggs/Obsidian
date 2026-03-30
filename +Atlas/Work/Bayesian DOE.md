@@ -1,7 +1,7 @@
 ---
 modified:
   - 2026-03-26T15:39:47+01:00
-  - 2026-03-30T16:06:25+02:00
+  - 2026-03-30T16:09:38+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -11,14 +11,13 @@ Options with BayBE:
 	- Define a multi-objective campaign with 2 or more outcome variables, e.g., NANOG<sub>pos</sub> purity [%] at passage 5 as high-weight objective and NANOG<sub>pos</sub> total cell number at p5 as lower weight objective, compounded using BayBE's [desirability objective](https://emdgroup.github.io/baybe/stable/userguide/objectives#DesirabilityObjective)
 	- Design a [pareto-objective](https://emdgroup.github.io/baybe/stable/userguide/objectives#ParetoObjective.html/) that encodes performance and robustness as separate objectives for pareto-optimization. How to encode robustness, which is a function of performance over different cell lines, in this case?
 	- Define a single-objective campaign with a self-calculated composite outcome, e.g., NANOG<sub>pos</sub> cell numbers at p5 x NANOG<sub>pos</sub> purity X%<sup>2</sup> to exclude failed campaigns. This completely blinds BayBE to the existence of multiple cell lines, thereby increasing noise but baking robustness into one central combined objective.
-	- As an extension of the aforementioned design, a two-phase design, in which a number of n+1 TaskParameters is defined for n cell lines of interest. In phase 1, only cell lines K<sub>1</sub> through K<sub>n</sub> are active. Then, K<sub>1</sub> through K<sub>n</sub> are inactivated, any cell lines that never worked are dropped, the virtual cell line K<sub>n+1</sub> is activated, which reports a self-calculated composite outcome of performance across cell lines K<sub>1</sub> through K<sub>n-dropouts</sub>, for example by passing the second-worst performance of all tested cell lines to BayBE. 
+	- As an extension of the aforementioned *homebrew* design, once could instead build a two-phase design, in which a number of n+1 TaskParameters is defined for n cell lines of interest. In phase 1, only cell lines K<sub>1</sub> through K<sub>n</sub> are active. Then, K<sub>1</sub> through K<sub>n</sub> are inactivated, any cell lines that never worked are dropped, and the virtual cell line K<sub>n+1</sub> is activated, which reports a self-calculated composite outcome of performance across cell lines K<sub>1</sub> through K<sub>n-dropouts</sub>, for example by passing the second-worst performance of all tested cell lines to BayBE. 
 - Parameters: 
 	- Define base media as continuous variables, each bound 0-1, constrained to sum to 1.
 	- Define base media as discrete numerical parameters, each bound 0-1 in 0.05 steps, constrained to sum to 1 using the *SubspaceDiscrete.from_simplex* function, and custom encoded with their media components using the CustomDiscreteParameters function to capture similarity between media.
-	- 
 - Set Up:
-	- Use [active learning](https://emdgroup.github.io/baybe/latest/userguide/active_learning.html), at the very least during a phase 1.
-	- Test the final code using the [simulation function](https://emdgroup.github.io/baybe/stable/userguide/simulation.html) using the [Branin function](https://www.sfu.ca/~ssurjano/branin.html) as look-up. 
+	- Use [active learning](https://emdgroup.github.io/baybe/latest/userguide/active_learning.html), at the very least during a phase 1. Is active learning independent of the objective used, i.e., are the acquisition function and the objective function separate?
+	- Test the final code using the [simulation function](https://emdgroup.github.io/baybe/stable/userguide/simulation.html) for example by using the [Branin function](https://www.sfu.ca/~ssurjano/branin.html) as look-up. 
 ## Ant Colony Optimization Algorithm for Interpretable Bayesian Classifiers Combination (Bouktif et al., 2014)
 
 This paper is relevant mainly as a *metaheuristic template* for exploring large combinatorial design spaces while maintaining *interpretability* of the learned model. Their key idea is to **decompose models into “chunks”** (here: conditional-probability pieces of Naive Bayes tied to feature-intervals), and then use **Ant Colony Optimization (ACO)** to recombine chunks guided by a context dataset, balancing exploration (pheromone evaporation, stochastic choice) and exploitation (pheromone reinforcement). For your cell-culture DoE setting, what is appropriable is not the Bayesian-classifier specifics but: (i) **chunking** the decision policy/response surface into modular components (e.g., per-factor or per-subspace local models), (ii) an **ACO-style sequential search** that can operate under **noisy outcomes and random failures**, and (iii) a framework for **robustness/generalization across “contexts”** (they use datasets from different populations; you have different cell lines). It does not directly address continuous experimental factors, narrow optima, or dead runs, but it offers a useful paradigm for *guided stochastic search with memory* and a strong emphasis on interpretability of the “final recipe”.
