@@ -1,7 +1,7 @@
 ---
 modified:
   - 2026-03-26T15:39:47+01:00
-  - 2026-03-30T14:57:27+02:00
+  - 2026-03-30T15:02:31+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -12,6 +12,7 @@ Options with BayBE:
 	- Define a single-objective campaign with a self-calculated composite outcome, e.g., NANOG<sub>pos</sub> cell numbers at p5 x NANOG<sub>pos</sub> purity X%<sup>2</sup> to exclude failed campaigns.
 - Parameters: 
 	- Define base media as continuous variables, each bound 0-1, constrained to sum to 1. 
+	- Define base media as discrete parameters, each bound 0-1 in 0.05 steps, constrained to sum to 1, and custom encoded with their media components using the CustomDiscreteParameters function to capture similarity between media.
 	- 
 
 ## Ant Colony Optimization Algorithm for Interpretable Bayesian Classifiers Combination (Bouktif et al., 2014)
