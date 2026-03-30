@@ -1,16 +1,16 @@
 ---
 modified:
   - 2026-03-26T15:39:47+01:00
-  - 2026-03-30T15:22:41+02:00
+  - 2026-03-30T15:47:38+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
 ---
 Options with BayBE:
 - Objective:
-	- Define a multi-objective campaign with 2 or more compounded outcome variables, e.g., NANOG<sub>pos</sub> purity [%] at passage 5 as high-weight objective and NANOG<sub>pos</sub> total cell number at p5 as lower weight objective.
+	- Define a multi-objective campaign with 2 or more outcome variables, e.g., NANOG<sub>pos</sub> purity [%] at passage 5 as high-weight objective and NANOG<sub>pos</sub> total cell number at p5 as lower weight objective, compounded using BayBE's [desirability objective](https://emdgroup.github.io/baybe/stable/userguide/objectives#DesirabilityObjective.html/)), possibly with carefully calibrated weights.
 	- Define a single-objective campaign with a self-calculated composite outcome, e.g., NANOG<sub>pos</sub> cell numbers at p5 x NANOG<sub>pos</sub> purity X%<sup>2</sup> to exclude failed campaigns.
-	- Design a pareto-objective that encodes performance and robsutness as separate desirable 
+	- Design a [pareto-objective](https://emdgroup.github.io/baybe/stable/userguide/objective#ParetoObjective.html/) that encodes performance and robsutness as separate desirable 
 - Parameters: 
 	- Define base media as continuous variables, each bound 0-1, constrained to sum to 1.
 	- Define base media as discrete numerical parameters, each bound 0-1 in 0.05 steps, constrained to sum to 1 using the *SubspaceDiscrete.from_simplex* function, and custom encoded with their media components using the CustomDiscreteParameters function to capture similarity between media.
