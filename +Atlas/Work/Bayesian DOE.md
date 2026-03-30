@@ -1,7 +1,7 @@
 ---
 modified:
   - 2026-03-26T15:39:47+01:00
-  - 2026-03-30T16:36:57+02:00
+  - 2026-03-30T16:38:20+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -20,7 +20,7 @@ Options with BayBE:
 	- Define base media as discrete numerical parameters, each bound 0-1 in 0.05 steps, constrained to sum to 1 using the *SubspaceDiscrete.from_simplex* function, and custom encoded with their media components using the CustomDiscreteParameters function to capture similarity between media.
 - Set Up:
 	- Use [active learning](https://emdgroup.github.io/baybe/latest/userguide/active_learning.html), at the very least during a phase 1. Is active learning independent of the objective used, i.e., are the acquisition function and the objective function separate?
-	- Test the final code using the [simulation function](https://emdgroup.github.io/baybe/stable/userguide/simulation.html) for example by using the [Branin function](https://www.sfu.ca/~ssurjano/branin.html) as look-up and fake noise
+	- Test the final code using the [simulation function](https://emdgroup.github.io/baybe/stable/userguide/simulation.html) for example by using the [Branin function](https://www.sfu.ca/~ssurjano/branin.html) as look-up and [fake noise](https://emdgroup.github.io/baybe/stable/userguide/utils.html). 
 ## Ant Colony Optimization Algorithm for Interpretable Bayesian Classifiers Combination (Bouktif et al., 2014)
 
 This paper is relevant mainly as a *metaheuristic template* for exploring large combinatorial design spaces while maintaining *interpretability* of the learned model. Their key idea is to **decompose models into “chunks”** (here: conditional-probability pieces of Naive Bayes tied to feature-intervals), and then use **Ant Colony Optimization (ACO)** to recombine chunks guided by a context dataset, balancing exploration (pheromone evaporation, stochastic choice) and exploitation (pheromone reinforcement). For your cell-culture DoE setting, what is appropriable is not the Bayesian-classifier specifics but: (i) **chunking** the decision policy/response surface into modular components (e.g., per-factor or per-subspace local models), (ii) an **ACO-style sequential search** that can operate under **noisy outcomes and random failures**, and (iii) a framework for **robustness/generalization across “contexts”** (they use datasets from different populations; you have different cell lines). It does not directly address continuous experimental factors, narrow optima, or dead runs, but it offers a useful paradigm for *guided stochastic search with memory* and a strong emphasis on interpretability of the “final recipe”.
