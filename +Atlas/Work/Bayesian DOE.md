@@ -8,8 +8,9 @@ tags:
 ---
 Options with BayBE:
 - Objective:
-	- Define a multi-objective campaign with 2 or more outcome variables, e.g., NANOG<sub>pos</sub> purity [%] at passage 5 as high-weight objective and NANOG<sub>pos</sub> total cell number at p5 as lower weight objective.
+	- Define a multi-objective campaign with 2 or more compounded outcome variables, e.g., NANOG<sub>pos</sub> purity [%] at passage 5 as high-weight objective and NANOG<sub>pos</sub> total cell number at p5 as lower weight objective.
 	- Define a single-objective campaign with a self-calculated composite outcome, e.g., NANOG<sub>pos</sub> cell numbers at p5 x NANOG<sub>pos</sub> purity X%<sup>2</sup> to exclude failed campaigns.
+	- Design a pareto-objective that encodes performance and robsutness as separate desirable 
 - Parameters: 
 	- Define base media as continuous variables, each bound 0-1, constrained to sum to 1.
 	- Define base media as discrete numerical parameters, each bound 0-1 in 0.05 steps, constrained to sum to 1 using the *SubspaceDiscrete.from_simplex* function, and custom encoded with their media components using the CustomDiscreteParameters function to capture similarity between media.
