@@ -2,7 +2,7 @@
 modified:
   - 2026-03-26T15:39:47+01:00
   - 2026-03-30T19:01:00+02:00
-  - 2026-03-31T09:00:32+02:00
+  - 2026-03-31T09:05:06+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -11,7 +11,7 @@ tags:
 Dear Jay,
 
 Last year I've become enraptured by Design of Experiment approaches. I don't understand why almost no one of the academic side of biomedical research is using it to facilitate their protocol optimization campaigns. 
-While working through the different DoE applications
+After educating myself on the basics of different DoE applications, I believe that Bayesian Optimization to be the most suitable architecture for protocol optimization; primarily due to its iterative nature in an environment of little to no preliminary data for formal power calculations. The biotech giant Merck has recently published and is actively maintaining the software package BayBE for Bayesian Optimization in a low data environment as [open source software](https://emdgroup.github.io/baybe/stable/index.html), which requires a conveniently small amount of
 
 Options with BayBE:
 - Objective:
