@@ -2,7 +2,7 @@
 modified:
   - 2026-03-26T15:39:47+01:00
   - 2026-03-30T19:01:00+02:00
-  - 2026-03-31T09:35:31+02:00
+  - 2026-03-31T09:40:15+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -14,14 +14,31 @@ My new job revolves around translating promising protocols for the production of
 
 After educating myself on the basics of DoE architectures, I believe that Bayesian Optimization to be most suitable for cell culture protocol optimization; primarily due to its iterative nature in an environment of little to no preliminary data for formal power calculations. The biotech giant Merck has recently published and is actively maintaining the software package *BayBE* for Bayesian Optimization in a low data environment as an [open source software](https://emdgroup.github.io/baybe/stable/index.html). BayBE offers a broad suite of customization options and requires only beginner-level coding proficiency on the user side. A demonstration of its core functionalities can be found [here](https://pubs.rsc.org/en/content/articlehtml/2025/dd/d5dd00050e). 
 
-I have outlined my core paramaters of interest but struggle to tie down a meaningful objective and choose the best acquisition function for that objective. Are you interested in consulting on this DoE set-up?
+I have outlined my core paramaters of interest but struggle to tie down a the exact objective and acquisition function. I'm at a point where *ich seh den Wald vor lauter Bäumen nicht mehr* and require outside hAre you interested in consulting on this DoE set-up?
 I am currently finishing a few publications from my postdoctoral fellowship, after which I plan to apply for a number of grants. I will certainly include DoE in at least one grant application, either for reprogramming or more likely for optimization of culture conditions for GMP-grade production. If you're interested, I'd be delighted to include you as a consultant on one of the grants. If this goes big, the DoE aspect *may* lead to its own spin-off publication. More likely, it will be absorbed into a bigger paper of *how to do naive pluripotent stem cell culture and differentiation, but better?* In either case, it will be years before a publication.
+
+
 
 Further reading:
 - [Naïve Bayes Ant Colony Optimization for Experimental Design | Springer Nature Link](https://link.springer.com/chapter/10.1007/978-3-642-33042-1_52)
 - [Structured sampling strategies in Bayesian optimization: evaluation in mathematical and real-world scenarios | Journal of Intelligent Manufacturing | Springer Nature Link](https://link.springer.com/article/10.1007/s10845-025-02597-2)
-- [[1902.03229] Adaptive and Safe Bayesian Optimization in High Dimensions via One-Dimensional Subspaces](https://arxiv.org/abs/1902.03229)
-- 
+- [Adaptive and Safe Bayesian Optimization in High Dimensions via One-Dimensional Subspaces](https://arxiv.org/abs/1902.03229)
+- [BoTorch: A Framework for Efficient Monte-Carlo Bayesian Optimization](https://arxiv.org/abs/1910.06403)
+- [Ant colony optimization for learning Bayesian networks - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0888613X02000919)
+- [Batch Bayesian Optimization via Local Penalization](https://arxiv.org/abs/1505.08052)
+- [Bayesian optimization with adaptive surrogate models for automated experimental design | npj Computational Materials](https://www.nature.com/articles/s41524-021-00662-x)
+- [Bayesian optimization with known experimental and design constraints for chemistry applications - ScienceDirect](https://www.sciencedirect.com/org/science/article/pii/S2635098X23000608)
+- [Constrained Bayesian Optimization with Noisy Experiments](https://arxiv.org/abs/1706.07094)
+- [Ant Colony Optimization Algorithm for Interpretable Bayesian Classifiers Combination: Application to Medical Predictions | PLOS One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086456)
+- [Robust Experimental Design via Generalised Bayesian Inference | Cool Papers - Immersive Paper Discovery](https://papers.cool/arxiv/2511.07671#:~:text=In%20this%20work%2C%20we%20present%20Generalised%20Bayesian%20Optimal,which%20achieves%20robustness%20in%20both%20design%20and%20inference.)
+- [Robust Experimental Design via Generalised Bayesian Inference | Cool Papers - Immersive Paper Discovery](https://papers.cool/arxiv/2511.07671#:~:text=In%20this%20work%2C%20we%20present%20Generalised%20Bayesian%20Optimal,which%20achieves%20robustness%20in%20both%20design%20and%20inference.)
+- [Robust Multi-Objective Bayesian Optimization Under Input Noise](https://arxiv.org/abs/2202.07549)
+- [Measurements with noise: Bayesian optimization for co-optimizing noise and property discovery in automated experiments - ScienceDirect](https://www.sciencedirect.com/org/science/article/pii/S2635098X25000385)
+- [Bayesian optimization for robust engineering design with noise factors | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/10092640)
+- [Learning Relevant Contextual Variables Within Bayesian Optimization](https://arxiv.org/abs/2305.14120)
+- [On the development of a practical Bayesian optimization algorithm for expensive experiments and simulations with changing environmental conditions | Data-Centric Engineering | Cambridge Core](https://www.cambridge.org/core/journals/data-centric-engineering/article/on-the-development-of-a-practical-bayesian-optimization-algorithm-for-expensive-experiments-and-simulations-with-changing-environmental-conditions/2E8B11AA8E025997912F3FAB52DFE798)
+- [Rationalised experiment design for parameter estimation with sensitivity clustering | Scientific Reports](https://www.nature.com/articles/s41598-024-75539-2)
+- [Structured sampling strategies in Bayesian optimization: evaluation in mathematical and real-world scenarios | Journal of Intelligent Manufacturing | Springer Nature Link](https://link.springer.com/article/10.1007/s10845-025-02597-2)
 
 
 Options with BayBE:
