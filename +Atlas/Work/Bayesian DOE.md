@@ -2,7 +2,7 @@
 modified:
   - 2026-03-26T15:39:47+01:00
   - 2026-03-30T19:01:00+02:00
-  - 2026-03-31T17:43:40+02:00
+  - 2026-03-31T17:49:22+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -50,7 +50,7 @@ I'm including a brief outline of an optimization campaign I plan to perform, inc
 	- specialized acquisition functions, e.g., for pareto-optimization
 - Campaign design:
 	- Single phase optimization: Set-up the campaign and only stop when reaching a pre-specified criteria. Problematic when encoding cell lines as one-hot parameters, because that will optimize for the best cell lines with the best protocol, not for a protocol that works at least decently with most cell lines. 
-	- Multi-Phase optimization via transfer learning with model-informed stopping criteria and search-space tuning. Whenever the model predicts less than a pre-specified expected improvement from the next batch of experiments, produce a graph of which cell lines 
+	- Multi-Phase optimization via transfer learning with model-informed stopping criteria and search-space tuning. Whenever the model predicts less than a pre-specified expected improvement from the next batch of experiments, produce a fitness graph of cell lines for the objective according to the current model. Eliminate cell lines that perform significantly worse than the bunch, then start a new campaign. If no cell line performs significantly worse than the bunch, consider adding a new parameter, like a new growth factor, informed by literature. Then start a new campaign. In either case, transfer model parameters using BayBE's transfer-learning function. Stop when reaching a pre-specified meta-outcome, e.g., all remaining cell lines can be taken through the protocol without manual picking 2 times in a row. Start a new campaign returning the cell lines that had previously been removed and see if they remain non-permissive. If yes, find attempt to fmicro-optimize on a per cell line level. 
 	
 
 Further reading:
