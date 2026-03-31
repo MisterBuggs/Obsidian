@@ -2,7 +2,7 @@
 modified:
   - 2026-03-26T15:39:47+01:00
   - 2026-03-30T19:01:00+02:00
-  - 2026-03-31T16:55:00+02:00
+  - 2026-03-31T17:04:44+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -18,12 +18,18 @@ I have outlined my core paramaters of interest but struggle to tie down a the ex
 I am currently finishing a few publications from my postdoctoral fellowship, after which I plan to apply for a number of grants. I will certainly include DoE in at least one grant application, either for reprogramming or more likely for optimization of culture conditions for GMP-grade production. If you're interested, I'd be delighted to include you as a consultant on one of the grants. If this goes big, the DoE aspect *may* lead to its own spin-off publication. More likely, it will be absorbed into a bigger paper of *how to do naive pluripotent stem cell culture and differentiation, but better?* In either case, it will be years before a publication.
 
 I'm including a brief outline of an optimization campaign I plan to perform.
-- I have a cell culture protocol that produces incredibly potent stem cells. 
-- The protocol induces some critical phase transition during the first 1-3 weeks of culture, in which most cells either chaotically differentiate or die. The cells that make it out of this selection step undifferentiated and alive are incredibly potent for downstream applications and form the backbone of my work. 
-- Some cell lines are so volatile between differentiation and cell death that it becomes impractical to select the few undifferentiated and viable colonies during the critical phase. These cell lines are currently non-permissive for this protocol. Within cell lines, their *permissiveness* is quite stable, indicating that its either determined by genetic or a stable epigenetic feature, or a combination of both. 
-- During the phase transition, it is regularly necessary to hand-pick promising colonies, meaning that multiple runs of this experiment can only parallelized to a degree limited by my time commitment, which will be 4 parallel runs per batch, 6 if I do at the most if I don't do much else in the lab.
-- I would like to subtly change the original protocol to 1) enable its facile use with most cell lines, 2) without the need for manual colony picking, which becomes impractical at an industrial scale. 
-- The actual outcome variable I care about is reduced lineage bias of differentiation, as well as lesser apoptosis and increased proliferation of differentiated cells. Measuring these directly takes weeks and introduces noise. However, there are good molecular markers for the cell state of interest: Undifferentiated cells and only undifferentiated cells reliably express the gene NANOG before and after the critical phase transition. After the transition, *good* colonies also express a few other rare genes, including ZSCAN4 (rt-qPCR), the HERV cluster (rt-qPCR or reporter genes) and phosphorylated STAT6 (which can be measured using fluorescence labeled antibodies). Bulk transcriptomic analyses of 8 matched cell lines before and after phase transition are available for additional marker gene selection. 
+- Background: 
+	- I have a cell culture protocol that produces incredibly potent stem cells. 
+	- The protocol induces some critical phase transition during the first 1-3 weeks of culture, in which most cells either chaotically differentiate or die. The cells that make it out of this selection step undifferentiated and alive are incredibly potent for downstream applications and form the backbone of my work. 
+	- Some cell lines are so volatile between differentiation and cell death that it becomes impractical to select the few undifferentiated and viable colonies during the critical phase. These cell lines are currently non-permissive for this protocol. Within cell lines, their *permissiveness* is quite stable, indicating that its either determined by genetic or a stable epigenetic feature, or a combination of both. 
+	- During the phase transition, it is regularly necessary to hand-pick promising colonies, meaning that parallelization of experiments is limited by my lab time. This will limit batches to about 4 parallel runs.
+	- I would like to subtly change the original protocol to 1) enable its facile use with most cell lines, 2) without the need for manual colony picking, which becomes impractical at an industrial scale. 
+	- The actual outcome variable I care about is reduced lineage bias of differentiation, as well as lesser apoptosis and increased proliferation of differentiated cells. Measuring these directly takes weeks and introduces noise. However, there are good molecular markers for the cell state of interest: Undifferentiated cells and only undifferentiated cells reliably express the gene NANOG before and after the critical phase transition. After the transition, *good* colonies also express a few other rare genes, including ZSCAN4 (rt-qPCR), the HERV cluster (rt-qPCR or reporter genes) and phosphorylated STAT6 (which can be measured using fluorescence labeled antibodies). Bulk transcriptomic analyses of 8 matched cell lines before and after phase transition are available for additional marker gene selection.
+- Parameters:
+	- oxygen concentration.
+	- carbon-dioxide concentration in 2 incubators (the latter also controling the pH in the media as a function of its bicarbonate content).
+	- Base media under mixture and cardinality constraint. I would probably custom encode the media components, like Glucose, Sodium, Potassium, Magnesium, Pyruvate, etc., of a handful of commercial culture media, like DMEM or F12, [Example Formulation](https://www.thermofisher.com/de/de/home/technical-resources/media-formulation.8.html), so that the software actually *knows* how similar different media are by their formulation without including the formulation on the front-end (and without making custom media other than mixing commercial ones). 
+	- 
 
 Further reading:
 - [Naïve Bayes Ant Colony Optimization for Experimental Design | Springer Nature Link](https://link.springer.com/chapter/10.1007/978-3-642-33042-1_52)
