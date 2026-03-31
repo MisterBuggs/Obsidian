@@ -2,7 +2,7 @@
 modified:
   - 2026-03-26T15:39:47+01:00
   - 2026-03-30T19:01:00+02:00
-  - 2026-03-31T16:49:50+02:00
+  - 2026-03-31T16:55:00+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -21,8 +21,9 @@ I'm including a brief outline of an optimization campaign I plan to perform.
 - I have a cell culture protocol that produces incredibly potent stem cells. 
 - The protocol induces some critical phase transition during the first 1-3 weeks of culture, in which most cells either chaotically differentiate or die. The cells that make it out of this selection step undifferentiated and alive are incredibly potent for downstream applications and form the backbone of my work. 
 - Some cell lines are so volatile between differentiation and cell death that it becomes impractical to select the few undifferentiated and viable colonies during the critical phase. These cell lines are currently non-permissive for this protocol. Within cell lines, their *permissiveness* is quite stable, indicating that its either determined by genetic or a stable epigenetic feature, or a combination of both. 
+- During the phase transition, it is regularly necessary to hand-pick promising colonies, meaning that multiple runs of this experiment can only parallelized to a degree limited by my time commitment, which will be 4 parallel runs per batch, 6 if I do at the most if I don't do much else in the lab.
 - I would like to subtly change the original protocol to 1) enable its facile use with most cell lines, 2) without the need for manual colony picking, which becomes impractical at an industrial scale. 
-- Undifferentiated cells and only undifferentiated cells reliably express the gene NANOG before and after the critical phase transition. After the transition, *good* colonies also express a few other rare genes, including ZSCAN4 (rt-qPCR), the HERV cluster (rt-qPCR or reporter genes) and phosphorylated STAT6 (which can be measured using fluorescence labeled antibodies). Bulk and single cell transcriptomic analyses of 8 matched cell lines before and after phase transition are available for additional marker gene selection. 
+- The actual outcome variable I care about is reduced lineage bias of differentiation, as well as lesser apoptosis and increased proliferation of differentiated cells. Measuring these directly takes weeks and introduces noise. However, there are good molecular markers for the cell state of interest: Undifferentiated cells and only undifferentiated cells reliably express the gene NANOG before and after the critical phase transition. After the transition, *good* colonies also express a few other rare genes, including ZSCAN4 (rt-qPCR), the HERV cluster (rt-qPCR or reporter genes) and phosphorylated STAT6 (which can be measured using fluorescence labeled antibodies). Bulk transcriptomic analyses of 8 matched cell lines before and after phase transition are available for additional marker gene selection. 
 
 Further reading:
 - [Naïve Bayes Ant Colony Optimization for Experimental Design | Springer Nature Link](https://link.springer.com/chapter/10.1007/978-3-642-33042-1_52)
