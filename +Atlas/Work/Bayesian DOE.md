@@ -2,7 +2,7 @@
 modified:
   - 2026-03-26T15:39:47+01:00
   - 2026-03-30T19:01:00+02:00
-  - 2026-03-31T17:14:20+02:00
+  - 2026-03-31T17:18:52+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -29,12 +29,25 @@ I'm including a brief outline of an optimization campaign I plan to perform, inc
 	- oxygen concentration.
 	- carbon-dioxide concentration in 2 incubators (the latter also controlling the pH in the media as a function of its bicarbonate content).
 	- Base media under mixture and cardinality constraint. I would probably custom encode the media components, like Glucose, Sodium, Potassium, Magnesium, Pyruvate, Bicarbonate, etc. ([Example Formulation](https://www.thermofisher.com/de/de/home/technical-resources/media-formulation.8.html)), of a handful of commercial culture media, like DMEM or F12, so that the software actually *knows* how similar different media are by their formulation without including the formulation on the front-end (and without making custom media other than mixing commercial ones). 
-	- Complex supplements, like KOSR, N2, B27; custom encoding of components if formulations are available; but some of these may be a black box as to their exact contents. 
+	- Complex supplements, like KOSR, N2, B27; custom encoding of components if formulations are available; but some of these may be a black box as to their exact contents.
+	- Albumin, most likely in the form of BSA.
 	- Growth factors: bFGF, TGFb, Activin A, LIF, Insulin.
 	- Micronutrients: Transferrin, Selenium, Ethanolamid, Ascorbic Acid-Phosphate, L-Glutamine, Non-Essential Aminoacids (the latter two possibly custom encoded to capture the total concentrations of its amino acids also contained in the base media).
 	- Small molecules XAV939, PD0325901, Gö6983, CHIR99021.
 	- Potentially 3-4 more small molecules drawn from related published protocols, like PXGL, 5iLAF, t2iLG, 4CL. 
 	- Potentially different growth matrices, like Vitronectin, Fibronectin, Matrigel, Geltrex.
+- Objectives:
+	I'm listing a number of possible objectives below, including their pros and cons as to my understanding.
+	- naive robustness
+	- naive expression
+	- naive robustness-expression combined objective
+	- weighted mixed desirability objective
+	- pareto-objective of
+	- 
+- Campaign design:
+	- Single phase optimization
+	- Multi-Phase optimization with search-space tuning and transfer learning
+	
 
 Further reading:
 - [Naïve Bayes Ant Colony Optimization for Experimental Design | Springer Nature Link](https://link.springer.com/chapter/10.1007/978-3-642-33042-1_52)
