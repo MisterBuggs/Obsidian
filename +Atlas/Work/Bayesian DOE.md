@@ -2,7 +2,7 @@
 modified:
   - 2026-03-26T15:39:47+01:00
   - 2026-03-30T19:01:00+02:00
-  - 2026-03-31T17:18:52+02:00
+  - 2026-03-31T17:24:58+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -24,7 +24,7 @@ I'm including a brief outline of an optimization campaign I plan to perform, inc
 	- Some cell lines are so volatile between differentiation and cell death that it becomes impractical to select the few undifferentiated and viable colonies during the critical phase. These cell lines are currently non-permissive for this protocol. Within cell lines, their *permissiveness* is quite stable, indicating that its either determined by genetic or a stable epigenetic feature, or a combination of both. 
 	- During the phase transition, it is regularly necessary to hand-pick promising colonies, meaning that parallelization of experiments is limited by my lab time. This will limit batches to about 4 parallel runs.
 	- I would like to subtly change the original protocol to 1) enable its facile use with most cell lines, 2) without the need for manual colony picking, which becomes impractical at an industrial scale. 
-	- The actual outcome variable I care about is reduced lineage bias of differentiation, as well as lesser apoptosis and increased proliferation of differentiated cells. Measuring these directly takes weeks and introduces noise. However, there are good molecular markers for the cell state of interest: Undifferentiated cells and only undifferentiated cells reliably express the gene NANOG before and after the critical phase transition. After the transition, *good* colonies also express a few other rare genes, including ZSCAN4 (rt-qPCR), the HERV cluster (rt-qPCR or reporter genes) and phosphorylated STAT6 (which can be measured using fluorescence labeled antibodies). Bulk transcriptomic analyses of 8 matched cell lines before and after phase transition are available for additional marker gene selection.
+- Target: The actual outcome variable I care about is reduced lineage bias of differentiation, as well as lesser apoptosis and increased proliferation of differentiated cells. Measuring these directly takes weeks and introduces noise. However, there are good molecular markers for the cell state of interest: Undifferentiated cells and only undifferentiated cells reliably express the gene NANOG before and after the critical phase transition. After the transition, *good* colonies also express a few other rare genes, including ZSCAN4 (rt-qPCR), the HERV cluster (rt-qPCR or reporter genes) and phosphorylated STAT6 (which can be measured using fluorescence labeled antibodies). Bulk transcriptomic analyses of 8 matched cell lines before and after phase transition are available for additional marker gene selection.
 - Parameters:
 	- oxygen concentration.
 	- carbon-dioxide concentration in 2 incubators (the latter also controlling the pH in the media as a function of its bicarbonate content).
@@ -36,17 +36,20 @@ I'm including a brief outline of an optimization campaign I plan to perform, inc
 	- Small molecules XAV939, PD0325901, Gö6983, CHIR99021.
 	- Potentially 3-4 more small molecules drawn from related published protocols, like PXGL, 5iLAF, t2iLG, 4CL. 
 	- Potentially different growth matrices, like Vitronectin, Fibronectin, Matrigel, Geltrex.
-- Objectives:
+- Objective:
 	I'm listing a number of possible objectives below, including their pros and cons as to my understanding.
-	- naive robustness
-	- naive expression
+	- naive robustness: perform one suggested next protocol on the maximum number of cell lines per batch. Return the number of cell lines that passed a quality criterion, e.g., >90% NANOG/pSTAT6 co-expressing cells after 3 passages. 
+	- naive expression: pe
 	- naive robustness-expression combined objective
-	- weighted mixed desirability objective
+	- weighted mixed desirability objective of
 	- pareto-objective of
-	- 
+- Acquisition function:
+	- qNoisyExpectedImprovement
+	- Bandit models, e.g., Thompson sampling
+	- specialized acquisition functions, e.g., for pareto-optimization
 - Campaign design:
 	- Single phase optimization
-	- Multi-Phase optimization with search-space tuning and transfer learning
+	- Multi-Phase optimization via transfer learning with model-informed stopping criteria and search-space tuning
 	
 
 Further reading:
