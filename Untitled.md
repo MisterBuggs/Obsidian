@@ -1,13 +1,10 @@
 ---
-tags:
-  - Daily_Notes
 modified:
-  - 2026-03-31T15:48:46+02:00
-created: 2026-03-31T11:37:37+02:00
+  - 2026-03-31T15:54:39+02:00
+created: 2026-03-31T15:50:20+02:00
 ---
-# To Do
-- [ ] Send list of required standard eLabFTW templates (experiments, resources) to Aljoscha Erlebach
-	- [ ] Consumables:
+- [ ] Desired Templates
+	- [ ] Resources/Consumables:
 		- [ ] small molecule pharmacon, e.g., [CHIR 99021](https://www.tocris.com/products/chir-99021_4423)
 		- [ ] protein & peptide pharmacon, w/o antibodies, e.g., [Human FGF-basic](https://www.thermofisher.com/proteins/product/Human-FGF-basic-FGF-2-bFGF-154-aa-Recombinant-Protein/100-18B-50UG)
 		- [ ] antibodies, including
@@ -28,7 +25,7 @@ created: 2026-03-31T11:37:37+02:00
 		- [ ] Generic wet reagent w/o culture reagents, such as buffers, solvents, staining solutions, e.g., [TAE buffer](https://www.sigmaaldrich.com/DE/de/product/sial/ppb008?utm_source=bing&utm_medium=cpc&utm_campaign=780+material+science_dsa_WW_%28bing+ebizpfs%29&utm_id=627278667&utm_content=1163285261791448&msclkid=5afa137bd6e718b1eabf7ab04c2cb926&utm_term=499), [Xylenes](https://www.thermofisher.com/order/catalog/product/447240025?SID=srch-srp-447240025), [Giemsa Stain](https://www.sigmaaldrich.com/DE/de/product/sial/48900?utm_source=bing&utm_medium=cpc&utm_campaign=780+material+science_dsa_WW_%28bing+ebizpfs%29&utm_id=627278667&utm_content=1163285261791448&msclkid=25995e79512f13c7a9a437b2ca00361c&utm_term=777).
 		- [ ] Generic solid reagent w/o culture reagents, such as gels, powders, e.g., [Protein Gels](https://www.thermofisher.com/order/catalog/product/NP0321BOX), [Copper-2-Sulfate](https://www.thermofisher.com/order/catalog/product/NP0321BOX). 
 		- [ ] Generic gas, e.g., compressed nitrogen gas. 
-	- [ ] Devices:
+	- [ ] Resources/Devices:
 		- [ ] Special purpose computer, e.g., MHH HPC.
 		- [ ] Syringes, e.g., [Microliter 600 Series Syringes](https://www.hamiltoncompany.com/syringes/microliter-syringes/600-series). 
 		- [ ] Microscope, incl. fluorescence microscope.
@@ -38,7 +35,7 @@ created: 2026-03-31T11:37:37+02:00
 		- [ ] Generic mechanical device, e.g., [QuadroMACS™](https://www.miltenyibiotec.com/DE-en/products/quadromacs-separator-and-starting-kits.html#130-091-051). 
 		- [ ] Generic one- / oligo-dimensional calibrated measurement equipment, e.g., pH-Meter [pH-Messgerät SevenDirect SD20 | pH-Messgerätereihe Advanced](https://www.mt.com/shop/de/de/product/30671550/ph-messgeraet-sevendirect-sd20), Thermometer, Nanodrop [NanoDrop Microvolume Spectrophotometers](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/molecular-spectroscopy/uv-vis-spectrophotometry/instruments/nanodrop.html), ELISA plate reader [Mikroplatten Reader](https://www.bmglabtech.com/de/mikroplatten-reader/?utm_term=microplate%20Reader&utm_campaign=dach.roi.generic.microplatereaders&utm_source=bing&utm_medium=ppc&hsa_acc=6095334855&hsa_cam=1063952568&hsa_grp=1141293815819876&hsa_ad=&hsa_src=o&hsa_tgt=kwd-71331639994451:loc-1410&hsa_kw=microplate%20Reader&hsa_mt=e&hsa_net=adwords&hsa_ver=3&utm_term=microplate%20Reader&utm_campaign=dach.roi.generic.microplatereaders&utm_source=bing&utm_medium=ppc&hsa_acc=6095334855&hsa_cam=1063952568&hsa_grp=1141293815819876&hsa_ad=&hsa_src=o&hsa_tgt=kwd-71331639994451:loc-1410&hsa_kw=microplate%20Reader&hsa_mt=e&hsa_net=adwords&hsa_ver=3&msclkid=d08ab6051ac51a037258dfceb6420bfe), automated cell counter, Neubauer chamber, luminescence reader, optical density reader, etc.
 		- [ ] It may make sense to also add calibrated non-measurement equipment, like pipettes, fridges, freezers, as experimental resources. While I will likely not tag these onto specific experiments (documentation bloat), it is a good place to document their regular re-calibration.
-	- [ ] Digital resources:
+	- [ ] Resources/Digital
 		- [ ] Large datasets, especially those with importance to more than a single experiment.
 		- [ ] Local software.
 		- [ ] Server-based or browser-based external software.
@@ -59,11 +56,4 @@ created: 2026-03-31T11:37:37+02:00
 			- Generic omics / multi-omics measurement as a service (documenting sample preparation in-house, who performed the service, which service was performed, which data were returned, and where the data is stored). Template tagged with various applicable omics modalities, like scRNAseq, ATACseq, CutnRun, CutnTag, spatial transcriptomics, etc.
 	- [ ] Custom development: 
 		- I describe the utility of defining text-blocks and calling them with a simple syntax in the protocols section. If this already exists, great! If not, it needs to be added. Java uses three quotation marks ```"""``` to begin a text block. Obsidian allows calling other notes using ```![]```, but that doesn't make a copy (it just opens a *window* into that other note, so to speak). I've seen text editors just use a slash ```/``` to call a text block, like ```/clonality```+```↵``` to insert the predefined block for the clonality template. In the elabFTW syntax, maybe a  ```!#clonality```+```↵```  would be the right call?
-		- We talked about obsidian's graph view feature. Here are a few useful links: [Graph view - Obsidian Help](https://obsidian.md/help/plugins/graph), [Mastering Obsidian’s Graph View for Knowledge Management](https://readmedium.com/mastering-obsidians-graph-view-for-knowledge-management-f1bbe2c8f087). The requirements for an eLabFTW knowledge graph may be slightly different than those of a personal knowledge management system, like Obsidian. However, many tweaks have already been explored in Obsidian plug-ins, providing experience reports: [All graph-view Obsidian Plugins.](https://www.obsidianstats.com/tags/graph-view). For example, it would need to be tested whether the default eLabFTW graph shows users, experiments, and resources as planets or whether ==only experiments form planets and resources and users serve only as clustering== or coloring factor. It would also need to be explored whether ==planets cluster by tags or by direct links or by common resources or common users== or by text similarity, or by any combination of those; and whether ==users can toggle this==. One significant improvement over Obsidian's knowledge graph would be if the ==base graph is relatively repeatable and stable== and doesn't flip to a whole new configuration every time it's opened or every time an article is added; some drift over long time periods is expected and even appreciated. Further reading: [Clustering Knowledge Graphs (Seminar Paper)](https://www.researchgate.net/publication/343041490_Clustering_Knowledge_Graphs_Seminar_Paper?channel=doi&linkId=5f12e248299bf1e548c0d05b&showFulltext=true), [Wissensgraph | IBM](https://www.ibm.com/de-de/think/topics/knowledge-graph), A base structure for *official* templates optimized for machine-readable knowledge graphs and ORKG publication: [Toward Representing Research Contributions in Scholarly Knowledge Graphs Using Knowledge Graph Cells](https://dl.acm.org/doi/10.1145/3383583.3398530).
-- [ ] 
-
-# Appointments
-- 
-
-# For tomorrow
-- 
+		- We talked about obsidian's graph view feature. Here are a few useful links: [Graph view - Obsidian Help](https://obsidian.md/help/plugins/graph), [Mastering Obsidian’s Graph View for Knowledge Management](https://readmedium.com/mastering-obsidians-graph-view-for-knowledge-management-f1bbe2c8f087). The requirements for an eLabFTW knowledge graph may be slightly different than those of a personal knowledge management system, like Obsidian. However, many tweaks have already been explored in Obsidian plug-ins, providing experience reports: [All graph-view Obsidian Plugins.](https://www.obsidianstats.com/tags/graph-view). There is also considerable expertise at [OKRG](https://academiccloud.de/services/orkg/), which is on the academic cloud. For example, it would need to be tested whether the default eLabFTW graph shows users, experiments, and resources as planets or whether ==only experiments form planets and resources and users serve only as clustering== or coloring factor. It would also need to be explored whether ==planets cluster by tags or by direct links or by common resources or common users== or by text similarity, or by any combination of those; and whether ==users can toggle this==. One significant improvement over Obsidian's knowledge graph would be if the ==base graph is relatively repeatable and stable== and doesn't flip to a whole new configuration every time it's opened or every time an article is added; some drift over long time periods is expected and even appreciated. Further reading: [Clustering Knowledge Graphs (Seminar Paper)](https://www.researchgate.net/publication/343041490_Clustering_Knowledge_Graphs_Seminar_Paper?channel=doi&linkId=5f12e248299bf1e548c0d05b&showFulltext=true), [Wissensgraph | IBM](https://www.ibm.com/de-de/think/topics/knowledge-graph), A likely base structure for *official* templates optimized for machine-readable knowledge graphs and [ORKG](https://academiccloud.de/services/orkg/) publication: [Toward Representing Research Contributions in Scholarly Knowledge Graphs Using Knowledge Graph Cells](https://dl.acm.org/doi/10.1145/3383583.3398530).
