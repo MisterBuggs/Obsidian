@@ -2,7 +2,7 @@
 modified:
   - 2026-03-26T15:39:47+01:00
   - 2026-03-30T19:01:00+02:00
-  - 2026-03-31T17:10:03+02:00
+  - 2026-03-31T17:14:20+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -17,7 +17,7 @@ After educating myself on the basics of DoE architectures, I believe that Bayesi
 I have outlined my core paramaters of interest but struggle to tie down a the exact objective and acquisition function. I'm at a point where *ich seh den Wald vor lauter Bäumen nicht mehr* and require outside help. Are you interested in consulting on this DoE set-up?
 I am currently finishing a few publications from my postdoctoral fellowship, after which I plan to apply for a number of grants. I will certainly include DoE in at least one grant application, either for reprogramming or more likely for optimization of culture conditions for GMP-grade production. If you're interested, I'd be delighted to include you as a consultant on one of the grants. If this goes big, the DoE aspect *may* lead to its own spin-off publication. More likely, it will be absorbed into a bigger paper of *how to do naive pluripotent stem cell culture and differentiation, but better?* In either case, it will be years before a publication.
 
-I'm including a brief outline of an optimization campaign I plan to perform.
+I'm including a brief outline of an optimization campaign I plan to perform, including unpublished info.
 - Background: 
 	- I have a cell culture protocol that produces incredibly potent stem cells. 
 	- The protocol induces some critical phase transition during the first 1-3 weeks of culture, in which most cells either chaotically differentiate or die. The cells that make it out of this selection step undifferentiated and alive are incredibly potent for downstream applications and form the backbone of my work. 
@@ -29,9 +29,12 @@ I'm including a brief outline of an optimization campaign I plan to perform.
 	- oxygen concentration.
 	- carbon-dioxide concentration in 2 incubators (the latter also controlling the pH in the media as a function of its bicarbonate content).
 	- Base media under mixture and cardinality constraint. I would probably custom encode the media components, like Glucose, Sodium, Potassium, Magnesium, Pyruvate, Bicarbonate, etc. ([Example Formulation](https://www.thermofisher.com/de/de/home/technical-resources/media-formulation.8.html)), of a handful of commercial culture media, like DMEM or F12, so that the software actually *knows* how similar different media are by their formulation without including the formulation on the front-end (and without making custom media other than mixing commercial ones). 
+	- Complex supplements, like KOSR, N2, B27; custom encoding of components if formulations are available; but some of these may be a black box as to their exact contents. 
 	- Growth factors: bFGF, TGFb, Activin A, LIF, Insulin.
 	- Micronutrients: Transferrin, Selenium, Ethanolamid, Ascorbic Acid-Phosphate, L-Glutamine, Non-Essential Aminoacids (the latter two possibly custom encoded to capture the total concentrations of its amino acids also contained in the base media).
-	- Small molecules XAV939, PD
+	- Small molecules XAV939, PD0325901, Gö6983, CHIR99021.
+	- Potentially 3-4 more small molecules drawn from related published protocols, like PXGL, 5iLAF, t2iLG, 4CL. 
+	- Potentially different growth matrices, like Vitronectin, Fibronectin, Matrigel, Geltrex.
 
 Further reading:
 - [Naïve Bayes Ant Colony Optimization for Experimental Design | Springer Nature Link](https://link.springer.com/chapter/10.1007/978-3-642-33042-1_52)
