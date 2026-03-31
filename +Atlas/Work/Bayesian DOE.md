@@ -2,7 +2,7 @@
 modified:
   - 2026-03-26T15:39:47+01:00
   - 2026-03-30T19:01:00+02:00
-  - 2026-03-31T09:26:56+02:00
+  - 2026-03-31T09:35:31+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -16,6 +16,13 @@ After educating myself on the basics of DoE architectures, I believe that Bayesi
 
 I have outlined my core paramaters of interest but struggle to tie down a meaningful objective and choose the best acquisition function for that objective. Are you interested in consulting on this DoE set-up?
 I am currently finishing a few publications from my postdoctoral fellowship, after which I plan to apply for a number of grants. I will certainly include DoE in at least one grant application, either for reprogramming or more likely for optimization of culture conditions for GMP-grade production. If you're interested, I'd be delighted to include you as a consultant on one of the grants. If this goes big, the DoE aspect *may* lead to its own spin-off publication. More likely, it will be absorbed into a bigger paper of *how to do naive pluripotent stem cell culture and differentiation, but better?* In either case, it will be years before a publication.
+
+Further reading:
+- [Naïve Bayes Ant Colony Optimization for Experimental Design | Springer Nature Link](https://link.springer.com/chapter/10.1007/978-3-642-33042-1_52)
+- [Structured sampling strategies in Bayesian optimization: evaluation in mathematical and real-world scenarios | Journal of Intelligent Manufacturing | Springer Nature Link](https://link.springer.com/article/10.1007/s10845-025-02597-2)
+- [[1902.03229] Adaptive and Safe Bayesian Optimization in High Dimensions via One-Dimensional Subspaces](https://arxiv.org/abs/1902.03229)
+- 
+
 
 Options with BayBE:
 - Objective:
