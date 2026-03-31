@@ -2,7 +2,7 @@
 modified:
   - 2026-03-26T15:39:47+01:00
   - 2026-03-30T19:01:00+02:00
-  - 2026-03-31T09:20:54+02:00
+  - 2026-03-31T09:25:59+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -15,7 +15,7 @@ My new job revolves around translating promising protocols for the production of
 After educating myself on the basics of DoE architectures, I believe that Bayesian Optimization to be most suitable for cell culture protocol optimization; primarily due to its iterative nature in an environment of little to no preliminary data for formal power calculations. The biotech giant Merck has recently published and is actively maintaining the software package *BayBE* for Bayesian Optimization in a low data environment as an [open source software](https://emdgroup.github.io/baybe/stable/index.html). BayBE offers a broad suite of customization options and requires only beginner-level coding proficiency on the user side. A demonstration of its core functionalities can be found [here](https://pubs.rsc.org/en/content/articlehtml/2025/dd/d5dd00050e). 
 
 I have outlined my core paramaters of interest but struggle to tie down a meaningful objective and choose the best acquisition function for that objective. Are you interested in consulting on this DoE set-up?
-I am currently finishing a few publications from my postdoctoral fellowship 
+I am currently finishing a few publications from my postdoctoral fellowship, after which I plan to apply for a number of grants. I will certainly include DoE in at least one grant application, either for reprogramming or more likely for optimization of culture conditions for GMP-grade production. If you're interested, I'd be delighted to include you as a consultant on one of the grants. If this goes big, the DoE aspect *may* lead to its own spin-off publication. More likely, it will be absorbed in a bigger paper on *how to do naive pluripotent stem cell culture and differentiation, but better?* 
 
 Options with BayBE:
 - Objective:
