@@ -2,7 +2,7 @@
 modified:
   - 2026-03-26T15:39:47+01:00
   - 2026-03-30T19:01:00+02:00
-  - 2026-03-31T17:24:58+02:00
+  - 2026-03-31T17:28:43+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -38,8 +38,9 @@ I'm including a brief outline of an optimization campaign I plan to perform, inc
 	- Potentially different growth matrices, like Vitronectin, Fibronectin, Matrigel, Geltrex.
 - Objective:
 	I'm listing a number of possible objectives below, including their pros and cons as to my understanding.
-	- naive robustness: perform one suggested next protocol on the maximum number of cell lines per batch. Return the number of cell lines that passed a quality criterion, e.g., >90% NANOG/pSTAT6 co-expressing cells after 3 passages. 
-	- naive expression: pe
+	- naive robustness: define cell lines as one-hot encoded categorical parameters. Perform the model-recommended experiments with the model-recommended cell lines at a specified total batch size. Return whether a quality criterion was passed for each configuration of parameters, e.g., >90% NANOG/pSTAT6 co-expressing cells after 3 passages, as outcome variable. 
+	- compound robustness: do not encode cell lines in the model. Let the model recommend one protocol per batch. Perform this protocol with a maximum number of cell lines, e.g., 4 lines. Return the number of cell lines that passed a quality criterion, e.g., >90% NANOG/pSTAT6 co-expressing cells after 3 passages as outcome variable.
+	- naive expression: define cell lines as one-hot encoded categorical parameters. Perform the model-recommended experiments with the model-recommended cell lines at a specified total batch size. Return the expression level of NANOG/pSTAT6, either as a percent of cells expressing the genes or as a mean quantified expression (e.g., ddCCt or MFI). 
 	- naive robustness-expression combined objective
 	- weighted mixed desirability objective of
 	- pareto-objective of
