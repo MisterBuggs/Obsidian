@@ -2,7 +2,7 @@
 modified:
   - 2026-03-26T15:39:47+01:00
   - 2026-03-30T19:01:00+02:00
-  - 2026-03-31T09:44:37+02:00
+  - 2026-03-31T09:49:37+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -18,9 +18,9 @@ I have outlined my core paramaters of interest but struggle to tie down a the ex
 I am currently finishing a few publications from my postdoctoral fellowship, after which I plan to apply for a number of grants. I will certainly include DoE in at least one grant application, either for reprogramming or more likely for optimization of culture conditions for GMP-grade production. If you're interested, I'd be delighted to include you as a consultant on one of the grants. If this goes big, the DoE aspect *may* lead to its own spin-off publication. More likely, it will be absorbed into a bigger paper of *how to do naive pluripotent stem cell culture and differentiation, but better?* In either case, it will be years before a publication.
 
 I'm including a brief outline of an optimization campaign I plan to perform.
-- I have a cell culture protocol that produces incredible differentiation performance, i.e., definitive cell number produced per input cell number. 
-- The protocol induces some critical phase transition during the first 1-3 weeks of culture, in which most cells either chaotically differentiate or die. The cells that make it out of this critical phase are incredibly potent. 
-- During this critical phase, some cell lines are so instable that 
+- I have a cell culture protocol that produces incredibly potent stem cells. 
+- The protocol induces some critical phase transition during the first 1-3 weeks of culture, in which most cells either chaotically differentiate or die. The cells that make it out of this selection step undifferentiated and alive are incredibly potent for downstream applications and form the backbone of my work. 
+- Some cell lines are so unstable that it becomes impractical to select the few undifferentiated and viable colonies during that critical phase. These cell lines are currently non-permissive for this protocol. Within cell lines, their suitability for this protocol is quite stable, indicating that its either a genetic or a stable epigenetic feature, or a combination of both. 
 
 Further reading:
 - [Naïve Bayes Ant Colony Optimization for Experimental Design | Springer Nature Link](https://link.springer.com/chapter/10.1007/978-3-642-33042-1_52)
