@@ -2,7 +2,7 @@
 modified:
   - 2026-03-26T15:39:47+01:00
   - 2026-03-30T19:01:00+02:00
-  - 2026-03-31T17:34:26+02:00
+  - 2026-03-31T17:39:32+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -40,10 +40,9 @@ I'm including a brief outline of an optimization campaign I plan to perform, inc
 	I'm listing a number of possible objectives below, including their pros and cons as to my understanding.
 	- pass-fail per cell line: define cell lines as one-hot encoded categorical parameters. Perform the model-recommended experiments with the model-recommended cell lines at a specified total batch size. Return whether a quality criterion was passed for each configuration of parameters, e.g., >90% NANOG/pSTAT6 co-expressing cells after 3 passages, as outcome variable. 
 	- aggregate pass-fail: do not encode cell lines in the model. Let the model recommend one protocol per batch. Perform this protocol with a maximum number of cell lines, e.g., 4 lines. Return the number of cell lines that passed a quality criterion, e.g., >90% NANOG/pSTAT6 co-expressing cells after 3 passages as outcome variable.
-	- expression per cell line: define cell lines as one-hot encoded categorical parameters. Perform the model-recommended experiments with the model-recommended cell lines at a specified total batch size. Return the expression level of NANOG/pSTAT6 for each configuration of parameters, either as a percent of cells expressing the genes or as a mean quantified expression of the whole population (e.g., ddCCt or MFI), as outcome variable. This will likely be sigmoid transformed, because values <30% of cells are equally terrible and values >90% are equally good. 
-	- compound expression: do not encode cell lines in the model. Let the model recommend one protocol per batch. Perform this protocol with a maximum number of cell lines, e.g., 4 lines. Return the expression level of NANOG/pSTAT6 for each configuration of parameters, either as a percent of cells expressing the genes or as a mean quantified expression of the whole population (e.g., ddCCt or MFI), as outcome variable. This will likely be sigmoid transformed, because values <30% of cells are equally terrible and values >90% are equally good. 
-	- compound robustness-expression combined objective: do not encode cell lines in the model. calculate a *homebrew* combination of robustness & expression, e.g., 
-	- weighted mixed desirability objective of
+	- expression per cell line: define cell lines as one-hot encoded categorical parameters. Perform the model-recommended experiments with the model-recommended cell lines at a specified total batch size. Return the expression level of NANOG/pSTAT6 for each configuration of parameters, either as a percent of cells expressing the genes or as a mean quantified expression of the whole population (e.g., ddCCt or MFI), as outcome variable. Percent expression will likely be sigmoid transformed, because values <30% of cells are equally terrible and values >90% are equally good. 
+	- aggregate expression: do not encode cell lines in the model. Let the model recommend one protocol per batch. Perform this protocol with a maximum number of cell lines, e.g., 4 lines. Return the median or second worst expression level of NANOG/pSTAT6 across cell lines, either as a percent of cells expressing the genes or as a mean quantified expression of the whole population (e.g., ddCCt or MFI), as outcome variable. Percent expression would likely be sigmoid transformed, because values <30% of cells are equally terrible and values >90% are equally good. 
+	- aggregate weighted mixed desirability objective: Do not encode cell lines in the model. Let the model recommend one protocol per batch. Perform this protocol with a maximum number of cell lines, e.g., 4 lines. Return two values, which are combined into a single desirability objective by the model. Outcome value 1) the median or second worst expression level of NANOG/pSTAT6 across cell lines, either as a percent of cells expressing the genes or as a mean quantified expression of the whole population (e.g., ddCCt or MFI), as outcome variable. Percent expression would likely be sigmoid transformed, because values <30% of cells are equally terrible and values >90% are equally good. Outcome value 2) number of cell lines above an expression threshold.
 	- pareto-objective of
 - Acquisition function:
 	- qNoisyExpectedImprovement
