@@ -2,7 +2,7 @@
 modified:
   - 2026-03-26T15:39:47+01:00
   - 2026-03-30T19:01:00+02:00
-  - 2026-03-31T17:39:32+02:00
+  - 2026-03-31T17:43:40+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -42,15 +42,15 @@ I'm including a brief outline of an optimization campaign I plan to perform, inc
 	- aggregate pass-fail: do not encode cell lines in the model. Let the model recommend one protocol per batch. Perform this protocol with a maximum number of cell lines, e.g., 4 lines. Return the number of cell lines that passed a quality criterion, e.g., >90% NANOG/pSTAT6 co-expressing cells after 3 passages as outcome variable.
 	- expression per cell line: define cell lines as one-hot encoded categorical parameters. Perform the model-recommended experiments with the model-recommended cell lines at a specified total batch size. Return the expression level of NANOG/pSTAT6 for each configuration of parameters, either as a percent of cells expressing the genes or as a mean quantified expression of the whole population (e.g., ddCCt or MFI), as outcome variable. Percent expression will likely be sigmoid transformed, because values <30% of cells are equally terrible and values >90% are equally good. 
 	- aggregate expression: do not encode cell lines in the model. Let the model recommend one protocol per batch. Perform this protocol with a maximum number of cell lines, e.g., 4 lines. Return the median or second worst expression level of NANOG/pSTAT6 across cell lines, either as a percent of cells expressing the genes or as a mean quantified expression of the whole population (e.g., ddCCt or MFI), as outcome variable. Percent expression would likely be sigmoid transformed, because values <30% of cells are equally terrible and values >90% are equally good. 
-	- aggregate weighted mixed desirability objective: Do not encode cell lines in the model. Let the model recommend one protocol per batch. Perform this protocol with a maximum number of cell lines, e.g., 4 lines. Return two values, which are combined into a single desirability objective by the model. Outcome value 1) the median or second worst expression level of NANOG/pSTAT6 across cell lines, either as a percent of cells expressing the genes or as a mean quantified expression of the whole population (e.g., ddCCt or MFI), as outcome variable. Percent expression would likely be sigmoid transformed, because values <30% of cells are equally terrible and values >90% are equally good. Outcome value 2) number of cell lines above an expression threshold.
-	- pareto-objective of
+	- aggregate weighted mixed desirability objective: Do not encode cell lines in the model. Let the model recommend one protocol per batch. Perform this protocol with a maximum number of cell lines per batch, e.g., 4 lines. Return two values, which are combined into a single desirability objective by the model. Outcome value 1) the median or second worst expression level of NANOG/pSTAT6 across cell lines, either as a percent of cells expressing the genes or as a mean quantified expression of the whole population (e.g., ddCCt or MFI), as outcome variable. Percent expression would likely be sigmoid transformed, because values <30% of cells are equally terrible and values >90% are equally good. Outcome value 2) number of cell lines above an expression threshold.
+	- pareto-objective: Like the aformentioned but using a pareto-front of expression versus fraction of lines for which the expression was above a threshold. 
 - Acquisition function:
 	- qNoisyExpectedImprovement
 	- Bandit models, e.g., Thompson sampling
 	- specialized acquisition functions, e.g., for pareto-optimization
 - Campaign design:
-	- Single phase optimization
-	- Multi-Phase optimization via transfer learning with model-informed stopping criteria and search-space tuning
+	- Single phase optimization: Set-up the campaign and only stop when reaching a pre-specified criteria. Problematic when encoding cell lines as one-hot parameters, because that will optimize for the best cell lines with the best protocol, not for a protocol that works at least decently with most cell lines. 
+	- Multi-Phase optimization via transfer learning with model-informed stopping criteria and search-space tuning. Whenever the model predicts less than a pre-specified expected improvement from the next batch of experiments, produce a graph of which cell lines 
 	
 
 Further reading:
