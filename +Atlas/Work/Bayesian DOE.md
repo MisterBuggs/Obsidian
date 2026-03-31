@@ -2,7 +2,7 @@
 modified:
   - 2026-03-26T15:39:47+01:00
   - 2026-03-30T19:01:00+02:00
-  - 2026-03-31T17:04:44+02:00
+  - 2026-03-31T17:10:03+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -27,9 +27,11 @@ I'm including a brief outline of an optimization campaign I plan to perform.
 	- The actual outcome variable I care about is reduced lineage bias of differentiation, as well as lesser apoptosis and increased proliferation of differentiated cells. Measuring these directly takes weeks and introduces noise. However, there are good molecular markers for the cell state of interest: Undifferentiated cells and only undifferentiated cells reliably express the gene NANOG before and after the critical phase transition. After the transition, *good* colonies also express a few other rare genes, including ZSCAN4 (rt-qPCR), the HERV cluster (rt-qPCR or reporter genes) and phosphorylated STAT6 (which can be measured using fluorescence labeled antibodies). Bulk transcriptomic analyses of 8 matched cell lines before and after phase transition are available for additional marker gene selection.
 - Parameters:
 	- oxygen concentration.
-	- carbon-dioxide concentration in 2 incubators (the latter also controling the pH in the media as a function of its bicarbonate content).
-	- Base media under mixture and cardinality constraint. I would probably custom encode the media components, like Glucose, Sodium, Potassium, Magnesium, Pyruvate, etc., of a handful of commercial culture media, like DMEM or F12, [Example Formulation](https://www.thermofisher.com/de/de/home/technical-resources/media-formulation.8.html), so that the software actually *knows* how similar different media are by their formulation without including the formulation on the front-end (and without making custom media other than mixing commercial ones). 
-	- 
+	- carbon-dioxide concentration in 2 incubators (the latter also controlling the pH in the media as a function of its bicarbonate content).
+	- Base media under mixture and cardinality constraint. I would probably custom encode the media components, like Glucose, Sodium, Potassium, Magnesium, Pyruvate, Bicarbonate, etc. ([Example Formulation](https://www.thermofisher.com/de/de/home/technical-resources/media-formulation.8.html)), of a handful of commercial culture media, like DMEM or F12, so that the software actually *knows* how similar different media are by their formulation without including the formulation on the front-end (and without making custom media other than mixing commercial ones). 
+	- Growth factors: bFGF, TGFb, Activin A, LIF, Insulin.
+	- Micronutrients: Transferrin, Selenium, Ethanolamid, Ascorbic Acid-Phosphate, L-Glutamine, Non-Essential Aminoacids (the latter two possibly custom encoded to capture the total concentrations of its amino acids also contained in the base media).
+	- Small molecules XAV939, PD
 
 Further reading:
 - [Naïve Bayes Ant Colony Optimization for Experimental Design | Springer Nature Link](https://link.springer.com/chapter/10.1007/978-3-642-33042-1_52)
