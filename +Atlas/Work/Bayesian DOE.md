@@ -2,7 +2,7 @@
 modified:
   - 2026-03-26T15:39:47+01:00
   - 2026-03-30T19:01:00+02:00
-  - 2026-03-31T09:13:57+02:00
+  - 2026-03-31T09:20:54+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -10,10 +10,12 @@ tags:
 ## Message to Jay 2026-03-31
 Dear Jay,
 
-Last year I've become enraptured by Design of Experiment approaches. I don't understand why almost no one of the academic side of biomedical research is using it to facilitate their protocol optimization campaigns. 
-After educating myself on the basics of different DoE architectures, I believe that Bayesian Optimization to be most suitable for cell culture protocol optimization; primarily due to its iterative nature in an environment of little to no preliminary data for formal power calculations. The biotech giant Merck has recently published and is actively maintaining the software package *BayBE* for Bayesian Optimization in a low data environment as an [open source software](https://emdgroup.github.io/baybe/stable/index.html). BayBE offers a broad suite of customization options and requires only beginner-level coding proficiency on the user side. An overview publication of its core functionalities can be found [here](https://pubs.rsc.org/en/content/articlehtml/2025/dd/d5dd00050e). 
+My new job revolves around translating promising protocols for the production of cell culture products from a research scale with research-use-only materials to a bioreactor scale with good-manufacturing-practice grade materials. This encompasses Hetavi's project, in which she will optimize the reprogramming efficiency of iPSC using episomal vectors. These campaigns have in common that the targets, objectives, and a suite of critical parameters can be clearly defined *a priori* but that their optimal combination is unclear. This makes them uniquely suited to Design of Experiment approaches. 
 
-My new job revolves around translating promising protocols for the production of cell culture products from a research scale with research-use-only materials to a bioreactor scale with good-manufacturing-practice grade materials. This encompasses Hetavi's project, in which she will optimize the reprogramming efficiency of iPSC using episomal vectors. These campaigns have in common that the paramters, targets, and objectives can be clearly defined *a priori* I believe that all these  process is ordered enough to meaningfully benefit from DoE but chaotic enough to meaningfully benefit from DoE. 
+After educating myself on the basics of DoE architectures, I believe that Bayesian Optimization to be most suitable for cell culture protocol optimization; primarily due to its iterative nature in an environment of little to no preliminary data for formal power calculations. The biotech giant Merck has recently published and is actively maintaining the software package *BayBE* for Bayesian Optimization in a low data environment as an [open source software](https://emdgroup.github.io/baybe/stable/index.html). BayBE offers a broad suite of customization options and requires only beginner-level coding proficiency on the user side. A demonstration of its core functionalities can be found [here](https://pubs.rsc.org/en/content/articlehtml/2025/dd/d5dd00050e). 
+
+I have outlined my core paramaters of interest but struggle to tie down a meaningful objective and choose the best acquisition function for that objective. Are you interested in consulting on this DoE set-up?
+I am currently finishing a few publications from my postdoctoral fellowship 
 
 Options with BayBE:
 - Objective:
