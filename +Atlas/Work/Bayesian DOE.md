@@ -1,11 +1,18 @@
 ---
 modified:
   - 2026-03-26T15:39:47+01:00
-  - 2026-03-30T17:56:47+02:00
+  - 2026-03-30T19:01:00+02:00
+  - 2026-03-31T09:00:32+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
 ---
+## Message to Jay 2026-03-31
+Dear Jay,
+
+Last year I've become enraptured by Design of Experiment approaches. I don't understand why almost no one of the academic side of biomedical research is using it to facilitate their protocol optimization campaigns. 
+While working through the different DoE applications
+
 Options with BayBE:
 - Objective:
 	- Define a multi-objective campaign with 2 or more outcome variables, e.g., NANOG<sub>pos</sub> purity [%] at passage 5 as high-weight objective, mean HERV promoter activity (reporter line?) as medium-high weight objective, and NANOG/HERV<sub>pos/pos</sub> total cell number at p5 as lower weight objective, compounded using BayBE's [desirability objective](https://emdgroup.github.io/baybe/stable/userguide/objectives#DesirabilityObjective)
@@ -14,7 +21,7 @@ Options with BayBE:
 	- Define a single-objective campaign with a self-calculated composite outcome, e.g., NANOG<sub>pos</sub> cell numbers at p5 x NANOG<sub>pos</sub> purity X%<sup>2</sup> to exclude failed campaigns. This completely blinds BayBE to the existence of multiple cell lines, thereby increasing noise but baking robustness into one central combined objective.
 	- As an extension of the aforementioned *homebrew* design, once could instead build a two-phase design, in which a number of n+1 TaskParameters is defined for n cell lines of interest. In phase 1, only cell lines K<sub>1</sub> through K<sub>n</sub> are active. Then, K<sub>1</sub> through K<sub>n</sub> are inactivated, any cell lines that never worked are dropped, and the virtual cell line K<sub>n+1</sub> is activated, which reports a self-calculated composite outcome of performance across cell lines K<sub>1</sub> through K<sub>n-dropouts</sub>, for example by passing the second-worst performance of all tested cell lines to BayBE. 
 	- A generalized case of the multi-phase optimization would be to define a stopping criterion that either requires dropping a cell line or fundamentally changing the campaign, e.g., adding a new small molecule or growth factor or dropping a cell line, as per human interpretation, before initiating a new campaign encompassing these changes and benefitting from transfer learning from the previous campaign. 
-	- Targets: Numerical targets are likely transformed using a [ramp transformation](https://emdgroup.github.io/baybe/stable/userguide/targets#Ramp%20Transformation.html) or sigmoid transformation with optimal values >=0.95 (purity of NANOG/HERV expressing cells) versus linearly maximizing either the purity of expressing cells or of the expression value, e.g., of HERV. If I understand correctly, passing a [sigmoid transformation](https://emdgroup.github.io/baybe/stable/userguide/transformations.html) before maximization may encode the biological reality that many combinations will not work but some will, i.e, that values of 10 vs 20 vs 30% purity are all equally worthless and values of 90, 93, and 96% are all almost perfect, while values between 70 and 90% may represent gradual improvement worth looking into. This may prevent *hallucinations of gradual improvements* in the low efficiency range, slowing formal optimization but making it count towards actual biological progress. Also see [Composite Transformations](https://emdgroup.github.io/baybe/stable/userguide/transformations#Composite_Transformations.html), e.g., clamping to >40% and then sigmoid with a mid-log point somewhere around 80%. 
+	- Targets: Numerical targets are likely transformed using a [ramp transformation](https://emdgroup.github.io/baybe/stable/userguide/targets#Ramp%20Transformation.html) or sigmoid transformation with optimal values >=0.95 (purity of NANOG/HERV expressing cells) versus linearly maximizing either the purity of expressing cells or of the expression value, e.g., of HERV. If I understand correctly, passing a [sigmoid transformation](https://emdgroup.github.io/baybe/stable/userguide/transformations.html) before maximization may encode the biological reality that many combinations will not work but some will, i.e, that values of 10 vs 20 vs 30% purity are all equally worthless and values of 90, 93, and 96% are all almost perfect, while values between 70 and 90% may represent gradual improvement worth looking into. This may prevent *hallucinations of gradual improvements* in the low efficiency range, slowing formal optimization but making it count towards actual biological progress. Also see [Composite Transformations](https://emdgroup.github.io/baybe/stable/userguide/transformations#Composite_Transformations.html), e.g., clamping to >40% and then sigmoid with a mid-log point somewhere around 80%.
 	
 - Parameters: 
 	- Define base media as continuous variables, each bound 0-1, constrained to sum to 1.
