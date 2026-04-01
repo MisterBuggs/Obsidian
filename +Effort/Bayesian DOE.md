@@ -4,7 +4,7 @@ modified:
   - 2026-03-30T20:27:28+02:00
   - 2026-03-26T15:39:47+01:00
   - 2026-03-30T17:56:47+02:00
-  - 2026-04-01T12:01:30+02:00
+  - 2026-04-01T12:12:29+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -33,14 +33,14 @@ I'm including a brief outline of an optimization campaign I plan to perform, inc
 	- Base media under mixture and cardinality constraint. Could be Continuous Numerical, but I would rather custom encode the media components, like Glucose, Sodium, Potassium, Magnesium, Pyruvate, Bicarbonate, etc. ([Example Formulation](https://www.thermofisher.com/de/de/home/technical-resources/media-formulation.8.html)), of a handful of commercial culture media, like DMEM or F12, so that the software actually *knows* how similar different media are by their formulation without including the formulation on the front-end (and without making custom media other than mixing commercial ones). Custom encoding is currently only possible for Discrete Numerical variables.
 	- Complex supplements, like KOSR, N2, B27; custom encoding of components together with base media if formulations are available; then custom encoding as discrete numerical. Some of these may be a black box as to their exact contents -> continuous encoding.
 	- Continuous Numerical: Albumin, most likely in the form of BSA.
-	- Growth factor concentrations, Continuous Numerical: LIF, Insulin, possibly TGFb, Activin A, bFGF.
+	- Growth factor concentrations, Continuous Numerical: LIF, Insulin.
 	- Micronutrient concentrations, Continuous Numerical: Transferrin, Selenium, Ethanolamid, Ascorbic Acid-Phosphate, L-Glutamine, Non-Essential Aminoacids (the latter two possibly custom encoded together with base media to capture the total concentrations of the contained amino acids also contained in the base media).
-	- Small molecules XAV939, PD0325901, Gö6983, CHIR99021.
-	- Potentially 3-4 more small molecules drawn from related published protocols, like PXGL, 5iLAF, t2iLG, 4CL. 
+	- Small molecules as continuous numerical variables: XAV939, PD0325901, Gö6983, CHIR99021.
+	- Potentially more small molecules and growth factors from other publications as continuous numerical variables: DZNep, Trichostatin A, IWR-1, b-mercaptoethanol, IM-12, SB590885, WH-4-023, Y-27632, SP600125, SB203560, valproic acid, (S)-(+)-dimethindene maleate, minocycline hydrochloride, TGFb, Activin A, bFGF; all of these could alternatively be reserved for later-phases, see **Campaign design** below. 
 	- Potentially different growth matrices, like Vitronectin, Fibronectin, Matrigel, Geltrex.
 - Objective:
 	I'm listing a number of possible objectives below, including their pros and cons as to my understanding.
-	- pass-fail per cell line: define cell lines as one-hot encoded categorical parameters. Perform the model-recommended experiments with the model-recommended cell lines at a specified total batch size. Return whether a quality criterion was passed for each configuration of parameters, e.g., >90% NANOG/pSTAT6 co-expressing cells after 3 passages, as outcome variable. 
+	- pass-fail per cell line: define cell lines as one-hot encoded categorical parameters. Perform the model-recommended experiments with the model-recommended cell lines at a specified total batch size / parallelicity. Return whether a quality criterion was passed for each configuration of parameters, e.g., >90% NANOG/pSTAT6 co-expressing cells after 3 passages, as outcome variable. 
 	- aggregate pass-fail: do not encode cell lines in the model. Let the model recommend one protocol per batch. Perform this protocol with a maximum number of cell lines, e.g., 4 lines. Return the number of cell lines that passed a quality criterion, e.g., >90% NANOG/pSTAT6 co-expressing cells after 3 passages as outcome variable.
 	- expression per cell line: define cell lines as one-hot encoded categorical parameters. Perform the model-recommended experiments with the model-recommended cell lines at a specified total batch size. Return the expression level of NANOG/pSTAT6 for each configuration of parameters, either as a percent of cells expressing the genes or as a mean quantified expression of the whole population (e.g., ddCCt or MFI), as outcome variable. Percent expression will likely be sigmoid transformed, because values <30% of cells are equally terrible and values >90% are equally good. 
 	- aggregate expression: do not encode cell lines in the model. Let the model recommend one protocol per batch. Perform this protocol with a maximum number of cell lines, e.g., 4 lines. Return the median or second worst expression level of NANOG/pSTAT6 across cell lines, either as a percent of cells expressing the genes or as a mean quantified expression of the whole population (e.g., ddCCt or MFI), as outcome variable. Percent expression would likely be sigmoid transformed, because values <30% of cells are equally terrible and values >90% are equally good. 
