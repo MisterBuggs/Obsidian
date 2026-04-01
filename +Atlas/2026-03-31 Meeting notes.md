@@ -1,6 +1,7 @@
 ---
 modified:
   - 2026-03-31T15:55:16+02:00
+  - 2026-04-01T09:06:04+02:00
 created: 2026-03-31T15:50:20+02:00
 author:
   - Willem Buys
@@ -9,6 +10,7 @@ tags:
   - ELN
   - Writing
   - MHH
+Version: "2"
 ---
 - [ ] Desired Templates
 	- [ ] Resources/Consumables:
