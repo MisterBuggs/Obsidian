@@ -2,6 +2,10 @@
 modified:
   - 2026-03-21T10:42:59+01:00
 created: 2026-03-20T13:46:13+01:00
+tags:
+  - CIIM_2026
+  - Conference
+  - MHH
 ---
 ## Friday [[2026-03-20]]
 Trained immunity in inflammatory disease and cancer, Triantafyllos Chavakis 
