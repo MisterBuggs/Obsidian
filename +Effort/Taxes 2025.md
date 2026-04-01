@@ -5,6 +5,9 @@ modified:
   - 2026-03-27T17:16:28+01:00
   - 2026-03-31T16:29:14+02:00
 created: 2026-03-24T16:32:27+01:00
+tags:
+  - Private
+  - Tax
 ---
 "info@petzoldt-steuerberatung.de" Steuerberatung Petzoldt, Krefeld
 
