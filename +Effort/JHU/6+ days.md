@@ -1,1 +1,0 @@
-Vascular differentiation for 6 days before hematopoietic cytokines.

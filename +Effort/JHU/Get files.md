@@ -5,6 +5,8 @@ modified:
   - 2026-03-19T15:52:42+01:00
   - 2026-03-30T09:32:46+02:00
 created: 2026-03-16T15:03:44+01:00
+tags:
+  - JHU
 ---
 Critical:
 - Exp_20240826_HD11 and experiments at roughly the same time by other experimenters, e.g., WL, SD: HD11 had measurements of cytokines and a CFC assay, which were performed by Sanskruti Deshmukh.
