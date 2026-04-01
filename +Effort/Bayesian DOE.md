@@ -4,13 +4,14 @@ modified:
   - 2026-03-30T20:27:28+02:00
   - 2026-03-26T15:39:47+01:00
   - 2026-03-30T17:56:47+02:00
-  - 2026-04-01T14:07:50+02:00
+  - 2026-04-01T14:12:43+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
+  - Statistic
 ---
-- Consider starting with whether already reverted cells can be cultured and passaged in new media to allow for much greater parallelization.
-- Robustness should be the key readout, as the full quantitative range of readout parameters is hard to quantify. 
+- Consider starting with whether already reverted cells can be cultured and passaged in new media to allow for greater parallelization.
+- This might also enable a step-up approach of starting with the greatest set of cell lines that I *can* revert using the current L4i method, adding more cell lines whenever the expected improvement 
 ## Message to Jay 2026-04-01
 Dear Jay,
 
