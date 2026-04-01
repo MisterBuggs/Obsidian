@@ -4,7 +4,7 @@ modified:
   - 2026-03-30T20:27:28+02:00
   - 2026-03-26T15:39:47+01:00
   - 2026-03-30T17:56:47+02:00
-  - 2026-04-01T12:32:19+02:00
+  - 2026-04-01T12:36:56+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -20,11 +20,12 @@ I have outlined my core paramaters of interest but struggle to tie down a the ex
 I am currently finishing a few publications from my postdoctoral fellowship, after which I plan to apply for a number of grants. I will certainly include DoE in at least one grant application, either for reprogramming or more likely for optimization of culture conditions for GMP-grade production. If you're interested, I'd be delighted to include you as a consultant on one of the grants. If this goes big, the DoE aspect *may* lead to its own spin-off publication. More likely, it will be absorbed into a bigger paper of *how to do naive pluripotent stem cell culture and differentiation, but better?* In either case, it will be years before a publication.
 
 I'm including a brief outline of an optimization campaign I plan to perform, including unpublished info.
-TLDR: I am facing an optimization problem in a hybrid discrete-continuous search space with 1-2 target variables and 30-60 parameters, depending on encoding. The overall goal is to optimize a protocol that performs 1) well with respect to reaching a desired status within each cell line, and 2) is robust across cell lines. 
+TLDR: I am facing an optimization problem of optimizing an experimental protocol so that it produces a certain cellular status in most cell lines, and 2) it produces this status particularly well in those cell lines. The search space is hybrid discrete-continuous with 1-2 target variables and 30-60 parameters, depending on encoding. The space is very noisy, optima are likely rather narrow, parallel testing is limited to about 4 experiments per batch, and performing one batch takes at least 2 weeks. Yes, it does sound terrible when I write it out like that. 
+
 - Background: 
 	- I have a cell culture protocol that produces incredibly potent stem cells. 
 	- The protocol induces some critical phase transition during the first 1-3 weeks of culture, in which most cells either chaotically differentiate or die. The cells that make it out of this selection step undifferentiated and alive are incredibly potent for downstream applications and form the backbone of my work. 
-	- Some cell lines are so volatile between differentiation and cell death that it becomes impractical to select the few undifferentiated and viable colonies during the critical phase. These cell lines are currently non-permissive for this protocol. Within cell lines, their *permissiveness* is quite stable, indicating that its either determined by genetic or a stable epigenetic feature, or a combination of both. 
+	- Some cell lines are so volatile between differentiation and cell death that it becomes impractical to select the few undifferentiated and viable colonies during the critical phase. These cell lines are currently non-permissive for this protocol. Within cell lines, their *permissiveness* is somewhat stable, indicating that permissin either determined by genetic or a stable epigenetic feature, or a combination of both. 
 	- During the phase transition, it is regularly necessary to hand-pick promising colonies, meaning that parallelization of experiments is limited by my lab time. This will limit batches to about 4 parallel runs.
 	- I would like to subtly change the original protocol to 1) enable its facile use with most cell lines, 2) without the need for manual colony picking, which becomes impractical at an industrial scale. 
 - Target: The actual outcome variable I care about is reduced lineage bias of differentiation, as well as lesser apoptosis and increased proliferation of differentiated cells. Measuring these directly takes weeks and introduces even more noise. However, there are good molecular markers for the cell state of interest: Undifferentiated cells and only undifferentiated cells reliably express the gene NANOG before and after the critical phase transition. After the transition, *good* colonies also express a few other rare genes, including ZSCAN4 (rt-qPCR), the HERV cluster (rt-qPCR or reporter genes) and phosphorylated STAT6 (which can be measured using fluorescence labeled antibodies). Bulk transcriptomic analyses of 8 matched cell lines before and after phase transition are available for additional marker gene selection.
