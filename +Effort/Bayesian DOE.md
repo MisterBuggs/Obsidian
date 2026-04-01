@@ -4,7 +4,7 @@ modified:
   - 2026-03-30T20:27:28+02:00
   - 2026-03-26T15:39:47+01:00
   - 2026-03-30T17:56:47+02:00
-  - 2026-04-01T12:17:36+02:00
+  - 2026-04-01T12:22:56+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -43,12 +43,12 @@ I'm including a brief outline of an optimization campaign I plan to perform, inc
 	- pass-fail per cell line: define cell lines as one-hot encoded categorical parameters. Perform the model-recommended experiments with the model-recommended cell lines at a specified total batch size / parallelity. For each configuration, return whether a quality criterion was passed, e.g., >90% NANOG/pSTAT6 co-expressing cells after 3 passages as single outcome variable. 
 	- aggregate pass-fail: do not encode cell lines in the model. Let the model recommend one protocol per batch (as if there were no parallelity). Perform that single protocol with a maximum feasible number of cell lines, e.g., 4 lines in parallel. Return the number of cell lines that passed a quality criterion, e.g., >90% NANOG/pSTAT6 co-expressing cells after 3 passages as single outcome variable.
 	- expression per cell line: define cell lines as one-hot encoded categorical parameters. Perform the model-recommended experiments with the model-recommended cell lines at a specified total batch size / parallelity. For each configuration, return the percentage of cells expressing NANOG/pSTAT6 or their mean expression level as single outcome variable. 
-	- aggregate expression: do not encode cell lines in the model. Let the model recommend one protocol per batch (as if there were no parallelity). Perform this protocol with a maximum feasible number of cell lines, e.g., 4 lines in parallel. Return the median or second worst expression level of NANOG/pSTAT6 across cell lines, either as a percent of cells expressing the genes or as a mean quantified expression of the whole population (e.g., ddCCt or MFI), as outcome variable. Percent expression would likely be sigmoid transformed, because values <30% of cells are equally terrible and values >90% are equally good. 
-	- aggregate weighted mixed desirability objective: Do not encode cell lines in the model. Let the model recommend one protocol per batch. Perform this protocol with a maximum number of cell lines per batch, e.g., 4 lines. Return two values, which are combined into a single desirability objective by the model. Outcome value 1) the median or second worst expression level of NANOG/pSTAT6 across cell lines, either as a percent of cells expressing the genes or as a mean quantified expression of the whole population (e.g., ddCCt or MFI), as outcome variable. Percent expression would likely be sigmoid transformed, because values <30% of cells are equally terrible and values >90% are equally good. Outcome value 2) number of cell lines above an expression threshold.
+	- aggregate expression: do not encode cell lines in the model. Let the model recommend one protocol per batch (as if there were no parallelity). Perform this protocol with a maximum feasible number of cell lines, e.g., 4 lines in parallel. Return the percentage of cells expressing NANOG/pSTAT6 or the mean expression level of the median cell line regarding that variable, as a single outcome variable. 
+	- aggregate weighted mixed desirability objective: Do not encode cell lines in the model. Let the model recommend one protocol per batch (as if there were no parallelity). Perform this protocol with a maximum feasible number of cell lines per batch, e.g., 4 lines. Return two values, which are combined into a single desirability objective by the model: Outcome 1) the median of percentage of cells expressing NANOG/pSTAT6 or of their mean expression level. Outcome 2) number of cell lines above an expression threshold. Weighting for outcomes 1 and 2 would be arbitrary. 
 	- pareto-objective: Like the aformentioned but using a pareto-front of expression versus fraction of lines for which the expression was above a threshold. 
-- Acquisition function:
-	- qNoisyExpectedImprovement
-	- Bandit models, e.g., Thompson sampling
+- Acquisition functions; pros, cons:
+	- qNoisyExpectedImprovement; pro: highest likelihood of converging to the global optimum in the lowest number of experiments. Can handle noise. con: frustrating early exploration. 
+	- Bandit models, e.g., Thompson sampling; pros: 
 	- specialized acquisition functions, e.g., for pareto-optimization
 - Campaign design:
 	- Single phase optimization: Set-up the campaign and only stop when reaching a pre-specified criteria. Problematic when encoding cell lines as one-hot parameters, because that will optimize for the best cell lines with the best protocol, not for a protocol that works at least decently with most cell lines. 
