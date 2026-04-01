@@ -9,6 +9,7 @@ created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
 ---
+Consider starting with whether already reverted cells can be cultured and passaged in new media to allow for much greater parallelization. 
 ## Message to Jay 2026-04-01
 Dear Jay,
 
