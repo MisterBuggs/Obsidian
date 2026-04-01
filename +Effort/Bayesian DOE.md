@@ -4,7 +4,7 @@ modified:
   - 2026-03-30T20:27:28+02:00
   - 2026-03-26T15:39:47+01:00
   - 2026-03-30T17:56:47+02:00
-  - 2026-04-01T11:52:12+02:00
+  - 2026-04-01T11:57:27+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -29,10 +29,10 @@ I'm including a brief outline of an optimization campaign I plan to perform, inc
 - Target: The actual outcome variable I care about is reduced lineage bias of differentiation, as well as lesser apoptosis and increased proliferation of differentiated cells. Measuring these directly takes weeks and introduces noise. However, there are good molecular markers for the cell state of interest: Undifferentiated cells and only undifferentiated cells reliably express the gene NANOG before and after the critical phase transition. After the transition, *good* colonies also express a few other rare genes, including ZSCAN4 (rt-qPCR), the HERV cluster (rt-qPCR or reporter genes) and phosphorylated STAT6 (which can be measured using fluorescence labeled antibodies). Bulk transcriptomic analyses of 8 matched cell lines before and after phase transition are available for additional marker gene selection.
 - Parameters:
 	- Continuous Numerical: oxygen concentration.
-	- Continuous Numerical: carbon-dioxide concentration in 2 incubators (the latter also controlling the pH in the media as a function of its bicarbonate content).
+	- Continuous Numerical: carbon-dioxide concentration in 2 incubators (the latter also controlling the pH in the media as a function of its bicarbonate content). Possibly with a custom constraint that restricts the pH to a near-physiological range of 7.25-7.55, calculated using the Henderson-Hasselbach equation, the bicarbonate concentration (dependent on the base media), and the CO2 gas fraction. One could also leave this factor out and just calculate the required CO2 concentration as a function of base media to achieve a physiologicapH of 7.35-7.45
 	- Base media under mixture and cardinality constraint. Could be Continuous Numerical, but I would rather custom encode the media components, like Glucose, Sodium, Potassium, Magnesium, Pyruvate, Bicarbonate, etc. ([Example Formulation](https://www.thermofisher.com/de/de/home/technical-resources/media-formulation.8.html)), of a handful of commercial culture media, like DMEM or F12, so that the software actually *knows* how similar different media are by their formulation without including the formulation on the front-end (and without making custom media other than mixing commercial ones). Custom encoding is currently only possible for Discrete Numerical variables.
-	- Complex supplements, like KOSR, N2, B27; custom encoding of components if formulations are available; then custom encoding as discrete numerical. Some of these may be a black box as to their exact contents, meaning continuous or discrete numerical encoding.
-	- Albumin, most likely in the form of BSA.
+	- Complex supplements, like KOSR, N2, B27; custom encoding of components if formulations are available; then custom encoding as discrete numerical. Some of these may be a black box as to their exact contents -> continuous encoding.
+	- Continuous Numerical: Albumin, most likely in the form of BSA.
 	- Growth factors: bFGF, TGFb, Activin A, LIF, Insulin.
 	- Micronutrients: Transferrin, Selenium, Ethanolamid, Ascorbic Acid-Phosphate, L-Glutamine, Non-Essential Aminoacids (the latter two possibly custom encoded to capture the total concentrations of its amino acids also contained in the base media).
 	- Small molecules XAV939, PD0325901, Gö6983, CHIR99021.
