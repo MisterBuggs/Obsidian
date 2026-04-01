@@ -4,7 +4,7 @@ modified:
   - 2026-03-30T20:27:28+02:00
   - 2026-03-26T15:39:47+01:00
   - 2026-03-30T17:56:47+02:00
-  - 2026-04-01T12:22:56+02:00
+  - 2026-04-01T12:27:11+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -48,11 +48,11 @@ I'm including a brief outline of an optimization campaign I plan to perform, inc
 	- pareto-objective: Like the aformentioned but using a pareto-front of expression versus fraction of lines for which the expression was above a threshold. 
 - Acquisition functions; pros, cons:
 	- qNoisyExpectedImprovement; pro: highest likelihood of converging to the global optimum in the lowest number of experiments. Can handle noise. con: frustrating early exploration. 
-	- Bandit models, e.g., Thompson sampling; pros: 
-	- specialized acquisition functions, e.g., for pareto-optimization
+	- Bandit models, e.g., Thompson sampling; pros: higher likelihood of finding a good solution in less tries. Can handle extreme noise. con: more required experiments to converge to the best solution. 
+	- specialized acquisition functions, e.g., for pareto-optimization; depending on the objective, this meta-acquisition function may need to be chosen. I do not know if it can handle noise decently well. 
 - Campaign design:
-	- Single phase optimization: Set-up the campaign and only stop when reaching a pre-specified criteria. Problematic when encoding cell lines as one-hot parameters, because that will optimize for the best cell lines with the best protocol, not for a protocol that works at least decently with most cell lines. 
-	- Multi-Phase optimization via transfer learning with model-informed stopping criteria and search-space tuning. Whenever the model predicts less than a pre-specified expected improvement from the next batch of experiments, produce a fitness graph of cell lines for the objective according to the current model. Eliminate cell lines that perform significantly worse than the bunch, then start a new campaign. If no cell line performs significantly worse than the bunch, consider adding a new parameter, like a new growth factor, informed by literature. Then start a new campaign. In either case, transfer model parameters using BayBE's transfer-learning function. Stop when reaching a pre-specified meta-outcome, e.g., all remaining cell lines can be taken through the protocol without manual picking 2 times in a row. Start a new campaign returning the cell lines that had previously been removed and see if they remain non-permissive. If yes, find attempt to find common parameters to micro-optimize on a per cell line level. 
+	- Single phase optimization: Set-up the campaign and only stop when reaching a pre-specified criterion. Problematic when encoding cell lines as one-hot parameters, because that will optimize for the best cell line with the best protocol, not for a protocol that works at least decently with most cell lines. 
+	- Multi-Phase optimization via transfer learning with model-informed stopping criteria and search-space tuning. Whenever the model predicts less than a pre-specified expected improvement for the next batch recommended of experiments, model the failure probability for each cell line in the model, i.e., the probability that a given cell line produces an acceptable outcome with fixed other parameters. Eliminate cell lines that perform significantly worse than the bunch, then start a new campaign. If no cell line performs significantly worse than the bunch, consider adding a new parameter, like a new growth factor (see **small molecules and growth factors from other publications** above), then start a new campaign. In either case, transfer model parameters using BayBE's transfer-learning function. Stop when reaching a pre-specified meta-outcome, e.g., all remaining cell lines can be taken through the protocol without manual picking 2 times in a row. Potentially start a new campaign returning the cell lines that had previously been removed and see if they remain non-permissive. If yes, consider cell-line specific*fine tuning* in. 
 	
 
 Further reading:
