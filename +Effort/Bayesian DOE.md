@@ -4,7 +4,7 @@ modified:
   - 2026-03-30T20:27:28+02:00
   - 2026-03-26T15:39:47+01:00
   - 2026-03-30T17:56:47+02:00
-  - 2026-04-01T14:15:19+02:00
+  - 2026-04-01T15:25:12+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
@@ -60,6 +60,9 @@ TLDR: I am facing an optimization problem of optimizing an experimental protocol
 - Campaign design:
 	- Single phase optimization: Set-up the campaign and only stop when reaching a pre-specified criterion. Problematic when encoding cell lines as one-hot parameters, because that will optimize for the best cell line with the best protocol, not for a protocol that works at least decently with most cell lines. 
 	- Multi-Phase optimization via transfer learning with model-informed stopping criteria and search-space tuning. Whenever the model predicts less than a pre-specified expected improvement for the next batch recommended of experiments, model the failure probability for each cell line in the model, i.e., the probability that a given cell line produces an acceptable outcome with fixed other parameters. Eliminate cell lines that perform significantly worse than the bunch, then start a new campaign. If no cell line performs significantly worse than the bunch, consider adding a new parameter, like a new growth factor (see **small molecules and growth factors from other publications** above), then start a new campaign. In either case, transfer model parameters using BayBE's transfer-learning function. Stop when reaching a pre-specified meta-outcome, e.g., all remaining cell lines can be taken through the protocol without manual picking 2 times in a row. Potentially start a new campaign returning the cell lines that had previously been removed and see if they remain non-permissive. If yes, report non-permissive lines, correlate genetics / epigenetics with permissiveness to search for reasons, consider cell-line specific *fine tuning* in follow-up campaigns. 
+
+Additional notes: 
+- In a step-up approach I could also start with cell lines I know work with the current conditions and see if experimental conditions allow these to *stay* stably undifferentiated and in the state of interest. This would enable greater parallelization, because keeping cells in culture is less work intensive than establishing culture. I could then add previously problematic cell lines step by step.
 
 Further reading:
 - [Naïve Bayes Ant Colony Optimization for Experimental Design | Springer Nature Link](https://link.springer.com/chapter/10.1007/978-3-642-33042-1_52)
