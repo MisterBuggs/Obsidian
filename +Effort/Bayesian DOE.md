@@ -4,14 +4,14 @@ modified:
   - 2026-03-30T20:27:28+02:00
   - 2026-03-26T15:39:47+01:00
   - 2026-03-30T17:56:47+02:00
-  - 2026-04-01T14:12:43+02:00
+  - 2026-04-01T14:15:19+02:00
 created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
   - Statistic
 ---
 - Consider starting with whether already reverted cells can be cultured and passaged in new media to allow for greater parallelization.
-- This might also enable a step-up approach of starting with the greatest set of cell lines that I *can* revert using the current L4i method, adding more cell lines whenever the expected improvement 
+- This may enable a step-up approach of starting with the greatest set of cell lines that I *can* revert using the current L4i method, then adding more cell lines one by one, until the expected improvement for the next batch of conditions is <0.5%.
 ## Message to Jay 2026-04-01
 Dear Jay,
 
