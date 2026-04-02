@@ -2,7 +2,7 @@
 modified:
   - 2026-03-23T15:45:27+01:00
   - 2026-04-01T16:38:55+02:00
-  - 2026-04-02T14:01:34+02:00
+  - 2026-04-02T14:06:46+02:00
 created: 2026-03-23T15:41:22+01:00
 tags:
   - MHH
@@ -15,9 +15,11 @@ In meiner Facharztausbildung für Innere Medizin, die ich während der δ-Welle 
 
 Nach Abschluss dieses Projekts fand ich im Zelltherapiezentrum (CTC) der hämatologischen Klinik hier an der Medizinischen Hochschule Hannover meine neue akademische Heimat. Ich freue mich, der tiefgreifenden Erfahrung zur Zelltherapieherstellung am CTC meine Expertise zur Stammzellkultur hinzufügen zu können, um das von mir entwickelte Therapiekonzept regulationskonform zu realisieren und damit eines Tages tatsächlich Patienten mit schwer behandelbaren Infektionen oder Krebserkrankungen helfen zu können. Hierzu plane ich, 1) die strukturierte Herstellung und Qualitätssicherung eines Grundstocks pluripotenter Stammzellen mit möglichst hoher Stammzellpotenz und breiter genetischer Diversität, 2) die Skalierung des von mir entwickelten Protokolls zur Herstellung von Immunzellvorläufern vom Forschungsmaßstab auf klinische Qualität, 3) die gentechnische Weiterentwicklung der stammzellbasierten Immunzelltechnologie, insbesondere zur Bekämpfung resistenter Infektionen und bösartiger Erkrankungen. Darüberhinaus werde ich an der Klinik für Hämatologie auch meine Assistenzarztweiterbildung in der Inneren Medizin mit Schwerpunkt Hämatologie und Onkologie wieder aufnehmen, um eine Brücke zwischen präklinischer Forschung und klinischer Anwendung zu bilden. 
 
-1. [Precision Immunotherapy to Improve Sepsis Outcomes: The ImmunoSep Randomized Clinical Trial | JAMA](https://www.doi.org/10.1001/jama.2025.24175)
-2. [Harnessing bioengineered myeloid progenitors for precision immunotherapies | NPJ Regen Med](https://doi.org/10.1038/s41536-023-00343-x)
-3. [Designing Chimeric Antigen Receptors for Myeloid Immune Cells | J Cancer Biol Res](https://www.jscimedcentral.com/jounal-article-info/Journal-of-Cancer-Biology-and-Research/Designing-Chimeric-Antigen-Receptors-for-Myeloid-Immune-Cells-11751#)
+1. [Immune hyporeactivity to bacteria and multiple TLR-ligands, yet no response to checkpoint inhibition in patients just after meeting Sepsis-3 criteria]([https://doi.org/10.1371/journal.pone.0273247](https://doi.org/10.1371/journal.pone.0273247)) 
+2. [Substantial heterogeneity of inflammatory cytokine production and its inhibition by a triple cocktail of toll-like receptor blockers in early sepsis | Front Immu](https://doi.org/10.3389/fimmu.2023.1277033)
+3. [Precision Immunotherapy to Improve Sepsis Outcomes: The ImmunoSep Randomized Clinical Trial | JAMA](https://www.doi.org/10.1001/jama.2025.24175)
+4. [Harnessing bioengineered myeloid progenitors for precision immunotherapies | NPJ Regen Med](https://doi.org/10.1038/s41536-023-00343-x)
+5. [Designing Chimeric Antigen Receptors for Myeloid Immune Cells | J Cancer Biol Res](https://www.jscimedcentral.com/jounal-article-info/Journal-of-Cancer-Biology-and-Research/Designing-Chimeric-Antigen-Receptors-for-Myeloid-Immune-Cells-11751#)
 
 I began my academic work developing a patient ex vivo model to test small-molecule and antibody therapies for myeloid immune modulation in early sepsis and to validate and ultimately translate preclinically promising therapies towards clinical application. The results questioned the general use of immune modulatory drugs in early sepsis, both against hyperinflammation and immune paralysis, and provide a bedside model to preselect patients for their therapy responsiveness. After my academic work on myeloid cell immune modulation in early sepsis patients and my clinical work in internal medicine and infectious diseases, I focused on the translational aspects of myeloid cell therapies for neutropenic sepsis. In Dec 2023 my mentor Dr. Zambidis and I have proposed that progenitors rather than effector cells are promising to restore host defense but also to modulate tumor immunity, transplant rejection, and autoimmunity. I have since expanded this concept to bioengineered myeloid cells, such as CAR myeloid cells, which I have started upscaling for early phase clinical trials in March 2026 as a junior principal investigator at the Cell Therapy Centre, Hannover Medical School, Germany.
 
