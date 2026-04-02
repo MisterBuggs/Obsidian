@@ -2,7 +2,7 @@
 modified:
   - 2026-03-23T15:45:27+01:00
   - 2026-04-01T16:38:55+02:00
-  - 2026-04-02T14:10:03+02:00
+  - 2026-04-02T14:10:53+02:00
 created: 2026-03-23T15:41:22+01:00
 tags:
   - MHH
@@ -21,6 +21,7 @@ Nach Abschluss dieses Projekts fand ich im Zelltherapiezentrum (CTC) der hämato
 4. [Harnessing bioengineered myeloid progenitors for precision immunotherapies | NPJ Regen Med](https://doi.org/10.1038/s41536-023-00343-x)
 5. [Designing Chimeric Antigen Receptors for Myeloid Immune Cells | J Cancer Biol Res](https://www.jscimedcentral.com/jounal-article-info/Journal-of-Cancer-Biology-and-Research/Designing-Chimeric-Antigen-Receptors-for-Myeloid-Immune-Cells-11751#)
 
+Personal statement from CV:
 I began my academic work developing a patient ex vivo model to test small-molecule and antibody therapies for myeloid immune modulation in early sepsis and to validate and ultimately translate preclinically promising therapies towards clinical application. The results questioned the general use of immune modulatory drugs in early sepsis, both against hyperinflammation and immune paralysis, and provide a bedside model to preselect patients for their therapy responsiveness. After my academic work on myeloid cell immune modulation in early sepsis patients and my clinical work in internal medicine and infectious diseases, I focused on the translational aspects of myeloid cell therapies for neutropenic sepsis. In Dec 2023 my mentor Dr. Zambidis and I have proposed that progenitors rather than effector cells are promising to restore host defense but also to modulate tumor immunity, transplant rejection, and autoimmunity. I have since expanded this concept to bioengineered myeloid cells, such as CAR myeloid cells, which I have started upscaling for early phase clinical trials in March 2026 as a junior principal investigator at the Cell Therapy Centre, Hannover Medical School, Germany.
 
 My educational strategy centers on the scaling effects of interdisciplinary knowledge. Inflammation is a great example of emergent information: Highly chaotic on a local level of microbiology, cell biology, immunology, micro-/macroanatomy, through healthcare systems design, inflammation constitutes a distinct hyper-structure recognizable all the way from a skin sore to sepsis. Both in structured formats, like seminars, as well as in 1:1 mentoring, I deliberately ‘break’ perceived disciplinary boundaries, prompting learners to map such interconnected knowledge. This approach particularly benefits novice learners, not only boosting knowledge gain in the long run, but also a promoting a transferable systems-first framework.
