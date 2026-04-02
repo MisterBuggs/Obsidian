@@ -2,7 +2,7 @@
 modified:
   - 2026-03-23T15:45:27+01:00
   - 2026-04-01T16:38:55+02:00
-  - 2026-04-02T13:35:58+02:00
+  - 2026-04-02T13:40:53+02:00
 created: 2026-03-23T15:41:22+01:00
 tags:
   - MHH
@@ -13,7 +13,7 @@ Mein Name ist Willem Buys und ich begründe zur Zeit meine Arbeitsgruppe zum The
 
 In meiner Facharztausbildung für Innere Medizin, die ich während der δ-Welle der SARS-CoV2 Pandemie am Marienhospital Herne antrat, fokussierte ich mich auf die klinische Interaktion von Immunität und Infektionen. Das ist besonder relevant bei Patienten, bei denen die Vorläuferzellen unseres Immunsystems nicht richtig ausreifen können, beispielsweise unter Chemotherapie, wodurch Patienten oft sehr anfällig für sonst harmlose Infektionen werden. Um den Umgang mit solchen Stamm- und Vorläuferzellen zu lernen ging ich für drei Jahre an die Johns Hopkins School of Medicine in Baltimore, Maryland. Gemeinsam mit Dr. E. T. Zambidis entwarf ich dort das Konzept, zelluläre Immunschwäche nicht mit fertig ausgereiften Immunzellen, sondern mit deren länger-lebigen Vorläuferzellen zu behandeln<sup>2</sup>, und entwickelte eine Methode, diese etwa 10-mal effizienter herzustellen, als mit vormals verfügbaren Methoden. Die Immunzellherstellung aus pluripotenten Stammzellen bietet sich außerdem besonders dafür an, die Zellen entsprechend der therapeutischen Anforderung gezielt gentechnisch zu verändern, beispielsweise um die entstehenden Immunzellen gegen ein bestimmtes Ziel zu richten. In 2024 erweiterte ich daher mein Projekt, um die entstehenden Immunzellen nicht nur gegen opportunistische Infektionen, sondern auch gegen die zugrundeliegende Krebserkrankung selbst einzusetzen<sup>3</sup>. 
 
-Nach Abschluss dieses Projekts kehrte ich 
+Nach Abschluss dieses Projekts fand ich im Zelltherapiezentrum (CTC) der hämatologischen Klinik hier an der Medizinischen Hochschule Hannover meine neue akademische Heimat. Ich freue mich, der tiefgreifenden Erfahrung zur Zelltherapieherstellung am CTC meine Expertise zur Stammzellkultur hinzufügen zu können, um das von mir entwickelte Therapiekonzept regulationskonform zu realisieren und damit eines Tages tatsächlich Patienten mit schwer zu behandelnden Infektionen helfen zu können. Hierzu plane ich, 1) die strukturierte Herst
 
 1. [Precision Immunotherapy to Improve Sepsis Outcomes: The ImmunoSep Randomized Clinical Trial | JAMA](https://www.doi.org/10.1001/jama.2025.24175)
 2. [Harnessing bioengineered myeloid progenitors for precision immunotherapies | NPJ Regen Med](https://doi.org/10.1038/s41536-023-00343-x)
