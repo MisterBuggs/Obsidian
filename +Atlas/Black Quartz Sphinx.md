@@ -1,10 +1,12 @@
 ---
 modified:
   - 2026-04-06T11:45:15+02:00
-  - 2026-04-07T15:07:23+02:00
+  - 2026-04-07T15:39:50+02:00
 created: 2026-04-06T08:07:51+02:00
+Summary:
 ---
 #MTG #Writing #Random_Idea
+TLDR: Perfect pangrams are sentences including every letter of a given alphabet exactly once. It would be cool to construct an MTG card that also is a perfect pangram of the English language, allowing MTG-specific proper nouns and abbreviations. ^678e31
 
 Based on the almost perfect pangram (29/26 letters of the English alphabet): "Sphinx of black quartz, judge my vow"
 - revolves around having the opponent pledge something to you and seeing if they made up on it during their upkeep? 
