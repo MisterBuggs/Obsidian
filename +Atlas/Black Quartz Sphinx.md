@@ -1,9 +1,10 @@
 ---
 modified:
   - 2026-04-06T11:45:15+02:00
+  - 2026-04-07T14:59:29+02:00
 created: 2026-04-06T08:07:51+02:00
 ---
-#MTG #Writing 
+#MTG #Writing #Idea 
 
 Based on the pangram: "Sphinx in black quartz, judge my vow"
 - revolves around having the opponent pledge something to you and seeing if they made up on it during their upkeep? 
@@ -16,3 +17,5 @@ It would be nice if the card itself was a pangram
 https://wordsmithingtools.com/pangram-generator
 https://pangram.me/
 First check which card types are even compatible with a pangram card, i.e., which card types don't have repeating letters in and of themselves. 
+
+Apparently there are very few perfect pangrams
