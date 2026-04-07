@@ -9,6 +9,7 @@ created: 2026-03-26T15:27:47+01:00
 tags:
   - MHH
   - Statistic
+  - BayBE
 ---
 - Consider starting with whether already reverted cells can be cultured and passaged in new media to allow for greater parallelization.
 - This may enable a step-up approach of starting with the greatest set of cell lines that I *can* revert using the current L4i method, then adding more cell lines one by one, until the expected improvement for the next batch of conditions is <0.5%.
