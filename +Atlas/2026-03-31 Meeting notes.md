@@ -2,7 +2,7 @@
 modified:
   - 2026-03-31T15:55:16+02:00
   - 2026-04-01T11:45:59+02:00
-  - 2026-04-07T11:36:47+02:00
+  - 2026-04-07T11:59:09+02:00
 created: 2026-03-31T15:50:20+02:00
 author:
   - Willem Buys
@@ -72,4 +72,4 @@ A primitive concept for rendering tags as folders to dynamically toggle between 
 ![[Folder View for eLabFTW_V1.pptx]]
  Concept for a variable rendered visualization of the notebook as 1) clustered knowledge graph, similar to obsidian, 2) virtual folder tree derived from tags by ordering tags by count and creating folder icons on a 2D board of the n most common tags. When such a *folder* is opened, it's added to the tag filter string and the process is repeated, i.e., the n most common tags in the current string of tags are visualized as if they were folders. A file that only has the current string of tags is displayed as if it resided in that *folder*, possibly on the same level as deeper *folders*. Moving experiments into *folders* in this view adds all tags of the current filter strong to it, and 3) like (2), but the n most common tags are instead displayed along a 2D hierarchy of tag-specific group size, as ordered bar graph. Clicking a bar then adds that tag to the filter string and displays the next ordered bar graph, i.e., article counts that carry the current search string and at least one more tag, ordered by tag-group size, 4) like (1) but with creation time or last modified time on one axis of the graph, possibly also 5) like 4, but with time created on one and last modified on the other axis, possibly with stepped trails representing articles added to tag groups over time, a bit like a [string diagram](https://virginian.mdodd.com/string_diag.html). Alternatively, rainbow coloring for tags. 
 
-Good tagging may be assisted by a simple LLM backend using SAIA. [Building an Gmail Auto Labeler With LLMs: A Step-by-Step Guide](https://murraycole.com/posts/gmail-auto-labeler-llm)
+Good tagging may be assisted by a simple LLM backend using SAIA, e.g., [Building an Gmail Auto Labeler With LLMs: A Step-by-Step Guide](https://murraycole.com/posts/gmail-auto-labeler-llm), [Google Workspace Studio Tutorial: Auto-Organize Your Inbox with Smart Labels & Priority Notifications - DEV Community](https://dev.to/gde/google-workspace-studio-tutorial-auto-organize-your-inbox-with-smart-labels-priority-3493), 
