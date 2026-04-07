@@ -2,7 +2,7 @@
 modified:
   - 2026-03-31T15:55:16+02:00
   - 2026-04-01T11:45:59+02:00
-  - 2026-04-07T12:46:55+02:00
+  - 2026-04-07T13:34:07+02:00
 created: 2026-03-31T15:50:20+02:00
 author:
   - Willem Buys
@@ -76,4 +76,4 @@ Good tagging may be assisted by a simple LLM backend using SAIA, e.g., [Building
 
 AI mentions building a tag/tag correlation matrix, then extracting its minimal spanning tree; possibly plus creating fixed hierarchies based on commonly threaded paths by each user. 
 
-This is a simple method that also allows to simplify full nesting. [vrtmrz/obsidian-tagfolder](https://github.com/vrtmrz/obsidian-tagfolder)
+This is a simple method that also recognizes and "cleans up" full but not partial nesting. [vrtmrz/obsidian-tagfolder](https://github.com/vrtmrz/obsidian-tagfolder)
