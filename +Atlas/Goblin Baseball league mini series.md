@@ -5,7 +5,7 @@ modified:
   - 2026-03-21T19:56:51+01:00
   - 2026-03-19T15:30:55+01:00
   - 2026-03-26T10:07:47+01:00
-  - 2026-04-08T09:10:38+02:00
+  - 2026-04-08T09:13:56+02:00
 created: 2026-03-19T15:05:43+01:00
 tags:
   - Leisure
@@ -126,30 +126,30 @@ T: Roll a four‑sided die. Add mana based on the result:
 1 — {R}
 2 — {W}
 3 — {U}
-4 — Add one mana each of {R}, {W}, and {U}
+4 — Add one mana each of {R}, {W}, and {U}.
 
 ## Away Field
 Special Land — Baseball Stadium
 Away Field doesn’t untap during your untap step unless your opponent attacked last turn.
-{T}: Add R, W, or U.
+{T}: Add {R}, {W}, or {U}.
 
-## Goblin Soldiers Home Stadium
+## Goblin Outlaws Home Stadium
 Special Land — Baseball Plains Stadium  
 Steppe Goblin Stadium enters the battlefield tapped and doesn’t untap during your untap step unless you dealt combat damage last turn.  
-T: Add W W.
+{T}: Add {W, W}.
 
 ## Goblin Pirates Home Stadium
 Pirate Goblin Stadium enters the battlefield tapped and doesn’t untap during your untap step unless you dealt combat damage last turn.  
-T: Add U U.
+{T}: Add {U, U}.
 
 ## Goblin Raiders Home Stadium
 Special Land — Baseball Mountain Stadium  
 Cave Goblin Stadium enters the battlefield tapped and doesn’t untap during your untap step unless you dealt combat damage last turn.  
-T: Add R R.
+{T}: Add {R, R}.
 
 ## Grix, Commissioner of the Storm
 1RWU — Legendary Planeswalker — Goblin **Loyalty: 1**
 You may activate one of Grix’s loyalty abilities an additional time each turn for each *non‑token* creature you control that dealt combat damage to a player this turn.
 +1 — **ZAP!!1!** Grix deals 1 damage to any target.
-–9 — **Weather Break** Each player shuffles all creatures they control into their library, then draws that many cards. They may cast any number of creature spells drawn this way without paying their mana costs.
+–9 — **Weather Break** Each player shuffles all creatures they control into their library, then scrys that many cards. They may cast any number of creature spells drawn this way without paying their mana costs.
 –27 — **Series canceled** Target opponent loses the game.
