@@ -5,7 +5,7 @@ modified:
   - 2026-03-21T19:56:51+01:00
   - 2026-03-19T15:30:55+01:00
   - 2026-03-26T10:07:47+01:00
-  - 2026-04-08T08:55:02+02:00
+  - 2026-04-08T08:59:19+02:00
 created: 2026-03-19T15:05:43+01:00
 tags:
   - Leisure
@@ -24,17 +24,19 @@ When a creature deals combat damage this turn, you may sacrifice it. If you do, 
 ## Goblin Youth Coach, **RW**
 2/2
 Creature — Goblin Baseball Advisor
-Whenever a creature with power or toughness less than Goblin Youth Coach enters the battlefield under your control, bolster 1. 
-A creature bolstered this way gains ward 1 until end of turn.
+Whenever a creature with power or toughness less than Goblin Youth Coach enters the battlefield under your control, bolster {1}. 
+A creature bolstered this way gains ward {1} until end of turn.
 "Alright, lil lad, here's your helmet, bat, glove, now RUN!!1!"
 
 ## Goblin League Coach, **1RU**
 2/2
 Creature - Goblin Baseball Advisor
-XW, T: Support X+X.
+{X, W}, {T}: 
+Support {X}
+Support {X}
 "Alright, big lad, here's how you play this, now GO!!1!"
 
-## Goblin Rookie, R/W
+## Goblin Rookie, **R/W**
 Creature - Goblin Baseball Novice
 0/1
 Evolve
@@ -48,19 +50,19 @@ Evolve, Haste
 While attacking together with one or more Goblins, Goblin Hitter Prodigy prodigy has the abilities of all other Goblins in the attack. 
 "No, they didn't... How's that even POSSIBLE?!1!" 
 
-## Blue Jaces Drive Hitter, 1U
+## Goblin Pirate Drive Hitter, **1U**
 Creature - Goblin Baseball Batter
 2/1
-When this creature dies after dealing combat damage this turn, you may return it to your library instead. If you do, shuffle, then Scry X, where X is the damage this creature dealt to target opponent this turn. If one of the scryed cards has the same name as this card, you may cast it without paying its mana cost. 
-"Back to the dug out for a quick pep talk and, wait a second, looks like they got another inning IN THEM!!1!"
+When this creature dies after dealing combat damage this turn, you may return it to your library instead. If you do, shuffle, then Scry {X}, where {X} is the damage this creature dealt to target opponent this turn. If one of the scryed cards has the same name as this card, you may cast it without paying its mana cost. 
+"Back to the dug out for a quick pep talk and, wait a second, looks like they got another inning IN THEM!!1! - Goblin Baseball Commentator."
 
-## Red Socked Drive Hitter, **1R**  
+## Goblin Raider Drive Hitter, **1R**  
 Creature — Goblin Baseball Batter
 2/1  
 When Red Socked Drive Hitter deals combat damage to a player, you may sacrifice it. If you do, Goblin Drive Hitter deals damage to target opponent equal to its power.
 "And he's still RUNNIN'!!1!"
 
-## White Socked Drive Hitter, **1W**  
+## Goblin  Drive Hitter, **1W**  
 Creature — Goblin Baseball Batter
 2/1  
 Whenever White Socked Drive Hitter deals combat damage to a player, put a +1/+1 counters on it.  
