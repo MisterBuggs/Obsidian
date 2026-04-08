@@ -147,8 +147,9 @@ Special Land — Baseball Mountain Stadium
 Cave Goblin Stadium enters the battlefield tapped and doesn’t untap during your untap step unless you dealt combat damage last turn.  
 {T}: Add {R, R}.
 
-## Grix, Commissioner of the Storm
-1RWU — Legendary Planeswalker — Goblin **Loyalty: 1**
+## Grix, Commissioner of the Storm, **1RWU**
+Legendary Planeswalker — Goblin
+**Loyalty: {1}**
 You may activate one of Grix’s loyalty abilities an additional time each turn for each *non‑token* creature you control that dealt combat damage to a player this turn.
 +1 — **ZAP!!1!** Grix deals 1 damage to any target.
 –9 — **Weather Break** Each player shuffles all creatures they control into their library, then scrys that many cards. They may cast any number of creature spells drawn this way without paying their mana costs.
