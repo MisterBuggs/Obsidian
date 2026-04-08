@@ -5,6 +5,8 @@ modified:
 created: 2026-03-16T15:31:22+01:00
 tags:
   - JHU
+  - L4i
+  - Writing
 ---
 - Present [[+Effort/E32C6|E32C6]] HD1 for non-permissive lines, [[+Effort/JHU/E32C|E32C4]] for insufficient lineage commitment in E8, and [[E5C3 dTomato]] for a good line that got even higher numbers in L4i.
 - Present [[E5C3 dTomato]] functionality.
