@@ -5,7 +5,7 @@ modified:
   - 2026-03-21T19:56:51+01:00
   - 2026-03-19T15:30:55+01:00
   - 2026-03-26T10:07:47+01:00
-  - 2026-04-08T11:10:18+02:00
+  - 2026-04-08T11:25:27+02:00
 created: 2026-03-19T15:05:43+01:00
 tags:
   - Leisure
@@ -101,7 +101,11 @@ Target opponent selects a creature card out of your library. Put it on the battl
 
 ## Root, Root, Root, **RWU**
 Enchantment
-On starting player's upkeep, each non-starting player may pay {3} or lose 3 life. Starting player gains mana and life equal to the mana and life lost this way. Starting player plays with their hand revealed.
+At the beginning of each non-starting player’s upkeep, that player votes CHEER or JEER.
+JEER — That player loses 3 life.  
+CHEER — The starting player gains 3 life.
+If the starting player gained life this way, they play with their hand revealed during their next turn.
+
 
 ## World Series Stadium
 Mythic Land — Baseball Stadium
