@@ -5,7 +5,7 @@ modified:
   - 2026-03-21T19:56:51+01:00
   - 2026-03-19T15:30:55+01:00
   - 2026-03-26T10:07:47+01:00
-  - 2026-04-08T08:59:19+02:00
+  - 2026-04-08T09:06:17+02:00
 created: 2026-03-19T15:05:43+01:00
 tags:
   - Leisure
@@ -59,25 +59,25 @@ When this creature dies after dealing combat damage this turn, you may return it
 ## Goblin Raider Drive Hitter, **1R**  
 Creature — Goblin Baseball Batter
 2/1  
-When Red Socked Drive Hitter deals combat damage to a player, you may sacrifice it. If you do, Goblin Drive Hitter deals damage to target opponent equal to its power.
+When this creature deals combat damage to a player, you may sacrifice it. If you do, this creature deals damage to target opponent equal to its power.
 "And he's still RUNNIN'!!1!"
 
-## Goblin  Drive Hitter, **1W**  
+## Goblin Outlaw Drive Hitter, **1W**  
 Creature — Goblin Baseball Batter
-2/1  
-Whenever White Socked Drive Hitter deals combat damage to a player, put a +1/+1 counters on it.  
+2/1
+Whenever this creature deals combat damage to a player, put a +1/+1 counter on it.  
 "Another base, he gets another BASE!!1!"
 
-## Goblin Joe from the West, **2RWU**
-2/4
+## Goblin Joe from the West, **RWU**
+1/4
 Creature - Legendary Goblin Baseball Referee, 
-UW, T: Counter target spell unless its controller sacrifices permanents with total mana value greater than or equal to that spell’s mana value. 
+{U, W}, {T}: Counter target spell unless its controller sacrifices permanents with total mana value greater than or equal to that spell’s mana value. 
 "It's out WHEN I SAY IT IS!!1!"
 
 ## Goblin Baby Ruthless, **1RWU**
 5/2
 Legendary Creature - Goblin Baseball Batter
-At the beginning of combat on your turn, choose a number X. If an opponent is dealt exactly X damage this turn, distribute X +1/+1 tokens among creatures you control. 
+At the beginning of combat on your turn, choose a number {X}. If an opponent is dealt exactly {X} damage this turn, distribute {X} +1/+1 tokens among creatures you control. 
 "Ruthless calls the shot as he puts home run no. 2 right into the FIELD!!1! - Baffled Goblin Reporter".
 
 ## Goblin Team Captain, **2RWU**
