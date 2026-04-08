@@ -5,7 +5,7 @@ modified:
   - 2026-03-21T19:56:51+01:00
   - 2026-03-19T15:30:55+01:00
   - 2026-03-26T10:07:47+01:00
-  - 2026-04-08T10:56:00+02:00
+  - 2026-04-08T11:00:59+02:00
 created: 2026-03-19T15:05:43+01:00
 tags:
   - Leisure
@@ -100,8 +100,8 @@ Sorcery
 Target opponent selects a creature card out of your library. Put it on the battlefield under your control without paying its mana cost. It has haste. Then shuffle your library.
 
 ## Root, Root, Root, **RWU**
-Enchantment
-During starting player's upkeep, each non-starting player discards the top card of their library, discards a card from their hand, and sacrifices a permanent. Starting player may cast these cards 
+Sorcery
+Each non-starting player loses 3 life and starting player gains 3 life. At the beginning of their next upkeep, starting player 
 
 ## World Series Stadium
 Mythic Land — Baseball Stadium
