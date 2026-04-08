@@ -5,7 +5,7 @@ modified:
   - 2026-03-21T19:56:51+01:00
   - 2026-03-19T15:30:55+01:00
   - 2026-03-26T10:07:47+01:00
-  - 2026-04-08T10:50:30+02:00
+  - 2026-04-08T10:56:00+02:00
 created: 2026-03-19T15:05:43+01:00
 tags:
   - Leisure
@@ -100,10 +100,8 @@ Sorcery
 Target opponent selects a creature card out of your library. Put it on the battlefield under your control without paying its mana cost. It has haste. Then shuffle your library.
 
 ## Root, Root, Root, **RWU**
-Sorcery
-Starting player draws a card, returns a 
-Starting player creates a treasure token.
-Starting player creates a treasure token.
+Enchantment
+During starting player's upkeep, each non-starting player discards the top card of their library, discards a card from their hand, and sacrifices a permanent. Starting player may cast these cards 
 
 ## World Series Stadium
 Mythic Land — Baseball Stadium
