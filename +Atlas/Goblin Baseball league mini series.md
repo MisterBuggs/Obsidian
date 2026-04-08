@@ -5,7 +5,7 @@ modified:
   - 2026-03-21T19:56:51+01:00
   - 2026-03-19T15:30:55+01:00
   - 2026-03-26T10:07:47+01:00
-  - 2026-04-08T09:06:17+02:00
+  - 2026-04-08T09:10:38+02:00
 created: 2026-03-19T15:05:43+01:00
 tags:
   - Leisure
@@ -17,9 +17,9 @@ Goblin Baseball league mini series for MTG, Work in Progress:
 Enchantment
 At the beginning of combat on your turn, each opponent may pay {1}. For each mana paid this way, create a Food token. Each opponent who didn’t pay this way doesn’t untap nonland permanents they control during their next untap step. *No peanuts, no play!!1! - Annoying Goblin Child.*
 
-## I don't care if I ever come back, **2RWU**
-Sorcery
-When a creature deals combat damage this turn, you may sacrifice it. If you do, it deals damage to that opponent equal to its power.
+## I don't care if I ever come back, **RU**
+Instant
+Sacrifice a creature that dealt combat damage to an opponent this turn. It deals damage to that opponent equal to its power.
 
 ## Goblin Youth Coach, **RW**
 2/2
@@ -86,7 +86,7 @@ Mythic Creature - Goblin Baseball Captain
 Whenever Goblin Team Captain attacks, each other attacking Goblin gains the abilities of all other attacking Goblins until end of combat.
 ## Bases Loaded, **XRWU**  
 Sorcery  
-Choose X creatures you control. They gain trample until end of turn.  
+Choose {X} creatures you control. They gain trample until end of turn.  
 Whenever a creature you control deals combat damage to an opponent this turn,  
 you may return it to its owner’s library. If you do, the creature deals damage to that opponent equal to its power. 
 
@@ -97,7 +97,7 @@ After this main phase, there is an additional combat phase followed by an additi
 
 ## Take Me Out, **UW**
 Sorcery
-Target opponent selects a creature card out of your library. Put it on the battlefield under your control without paying its mana cost. It has haste. Shuffle your library.
+Target opponent selects a creature card out of your library. Put it on the battlefield under your control without paying its mana cost. It has haste. Then shuffle your library.
 
 ## Root, Root, Root, **RWU**
 Sorcery
@@ -106,32 +106,32 @@ Target opponent selects a creature they control. You gain control of that creatu
 ## World Series Stadium
 Mythic Land — Baseball Stadium
 The player with the highest life total controls World Series Stadium. 
-T: Add R, W, or U.
+{T}: Add {R}, {W}, or {U}.
 
 ## Pee Wee Goblin League
 Special Land — Baseball Training Stadium
-T: Create a 0/1 red Goblin Rookie creature token with evolve.
-T, Sacrifice a Goblin: Add R, W, or U. 
+{T}: Create a 0/1 red Goblin Rookie creature token with evolve.
+{T}, Sacrifice a Goblin: Add {R}, {W}, or {U}. 
 
 ## Derby
 Special Land — Baseball Stadium
-1: Take control of this land. Each player may activate this ability. 
-T: Add R, W, or U.  
-“Boo, no, Yeah, no, Foul play!”
+{2}: Take control of this land. Each player may activate this ability. 
+{T}: Add {R}, {W}, or {U}. 
+“Boo, no, Yeah, no, Foul play!!1!”
 
 ## Home Field
 Mythic Land — Baseball Stadium
 Home Field doesn’t untap during your untap step unless you dealt combat damage last turn.
 T: Roll a four‑sided die. Add mana based on the result:
-1 — R
-2 — W
-3 — U
-4 — Add one mana of each of R, W, and U
+1 — {R}
+2 — {W}
+3 — {U}
+4 — Add one mana each of {R}, {W}, and {U}
 
 ## Away Field
 Special Land — Baseball Stadium
 Away Field doesn’t untap during your untap step unless your opponent attacked last turn.
-T: Add R, W, or U.
+{T}: Add R, W, or U.
 
 ## Goblin Soldiers Home Stadium
 Special Land — Baseball Plains Stadium  
