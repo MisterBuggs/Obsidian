@@ -5,7 +5,7 @@ modified:
   - 2026-03-21T19:56:51+01:00
   - 2026-03-19T15:30:55+01:00
   - 2026-03-26T10:07:47+01:00
-  - 2026-04-08T11:06:12+02:00
+  - 2026-04-08T11:10:18+02:00
 created: 2026-03-19T15:05:43+01:00
 tags:
   - Leisure
@@ -101,9 +101,7 @@ Target opponent selects a creature card out of your library. Put it on the battl
 
 ## Root, Root, Root, **RWU**
 Enchantment
-At the beginning of each non-starting player's upkeep, they secretly vote CHEER or JEER. At the beginning of starting player's upkeep, reveal the votes.
-Place a CHEER counter on this enchantment for every CHEER vote.
-Opponents who voted JEER receive a poison counter.
+On starting player's upkeep, each non-starting player may pay {3} or lose 3 life. Starting player gains mana and life equal to the mana and life lost this way. Starting player plays with their hand revealed.
 
 ## World Series Stadium
 Mythic Land — Baseball Stadium
