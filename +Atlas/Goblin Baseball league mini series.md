@@ -5,6 +5,7 @@ modified:
   - 2026-03-21T19:56:51+01:00
   - 2026-03-19T15:30:55+01:00
   - 2026-03-26T10:07:47+01:00
+  - 2026-04-08T08:35:46+02:00
 created: 2026-03-19T15:05:43+01:00
 tags:
   - Leisure
@@ -13,8 +14,8 @@ tags:
 ---
 Goblin Baseball league mini series for MTG, Work in Progress:
 ## Buy me some peanuts, **WU**
-Instant
-Target opponent cannot attack or block this turn unless they pay 2 to create 1 Food Token under your control.
+Enchantment
+At the beginning of combat, after attackers are declared, opponents may pay **2** to create a Food Token under your control. If they don't they cannot attack or block this turn. *No peanuts, no play.*
 
 ## I don't care if I ever come back, **2RWU**
 Sorcery
