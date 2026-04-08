@@ -5,7 +5,7 @@ modified:
   - 2026-03-21T19:56:51+01:00
   - 2026-03-19T15:30:55+01:00
   - 2026-03-26T10:07:47+01:00
-  - 2026-04-08T09:14:31+02:00
+  - 2026-04-08T09:30:22+02:00
 created: 2026-03-19T15:05:43+01:00
 tags:
   - Leisure
@@ -101,7 +101,8 @@ Target opponent selects a creature card out of your library. Put it on the battl
 
 ## Root, Root, Root, **RWU**
 Sorcery
-Target opponent selects a creature they control. You gain control of that creature and it gains +3/+3. 
+Each opponent secretly votes for CHEER or JEER. Reveal the votes. If all opponents voted JEER, they loose the game. You may tap lands controlled by players who voted CHEER as if it were your lands during this turn.
+
 
 ## World Series Stadium
 Mythic Land — Baseball Stadium
