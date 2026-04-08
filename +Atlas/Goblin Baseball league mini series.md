@@ -5,7 +5,7 @@ modified:
   - 2026-03-21T19:56:51+01:00
   - 2026-03-19T15:30:55+01:00
   - 2026-03-26T10:07:47+01:00
-  - 2026-04-08T08:51:17+02:00
+  - 2026-04-08T08:55:02+02:00
 created: 2026-03-19T15:05:43+01:00
 tags:
   - Leisure
@@ -15,7 +15,7 @@ tags:
 Goblin Baseball league mini series for MTG, Work in Progress:
 ## Buy me some peanuts, **WU**
 Enchantment
-At the beginning of combat on your turn, each opponent may pay {1}. Each opponent who did not pay does not untap any nonland permanents they control during their next untap step. For each mana spent this way, create a Food token under your control.  *No peanuts, no play - Annoying Goblin Child.*
+At the beginning of combat on your turn, each opponent may pay {1}. For each mana paid this way, create a Food token. Each opponent who didn’t pay this way doesn’t untap nonland permanents they control during their next untap step. *No peanuts, no play!!1! - Annoying Goblin Child.*
 
 ## I don't care if I ever come back, **2RWU**
 Sorcery
