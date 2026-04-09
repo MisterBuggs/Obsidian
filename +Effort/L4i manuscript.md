@@ -3,7 +3,7 @@ modified:
   - 2026-04-09T15:48:23+02:00
   - 2026-03-18T11:57:42+01:00
   - 2026-04-01T11:44:56+02:00
-  - 2026-04-09T16:33:39+02:00
+  - 2026-04-09T16:40:02+02:00
 created: 2026-03-16T15:31:22+01:00
 tags:
   - JHU
@@ -29,9 +29,10 @@ tags:
 - Present [[+Effort/E32C6|E32C6]] HD1 for non-permissive lines, [[+Effort/JHU/E32C|E32C4]] for insufficient lineage commitment in E8, and [[E5C3 dTomato]] for a good line that got even higher numbers in L4i.
 - Present [[E5C3 dTomato]] functionality.
 - Frame days 12-13, 16-18, 20 as GMP, Myeloblast, Myelocyte to enable presenting d6 alongside d7 protocols.
-- Show 3D E8 vs L4i (SDV data or HD16 in [[E32C4]])
+- Show 3D E8 vs L4i by SDV data
 - Suppl: 
 	- SDV 3D Ng E8 vs L4i.
+	- WB [[E32C4^]] disaggregated EB and quantitative CFC from disaggregated EB.
 	- MD11HD with [[CFC]].
 	- [[Adherent]] cell [[Flow Cytometry]], e.g., [[E32C4]] HD12 [[E8]] vs [[L4i]] into the supplement?
 	- BB9 / hemangioblast commitment (which most probably also represents what Elefanty is doing).
