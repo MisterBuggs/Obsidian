@@ -3,7 +3,7 @@ modified:
   - 2026-04-09T15:48:23+02:00
   - 2026-03-18T11:57:42+01:00
   - 2026-04-01T11:44:56+02:00
-  - 2026-04-09T16:58:22+02:00
+  - 2026-04-09T17:05:24+02:00
 created: 2026-03-16T15:31:22+01:00
 tags:
   - JHU
@@ -11,24 +11,19 @@ tags:
 # Figures
 [L4i manuscript_Figures_WB.pptx](<file:///O:\L4i manuscript_Figures_WB.pptx>)
 
-# To Do
+# L4i To Do
 #To_Do [[+Calendar/2026-04-09|2026-04-09]]
-- WB / SDV: Ask Elias whether to name 3 boxes by marker or by derived identity
-- WB: Add CD34 mono-pos. / Endothelia box to Flow cytometry plots
-- SDV: Send 1) percentages CD34 / 45 quadrants for experiments of interest, 2) their viability in FACS, 3)Trypan-blue negative (viable) cell count at harvest, 4) original iPSC-number in that culture, 5) volume at each feeding step.
-- WB: Make Sankey-like yellow/green/blue percentage charts for SDV data.
-- SDV: Calculate line graphs for viable cells per ml culture volume and per input iPSC instead of per well. Make Sankey-like yellow/ green/ blue percentage charts for SDV data.
-- WB: Overview teratoma: Which lines do I have imaged and counted already?
-- WB: HD experiment in 3D.
-- WB: Add existing CFC quantifications.
-- SDV: Quantify E8 vs L4i in CFC FACS.
-- SDV: Prepare an overview of what physical cytospin slides and teratoma slides exist in the main lab.
-- WB: Re-gate the L4i interspecies chimera in FlowJo using less conservative gates.
-- [ ]Prepare a report of which L4i vs E8 [teratoma](app://obsidian.md/teratoma) exist, which of these have been photographed, and which of these have been analyzed. Presumably requires SDV or WiLi to [Get files](app://obsidian.md/Get%20files): Look through teratoma boxes. I believe there should be teratoma for at least 3 iPSC lines.
-- [ ] Re-gate the L4i interspecies chimeras using less conservative box gates in FlowJo and match them to photos.
-- [ ] Search for additional HD data, e.g., CFC data, to include with line graphs.
-- [ ] I have to reverse engineer the naming convention for [HD16](app://obsidian.md/E32C4#^6e78e6) to include it as my most significant 3D experiment.
-- [ ] Evaluate newer 3D experiments with SDV, including [E32C4](app://obsidian.md/E32C4) HD19
+- [ ] WB / SDV: Ask Elias whether to name 3 boxes by marker or by derived identity
+- [ ] WB: Add CD34 mono-pos. / Endothelia box to Flow cytometry plots
+- [ ] SDV: Send 1) percentages CD34 / 45 quadrants for experiments of interest, 2) their viability in FACS, 3)Trypan-blue negative (viable) cell count at harvest, 4) original iPSC-number in that culture, 5) volume at each feeding step.
+- [ ] WB: Make Sankey-like yellow/green/blue percentage charts for SDV data.
+- [ ] SDV: Calculate line graphs for viable cells per ml culture volume and per input iPSC instead of per well. Make Sankey-like yellow/ green/ blue percentage charts for SDV data.
+- [ ] WB: Overview teratoma: Which lines do I have imaged and counted already? Presumably requires SDV or WiLi to [Get files](app://obsidian.md/Get%20files): Look through teratoma boxes. I believe there should be teratoma for at least 3 iPSC lines.
+- [ ] SDV: Prepare an overview of what physical cytospin slides and teratoma slides exist in the main lab.
+- [ ] WB: HD experiment in 3D. [[E32C4#^6e78e6|HD16]]. [[E32C4#^4550c0|HD19]]?
+- [ ] WB: Add existing CFC quantifications.
+- [ ] SDV: Quantify E8 vs L4i in CFC FACS.
+- [ ] WB: Re-gate the L4i interspecies chimera in FlowJo using less conservative gates.
 - [ ] scour older powerpoint presentations for good HD / teratoma / chimera figures.
 
 # Process notes
