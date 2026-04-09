@@ -1,10 +1,4 @@
----
-tags:
-  - Daily_Notes
-modified:
-  - 2026-04-07T15:08:10+02:00
-created: 2026-03-19T13:43:34+01:00
----
+#Daily_Notes 
 # To Do
 - [ ] 
 - [ ] 
@@ -13,8 +7,7 @@ created: 2026-03-19T13:43:34+01:00
 # Appointments
 - 
 
-# For tomorrow
-- 
+![[Reminders#Reminders]]
 
 # Random Idea
 - 
