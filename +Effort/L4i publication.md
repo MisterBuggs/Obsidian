@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-09T15:38:51+02:00
+  - 2026-04-09T15:42:50+02:00
   - 2026-03-18T11:57:42+01:00
   - 2026-04-01T11:44:56+02:00
 created: 2026-03-16T15:31:22+01:00
@@ -14,7 +14,7 @@ tags:
 	- MD11HD with [[CFC]].
 	- [[Adherent]] cell [[Flow Cytometry]], e.g., [[E32C4]] HD12 [[E8]] vs [[L4i]] into the supplement?
 
-#To_Do [[+Calendar/2026-04-09]] 
+#To_Do [[+Calendar/2026-04-09|2026-04-09]]
 - Ask Elias whether to name 3 boxes by marker or by derived identity
 - WB: Add CD34 mono-pos. / Endothelia box to Flow cytometry plots
 - SDV: Send percentages CD34 / 45 quadrants for experiments of interest with additionally 1) Viability in that FACS, 2)Trypan-blue negative (viable) cell count at harvest, 3) original iPSC-number in that culture, 4) volume per feeding step, 5) 
@@ -22,4 +22,6 @@ tags:
 - SDV: Calculate line graphs for viable cells per ml culture volume and per input iPSC instead of per well. Make Sankey-like yellow/ green/ blue percentage charts for SDV data.
 - WB: Overview teratoma: Which lines do I have imaged and counted already?
 - WB: HD experiment in 3D.
+- WB: Add existing CFC quantifications.
 - SDV: Quantify E8 vs L4i in CFC FACS.
+- SDV: Prepare an overview of what physical cytospin slides and teratoma slides exist in the main lab.
