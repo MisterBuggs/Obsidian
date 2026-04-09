@@ -3,7 +3,7 @@ modified:
   - 2026-04-09T15:48:23+02:00
   - 2026-03-18T11:57:42+01:00
   - 2026-04-01T11:44:56+02:00
-  - 2026-04-09T16:54:40+02:00
+  - 2026-04-09T16:58:22+02:00
 created: 2026-03-16T15:31:22+01:00
 tags:
   - JHU
@@ -24,6 +24,12 @@ tags:
 - SDV: Quantify E8 vs L4i in CFC FACS.
 - SDV: Prepare an overview of what physical cytospin slides and teratoma slides exist in the main lab.
 - WB: Re-gate the L4i interspecies chimera in FlowJo using less conservative gates.
+- [ ]Prepare a report of which L4i vs E8 [teratoma](app://obsidian.md/teratoma) exist, which of these have been photographed, and which of these have been analyzed. Presumably requires SDV or WiLi to [Get files](app://obsidian.md/Get%20files): Look through teratoma boxes. I believe there should be teratoma for at least 3 iPSC lines.
+- [ ] Re-gate the L4i interspecies chimeras using less conservative box gates in FlowJo and match them to photos.
+- [ ] Search for additional HD data, e.g., CFC data, to include with line graphs.
+- [ ] I have to reverse engineer the naming convention for [HD16](app://obsidian.md/E32C4#^6e78e6) to include it as my most significant 3D experiment.
+- [ ] Evaluate newer 3D experiments with SDV, including [E32C4](app://obsidian.md/E32C4) HD19
+- [ ] scour older powerpoint presentations for good HD / teratoma / chimera figures.
 
 # Process notes
 - Present [[+Effort/E32C6|E32C6]] HD1 for non-permissive lines, [[+Effort/JHU/E32C|E32C4]] for insufficient lineage commitment in E8, and [[E5C3 dTomato]] for a good line that got even higher numbers in L4i.
@@ -33,8 +39,7 @@ tags:
 - Suppl: 
 	- SDV 3D HDNg E8 vs L4i.
 	- WB [[E32C4#^6e78e6|HD16]] 3D HDWB E8 vs L4i disaggregated EB and quantitative CFC from disaggregated EB. Not enough cells for FACS from floaters before CFC. Possibly show results from floating cell CFC with FACS after but not before CFC.
-	- Add? WB [[E32C4#^b95447|HD15]] SPELS is strictly inferior to APEL for L4i due to missing BSA. 
 	- WB [[E32C4#^8b6950|HD18]] composition of EBs together with CD34 fluorescence microscopy [BM organoids](https://1drv.ms/f/c/2c6e7480743f438e/IgBUIQvfYDuBRbGz6dZk6FsGAb1bwiNWQlWSfw0aQPvlQ8c?e=4pquww) (and possibly CD45; @"Malika Sharma" <msharm50@jh.edu>).
 	- MD11HD with [[CFC]].
 	- [[Adherent]] cell [[Flow Cytometry]], e.g., [[E32C4]] HD12 [[E8]] vs [[L4i]] into the supplement?
-	- BB9 / hemangioblast commitment (which most probably also represents what Elefanty is doing).
+	- If data is present in a matched E8 vs L4i manner, e.g., in  [[E32C4#^6e78e6|HD16]], show that these are really just BB9+ hemangioblast (potentially questioning their true HSC status but making them super potent for myeloid cell production)
