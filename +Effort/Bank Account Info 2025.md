@@ -5,7 +5,7 @@ modified:
 created: 2026-03-27T17:17:13+01:00
 tags:
   - Tax
-  - Private
+  - Chores
 ---
 
 | Institute        | Address                                             | Account No | Type    | Subtype                  | max 2025 [€] | Date (max) | Note                                   |
