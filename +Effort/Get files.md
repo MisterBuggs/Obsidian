@@ -5,12 +5,13 @@ modified:
   - 2026-03-25T15:02:00+01:00
   - 2026-03-19T15:52:42+01:00
   - 2026-03-30T09:32:46+02:00
-  - 2026-04-09T10:09:15+02:00
+  - 2026-04-09T10:37:21+02:00
 created: 2026-03-16T15:03:44+01:00
 tags:
   - JHU
 ---
-- [ ] Cytospin specimen for HD11
+- [ ] Cytospin specimen for HD11, as well as any other non-imaged cytospin specimen
+- [ ] Non-imaged teratoma specimen
 
 Critical:
 - [x] Exp_20240826_HD11 and experiments at roughly the same time by other experimenters, e.g., WL, SD: HD11 had measurements of cytokines and a CFC assay, which were performed by Sanskruti Deshmukh.
