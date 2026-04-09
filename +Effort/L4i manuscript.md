@@ -3,7 +3,7 @@ modified:
   - 2026-04-09T15:48:23+02:00
   - 2026-03-18T11:57:42+01:00
   - 2026-04-01T11:44:56+02:00
-  - 2026-04-09T16:45:48+02:00
+  - 2026-04-09T16:49:19+02:00
 created: 2026-03-16T15:31:22+01:00
 tags:
   - JHU
@@ -33,6 +33,7 @@ tags:
 - Suppl: 
 	- SDV 3D HDNg E8 vs L4i.
 	- WB [[E32C4#^6e78e6|HD16]] 3D HDWB E8 vs L4i disaggregated EB and quantitative CFC from disaggregated EB. Not enough cells for FACS from floaters before CFC. Possibly show results from floating cell CFC with FACS after but not before CFC.
+	- WB [[E32C4#^8b6950|HD18]] composition of EBs together with CD34 fluorescence microscopy [BM organoids](https://1drv.ms/f/c/2c6e7480743f438e/IgBUIQvfYDuBRbGz6dZk6FsGAb1bwiNWQlWSfw0aQPvlQ8c?e=4pquww) (and possibly CD45; @"Malika Sharma" <msharm50@jh.edu>).
 	- MD11HD with [[CFC]].
 	- [[Adherent]] cell [[Flow Cytometry]], e.g., [[E32C4]] HD12 [[E8]] vs [[L4i]] into the supplement?
 	- BB9 / hemangioblast commitment (which most probably also represents what Elefanty is doing).
