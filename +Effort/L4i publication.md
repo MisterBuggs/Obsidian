@@ -25,3 +25,4 @@ tags:
 - WB: Add existing CFC quantifications.
 - SDV: Quantify E8 vs L4i in CFC FACS.
 - SDV: Prepare an overview of what physical cytospin slides and teratoma slides exist in the main lab.
+- WB: Re-gate the L4i interspecies chimera in FlowJo using less conservative gates.
