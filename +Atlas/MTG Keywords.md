@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-10T11:37:20+02:00
+  - 2026-04-10T12:25:52+02:00
   - 2026-03-25T14:42:25+01:00
   - 2026-03-24T21:58:16+01:00
 created: 2026-03-24T09:58:45+01:00
@@ -15,4 +15,4 @@ Whenever this creature leaves the battlefield, create a token that’s a copy of
 ### Recursive
 You may begin the game with this card in your graveyard. If you do, when it dies, shuffle it into its owner’s library.
 ### Recipe {COST}
-You may cast this card for {COST}. If you do, before it resolves, create a copy of this card, then counter it, and return it to your hand. 
+When you cast this card, before it resolved, you may retYou may cast this card for an additional {COST}. If you do, counter it. create a copy of this card, then counter it, and return it to your hand. 
