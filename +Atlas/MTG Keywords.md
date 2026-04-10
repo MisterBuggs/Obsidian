@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-10T12:31:02+02:00
+  - 2026-04-10T13:10:50+02:00
   - 2026-03-25T14:42:25+01:00
   - 2026-03-24T21:58:16+01:00
 created: 2026-03-24T09:58:45+01:00
@@ -14,5 +14,5 @@ If this creature would die, you may sacrifice another creature you control inste
 Whenever this creature leaves the battlefield, create a token that’s a copy of it, except it has vanishing N. 
 ### Recursive
 You may begin the game with this card in your graveyard. If you do, when it dies, shuffle it into its owner’s library.
-### Recipe {COST}
-When you cast this card, you may pay an additional {COST}. If you do, counter it. Then, create a copy of this card on the stack. 
+### Mold {COST}
+When this card enters the stack, you may pay {COST}. If you do, create a copy of this card on the stack
