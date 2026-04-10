@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-10T13:10:50+02:00
+  - 2026-04-10T15:21:53+02:00
   - 2026-03-25T14:42:25+01:00
   - 2026-03-24T21:58:16+01:00
 created: 2026-03-24T09:58:45+01:00
@@ -15,4 +15,4 @@ Whenever this creature leaves the battlefield, create a token that’s a copy of
 ### Recursive
 You may begin the game with this card in your graveyard. If you do, when it dies, shuffle it into its owner’s library.
 ### Mold {COST}
-When this card enters the stack, you may pay {COST}. If you do, create a copy of this card on the stack
+You may pay an additional {COST} to cast this card. If you do, create a copy of this card on the stack. Then counter this card and return it to your hand. 
