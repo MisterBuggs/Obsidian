@@ -13,3 +13,8 @@ Enchantment
 If you would draw a card, instead return a card at random from your graveyard to your hand.
 If a card would be put into your graveyard from anywhere, instead put it on top of your library.
 BBUU: Target player gains control of this card. 
+
+### Hound of Tindalos, 1RBU
+Creature - hound abomination horror
+If a creature card an opponent owns changes zones other than hand->stack, stack->battlefield, battlefield->graveyard, you may put Hound of Tindalos from your hand onto the battlefield without casting it. If you do, it deals damage to that creature equal to its power and has haste. 
+5/4
