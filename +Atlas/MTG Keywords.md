@@ -1,5 +1,6 @@
 ---
 modified:
+  - 2026-04-10T11:37:20+02:00
   - 2026-03-25T14:42:25+01:00
   - 2026-03-24T21:58:16+01:00
 created: 2026-03-24T09:58:45+01:00
@@ -8,4 +9,10 @@ created: 2026-03-24T09:58:45+01:00
 ### Formation
 This creature isn’t destroyed by combat damage as long as you control another attacking creature with formation that isn’t destroyed. 
 ### Parasite
-If this creature would be destroyed, you may sacrifice another creature you control instead.
+If this creature would die, you may sacrifice another creature you control instead.
+### Echo N
+Whenever this creature leaves the battlefield, create a token that’s a copy of it, except it has vanishing N. 
+### Recursive
+You may begin the game with this card in your graveyard. If you do, when it dies, shuffle it into its owner’s library.
+### Recipe {COST}
+You may cast this card for {COST}. If you do, before it resolves, create a copy of this card, then counter it, and return it to your hand. 
