@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-11T23:38:32+02:00
+  - 2026-04-11T23:49:50+02:00
 created: 2026-04-11T01:08:45+02:00
 ---
 #MTG #Leisure #Writing
@@ -29,7 +29,10 @@ When ~ is exiled, you may return it to your library instead, then shuffle. If yo
 ```{-*}``` No mask, no mask!: You win the game, then you lose the game. 
 
 ### The King in Yellow, {1}
-Equipment - Cursed Book
-Equip {1}.
-Equipped creature becomes an [[Unspeakable Promise]] in addition to its other types and gains ![[MTG Keywords#^9c4f56]]When equipped creature deals damage to a player, that player chooses
+Artifact - Cursed Book
+{T}: Discard a card: Target creature becomes an [[Unspeakable Promise]] in addition to its other types and gains ![[MTG Keywords#^9c4f56]]{T}: Sacrifice this card. 
+
+
+
+
 
