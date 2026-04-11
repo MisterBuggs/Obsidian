@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-11T12:42:45+02:00
+  - 2026-04-11T14:47:51+02:00
 created: 2026-04-11T01:08:45+02:00
 ---
 #MTG #Leisure #Writing
@@ -30,4 +30,6 @@ When ~ is exiled, you may return it to your library instead, then shuffle. If yo
 ```{-*}``` No mask, no mask!: You win the game, then you lose the game. 
 
 ### The King in Yellow, {1}
-Artifact Land
+Artifact Land - Manuscript
+{T}, Gain an Insanity counter: Add {Y}. 
+*(During your upkeep, if you have any insanity counters, you may exile a card from your hand. If you don't, reveal and exile X cards from the top of your library, where X is the number of insanity counters you have.)
