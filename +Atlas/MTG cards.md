@@ -1,13 +1,13 @@
 ---
 modified:
-  - 2026-04-11T18:57:11+02:00
+  - 2026-04-11T23:01:09+02:00
 created: 2026-04-11T01:08:45+02:00
 ---
 #MTG #Leisure #Writing
 
 ### Flesh Gardens of Carcosa
 Land - Horror Abomination
-If a creature would enter a graveyard, it is exiled instead. Exiled creatures are plotted. If a plotted creature is cast, it becomes an *Unspeakable Promise* in addition to its other types and gains "Sacrifice this creature: Discard one card. {T}: Add {Y} to your mana pool. Any player may activate this ability on their turn."
+If a creature would enter a graveyard, it is exiled instead. Exiled creatures are plotted. If a plotted creature is cast, it becomes an [[MTG Keywords#Unspeakable Promise|Unspeakable Promise]] in addition to its other types and gains ![[MTG Keywords#^9c4f56]]
 ### Days of future past, UB
 Enchantment
 If you would draw a card, instead return a card at random from your graveyard to your hand.
