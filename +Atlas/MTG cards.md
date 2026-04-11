@@ -28,3 +28,6 @@ If ~ would enter the battlefield without paying its mana cost or would enter the
 When ~ is exiled, you may return it to your library instead, then shuffle. If you do, you may select X permanents you or an opponent controls, where X is the number of *Unspeakable Promises* on the battlefield. Selected permanent become an *Unspeakable Promise* in addition to its other types and gains "{T}, Sacrifice this creature: Add {Y} to your mana pool. Each player may activate this ability on their turn."
 
 ```{-*}``` No mask, no mask!: You win the game, then you lose the game. 
+
+### The King in Yellow, {1}
+Artifact Land
