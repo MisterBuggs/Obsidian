@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-11T16:14:31+02:00
+  - 2026-04-11T18:57:11+02:00
 created: 2026-04-11T01:08:45+02:00
 ---
 #MTG #Leisure #Writing
@@ -34,3 +34,4 @@ Equipment - Cursed Book
 When you cast this card, you may equip it to target creature an opponent controls. 
 Equip {Y}. {Y} is a type of colorless mana that can be used to pay a cost in {Y}. 
 Equipped creature becomes an *Unspeakable Promise* in addition to its other types and gains "Sacrifice this creature: Discard one card from your hand. {T}: Add {Y} to your mana pool. Any player may activate this ability on their turn. During your upkeep, discard 1 card." 
+
