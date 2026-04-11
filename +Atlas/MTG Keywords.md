@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-11T23:00:12+02:00
+  - 2026-04-11T23:19:06+02:00
   - 2026-04-10T22:23:47+02:00
   - 2026-03-25T14:42:25+01:00
   - 2026-03-24T21:58:16+01:00
@@ -22,7 +22,7 @@ While this spell is in your hand, you may pay {COST} to create a copy of it on t
 While this spell is in your hand, you may pay its mana cost to create a copy of it on the stack. It has vanishing N. Activate this ability only any time you could cast this spell.
 *limited to permanents*
 ### Unspeakable Promise 
-[Card type] 
-During your upkeep, create a copy of this card in your hand. It counts towards your maximum hand size. When this card enters a graveyard, return it to its owner's hand. 
-T, Sacrifice this card: Add {Y} to your mana pool.  ^9c4f56
-
+During your upkeep, create an unspeakable promise token in your hand. It counts towards your maximum hand size. 
+Return this card to your hand: Add {Y} to your mana pool. Any player may activate this ability during their turn. ^9c4f56
+```the design intent behind this card is to clog player's hand. If they want to draw any cards they have to cast it. If they cast it, it drains their mana. If it remains on the field, it amplifies, so they gotta sacrifice it. 
+```
