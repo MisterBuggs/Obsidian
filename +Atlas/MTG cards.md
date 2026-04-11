@@ -1,13 +1,14 @@
 ---
 modified:
-  - 2026-04-11T15:42:10+02:00
+  - 2026-04-11T15:51:02+02:00
 created: 2026-04-11T01:08:45+02:00
 ---
 #MTG #Leisure #Writing
 
-### Flesh Gardens of Carcosa, **3BG**
-Enchantment
-If a creature would die, exile it instead. It is plotted. Each player may cast spells plotted this way and may use mana as if it were mana of any color to do so.
+### Flesh Gardens of Carcosa
+Land - Horror Abomination
+If a creature would enter your graveyard, exile it instead. It is plotted. If you cast a plotted creature, it 
+T: Sacrifice a creature. 
 ### Days of future past, UB
 Enchantment
 If you would draw a card, instead return a card at random from your graveyard to your hand.
