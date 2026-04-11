@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-11T08:29:52+02:00
+  - 2026-04-11T08:38:12+02:00
 created: 2026-04-11T01:08:45+02:00
 ---
 #MTG #Leisure #Writing
@@ -16,5 +16,5 @@ BBUU: Target player gains control of this card.
 
 ### Hound of Tindalos, 1RBU
 Creature - hound abomination horror
-While hound of tindalos is in your hand, if a creature is put onto the battlefield from exile, destroy it. Then, you may put Hound of Tindalos from your hand onto the battlefield without casting it and it gains Haste. 
+While hound of tindalos is in your hand, if a spell add or removes more than one time counter from itself or another card during one turn, you may put Hound of Tindalos from your hand onto the battlefield without casting it. Hound of tindalos deals damage to that card's owner equal to its power. 
 5/4
