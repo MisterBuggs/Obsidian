@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-11T23:29:33+02:00
+  - 2026-04-11T23:31:19+02:00
   - 2026-04-10T22:23:47+02:00
   - 2026-03-25T14:42:25+01:00
   - 2026-03-24T21:58:16+01:00
@@ -22,5 +22,5 @@ While this spell is in your hand, you may pay {COST} to create a copy of it on t
 While this spell is in your hand, you may pay its mana cost to create a copy of it on the stack. It has vanishing N. Activate this ability only any time you could cast this spell.
 *limited to permanents*
 ### Unspeakable Promise 
-Your maximum hand size is reduced by 1. During your upkeep, create an [[MTG Keywords#Unspeakable Promise|Unspeakable Promise]] token under your control. X is equal to the number of Unspeakable Promises you control. 
-{X}: Sacrifice this card. Add {Y} to your mana pool for every Unspeakable Promise on the battlefield. Every player may activate this ability during their turn. ^9c4f56
+Your maximum hand size is reduced by 1. During your upkeep, target permanent you control becomes an [[MTG Keywords#Unspeakable Promise|Unspeakable Promise]]. 
+Sacrifice this card: Add {Y} to your mana pool. Every player may activate this ability during their turn. ^9c4f56
