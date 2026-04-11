@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-11T18:57:51+02:00
+  - 2026-04-11T21:41:48+02:00
   - 2026-04-10T22:23:47+02:00
   - 2026-03-25T14:42:25+01:00
   - 2026-03-24T21:58:16+01:00
@@ -23,5 +23,6 @@ While this spell is in your hand, you may pay its mana cost to create a copy of 
 *limited to permanents*
 
 ### Unspeakable Promise [Type of permanent] 
-When this card enters the battlefield under your control, create an unspeakable Promise token in your hand. It has mana value X 
+During your upkeep, create an unspeakable Promise token in your hand. It has mana value X where X is the number of Unspeakable Promises you control. 
+T, Sacrifice this card: Add {Y} to your mana pool. 
 
