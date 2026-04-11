@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-11T11:54:29+02:00
+  - 2026-04-11T12:42:45+02:00
 created: 2026-04-11T01:08:45+02:00
 ---
 #MTG #Leisure #Writing
@@ -24,8 +24,7 @@ Incomprehensible *(this card is every type of permanent with all values equal to
 Loyalty *
 Defense *
 ```*/*```
-If ~ would enter the battlefield without paying its mana cost or would enter the graveyard, exile it instead. 
-
-During your upkeep, if ~ is in your hand or in exile, return it to your library, then shuffle. Then, you may select X permanents you or an opponent controls, where X is the number of *Unspeakable Promises* on the battlefield. Selected permanent become an *Unspeakable Promise* in addition to its other types and gains "{T}, Sacrifice this creature: Add {Y} to your mana pool. Each player may activate this ability on their turn."
+If ~ would enter the battlefield without paying its mana cost or would enter the graveyard, exile it instead. During your upkeep, if ~ is in your hand, exile it. 
+When ~ is exiled, you may return it to your library instead, then shuffle. If you do, you may select X permanents you or an opponent controls, where X is the number of *Unspeakable Promises* on the battlefield. Selected permanent become an *Unspeakable Promise* in addition to its other types and gains "{T}, Sacrifice this creature: Add {Y} to your mana pool. Each player may activate this ability on their turn."
 
 ```{-*}``` No mask, no mask!: You win the game, then you lose the game. 
