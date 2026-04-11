@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-11T09:00:28+02:00
+  - 2026-04-11T09:26:02+02:00
 created: 2026-04-11T01:08:45+02:00
 ---
 #MTG #Leisure #Writing
@@ -21,5 +21,5 @@ While hound of tindalos is in your hand or in exile, if a spell adds or removes 
 
 ### Unspeakable One, **YYYYY**
 Immanent *(Immanent cards are every type of permanent)*
-You cannot cast Unspeakable one other than by paying it's mana cost to c
+If an effect would place Unspeakable One on the battlefield other than by paying its mana cost, During your upkeep, when Unspeakable One is in your hand, shuffle it into your library. 
 If you control ~, you win the game, then lose the game. While ~ is in your library, during your upkeep, you may select X permanents you or an opponent controls, where X is the number of *Unspeakable Promises* on the battlefield. Selected permanents become an *Unspeakable Promise* in addition to their other types and gains "{T}, Sacrifice this creature: Add {Y} to your mana pool. Each player may activate this ability on their turn."
