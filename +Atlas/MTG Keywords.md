@@ -22,5 +22,6 @@ While this spell is in your hand, you may pay {COST} to create a copy of it on t
 While this spell is in your hand, you may pay its mana cost to create a copy of it on the stack. It has vanishing N. Activate this ability only any time you could cast this spell.
 *limited to permanents*
 
-### Unspeakable Promise [Card type] 
+### Unspeakable Promise [Type of permanent] 
+When this card enters the battlefield under your control, create an unspeakable Promise token in your hand. It has mana value X 
 
