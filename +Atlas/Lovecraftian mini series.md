@@ -1,9 +1,15 @@
 ---
 modified:
-  - 2026-04-11T23:49:50+02:00
+  - 2026-04-12T09:41:06+02:00
+  - 2026-04-11T23:51:41+02:00
 created: 2026-04-11T01:08:45+02:00
 ---
 #MTG #Leisure #Writing
+
+Card designs for a Lovecraft-inspired mini set for MTG. 
+I need an insanity mechanic for this mini set. Insanity should decrease hand size (forgetfulness), additionally it might induce some amount of uncontrolled casting, self hurting, loss of control over permanents
+
+
 
 ### Flesh Gardens of Carcosa
 Land - Horror Abomination
@@ -30,9 +36,7 @@ When ~ is exiled, you may return it to your library instead, then shuffle. If yo
 
 ### The King in Yellow, {1}
 Artifact - Cursed Book
-{T}: Discard a card: Target creature becomes an [[Unspeakable Promise]] in addition to its other types and gains ![[MTG Keywords#^9c4f56]]{T}: Sacrifice this card. 
-
-
+{T}: Sacrifice this card or discard a card: Target creature becomes an [[Unspeakable Promise]] in addition to its other types and gains ![[MTG Keywords#^9c4f56]]Each player may activate this ability whenever they could cast a sorcery. 
 
 
 
