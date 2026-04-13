@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-13T14:31:33+02:00
+  - 2026-04-13T14:38:53+02:00
 created: 2026-04-13T12:33:20+02:00
 ---
 #Random_Idea #Philosophy 
@@ -14,9 +14,9 @@ This hinges on the ideas that human joy / human absence of suffering is an absol
 1. Weak longtermism: Joy and suffering have no meaning in the absence of sentient life. A future person thus has no immediate place in our calculation of the utilitarian sum total joy. However, the nearer a potential future, the more probable it is that a certain person will exist and will be capable of suffering as a function of our actions. Thus, we do have to factor the joy of near future generations into our utilitarian sum with a greater factor / lesser uncertainty, the nearer and more certain a potential future is. This is a special case of the more general idea of factoring uncertainty into utilitarianism. It promotes creating conditions that are as good as possible for people alive today while not majorly infringing on the life of people alive in the future, especially the best future. It does not mandate creating new people, except if the act of producing offspring and maintaining social security through upwards generational transfer preserves or produces happiness for people alive today. 
 2. Strong: Joy has an intrinsic, absolute, additive, and non-dilutive value. New joy can be created by creating more people. Creating life thus becomes a moral obligation as long as it's more likely to be net joyful than net suffering. We should create conditions conducive of as many living happy people as possible, even at the expense of some net suffering today with a lesser absolute then the future net joy. 
 
-There exist arguments for strong longtermism, i.e., future peoples' joy supercedes today's peoples' joy in almost so cases,
+There exist arguments for strong longtermism, i.e., future peoples' joy supercedes today's peoples' joy in almost all cases,
 
-But there are also medium longtermism arguments, i.e., joy and suffering of future generations scale with the likely hood of their existence / predictability, 
+But there are also medium longtermism arguments, i.e., joy and suffering of future generations scale with the likelihood of their existence / their predictability, 
 
 And person-affecting views that only factor people who are already alive.
 
@@ -24,4 +24,4 @@ Further reading:
 - https://academic.oup.com/book/60794/chapter/530063399?login=false makes a complex case. A long term future is essentially defined as anything beyond our lives and the lives of people we may personally know, i.e., people we may care about more emotionally. However, even this strong longterm argument concedes, without clearly arguing why, that the best possible long term future should be produced without harming the best future. Instead, it is argued that one should focus on producing the best long term future at the expense of improving the near future but without harming the near future. 
 - https://www.radicalphilosophy.com/commentary/the-toxic-ideology-of-longtermism cites a few important terms like "total aggregate wellbeing, average wellbeing, or wellbeing above a certain critical level" and "'the intuition of neutrality’, that is, the intuition that what matters morally is the quality of peoples’ lives, not how many people there are", which I, too, had raised. Sadly, it discusses few philosophical arguments other than stressing insecurity of projections of the future as a function of today's actions and instead politically argues about "justice", which is not being anchored in any philosophical ground truth by the author's. It's an assessment of the longtermist movement more than the philosophy. 
 - https://umbau.hfg-karlsruhe.de/posts/philosophy-against-the-present-the-foundations-and-critique-of-longtermism gives a thorough summary of longtermisms ideas and philosophical counterarguments. These include uncertainty about the future and an interesting definition of progress as addressing the problems of now upon which new problems arise, which are to be addressed then. 
-The key critiques of longtermism as a philosophy include insecurity of projection 
+The key critiques of strong longtermism as a philosophy include insecurity of projection and the intuition of neutrality. Other than that, there are many arguments rightfully criticizing longtermism as a political movement. 
