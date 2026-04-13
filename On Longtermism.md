@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-13T13:48:18+02:00
+  - 2026-04-13T14:09:01+02:00
 created: 2026-04-13T12:33:20+02:00
 ---
 #Random_Idea #Philosophy 
@@ -22,5 +22,5 @@ And person-affecting views that only factor people who are already alive.
 
 Further reading:
 - https://academic.oup.com/book/60794/chapter/530063399?login=false makes a complex case. A long term future is essentially defined as anything beyond our lives and the lives of people we may personally know, i.e., people we may care about more emotionally. However, even this strong longterm argument concedes, without clearly arguing why, that the best possible long term future should be produced without harming the best future. Instead, it is argued that one should focus on producing the best long term future at the expense of improving the near future but without harming the near future. 
-- https://www.radicalphilosophy.com/commentary/the-toxic-ideology-of-longtermism contains a rather politically tinted introduction but then introduces few important terms like "total aggregate wellbeing, average wellbeing, or wellbeing above a certain critical level" or "'the intuition of neutrality’, that is, the intuition that what matters morally is the quality of peoples’ lives, not how many people there are", which I, too, had raised. 
+- https://www.radicalphilosophy.com/commentary/the-toxic-ideology-of-longtermism cites a few important terms like "total aggregate wellbeing, average wellbeing, or wellbeing above a certain critical level" and "'the intuition of neutrality’, that is, the intuition that what matters morally is the quality of peoples’ lives, not how many people there are", which I, too, had raised. Sadly, it discusses few philosophical arguments other than stressing insecurity of projections of the future as a function of today's actions and instead politically argues about "justice", which is not being anchored in any philosophical ground truth by the author's. It's an assessment of the longtermist movement more than the philosophy. 
 - https://umbau.hfg-karlsruhe.de/posts/philosophy-against-the-present-the-foundations-and-critique-of-longtermism
