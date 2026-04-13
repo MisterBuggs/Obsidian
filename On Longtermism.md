@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-13T13:22:40+02:00
+  - 2026-04-13T13:40:04+02:00
 created: 2026-04-13T12:33:20+02:00
 ---
 #Random_Idea #Philosophy 
@@ -21,6 +21,6 @@ But there are also medium longtermism arguments, i.e., joy and suffering of futu
 And person-affecting views that only factor people who are already alive.
 
 Further reading:
-- https://academic.oup.com/book/60794/chapter/530063399?login=false makes a 
+- https://academic.oup.com/book/60794/chapter/530063399?login=false makes a complex case. A long term future is essentially defined as anything beyond our lives and the lives of people we may personally know, i.e., people we may care about more emotionally. However, even this strong longterm argument concedes, without clearly arguing why, that the best possible long term future should be produced without harming the best future. Instead, it is argued that one should focus on producing the best long term future at the expense of improving the near future but without harming the near future. 
 - https://www.radicalphilosophy.com/commentary/the-toxic-ideology-of-longtermism
 - https://umbau.hfg-karlsruhe.de/posts/philosophy-against-the-present-the-foundations-and-critique-of-longtermism
