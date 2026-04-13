@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-12T14:56:06+02:00
+  - 2026-04-12T15:37:17+02:00
   - 2026-04-11T23:51:41+02:00
 created: 2026-04-11T01:08:45+02:00
 ---
@@ -8,7 +8,12 @@ created: 2026-04-11T01:08:45+02:00
 
 Card designs for a Lovecraft-inspired mini set for MTG. 
 - I need an insanity mechanic for this mini set. Insanity should decrease hand size (forgetfulness), additionally it might induce some amount of non-untapping, uncontrolled casting, self hurting, loss of control over permanents
-- great old ones are the anchors of this set, each an [[MTG Keywords#incompr
+- great old ones are the anchors of this set, each an [[MTG Keywords#Incomprehensible|Incomprehensible]] card with a win condition. Otherwise, each should have their unique mechanic tied to their lore, and a set of card interacting with that mechanic, i.e., their creatures, cult, spells. 
+- Core ideas, Great Old Ones:
+-	Cthulhu
+-	Hastur
+-	Nyarlathotep
+-	Yog-Sototh
 
 
 
