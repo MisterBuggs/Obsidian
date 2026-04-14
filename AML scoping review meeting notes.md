@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-14T16:56:42+02:00
+  - 2026-04-14T16:58:08+02:00
 created: 2026-04-14T16:12:20+02:00
 ---
 Make a table of different columns (connected by an AND statement), with rows representing different OR-connected terms within each AND bracket. 
