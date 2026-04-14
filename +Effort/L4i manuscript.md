@@ -4,7 +4,7 @@ modified:
   - 2026-03-18T11:57:42+01:00
   - 2026-04-01T11:44:56+02:00
   - 2026-04-09T17:05:24+02:00
-  - 2026-04-14T14:32:30+02:00
+  - 2026-04-14T15:45:26+02:00
 created: 2026-03-16T15:31:22+01:00
 tags:
   - JHU
@@ -34,6 +34,9 @@ tags:
 - Show [[E32C4]] E8 vs L4i HD fully 3D using WB growth factors by SDV.
 - Suppl: 
 	- #People/SDV 3D HDNg E8 vs L4i.
+	- [[+Effort/E32C6#^54e3bf|HD3]] media, density optimization, together with HD16 SPELS vs SPELS-BSA. 34/45/BB9 Kinetic? Also in [[+Effort/E32C6#^3c1a3e|HD9]]. 
+	- 
+	- 
 	- WB [[E32C4#^6e78e6|HD16]] 3D HDWB E8 vs L4i disaggregated EB and quantitative CFC from disaggregated EB. Not enough cells for FACS from floaters before CFC. Possibly show results from floating cell CFC with FACS after but not before CFC.
 	- WB [[E32C4#^8b6950|HD18]] composition of EBs together with CD34 fluorescence microscopy [BM organoids](https://1drv.ms/f/c/2c6e7480743f438e/IgBUIQvfYDuBRbGz6dZk6FsGAb1bwiNWQlWSfw0aQPvlQ8c?e=4pquww) (and possibly CD45; @"Malika Sharma" <msharm50@jh.edu>).
 	- MD11HD with [[CFC]].
