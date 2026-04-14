@@ -8,7 +8,6 @@ modified:
 created: 2026-03-24T16:32:27+01:00
 tags:
   - Tax
-  - Chores
 ---
 "info@petzoldt-steuerberatung.de" Steuerberatung Petzoldt, Krefeld
 
