@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-15T19:57:21+02:00
+  - 2026-04-15T20:00:27+02:00
 created: 2026-04-15T19:29:30+02:00
 ---
 #MTG #Writing #Fantasy #Random_Idea #Book [[2026-04-15]] 
@@ -12,3 +12,5 @@ Tap target creature. The next time it would be untapped, it's controller sacrifi
 Or
 Instant
 The next time target creature would untap, its controller sacrifices it instead. 
+
+"Go into the Koselbruch and dig a grave. This shall be your last deed."
