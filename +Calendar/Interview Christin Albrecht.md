@@ -1,7 +1,7 @@
 ---
 modified:
   - 2026-04-14T14:29:16+02:00
-  - 2026-04-15T11:06:19+02:00
+  - 2026-04-15T11:07:13+02:00
 created: 2026-04-14T14:04:04+02:00
 ---
 #MHH #Leadership #Application #People/Christin_Albrecht #Team 
