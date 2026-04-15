@@ -6,7 +6,7 @@ modified:
 created: 2026-03-16T15:35:11+01:00
 tags:
   - JHU
-  - People/SDV
+  - People_SDV
 ---
 #People_SDV  Perform [[RUES2]] or [[H9]] [[L4i​]] & [[E8]] in [[2D]] with [[6+ days]] protocol
 - Repeat [[E32C4]] [[L4i​]] & [[E8]] in [[2D]] with [[6+ days]] protocol
