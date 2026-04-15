@@ -5,19 +5,20 @@ modified:
   - 2026-04-01T11:44:56+02:00
   - 2026-04-09T17:05:24+02:00
   - 2026-04-14T15:45:26+02:00
-  - 2026-04-15T16:28:44+02:00
+  - 2026-04-15T17:10:45+02:00
 created: 2026-03-16T15:31:22+01:00
 tags:
   - JHU
 ---
 # Figures
-[L4i manuscript_Figures_WB.pptx](<file:///O:\L4i manuscript_Figures_WB.pptx>)
+[L4i manuscript_Figures_WB.pptx](<file:///C:\Users\buyswill\OneDrive - mh-hannover.de\L4i manuscript\L4i manuscript_Figures_WB.pptx>)
 
 # L4i To Do
 #To_Do [[+Calendar/2026-04-09|2026-04-09]]
 - [x] WB: Make Sankey-like yellow/green/blue percentage charts for #People_SDV data.
+- [ ] WB: HD experiment in 3D. [HD16](app://obsidian.md/E32C4#^6e78e6). 
 - [ ] WB: Overview teratoma: Which lines do I have imaged and counted already? Presumably requires #People_SDV or #People_WiLi to [Get files](app://obsidian.md/Get%20files): Look through teratoma boxes. I believe there should be teratoma for at least 3 iPSC lines.
-- [ ] WB: HD experiment in 3D. [HD16](app://obsidian.md/E32C4#^6e78e6). [HD19](app://obsidian.md/E32C4#^4550c0)?
+- [ ] Re-analyse [HD19](app://obsidian.md/E32C4#^4550c0)?
 - [x] WB: Add existing CFC quantifications.
 - [x] WB: scour older powerpoint presentations for good HD / teratoma / chimera figures.
 - [ ] WB / #People_SDV : Ask Elias whether to name 3 boxes by marker or by derived identity
