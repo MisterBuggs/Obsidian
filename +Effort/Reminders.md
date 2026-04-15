@@ -8,6 +8,6 @@ created: 2026-04-09T09:39:29+02:00
 - [ ] lack doctor to Haftpflicht, check response
 - [ ] Renter's insurance check response
 - [ ] Indira Photos Indian Clothing
-- [x] Dominique Email Sparplan Unterschriften
+- [ ] Dominique Email Sparplan Unterschriften
 - [ ] call RK landlord for smoke alarm appointment: Are they legit? Will he let them in? 
 - [ ] Friseur Termin WB
