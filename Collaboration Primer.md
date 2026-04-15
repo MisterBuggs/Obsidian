@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-15T11:21:15+02:00
+  - 2026-04-15T11:25:40+02:00
 created: 2026-04-15T11:11:57+02:00
 ---
 - Dr. Henk Garritsen/ Prof. Dr. Thomas Müller IKTM SKBs S3 (Celler Str. 38) Tel.: 0531 -5953675 E-Mail: h.garritsen@skbs.de : Cell therapy survival in vivo, HLA-typing. WB: Check who has this expertise in Hannover.
@@ -8,3 +8,6 @@ created: 2026-04-15T11:11:57+02:00
 - Prof. Dr. Andriy Goychuk Braunschweiger Zentrum für Systembiologie Helmholtz-Zentrum für Infektionsforschung / TU Braunschweig Tel.: 015161400084 E-Mail: andriy.goychuk@helmholtz-hzi.de : Systems biology and mathematics; especially in infection / sepsis.
 - Prof. Dr. Michael Hust Institut für Biochemie, Biotechnologie und Bioinformatik TU Braunschweig Tel.: 0531-391-5760 E-Mail: m.hust@tu-braunschweig.de : Antibody design, Phage library.
 - Prof. Dr. Lothar Jänsch Department Structure and Function of Proteins Helmholtz Centre for Infection Research Tel.: 0531-6181 3030 E-Mail: lothar.jaensch@helmholtz-hzi.de : Proteomics, spatial proteomics.
+- Prof. Dr. Jochen Meier Institute for Cell and Neurobiology Technische Universität Braunschweig Tel.: 0531-391 3254 E-Mail: jochen.meier@tu-bs.de : computational molecular docking studies (but focused on neurotransmitter receptors so far).
+
+Many mathematicians with #Statistic knowledge and potential for #BayBE support.
