@@ -2,6 +2,7 @@
 modified:
   - 2026-04-14T07:31:56+02:00
   - 2026-04-09T09:43:14+02:00
+  - 2026-04-15T08:56:44+02:00
 created: 2026-04-09T09:39:29+02:00
 ---
 # Reminders
@@ -9,5 +10,5 @@ created: 2026-04-09T09:39:29+02:00
 - [ ] Renter's insurance check response
 - [ ] Indira Photos Indian Clothing
 - [ ] Dominique Email Sparplan Unterschriften
-- [ ] call RK landlord for smoke alarm appointment: Are they legit? Will he let them in? 
+- [ ] call minol smoke detector installation service landlord for different smoke alarm appointment.
 - [ ] Friseur Termin WB
