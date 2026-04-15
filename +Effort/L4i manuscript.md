@@ -5,6 +5,7 @@ modified:
   - 2026-04-01T11:44:56+02:00
   - 2026-04-09T17:05:24+02:00
   - 2026-04-14T15:45:26+02:00
+  - 2026-04-15T16:28:44+02:00
 created: 2026-03-16T15:31:22+01:00
 tags:
   - JHU
@@ -14,18 +15,17 @@ tags:
 
 # L4i To Do
 #To_Do [[+Calendar/2026-04-09|2026-04-09]]
-- [ ] WB / #People_SDV : Ask Elias whether to name 3 boxes by marker or by derived identity
-- [ ] WB: Add CD34 mono-pos. / Endothelia box to Flow cytometry plots
-- [ ] #People_SDV: Send 1) percentages CD34 / 45 quadrants for experiments of interest, 2) their viability in FACS, 3)Trypan-blue negative (viable) cell count at harvest, 4) original iPSC-number in that culture, 5) volume at each feeding step.
-- [ ] WB: Make Sankey-like yellow/green/blue percentage charts for #People_SDV data.
-- [ ] #People_SDV: Calculate line graphs for viable cells per ml culture volume and per input iPSC instead of per well. Make Sankey-like yellow/ green/ blue percentage charts for #People_SDV data.
-- [ ] WB: Overview teratoma: Which lines do I have imaged and counted already? Presumably requires #People_SDV or #People_WiLi to [Get files](app://obsidian.md/Get%20files): Look through teratoma boxes. I believe there should be teratoma for at least 3 iPSC lines.
+- [x] WB: Make Sankey-like yellow/green/blue percentage charts for #People_SDV data.
+- [ ] WB: Overview teratoma: Which lines do I have imaged and counted already? Presumably requires #People_SDV or #People_WiLi to [Get files](app://obsidian.md/Get%20files): Look through teratoma boxes. I believe there should be teratoma for at least 3 iPSC lines.
+- [ ] WB: HD experiment in 3D. [HD16](app://obsidian.md/E32C4#^6e78e6). [HD19](app://obsidian.md/E32C4#^4550c0)?
+- [x] WB: Add existing CFC quantifications.
+- [x] WB: scour older powerpoint presentations for good HD / teratoma / chimera figures.
+- [ ] WB / #People_SDV : Ask Elias whether to name 3 boxes by marker or by derived identity
+- [ ] WB / #People_SDV : Discuss taking the d9 timepoint out of  #People_SDV 's percentage plots (yellow / green / blue), as d9 is missing from the Ng protocol data. The official Ng protocol should be measured d13-15; reviewers will criticize that we compare as early as d10-12 instead and do not show late timepoints. Transferring Ng-floaters into terminal diff media until d17  20 would really complement these data.
+- [ ] #People_SDV : Send 1) percentages CD34 / 45 quadrants for experiments of interest, 2) their viability in FACS, 3)Trypan-blue negative (viable) cell count at harvest, 4) original iPSC-number in that culture, 5) volume at each feeding step.
+- [ ] #People_SDV: Calculate line graphs for viable cells per ml culture volume and per input iPSC instead of per well. Make Sankey-like yellow/ green/ blue percentage charts for #People_SDV data.
 - [ ] #People_SDV: Prepare an overview of what physical cytospin slides and teratoma slides exist in the main lab.
-- [ ] WB: HD experiment in 3D. [[E32C4#^6e78e6|HD16]]. [[E32C4#^4550c0|HD19]]?
-- [ ] WB: Add existing CFC quantifications.
-- [ ] #People_SDV: Quantify E8 vs L4i in CFC FACS.
-- [ ] WB: Re-gate the L4i interspecies chimera in FlowJo using less conservative gates.
-- [ ] scour older powerpoint presentations for good HD / teratoma / chimera figures.
+- [ ] #People_SDV: Quantify E8 vs L4i in CFC FACS. 
 
 # Process notes
 - Present [[+Effort/E32C6|E32C6]] HD1 for non-permissive lines, [[+Effort/JHU/E32C|E32C4]] for insufficient lineage commitment in E8, and [[E5C3 dTomato]] for a good line that got even higher numbers in L4i.

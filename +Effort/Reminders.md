@@ -9,6 +9,6 @@ created: 2026-04-09T09:39:29+02:00
 - [ ] lack doctor to Haftpflicht, check response
 - [ ] Renter's insurance check response
 - [ ] Indira Photos Indian Clothing
-- [ ] Dominique Email Sparplan Unterschriften
-- [ ] call minol smoke detector installation service landlord for different smoke alarm appointment.
+- [x] Dominique Email Sparplan Unterschriften
+- [x] call minol smoke detector installation service landlord for different smoke alarm appointment.
 - [ ] Friseur Termin WB
