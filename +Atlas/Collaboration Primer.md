@@ -14,7 +14,7 @@ tags:
 - Prof. Dr. Lothar Jänsch Department Structure and Function of Proteins Helmholtz Centre for Infection Research Tel.: 0531-6181 3030 E-Mail: lothar.jaensch@helmholtz-hzi.de : Proteomics, spatial proteomics.
 - Prof. Dr. Jochen Meier Institute for Cell and Neurobiology Technische Universität Braunschweig Tel.: 0531-391 3254 E-Mail: jochen.meier@tu-bs.de : computational molecular docking studies (but focused on neurotransmitter receptors so far).
 - Prof. Dr. Michael Steinert Institute for Microbiology Technische Universität Braunschweig Tel.: 0531-391 5802 E-Mail: m.steinert@tu-bs.de : Teratoma tissue scanning and AI-based quantification.
-- Also see [Ludwig Lab | Max Delbrück Center](https://www.mdc-berlin.de/ludwig) for individual lineage tracing in hematopoietic tissues through mtDNA and genomic heterogeneity. Recommended by #People/Aparna_Sekar .
+- Also see [Ludwig Lab | Max Delbrück Center](https://www.mdc-berlin.de/ludwig) for individual lineage tracing in hematopoietic tissues through mtDNA and genomic heterogeneity. Recommended by #People_Aparna_Sekar .
 
 Many mathematicians with #Statistic knowledge and potential for #BayBE support.
 ![[TUBS_MHH_SKBS_Steckbriefe 01 (14-04-2026_12-15-27).pdf]]

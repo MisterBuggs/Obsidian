@@ -4,7 +4,7 @@ modified:
   - 2026-04-15T11:07:13+02:00
 created: 2026-04-14T14:04:04+02:00
 ---
-#MHH #Leadership #Application #People/Christin_Albrecht #Team 
+#MHH #Leadership #Application #People_Christin_Albrecht #Team 
 [[2026-04-15]] 10:00
 
 | Question                                                                                             | Response                                                         |

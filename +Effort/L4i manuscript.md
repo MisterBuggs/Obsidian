@@ -14,16 +14,16 @@ tags:
 
 # L4i To Do
 #To_Do [[+Calendar/2026-04-09|2026-04-09]]
-- [ ] WB / #People/SDV : Ask Elias whether to name 3 boxes by marker or by derived identity
+- [ ] WB / #People_SDV : Ask Elias whether to name 3 boxes by marker or by derived identity
 - [ ] WB: Add CD34 mono-pos. / Endothelia box to Flow cytometry plots
-- [ ] #People/SDV: Send 1) percentages CD34 / 45 quadrants for experiments of interest, 2) their viability in FACS, 3)Trypan-blue negative (viable) cell count at harvest, 4) original iPSC-number in that culture, 5) volume at each feeding step.
-- [ ] WB: Make Sankey-like yellow/green/blue percentage charts for #People/SDV data.
-- [ ] #People/SDV: Calculate line graphs for viable cells per ml culture volume and per input iPSC instead of per well. Make Sankey-like yellow/ green/ blue percentage charts for #People/SDV data.
-- [ ] WB: Overview teratoma: Which lines do I have imaged and counted already? Presumably requires #People/SDV or #People/WiLi to [Get files](app://obsidian.md/Get%20files): Look through teratoma boxes. I believe there should be teratoma for at least 3 iPSC lines.
-- [ ] #People/SDV: Prepare an overview of what physical cytospin slides and teratoma slides exist in the main lab.
+- [ ] #People_SDV: Send 1) percentages CD34 / 45 quadrants for experiments of interest, 2) their viability in FACS, 3)Trypan-blue negative (viable) cell count at harvest, 4) original iPSC-number in that culture, 5) volume at each feeding step.
+- [ ] WB: Make Sankey-like yellow/green/blue percentage charts for #People_SDV data.
+- [ ] #People_SDV: Calculate line graphs for viable cells per ml culture volume and per input iPSC instead of per well. Make Sankey-like yellow/ green/ blue percentage charts for #People_SDV data.
+- [ ] WB: Overview teratoma: Which lines do I have imaged and counted already? Presumably requires #People_SDV or #People_WiLi to [Get files](app://obsidian.md/Get%20files): Look through teratoma boxes. I believe there should be teratoma for at least 3 iPSC lines.
+- [ ] #People_SDV: Prepare an overview of what physical cytospin slides and teratoma slides exist in the main lab.
 - [ ] WB: HD experiment in 3D. [[E32C4#^6e78e6|HD16]]. [[E32C4#^4550c0|HD19]]?
 - [ ] WB: Add existing CFC quantifications.
-- [ ] #People/SDV: Quantify E8 vs L4i in CFC FACS.
+- [ ] #People_SDV: Quantify E8 vs L4i in CFC FACS.
 - [ ] WB: Re-gate the L4i interspecies chimera in FlowJo using less conservative gates.
 - [ ] scour older powerpoint presentations for good HD / teratoma / chimera figures.
 
@@ -33,7 +33,7 @@ tags:
 - Frame days 12-13, 16-18, 20 as GMP, Myeloblast, Myelocyte to enable presenting d6 alongside d7 protocols.
 - Show [[E32C4]] E8 vs L4i HD fully 3D using WB growth factors by SDV.
 - Suppl: 
-	- #People/SDV 3D HDNg E8 vs L4i.
+	- #People_SDV 3D HDNg E8 vs L4i.
 	- [[+Effort/E32C6#^54e3bf|HD3]] media, density optimization, together with HD16 SPELS vs SPELS-BSA. 34/45/BB9 Kinetic? Also in [[+Effort/E32C6#^3c1a3e|HD9]]. 
 	- 
 	- 
