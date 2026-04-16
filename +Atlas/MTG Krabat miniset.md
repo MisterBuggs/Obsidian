@@ -1,8 +1,8 @@
 ---
 modified:
-  - 2026-04-16T13:19:18+02:00
+  - 2026-04-16T20:11:50+02:00
   - 2026-04-15T20:00:27+02:00
-  - 2026-04-16T14:27:56+02:00
+  - 2026-04-16T11:38:42+02:00
 created: 2026-04-15T19:29:30+02:00
 ---
 #MTG #Writing #Fantasy #Random_Idea #Book [[2026-04-15]] 
@@ -14,8 +14,8 @@ Tap target creature. The next time it would be untapped, it's controller sacrifi
 *"Geh in den Koselbruch und Schaufel ein Grab. Das soll Deine letzte Tat sein." - Der Meister am Neujahrabend.*
 ### Der siebte Mahlgang
 BW
-Enchantment
-Creatures target player controls loose all abilities unless that player mills 7. You gain life equal to the number of creature cards milled this way.
+Sorcery
+Creatures target player controls loose all abilities unless that player mills 7. Create a food token for each creature card milled this way.
 *"And during this one night, none of the boys was stronger than his shadow."*
 ### Mühle im Koselbruch
 Land - Mythic Mill
@@ -44,8 +44,8 @@ Creature - Legendary Human Warlock
 5/5
 Morbid — Put a +1/+1 counter on Juro, masterful manipulator. He gains hexproof until the beginning of your next upkeep.
 T: Scry X, where X is the number of +1/+1 counters on Juro.
-### Der Besuch des Kutschers 
-```Work in progress```
-BW
+
+### Der Besuch des Kutschers
+BBB
 Sorcery
-Tap all untapped creatures you control. The next time each of them untaps, it gains Vigilance and Ward {Pay 1 life} until end of turn.
+Exile all creature cards from your graveyard. Add B for each creature exiled this way. You lose that much life.
