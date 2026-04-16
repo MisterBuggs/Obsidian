@@ -2,7 +2,7 @@
 modified:
   - 2026-04-16T09:17:33+02:00
   - 2026-04-15T20:00:27+02:00
-  - 2026-04-16T10:05:11+02:00
+  - 2026-04-16T10:21:04+02:00
 created: 2026-04-15T19:29:30+02:00
 ---
 #MTG #Writing #Fantasy #Random_Idea #Book [[2026-04-15]] 
@@ -43,7 +43,8 @@ Creature - Legendary Human Apprentice
 1/3
 {T}: Create a Food Token.
 BW: Transform this card.
-Transformed: 
+
+---
 ### Juro, masterful manipulator
 Creature - Legendary Human Warlock
 5/3
