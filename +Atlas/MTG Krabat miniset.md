@@ -2,13 +2,13 @@
 modified:
   - 2026-04-16T09:17:33+02:00
   - 2026-04-15T20:00:27+02:00
-  - 2026-04-16T09:38:58+02:00
+  - 2026-04-16T09:44:43+02:00
 created: 2026-04-15T19:29:30+02:00
 ---
 #MTG #Writing #Fantasy #Random_Idea #Book [[2026-04-15]] 
 TLDR: There are so many good *scenes* in Krabat to become sorceries or instants in MTG (much more interesting than the characters in Krabat, though they could also become cool creatures). 
 ### Die letzte Tat
-B
+1B
 Sorcery
 Tap target creature. The next time it would be untapped, it's controller sacrifices it instead. 
 "Geh in den Koselbruch und Schaufel ein Grab. Das soll Deine letzte Tat sein. - Der Meister am Neujahrabend.
@@ -23,7 +23,7 @@ Creatures target player controls loose all abilities unless that player mills 7.
 BW
 Land - Legendary
 {T}, Mill a card: Add {B} or {W}. 
-Sacrifice a non-token creature: Untap *Mühle im Koselbruch*. 
+Sacrifice a non-token creature: Untap *Mühle im Koselbruch*. Activate only as a sorcery.
 - Design notes: Pricing fair? Should I replace the second effect wording with "Untap this card." Mythic or Legendary?
 ### Juro's protective shroud
 2W  
@@ -47,4 +47,4 @@ Transformed:
 ### Juro, masterful manipulator
 Creature - Very Rare
 5/3
-Descend: *Juro, masterful manipulator* and the creature supported this way gain hexproof until your next upkeep.
+Descend: *Juro, masterful manipulator* and one other creature you control gain +1/+1 and hexproof until your next upkeep.
