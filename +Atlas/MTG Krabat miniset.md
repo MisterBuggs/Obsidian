@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-16T09:04:52+02:00
+  - 2026-04-16T09:17:33+02:00
   - 2026-04-15T20:00:27+02:00
 created: 2026-04-15T19:29:30+02:00
 ---
@@ -29,7 +29,9 @@ Sorcery — Rare
 Each opponent reveals their hand. Choose any number of cards from among them that could target you or a spell you control. That player puts those cards on the bottom of their library in a random order.
 
 “Oh, he could find us. I can’t stop that. But for now… he simply won’t think of us.”
-### Creaking mill wheel, 1B
-Artifact
-Whenever you would add or remove a time counter, add or remove 3 time counters instead. 
-"Krabat? You look so old." Lyschko. 
+### Creaking Mill Wheel
+**1B**
+Artifact — Rare  
+If you would add or remove a time counter from a permant or suspended card, add or remove three time counters instead.  
+At the beginning of your upkeep, you may mill cards until you mill a creature card. If you don't, sacrifice *Creaking Mill Wheel*. 
+“Krabat? You look so old.” — Lyschko
