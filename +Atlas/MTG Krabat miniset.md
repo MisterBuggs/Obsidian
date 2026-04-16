@@ -2,7 +2,7 @@
 modified:
   - 2026-04-16T09:17:33+02:00
   - 2026-04-15T20:00:27+02:00
-  - 2026-04-16T09:33:42+02:00
+  - 2026-04-16T09:38:58+02:00
 created: 2026-04-15T19:29:30+02:00
 ---
 #MTG #Writing #Fantasy #Random_Idea #Book [[2026-04-15]] 
@@ -37,10 +37,14 @@ Artifact — Rare
 If you would add or remove a time counter from a permanet or suspended card, add or remove three time counters instead.  
 At the beginning of your upkeep, you may mill cards until you mill a creature card. If you don't, sacrifice *Creaking Mill Wheel*. 
 “Krabat? You look so old.” — Lyschko
-### Juro, Simpleton Apprentice
+### Juro, simpleton apprentice
 W
 Creature - Common
 1/3
 {T}: Create a Food Token.
-BWW: Transform.
-Juro
+BWW: Transform this card.
+Transformed: 
+### Juro, masterful manipulator
+Creature - Very Rare
+5/3
+Descend: *Juro, masterful manipulator* and the creature supported this way gain hexproof until your next upkeep.
