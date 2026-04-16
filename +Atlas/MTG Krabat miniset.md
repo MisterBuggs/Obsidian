@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-16T09:17:33+02:00
+  - 2026-04-16T13:02:56+02:00
   - 2026-04-15T20:00:27+02:00
   - 2026-04-16T11:38:42+02:00
 created: 2026-04-15T19:29:30+02:00
@@ -20,8 +20,8 @@ Creatures target player controls loose all abilities unless that player mills 7.
 ### Mühle im Koselbruch
 BW
 Land - Legendary
-{T}, Mill a card: Add {B} or {W}. 
-Sacrifice a non-token creature: Untap this. Activate only as a sorcery.
+T, Mill 7 cards: Add B W.  
+If no creature card was milled this way, sacrifice Mühle im Koselbruch. 
 ### Juro's protective shroud
 2W  
 Sorcery — Rare  
