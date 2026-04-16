@@ -2,7 +2,7 @@
 modified:
   - 2026-04-16T09:17:33+02:00
   - 2026-04-15T20:00:27+02:00
-  - 2026-04-16T09:54:21+02:00
+  - 2026-04-16T09:59:05+02:00
 created: 2026-04-15T19:29:30+02:00
 ---
 #MTG #Writing #Fantasy #Random_Idea #Book [[2026-04-15]] 
@@ -39,14 +39,13 @@ At the beginning of your upkeep, you may mill cards until you mill a creature ca
 “Krabat? You look so old.” — Lyschko
 ### Juro, simpleton apprentice
 W
-Creature - Common
+Creature - Human Apprentice (Common)
 1/3
 {T}: Create a Food Token.
 BW: Transform this card.
 Transformed: 
 ### Juro, masterful manipulator
-Creature - Very Rare
+Creature - Human Warlock (Very Rare)
 5/3
-Hexproof. 
-Morbid: Add a *Forbidden knowledge* counter to *Juro, masterful manipulator*. *Juro, masterful manipulator* has hexproof and +X/+X until your next upkeep, where X is the number of *Forbidden knowledge* counters on *Juro, masterful manipulator*. 
-{T}: Scry X. Where X is the number of creatures 
+Morbid — Put a +1/+1 counter on Juro, masterful manipulator. He gains hexproof until your next upkeep.
+T: Scry X, where X is the number of +1/+1 counters on Juro.
