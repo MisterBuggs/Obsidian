@@ -6,7 +6,7 @@ modified:
   - 2026-04-09T17:05:24+02:00
   - 2026-04-14T15:45:26+02:00
   - 2026-04-15T17:15:50+02:00
-  - 2026-04-16T16:17:50+02:00
+  - 2026-04-16T16:22:03+02:00
 created: 2026-03-16T15:31:22+01:00
 tags:
   - JHU
@@ -18,9 +18,8 @@ tags:
 #To_Do [[+Calendar/2026-04-09|2026-04-09]]
 - [x] WB: Make Sankey-like yellow/green/blue percentage charts for #People_SDV data.
 - [x] WB: HD experiment in 3D. [HD16](app://obsidian.md/E32C4#^6e78e6). Match figures from [WBuys Journal Club 2026Jan15.pptx](https://1drv.ms/p/c/2c6e7480743f438e/IQAY4O5XRD3mR4zXrau-5s0EATWw3Cun9dk-1qGxBFb_ckA?e=u2CmJE) with [WB HD16.wsp](<file:///C:\Users\buyswill\OneDrive - mh-hannover.de\L4i manuscript\HD16\WB HD16.wsp>) **[specifically this file]** to confirm putative tube-naming in [Notes HD16](https://1drv.ms/t/c/2c6e7480743f438e/IQDBhbof6zDwQ4GKafsPaZu9AYjM4UkoNV0RZv7p7FdKw34?e=HHRfrp).
+- [ ] Add post-CFC FACS for [HD16 CFC day 11.wsp](<file:///C:\Users\buyswill\OneDrive - mh-hannover.de\L4i manuscript\HD16\HD16 CFC day 11.wsp>) to show that all cell types are there. Def. suppl.
 - [ ] Calculate absolute efficiencies for HD16. This file has the absolute viable numbers: [Notes HD16.txt](<file:///C:\Users\buyswill\OneDrive - mh-hannover.de\L4i manuscript\HD16\Notes HD16.txt>). This file has the percentages: [3 lines HD summary for L4i manuscript.xlsx](<file:///C:\Users\buyswill\OneDrive - mh-hannover.de\L4i manuscript\3 lines HD summary for L4i manuscript.xlsx>). 
-
-
 - [ ] WB: Overview teratoma: Which lines do I have imaged and counted already? Presumably requires #People_SDV or #People_WiLi to [Get files](app://obsidian.md/Get%20files): Look through teratoma boxes. I believe there should be teratoma for at least 3 iPSC lines.
 - [ ] Re-analyse [HD19](app://obsidian.md/E32C4#^4550c0)?
 - [x] WB: Add existing CFC quantifications.
