@@ -2,7 +2,7 @@
 modified:
   - 2026-04-16T09:17:33+02:00
   - 2026-04-15T20:00:27+02:00
-  - 2026-04-16T09:46:05+02:00
+  - 2026-04-16T09:54:21+02:00
 created: 2026-04-15T19:29:30+02:00
 ---
 #MTG #Writing #Fantasy #Random_Idea #Book [[2026-04-15]] 
@@ -42,9 +42,11 @@ W
 Creature - Common
 1/3
 {T}: Create a Food Token.
-BWW: Transform this card.
+BW: Transform this card.
 Transformed: 
 ### Juro, masterful manipulator
 Creature - Very Rare
 5/3
-Descend: *Juro, masterful manipulator* and one other creature you control gain +1/+1 and hexproof until your next upkeep.
+Hexproof. 
+Morbid: Add a *Forbidden knowledge* counter to *Juro, masterful manipulator*. *Juro, masterful manipulator* has hexproof and +X/+X until your next upkeep, where X is the number of *Forbidden knowledge* counters on *Juro, masterful manipulator*. 
+{T}: Scry X. Where X is the number of creatures 
