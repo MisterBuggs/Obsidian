@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-16T13:02:56+02:00
+  - 2026-04-16T13:19:18+02:00
   - 2026-04-15T20:00:27+02:00
   - 2026-04-16T11:38:42+02:00
 created: 2026-04-15T19:29:30+02:00
@@ -18,10 +18,8 @@ Enchantment
 Creatures target player controls loose all abilities unless that player mills 7. You gain life equal to the number of creature cards milled this way.
 *"And during this one night, none of the boys was stronger than his shadow."*
 ### Mühle im Koselbruch
-BW
-Land - Legendary
-T, Mill 7 cards: Add B W.  
-If no creature card was milled this way, sacrifice Mühle im Koselbruch. 
+Land - Mythic Mill
+T, Mill 7 cards: Add B W. If no creature card was milled this way, sacrifice Mühle im Koselbruch., 
 ### Juro's protective shroud
 2W  
 Sorcery — Rare  
