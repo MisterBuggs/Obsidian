@@ -2,7 +2,7 @@
 modified:
   - 2026-04-16T13:19:18+02:00
   - 2026-04-15T20:00:27+02:00
-  - 2026-04-16T14:15:11+02:00
+  - 2026-04-16T14:27:56+02:00
 created: 2026-04-15T19:29:30+02:00
 ---
 #MTG #Writing #Fantasy #Random_Idea #Book [[2026-04-15]] 
@@ -44,7 +44,8 @@ Creature - Legendary Human Warlock
 5/5
 Morbid — Put a +1/+1 counter on Juro, masterful manipulator. He gains hexproof until the beginning of your next upkeep.
 T: Scry X, where X is the number of +1/+1 counters on Juro.
-### Der Besuch des Kutschers
+### Der Besuch des Kutschers 
+```Work in progress```
 BW
 Sorcery
 Tap all untapped creatures you control. The next time each of them untaps, it gains Vigilance and Ward {Pay 1 life} until end of turn.
