@@ -48,6 +48,6 @@ BW: Transform this card.
 ### Juro, masterful manipulator
 Creature - Legendary Human Warlock
 5/3
-Morbid — Put a +1/+1 counter on Juro, masterful manipulator. 
-As long as a creature died this turn, Juro has hexproof.
+Morbid — Put a +1/+1 counter on Juro, masterful manipulator. He gaina
+As long as a creature you control died this turn, Juro has hexproof.
 T: Scry X, where X is the number of +1/+1 counters on Juro.
