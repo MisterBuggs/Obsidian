@@ -2,7 +2,7 @@
 modified:
   - 2026-04-16T09:17:33+02:00
   - 2026-04-15T20:00:27+02:00
-  - 2026-04-16T09:44:43+02:00
+  - 2026-04-16T09:46:05+02:00
 created: 2026-04-15T19:29:30+02:00
 ---
 #MTG #Writing #Fantasy #Random_Idea #Book [[2026-04-15]] 
@@ -23,12 +23,12 @@ Creatures target player controls loose all abilities unless that player mills 7.
 BW
 Land - Legendary
 {T}, Mill a card: Add {B} or {W}. 
-Sacrifice a non-token creature: Untap *Mühle im Koselbruch*. Activate only as a sorcery.
+Sacrifice a non-token creature: Untap this. Activate only as a sorcery.
 - Design notes: Pricing fair? Should I replace the second effect wording with "Untap this card." Mythic or Legendary?
 ### Juro's protective shroud
 2W  
 Sorcery — Rare  
-Each opponent reveals their hand. Choose any number of cards from among them that could target you or a spell you control. That player puts those cards on the bottom of their library in a random order.
+Each opponent reveals their hand. Choose any number of cards from among them that could target you or a permanent you control. That player puts those cards on the bottom of their library in a random order.
 “Oh, he could find us. I can’t stop that. But for now… he simply won’t think of us.”
 - Design notes: Should this be "Target opponent" instead of "Each opponent"?
 ### Creaking Mill Wheel
