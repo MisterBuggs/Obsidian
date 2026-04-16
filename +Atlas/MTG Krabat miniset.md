@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-16T20:11:50+02:00
+  - 2026-04-16T21:20:53+02:00
   - 2026-04-15T20:00:27+02:00
   - 2026-04-16T11:38:42+02:00
 created: 2026-04-15T19:29:30+02:00
@@ -46,6 +46,6 @@ Morbid — Put a +1/+1 counter on Juro, masterful manipulator. He gains hexproof
 T: Scry X, where X is the number of +1/+1 counters on Juro.
 
 ### Der Besuch des Kutschers
-BBB
+B
 Sorcery
-Exile all creature cards from your graveyard. Add B for each creature exiled this way. You lose that much life.
+*Exile six creature cards from your graveyard, Pay 6 life: Add BBBBBB.*
