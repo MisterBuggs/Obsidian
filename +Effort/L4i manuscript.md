@@ -7,7 +7,7 @@ modified:
   - 2026-04-14T15:45:26+02:00
   - 2026-04-15T17:15:50+02:00
   - 2026-04-16T17:48:10+02:00
-  - 2026-04-17T13:27:14+02:00
+  - 2026-04-17T14:44:05+02:00
 created: 2026-03-16T15:31:22+01:00
 tags:
   - JHU
@@ -23,8 +23,9 @@ tags:
 - [x] Calculate absolute production efficiencies for HD16: This file has the absolute viable numbers: [Notes HD16.txt](<file:///C:\Users\buyswill\OneDrive - mh-hannover.de\L4i manuscript\HD16\Notes HD16.txt>). This file has the percentages: [3 lines HD summary for L4i manuscript.xlsx](<file:///C:\Users\buyswill\OneDrive - mh-hannover.de\L4i manuscript\3 lines HD summary for L4i manuscript.xlsx>). 
 - [ ] WB: Overview teratoma: Which lines do I have imaged and counted already? Presumably requires #People_SDV or #People_WiLi to [Get files](app://obsidian.md/Get%20files): Look through teratoma boxes. I believe there should be teratoma for at least 3 iPSC lines.
 - [ ] WB: Generally use FACS plot axes in the style #People_SDV uses in [L4i manuscript_Figures_WB.pptx](<file:///C:\Users\buyswill\OneDrive - mh-hannover.de\L4i manuscript\L4i manuscript_Figures_WB.pptx>) with markers on the end of a line.
-- [ ] Confirm that all plots use SEM or all SD, no back and forth
-- [ ] WB: Provide absolute quantifications as stacked area plots like #People_SDV 
+- [ ] Confirm that all plots use SEM or all SD, no back and forth.
+- [ ] Attempt statistical hypothesis tests wherever possible to confirm better performance of L4i.
+- [ ] WB: Attempt absolute quantifications as stacked area plots like #People_SDV 
 - [ ] Re-analyse [HD19](app://obsidian.md/E32C4#^4550c0)?
 - [x] WB: Add existing CFC quantifications.
 - [x] WB: scour older powerpoint presentations for good HD / teratoma / chimera figures.
