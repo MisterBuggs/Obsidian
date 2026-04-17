@@ -7,7 +7,7 @@ modified:
   - 2026-04-14T15:45:26+02:00
   - 2026-04-15T17:15:50+02:00
   - 2026-04-16T17:48:10+02:00
-  - 2026-04-17T13:03:55+02:00
+  - 2026-04-17T13:27:14+02:00
 created: 2026-03-16T15:31:22+01:00
 tags:
   - JHU
@@ -28,6 +28,7 @@ tags:
 - [ ] Re-analyse [HD19](app://obsidian.md/E32C4#^4550c0)?
 - [x] WB: Add existing CFC quantifications.
 - [x] WB: scour older powerpoint presentations for good HD / teratoma / chimera figures.
+- [ ] WB: Ask Ludovic whether he has any other E8 vs L4i teratomata.
 - [ ] WB / #People_SDV : Ask Elias whether to name 3 boxes by marker or by derived identity
 - [ ] WB / #People_SDV : Discuss taking the d9 timepoint out of  #People_SDV 's percentage plots (yellow / green / blue), as d9 is missing from the Ng protocol data. The official Ng protocol should be measured d13-15; reviewers will criticize that we compare as early as d10-12 instead and do not show late timepoints. Transferring Ng-floaters into terminal diff media until d17  20 would really complement these data.
 - [ ] #People_SDV : Send 1) percentages CD34 / 45 quadrants for experiments of interest, 2) their viability in FACS, 3)Trypan-blue negative (viable) cell count at harvest, 4) original iPSC-number in that culture, 5) volume at each feeding step.
