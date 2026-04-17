@@ -46,7 +46,7 @@ Creature - Legendary Human Warlock
 Morbid — Put a +1/+1 counter on Juro, masterful manipulator. He gains hexproof until the beginning of your next upkeep.
 T: Scry X, where X is the number of +1/+1 counters on Juro.
 ### Der Besuch des Kutschers
-1
+0
 Sorcery
 Exile six creature cards from your graveyard, Pay 6 life: Add BBBBBB.
 ### Kantorka's song
