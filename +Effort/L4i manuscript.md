@@ -7,16 +7,16 @@ modified:
   - 2026-04-14T15:45:26+02:00
   - 2026-04-15T17:15:50+02:00
   - 2026-04-16T17:48:10+02:00
-  - 2026-04-17T16:46:03+02:00
+  - 2026-04-17T16:48:33+02:00
 created: 2026-03-16T15:31:22+01:00
 tags:
   - JHU
-  - People_ETZ
-  - People_LuZi
-  - People_SDV
+  - Writing
 ---
+# Header
 Target Journal: **Blood**
-Author list, not confirmed: WB, #People_SDV , #People_SGD, #People
+Author list, **not confirmed**: WB, #People_SDV , #People_SGD, #People_MoBe, #People_WiLi , #People_LuZi , #People_ETZ 
+
 # Figures
 [L4i manuscript_Figures_WB.pptx](<file:///C:\Users\buyswill\OneDrive - mh-hannover.de\L4i manuscript\L4i manuscript_Figures_WB.pptx>)
 
