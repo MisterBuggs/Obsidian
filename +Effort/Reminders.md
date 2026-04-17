@@ -15,7 +15,8 @@ created: 2026-04-09T09:39:29+02:00
 - [x] Dominique Email Sparplan Unterschriften
 - [x] call minol smoke detector installation service landlord for different smoke alarm appointment.
 - [ ] Friseur Termin WB
-- [ ] has the Maryland State [[Taxes 2025]] already been paid online or do I have to transfer that separately? 
+- [x] has the Maryland State [[Taxes 2025]] already been paid online or do I have to transfer that separately? 
+- [ ] Have the US federal [[Taxes 2025]] been deducted already? 
 - [ ] Ask Kleppe for AML data again
-- [ ] Pay Standesamt Biberach
+- [x] Pay Standesamt Biberach
 - [ ] Announce name change and change documents
