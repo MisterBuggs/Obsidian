@@ -3,7 +3,7 @@ modified:
   - 2026-04-16T21:20:53+02:00
   - 2026-04-15T20:00:27+02:00
   - 2026-04-16T11:38:42+02:00
-  - 2026-04-17T12:17:09+02:00
+  - 2026-04-17T12:22:32+02:00
 created: 2026-04-15T19:29:30+02:00
 ---
 #MTG #Writing #Fantasy #Random_Idea #Book [[2026-04-15]] 
@@ -45,14 +45,13 @@ Creature - Legendary Human Warlock
 5/5
 Morbid — Put a +1/+1 counter on Juro, masterful manipulator. He gains hexproof until the beginning of your next upkeep.
 T: Scry X, where X is the number of +1/+1 counters on Juro.
-
 ### Der Besuch des Kutschers
-B
+1
 Sorcery
 Exile six creature cards from your graveyard, Pay 6 life: Add BBBBBB.
-
 ### Kantorka's song
 W
 Enchantment
-Whenever you gain life, draw a card, or add mana, you may have an opponent gain the same. 
+Whenever you gain life, draw a card, or add mana, you may have each opponent gain the same. 
 Whenever an opponent gains life, draws a card, or adds mana this way, they may have you gain the same.
+*Her song turned him from the evil that had taken hold of him.*
