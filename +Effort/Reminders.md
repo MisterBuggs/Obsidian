@@ -1,5 +1,6 @@
 ---
 modified:
+  - 2026-04-19T17:52:47+02:00
   - 2026-04-15T20:04:16+02:00
   - 2026-04-14T07:31:56+02:00
   - 2026-04-09T09:43:14+02:00
@@ -20,3 +21,5 @@ created: 2026-04-09T09:39:29+02:00
 - [ ] Ask Kleppe for AML data again
 - [x] Pay Standesamt Biberach
 - [ ] Announce name change and change documents
+- [ ] does MHH offer a job ticket? 
+- [ ] re-order Apobank pin for combined account
