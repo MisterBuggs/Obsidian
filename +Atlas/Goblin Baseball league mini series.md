@@ -13,6 +13,8 @@ tags:
   - Writing
 ---
 Goblin Baseball league mini series for MTG, Work in Progress:
+
+Design: These should be designed like baseball collector cards. 
 ## Buy me some peanuts, **WU**
 Enchantment
 At the beginning of combat on your turn, each opponent may pay {1}. For each mana paid this way, create a Food token. Each opponent who didn’t pay this way doesn’t untap nonland permanents they control during their next untap step. *No peanuts, no play!!1! - Annoying Goblin Child.*
