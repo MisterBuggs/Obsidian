@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-19T14:06:11+02:00
+  - 2026-04-19T22:45:10+02:00
   - 2026-04-16T21:20:53+02:00
   - 2026-04-15T20:00:27+02:00
   - 2026-04-16T11:38:42+02:00
@@ -10,6 +10,11 @@ created: 2026-04-15T19:29:30+02:00
 TLDR: There are so many good *scenes* in Krabat to become sorceries or instants in MTG (much more interesting than the characters in Krabat, though they could also become cool creatures). 
 
 Design: Could one design these cards in a Sorbian style? The card layout / color theme / font / background itself? 
+
+Core mechanics: 
+- [[MTG Keywords#Haunt]]
+- Mill
+- Food Tokens
 ### Die letzte Tat
 1B
 Sorcery

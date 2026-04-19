@@ -1,5 +1,6 @@
 ---
 modified:
+  - 2026-04-19T22:42:15+02:00
   - 2026-04-11T23:31:19+02:00
   - 2026-04-10T22:23:47+02:00
   - 2026-03-25T14:42:25+01:00
@@ -24,3 +25,5 @@ While this spell is in your hand, you may pay its mana cost to create a copy of 
 ### Unspeakable Promise 
 Your maximum hand size is reduced by 1. During your upkeep, target permanent you control becomes an [[MTG Keywords#Unspeakable Promise|Unspeakable Promise]]. 
 Sacrifice this card: Add {Y} to your mana pool. Every player may activate this ability during their turn. ^9c4f56
+### Haunt
+Not mine but gorgeous design space. Basically, a creature is marked and an ability triggers again when that creature enters a graveyard. 
