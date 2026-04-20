@@ -7,7 +7,7 @@
 # Appointments
 - 
 
-![[Reminders#Reminders]]
+![[Reminders]]
 
 # Random Idea
 - 
