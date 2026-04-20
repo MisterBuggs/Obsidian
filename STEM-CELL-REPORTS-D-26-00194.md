@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-20T15:34:52+02:00
+  - 2026-04-20T15:39:50+02:00
 created: 2026-04-20T15:19:35+02:00
 ---
 #Peer_Review 2026-04-20
@@ -12,7 +12,7 @@ Major Comments:
 Minor Comments:
 2. 
 Language & Proofing:
-3. 
+3. Running line numbers are appreciated  during the review process.
 Further Suggestions & Future Directions:
 4. Analyzing elderly mice exposed in utero and analyzing the first & second generation off-spring of mice exposed in utero would be highly interesting to capture the scope and persistence of epigenetic changes introduced by perinatal nicotine exposure. In addition, exposing dams before but not during pregnancy or only after birth but while breast feeding may be interesting. 
 
