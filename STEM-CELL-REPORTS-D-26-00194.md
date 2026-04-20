@@ -1,10 +1,10 @@
 ---
 modified:
-  - 2026-04-20T16:31:12+02:00
+  - 2026-04-20T16:36:38+02:00
 created: 2026-04-20T15:19:35+02:00
 ---
 #Peer_Review 2026-04-20
-Reviewer Summary:
+Reviewer Summary: In this concise hypothesis-generating manuscript, Forsberg et al. report various changes of immune cell compositions mouse pups after pan-gestational enteral nicotine exposure of the dam, which are associated with an increase disease severity of subsequent influence infections. These results are interesting and the manuscript 
 
 Recommendation:
 Major Comments:
