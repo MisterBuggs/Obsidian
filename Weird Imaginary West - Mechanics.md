@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-20T14:30:59+02:00
+  - 2026-04-20T14:34:29+02:00
 created: 2026-04-20T13:57:06+02:00
 ---
 #Worldbuilding #Fantasy #Writing #TTRPG #Forged_In_The_Dark_FitD #Steampunk_Weird_West
@@ -15,4 +15,8 @@ I will mostly use the [A Fistful of Darkness](https://monkeyecho.itch.io/a-fistf
 - I like the idea of running a funnel episode, in which each character starts with a half-empty sheet and discovers who they want to be (allocating points) only during play. They could even start with 2-4 ultra-minimal characters in a very deadly session 1. At the end of the filter episode, people get to choose a playbook that works with their allocated skill points and that they want to play.
 
 # Factions
-- By design, the central hub city in Westmarches games is relatively bland and safe. Otherwise: Why venture out into the wilderness. However, this makes running meaningful faction rivalry, which are essential to #Forged_In_The_Dark_FitD  , pretty difficult; especially in a hostile world map.
+- By design, the central hub city in Westmarches games is relatively bland and safe. Otherwise: Why venture out into the wilderness. However, this makes running meaningful faction rivalry, which are essential to #Forged_In_The_Dark_FitD  , pretty difficult; especially on a hostile and unknown world map.
+
+# Map
+- Locations on the map and creatures found there and on the way there should roughly scale in *Tiers* ( #Forged_In_The_Dark_FitD  mechanic) by their distance to the hub city. Difficulty must also be telegraphed somehow, to enable informed decisions. 
+- In the beginning, only map major landmarks, like mountain ranges or nearby rivers to follow. Write a few *boss* / campaign-defining locations in greater detail. These are defined by having long clocks that majorly change the world. Make random encounter tables ordered by tiers and fill in the world map as it is explored.
