@@ -6,7 +6,7 @@ modified:
   - 2026-04-15T08:56:44+02:00
   - 2026-04-16T10:46:56+02:00
   - 2026-04-17T17:01:06+02:00
-  - 2026-04-20T09:25:31+02:00
+  - 2026-04-20T09:46:20+02:00
 created: 2026-04-09T09:39:29+02:00
 ---
 - [ ] lack doctor to Haftpflicht. They have received the message but not responded yet.
@@ -20,3 +20,5 @@ created: 2026-04-09T09:39:29+02:00
 - [ ] Ask Kleppe for AML data again
 - [x] Pay Standesamt Biberach
 - [ ] Announce name change and change documents
+- [ ] Respond to #People_Elmira_Adiabadi 's application.
+- [ ] PLOS 
