@@ -13,8 +13,8 @@ Minor Comments:
 2. 
 Language & Proofing:
 3. 
-Further Suggestions:
-4. 
+Further Suggestions & Future Directions:
+4. Analyzing second generation off-spring of mothers exposed to nicotine during pregnancy might help differentiating direct da
 
 File:
 ![[STEM-CELL-REPORTS-D-26-00194_reviewer 1.pdf]]
