@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-20T16:15:46+02:00
+  - 2026-04-20T16:21:12+02:00
 created: 2026-04-20T15:19:35+02:00
 ---
 #Peer_Review 2026-04-20
@@ -10,23 +10,24 @@ Recommendation:
 Major Comments:
 1. Quantification and statistical analysis: What kind of outlier analysis was used and using which parameters? If outliers were removed, I highly recommend showing un-altered figures comprising all data points in the supplement, with outliers marked. Figure legends should also contain information on how many / what fraction of data points were removed as outliers. 
 2. "Perinatal" may be somewhat misleading, as nicotine was administered throughout pregnancy. The authors mention the layered nature of fetal hematopoiesis. This is of special importance to the development of tissue resident immune cell pools. It is thus especially interesting, whether the effects on lung macrophages (at least partly yolk sack derived) and bone-marrow HSC (dorsal aorta / AGM derived) are at least partly uncoupled. Due to their development during distinct embryonic and fetal stages, it may be possible to resolve this using different times of exposure.
+3. Figure 1A: This figure suggests that dams continued to receive nicotine water after birth. The text suggests that dams only received nicotine during pregnancy. Which one is correct? I strongly recommend discussing the potential of behavioral and other physiological changes of nicotine-exposed dams undergoing withdrawal during their off-spring's first days of life, which may cause unique effects on pups that are independent of nicotine exposure itself. 
 Minor Comments:
-3. In the absence of transplantation experiments, please use the term "central trained immunity" with care. 
-4. Mothers absorbed nicotine enterally in this study, instead of the much more common pulmonary delivery in humans. Please discuss this as a potential limitation, considering systemic uptake, biodistribution, first pass, etc.
-5. Please discuss the expanded pool of lineage-negative non-HSPC pool.
-6. Page 8, "We collected serum (extracellular fluid) from the liver": Serum and extracellular fluid are not synonymous. Did the authors collect serum or extracellular fluid or a general mixed supernatant after isolating liver cells?
-7. Page 13, "may be explained by their sequestration to the lung": You measured cell proportions in the lungs in this manuscript. Did you find increased numbers of NK-cells or is this a hypothesis based on the literature?
+4. Fig. 1B: Visually, the control liver HSCs seem to cluster in two populations: A low and a high-HSC number group. The lower subgroup is on the same level as the nicotine exposed group. The higher subgroup is thus responsible for the observed significant difference of the mean. Please thoroughly analyze any documented characteristics of the higher lower groups to ensure that this is a random effect and not due to some unaccounted confounder.
+5. In the absence of transplantation experiments, please use the term "central trained immunity" with care. 
+6. Mothers absorbed nicotine enterally in this study, instead of the much more common pulmonary delivery in humans. Please discuss this as a potential limitation, considering systemic uptake, biodistribution, first pass, etc.
+7. Please discuss the expanded pool of lineage-negative non-HSPC pool.
+8. Page 8, "We collected serum (extracellular fluid) from the liver": Serum and extracellular fluid are not synonymous. Did the authors collect serum or extracellular fluid or a general mixed supernatant after isolating liver cells?
+9. Page 13, "may be explained by their sequestration to the lung": You measured cell proportions in the lungs in this manuscript. Did you find increased numbers of NK-cells or is this a hypothesis based on the literature?
 Language & Proofing:
-8. Continuous line numbers are appreciated  during the review process.
-9. Quantification and statistical analysis, line 5: There is a period after the +/- sign. 
-10. Page 12, line 4: Spelling. 
-11. Page 13, "independent of sex and of body weight": "~~of~~" -> "and".
-12. Page 13, "infection and infiltrated into the respiratory": "~~infiltrated~~" -> "infiltrate"?
+10. Continuous line numbers are appreciated  during the review process.
+11. Quantification and statistical analysis, line 5: There is a period after the +/- sign. 
+12. Page 12, line 4: Spelling. 
+13. Page 13, "independent of sex and of body weight": "~~of~~" -> "and".
+14. Page 13, "infection and infiltrated into the respiratory": "~~infiltrated~~" -> "infiltrate"?
 Further Suggestions & Future Directions:
-13. Analyzing elderly mice exposed in utero and analyzing the first & second generation off-spring of mice exposed in utero would be highly interesting to capture the scope and persistence of epigenetic changes introduced by perinatal nicotine exposure. In addition, exposing dams before but not during pregnancy or only after birth but while breast feeding may be interesting. 
-14. Page 8, 9: Consider analyzing which cells in the liver were responsible for the altered niche signaling, i.e., which cells produced these cytokines, e.g., by intracellular flow cytometry or, as a proxy, by transcriptomics. 
-15. Consider sequencing the bone marrow of in utero exposed off-spring, searching for typical, clonal hematopoiesis-associated mutations. 
-16. I strongly recommend discussing the potential of behavioral and other physiological changes of nicotine-exposed dams undergoing withdrawal during their off-spring's first days of life, which may cause unique effects on pups that are independent of nicotine exposure itself. 
+15. Analyzing elderly mice exposed in utero and analyzing the first & second generation off-spring of mice exposed in utero would be highly interesting to capture the scope and persistence of epigenetic changes introduced by perinatal nicotine exposure. In addition, exposing dams before but not during pregnancy or only after birth but while breast feeding may be interesting. 
+16. Page 8, 9: Consider analyzing which cells in the liver were responsible for the altered niche signaling, i.e., which cells produced these cytokines, e.g., by intracellular flow cytometry or, as a proxy, by transcriptomics. 
+17. Consider sequencing the bone marrow of in utero exposed off-spring, searching for typical, clonal hematopoiesis-associated mutations, which may explain some of the effects observed in this study.
 
 File:
 ![[STEM-CELL-REPORTS-D-26-00194_reviewer 1.pdf]]
