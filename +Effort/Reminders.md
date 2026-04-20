@@ -22,6 +22,6 @@ created: 2026-04-09T09:39:29+02:00
 - [x] Pay Standesamt Biberach
 - [ ] Announce name change and change documents
 - [x] Respond to #People_Elmira_Adiabadi 's application: [[CV_Elmira Aliabadi .pdf]].
-- [ ] #Peer_Review PONE-D-25-46962R3
+- [x] #Peer_Review PONE-D-25-46962R3
 - [ ] #Peer_Review STEM-CELL-REPORTS-D-26-00194
 - [ ] #Peer_Review BMC Geriatrics [Revised Manuscript.docx](<file:///C:\Users\buyswill\Downloads\The Controversial Interpl>)
