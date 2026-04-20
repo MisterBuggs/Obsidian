@@ -9,7 +9,7 @@ tags:
   - Writing
   - Fantasy
   - Leisure
-  - Steampunk
+  - Steampunk_Weird_West
 ---
 This is a TTRPG campaign about surviving a Steam Punk Weird West. The campaign uses the *Fistful of Darkness* TTRPG system, which is based on the *Blades in the Dark* OSR. 
 
