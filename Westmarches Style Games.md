@@ -1,9 +1,9 @@
 ---
 modified:
-  - 2026-04-20T10:01:18+02:00
+  - 2026-04-20T10:02:10+02:00
 created: 2026-04-20T10:00:44+02:00
+source: https://www.westmarches.games/
 ---
-https://www.westmarches.games/
 # Running West Marches
 
 You can run a West Marches campaign in many ways, and there's no single right answer. If you're not sure where to begin, these practical tips will help you get started.
