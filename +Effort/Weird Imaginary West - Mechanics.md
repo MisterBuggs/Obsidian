@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-20T14:41:45+02:00
+  - 2026-04-20T14:43:38+02:00
 created: 2026-04-20T13:57:06+02:00
 ---
 #Worldbuilding #Fantasy #Writing #TTRPG #Forged_In_The_Dark_FitD #Steampunk_Weird_West
@@ -19,5 +19,4 @@ I will mostly use the [A Fistful of Darkness](https://monkeyecho.itch.io/a-fistf
 
 # Map
 - Locations on the map and creatures found there and on the way there should roughly scale in *Tiers* ( #Forged_In_The_Dark_FitD  mechanic) by their distance to the hub city. Difficulty must also be telegraphed somehow, to enable informed decisions. 
-- In the beginning, only map major landmarks, like mountain ranges or nearby rivers to follow. Write a few *boss* / campaign-defining locations in greater detail. These are defined by having long clocks that majorly change the world. Other than that, write good random encounter tables, both for travel hazards (engagement roll) and for locations ordered by tiers and fill in the world map as it is explored or as the players talk to NPCs in the city. Respect *simple quest design tips by* ```query [author:Michael E. Shea]``` 
-- 
+- In the beginning, only map major landmarks, like mountain ranges or nearby rivers to follow. Write a few *boss* / campaign-defining locations in greater detail. These are defined by having long clocks that majorly change the world. Other than that, write good random encounter tables, both for travel hazards (engagement roll) and for locations ordered by tiers and fill in the world map as it is explored or as the players talk to NPCs in the city. Respect *simple quest design tips by* [[Authors#Michael E. Shea]]. 
