@@ -2,6 +2,10 @@
 modified:
   - 2026-04-20T09:43:35+02:00
 created: 2026-04-20T09:30:08+02:00
+tags:
+  - Random_Idea
+  - Space
+  - Science_Fiction
 ---
 TLDR: Could Whipple shields be constructed from some stable or laminar-flowing liquid sheath instead of thin solid layers ("waterfall instead of foil")? ^fe84d0
 
