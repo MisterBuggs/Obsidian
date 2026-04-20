@@ -1,4 +1,4 @@
-#Peer_Review 
+#Peer_Review {{date}}
 Reviewer Summary:
 
 Recommendation:
@@ -11,3 +11,8 @@ Language & Proofing:
 Further Suggestions:
 4. 
 
+File:
+
+Confidential notes to the editor:
+
+Other notes:
