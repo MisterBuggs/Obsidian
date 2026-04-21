@@ -1,6 +1,7 @@
 ---
 modified:
   - 2026-04-20T14:43:38+02:00
+  - 2026-04-21T09:30:50+02:00
 created: 2026-04-20T13:57:06+02:00
 ---
 #Worldbuilding #Fantasy #Writing #TTRPG #Forged_In_The_Dark_FitD #Steampunk_Weird_West
@@ -11,8 +12,8 @@ I will mostly use the [A Fistful of Darkness](https://monkeyecho.itch.io/a-fistf
 - Alternatively, the **first gang could decide** what type of crew they want to be and everyone kinda just has to run with it. 
 - I could run the first handful of games (until everyone has played at least once) without a crew sheet and **introduce the crew mechanic later**, letting people vote on what kind of crew this campaign should be.
 
-# Funnel
-- I like the idea of running a funnel episode, in which each character starts with a half-empty sheet and discovers who they want to be (allocating points) only during play. They could even start with 2-4 ultra-minimal characters in a very deadly session 1. At the end of the filter episode, people get to choose a playbook that works with their allocated skill points and that they want to play.
+# Opening episode
+- I originally thought about starting with a funnel episode, in which each player embodies multiple minimal characters in a very deadly scenario. #Social_Media_Reddit has convinced me that this is a bad idea because of the strong synergy between FitD characters (help action) and the high emphasis on player agency in FitD. I am still thinking about starting characters with a half-empty sheet and discovering who they want to be (allocating skill points) only during the first session. At the end of the opening episode, people get to choose a playbook that works with their allocated skill points and that they want to play. Don't tell them the playbook: *Prepare a list of the unique leveling sentence for each playbook, then, during session 1, write player initials next to playbooks they **interacted** with and then suggest 2-3 playbooks to each player at the end of session 1. If they don't like how that playbook plays, they can always 
 
 # Factions
 - By design, the central hub city in Westmarches games is relatively bland and safe. Otherwise: Why venture out into the wilderness. However, this makes running meaningful faction rivalry, which are essential to #Forged_In_The_Dark_FitD  , pretty difficult; especially on a hostile and unknown world map.
