@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-21T16:59:23+02:00
+  - 2026-04-21T17:07:46+02:00
   - 2026-04-20T11:13:49+02:00
 created: 2026-04-20T10:26:27+02:00
 tags:
@@ -25,7 +25,7 @@ Six Truths:
 6. Procuring Hellstone is one of the most lucrative but also most dangerous occupations, as it requires leaving the heavily militarized "safe" population centers and enter monster territory.
 
 # Factions
-The Rush: A closenit cult centered around Chrysomancy using gold or dollar bills, both of which are
+The Rush: A closenit cult / bank centered around Chrysomancy using gold or dollar bills, both of which are backed by immense public trust. 
 
 Worldbuilding exercise:
 
