@@ -1,11 +1,14 @@
 ---
 modified:
   - 2026-04-20T14:43:38+02:00
-  - 2026-04-21T09:31:28+02:00
+  - 2026-04-21T09:50:25+02:00
 created: 2026-04-20T13:57:06+02:00
 ---
-#Worldbuilding #Fantasy #Writing #TTRPG #Forged_In_The_Dark_FitD #Steampunk_Weird_West
-I will mostly use the [A Fistful of Darkness](https://monkeyecho.itch.io/a-fistful-of-darkness) system, which hopefully provides appropriate playbooks. 
+#Worldbuilding #Fantasy #Writing #TTRPG #Steampunk_Weird_West
+Systems:
+- [Weird West | Cypher System Reference Document](https://cyphersrd.quest/04-genres/10-weird-west/), an official Weird West Module for Cypher.
+- [A Fistful of Darkness](https://monkeyecho.itch.io/a-fistful-of-darkness), #Forged_In_The_Dark game, which hopefully provides appropriate playbooks. 
+- [Dust Devils](https://github.com/harbinger87/RPG/blob/master/Dust%20Devils.pdf), a rules-light narrative TTRPG using poker cards.
 
 # Crews
 - Running multiple crews at the same time seems impractical. I may need to write some custom crew sheet. A Westmarches style game mandates flexible groups: **How do you manage the crew sheet / crew quality?** Is the hub city scaling as a whole? What determines crew XP then, if not the type of mission tied to the crew type (as in the original BitD rules). 
