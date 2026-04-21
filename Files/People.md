@@ -1,12 +1,12 @@
 ---
 modified:
   - 2026-04-20T14:40:33+02:00
-  - 2026-04-21T11:04:16+02:00
+  - 2026-04-21T13:52:15+02:00
 created: 2026-04-20T14:39:22+02:00
 tags:
   - Obsidian
+  - People
 ---
-#People 
 
 | Tag                       | Email                         | Phone          | Other     | Long Name         | Notes |
 | ------------------------- | ----------------------------- | -------------- | --------- | ----------------- | ----- |
@@ -21,6 +21,8 @@ tags:
 | #People_Hetavi_Zaveri     | hzaveri1@jhmi.edu             |                |           |                   |       |
 | #People_Elmira_Adiabadi   | elmira.aliabadi@gmail.com     |                |           |                   |       |
 | #People_Christin_Albrecht |                               |                |           |                   |       |
+| #People_Ross_McGlennon    | immunology@frontiersin.com    |                |           |                   |       |
+|                           |                               |                |           |                   |       |
 
 # Michael E. Shea
 ~~~query
