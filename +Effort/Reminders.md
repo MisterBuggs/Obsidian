@@ -7,6 +7,7 @@ modified:
   - 2026-04-16T10:46:56+02:00
   - 2026-04-17T17:01:06+02:00
   - 2026-04-20T12:28:04+02:00
+  - 2026-04-21T10:31:58+02:00
 created: 2026-04-09T09:39:29+02:00
 ---
 - [ ] lack doctor to Haftpflicht. They have received the message but not responded yet.
@@ -25,4 +26,4 @@ created: 2026-04-09T09:39:29+02:00
 - [x] #Peer_Review PONE-D-25-46962R3
 - [x] #Peer_Review STEM-CELL-REPORTS-D-26-00194
 - [ ] #Peer_Review BMC Geriatrics [Revised Manuscript.docx](<file:///C:\Users\buyswill\Downloads\The Controversial Interpl>)
-- [ ] Make Zoom appointment for #People_Hetavi_Zaveri
+- [ ] Prepare job interview / project ideas with #People_Elmira_Adiabadi <elmira.aliabadi@gmail.com>
