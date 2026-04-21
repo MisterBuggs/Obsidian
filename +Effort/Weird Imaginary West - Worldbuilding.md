@@ -1,5 +1,6 @@
 ---
 modified:
+  - 2026-04-21T16:59:23+02:00
   - 2026-04-20T11:13:49+02:00
 created: 2026-04-20T10:26:27+02:00
 tags:
@@ -22,6 +23,9 @@ Six Truths:
 4. Prospectors discovered a new and inherently magical substance colloquially termed *Hellstone*. 
 5. The unprecedented advancements of clockwork, steam powered, and magical technologies in the age of Hellstone have all but replaced the role of work animals to society. 
 6. Procuring Hellstone is one of the most lucrative but also most dangerous occupations, as it requires leaving the heavily militarized "safe" population centers and enter monster territory.
+
+# Factions
+The Rush: A closenit cult centered around Chrysomancy using gold or dollar bills, both of which are
 
 Worldbuilding exercise:
 
