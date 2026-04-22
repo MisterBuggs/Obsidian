@@ -33,4 +33,4 @@ created: 2026-04-09T09:39:29+02:00
 - [ ] #Peer_Review BMC Geriatrics [Revised Manuscript.docx](<file:///C:\Users\buyswill\Downloads\The Controversial Interpl>)
 - [ ] Prepare job interview / project ideas with #People_Elmira_Adiabadi <elmira.aliabadi@gmail.com>
 - [ ] #People_Ross_McGlennon offered 20% discount for Frontiers Immunology Submission. Do I have or can I summon a paper within this year? Likely no desk rejection. 
-- [ ] Zoom #People_SDV [[2026-04-24]] 9:30 am
+- [x] Zoom #People_SDV [[2026-04-24]] 9:30 am
