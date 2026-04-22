@@ -2,7 +2,7 @@
 modified:
   - 2026-04-20T14:40:33+02:00
   - 2026-04-21T13:52:15+02:00
-  - 2026-04-22T08:41:18+02:00
+  - 2026-04-22T10:37:43+02:00
 created: 2026-04-20T14:39:22+02:00
 tags:
   - Obsidian
@@ -24,6 +24,7 @@ tags:
 | #People_Christin_Albrecht |                                   |                |           |                   |       |
 | #People_Ross_McGlennon    | immunology@frontiersin.com        |                |           |                   |       |
 | #People_LouZi             | louisazimmermann14@googlemail.com |                |           | Louisa Zimmermann |       |
+| #People_Petzoldt          | info@petzoldt-steuerberatung.de   |                |           |                   |       |
 
 # Michael E. Shea
 ~~~query

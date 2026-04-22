@@ -8,10 +8,10 @@ modified:
   - 2026-04-17T17:01:06+02:00
   - 2026-04-20T12:28:04+02:00
   - 2026-04-21T13:51:36+02:00
-  - 2026-04-22T10:32:57+02:00
+  - 2026-04-22T10:40:17+02:00
 created: 2026-04-09T09:39:29+02:00
 ---
-- [ ] lack doctor to Haftpflicht. They have received the message but not responded yet.
+- [ ] Lack doctor to Haftpflicht. They have received the message but not responded yet.
 - [ ] Renter's insurance QBE check response
 - [ ] Ärztekammer: Arztausweis verschickt?
 - [ ] Indira Photos Indian Clothing
@@ -19,6 +19,9 @@ created: 2026-04-09T09:39:29+02:00
 	- [ ] MHH
 	- [ ] TK
 	- [ ] Ärztekammer
+	- [ ] Ärzteversorgung
+	- [ ] MLP Bank
+	- [ ] #People_Petzoldt Steuerberater
 	- [ ] Personalausweis / Reisepass
 - [ ] #Peer_Review BMC Geriatrics [Revised Manuscript.docx](<file:///C:\Users\buyswill\Downloads\The Controversial Interpl>)
 - [ ] Prepare job interview / project ideas with #People_Elmira_Adiabadi <elmira.aliabadi@gmail.com>
