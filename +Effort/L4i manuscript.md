@@ -8,6 +8,7 @@ modified:
   - 2026-04-15T17:15:50+02:00
   - 2026-04-16T17:48:10+02:00
   - 2026-04-17T16:48:33+02:00
+  - 2026-04-22T16:38:46+02:00
 created: 2026-03-16T15:31:22+01:00
 tags:
   - JHU
@@ -19,6 +20,7 @@ Author list, **not confirmed**: WB, #People_SDV , #People_SGD, #People_MoBe, #Pe
 
 # Figures
 [L4i manuscript_Figures_WB.pptx](<file:///C:\Users\buyswill\OneDrive - mh-hannover.de\L4i manuscript\L4i manuscript_Figures_WB.pptx>)
+[[ash_bld_DigitalArtGuidelines_2020.pdf|Blood Style Guide (PDF)]]
 
 # L4i To Do
 #To_Do [[+Calendar/2026-04-09|2026-04-09]]
