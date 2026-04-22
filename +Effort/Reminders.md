@@ -1,7 +1,5 @@
 ---
 modified:
-  - 2026-04-21T18:23:19+02:00
-  - 2026-04-20T21:52:55+02:00
   - 2026-04-15T20:04:16+02:00
   - 2026-04-14T07:31:56+02:00
   - 2026-04-09T09:43:14+02:00
@@ -9,6 +7,8 @@ modified:
   - 2026-04-16T10:46:56+02:00
   - 2026-04-17T17:01:06+02:00
   - 2026-04-20T12:28:04+02:00
+  - 2026-04-21T13:51:36+02:00
+  - 2026-04-22T08:42:34+02:00
 created: 2026-04-09T09:39:29+02:00
 ---
 - [ ] lack doctor to Haftpflicht. They have received the message but not responded yet.
@@ -23,9 +23,14 @@ created: 2026-04-09T09:39:29+02:00
 - [ ] Ask Kleppe for AML data again
 - [x] Pay Standesamt Biberach
 - [ ] Announce name change and change documents
+	- [ ] MHH
+	- [ ] TK
+	- [ ] Ärztekammer
+	- [ ] Personalausweis / Reisepass
 - [x] Respond to #People_Elmira_Adiabadi 's application: [[CV_Elmira Aliabadi .pdf]].
 - [x] #Peer_Review PONE-D-25-46962R3
 - [x] #Peer_Review STEM-CELL-REPORTS-D-26-00194
 - [ ] #Peer_Review BMC Geriatrics [Revised Manuscript.docx](<file:///C:\Users\buyswill\Downloads\The Controversial Interpl>)
-- [x] Make Zoom appointment for #People_Hetavi_Zaveri
-- [ ] zoom #People_SDV Friday Apr 24 9:30a EDT
+- [ ] Prepare job interview / project ideas with #People_Elmira_Adiabadi <elmira.aliabadi@gmail.com>
+- [ ] #People_Ross_McGlennon offered 20% discount for Frontiers Immunology Submission. Do I have or can I summon a paper within this year? Likely no desk rejection. 
+- [ ] Zoom #People_SDV [[2026-04-24]] 9:30 am
