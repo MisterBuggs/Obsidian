@@ -2,7 +2,7 @@
 modified:
   - 2026-04-20T14:43:38+02:00
   - 2026-04-21T15:27:27+02:00
-  - 2026-04-23T15:23:14+02:00
+  - 2026-04-23T15:33:25+02:00
 created: 2026-04-20T13:57:06+02:00
 ---
 #Worldbuilding #Fantasy #Writing #TTRPG #Steampunk_Weird_West
@@ -33,6 +33,9 @@ Systems:
 	2. Within a day's travel: The score will start with an encounter on the road. Depending on the engagement roll, this encounter may be more or less hindering. The engagement roll is *modified by gathering information & loadout*.
 	3. Farther away: A dedicated Travel score is necessary before attempting the actual score.
 **CAVE:** Don't place too many interesting locations in zone 1 or the players may get hung up there. Most of the game should be inzone 2. Endgame locations should be in zone 3.
+
+# There be Monsters
+- The Underground run section (Fistful of Darkness p. 123ff) is pretty good also for above-ground monsters, including ambushes and monster hunts. Creative use of clocks! Also, neat idea to break runs up into **distinct objectives expressed as clocks**.
 
 # Stash / Retirement
 I don't really love how the end times are handled in Fistful of Darkness. The goal for characters may be to get out of this hell hole or to build an empire here in the wilderness. I thus prefer the Stash system as in the original [[Blades-in-the-Dark#Stash & Retirement]].
