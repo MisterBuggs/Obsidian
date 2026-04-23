@@ -2,7 +2,7 @@
 modified:
   - 2026-04-20T14:43:38+02:00
   - 2026-04-21T15:27:27+02:00
-  - 2026-04-23T11:40:34+02:00
+  - 2026-04-23T11:51:19+02:00
 created: 2026-04-20T13:57:06+02:00
 ---
 #Worldbuilding #Fantasy #Writing #TTRPG #Steampunk_Weird_West
@@ -36,3 +36,6 @@ Systems:
 
 # Stash / Retirement
 I don't really love how the end times are handled in Fistful of Darkness. The goal for characters may be to get out of this hell hole or to build an empire here in the wilderness. I thus prefer the Stash system as in the original [[Blades-in-the-Dark#Stash & Retirement]].
+
+# Heat
+Compare [[Blades-in-the-Dark#Incarceration]] to the Doom system in Fistful of Darkness for a suitable system between not being allowed in the safe hubtown as a measure of Heat -> wanted (potentially traumatizing, kinda like prison, but with the chance of discovering a new location, kinda like prison claims) vs. the Doom System.
