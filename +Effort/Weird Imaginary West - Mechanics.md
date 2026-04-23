@@ -2,7 +2,7 @@
 modified:
   - 2026-04-20T14:43:38+02:00
   - 2026-04-21T15:27:27+02:00
-  - 2026-04-23T15:55:29+02:00
+  - 2026-04-23T16:03:46+02:00
 created: 2026-04-20T13:57:06+02:00
 ---
 #Worldbuilding #Fantasy #Writing #TTRPG #Steampunk_Weird_West
@@ -25,7 +25,7 @@ Systems:
 
 # Map
 - Locations on the map and creatures found there and on the way there should roughly scale in *Tiers* ( #Forged_In_The_Dark_FitD  mechanic) by their distance to the hub city. Difficulty must also be telegraphed somehow, to enable informed decisions. 
-- In the beginning, only map major landmarks, like mountain ranges or nearby rivers to follow. Write a few *boss* / campaign-defining locations in greater detail. These are defined by having long clocks that majorly change the world. Other than that, write good random encounter tables, both for travel hazards (engagement roll) and for locations ordered by tiers and fill in the world map as it is explored or as the players talk to NPCs in the city. Respect *simple quest design tips by* [[People#Michael E. Shea]]. 
+- In the beginning, only map major landmarks, like mountain ranges or nearby rivers to follow. Write a few *boss* / campaign-defining locations in greater detail. These are defined by having long clocks that majorly change the world. Other than that, use the generator and the random tables provided in Fistful of Darkness (e.g., p. 165, 168 and material by [[People#Michael E. Shea]]. 
 
 # Travel
 - Define 3 Zones on the map:
@@ -33,6 +33,7 @@ Systems:
 	2. Within a day's travel: The score will start with an encounter on the road. Depending on the engagement roll, this encounter may be more or less hindering. The engagement roll is *modified by gathering information & loadout*.
 	3. Farther away: A dedicated Travel score is necessary before attempting the actual score.
 **CAVE:** Don't place too many interesting locations in zone 1 or the players may get hung up there. Most of the game should be inzone 2. Endgame locations should be in zone 3.
+Random events and encounters for travel can be found on Fistful of Darkness p. 161.
 
 # There be Monsters
 - The Underground run section (Fistful of Darkness p. 123ff) is pretty good also for above-ground monsters, including ambushes and monster hunts. Creative use of clocks! Also, neat idea to break runs up into **distinct objectives expressed as clocks**.
