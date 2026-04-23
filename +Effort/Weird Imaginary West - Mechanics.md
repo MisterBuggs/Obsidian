@@ -7,7 +7,7 @@ created: 2026-04-20T13:57:06+02:00
 #Worldbuilding #Fantasy #Writing #TTRPG #Steampunk_Weird_West
 Systems:
 - [Weird West | Cypher System Reference Document](https://cyphersrd.quest/04-genres/10-weird-west/), an official Weird West Module for Cypher.
-- [A Fistful of Darkness](https://monkeyecho.itch.io/a-fistful-of-darkness), #Forged_In_The_Dark game, which hopefully provides appropriate playbooks. Hang-ups are faction intrigue, which cannot happen in the *sanctuary* hub town and heat / wanted, which cannot turn the players against some sort of penal state. The hometown *must* remain bland and impartial or the players may stop venturing out. 
+- [A Fistful of Darkness](https://monkeyecho.itch.io/a-fistful-of-darkness), #Forged_In_The_Dark game using the [BitD system], which hopefully provides appropriate playbooks. Hang-ups are faction intrigue, which cannot happen in the *sanctuary* hub town and heat / wanted, which cannot turn the players against some sort of penal state. The hometown *must* remain bland and impartial or the players may stop venturing out. 
 - [Dust Devils](https://github.com/harbinger87/RPG/blob/master/Dust%20Devils.pdf), a rules-light narrative TTRPG using poker cards.
 
 # Crews
