@@ -2,7 +2,7 @@
 modified:
   - 2026-04-21T17:37:17+02:00
   - 2026-04-20T11:13:49+02:00
-  - 2026-04-23T16:32:51+02:00
+  - 2026-04-23T16:41:27+02:00
 created: 2026-04-20T10:26:27+02:00
 tags:
   - Worldbuilding
@@ -25,9 +25,11 @@ Six Truths:
 5. The unprecedented advancements of clockwork, steam powered, and magical technologies in the age of Hellstone have all but replaced the role of work animals to society. 
 6. Procuring Hellstone is one of the most lucrative but also most dangerous occupations, as it requires leaving the heavily militarized "safe" population centers and enter monster territory.
 
-# Factions
-Some factions in Fistful of Darkness are decent but most are pretty terrible. A list of homebrew factions can be found in [[Weird Imaginary West - Worldbuilding#Factions]]
-- Credit Union: A cultish bank centered using Hoodoo-inspired Nomismancy (Nomisma -mancy) with dollar bills as the primary magical ingredient. Background: The dollar is backed by immense public trust, infusing it with power.
+# Factions - Worldbuilding
+Some factions in Fistful of Darkness are decent but most are pretty terrible. A list of homebrew factions can be found at [[Weird Imaginary West - Worldbuilding#Factions]]
+- Credit Union: A cultish bank centered around using Hoodoo-inspired Nomismancy (Nomisma -mancy) with dollar bills (or alternatively Gold?) as the primary magical ingredient. Background: The dollar is backed by immense public trust, infusing it with magical power. 
+- Wells & Fargo: Used to specialize in appraising Gold and silver, they now primarily grade Hellstone (shaving a solid cut for their services). Hellstone appraisers are gagged and handcuffed and sometimes drugged: They are uniquely magically active individuals - that's why they can *feel the tingle* of Hellstone. However, it's too risky to keep a magic user around so much potent Hellstone without some security precautions against their spellcasting. 
+- *Name*
 
 # Worldbuilding exercise
 
