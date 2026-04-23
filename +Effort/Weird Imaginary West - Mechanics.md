@@ -2,7 +2,7 @@
 modified:
   - 2026-04-20T14:43:38+02:00
   - 2026-04-21T15:27:27+02:00
-  - 2026-04-23T15:06:38+02:00
+  - 2026-04-23T15:11:29+02:00
 created: 2026-04-20T13:57:06+02:00
 ---
 #Worldbuilding #Fantasy #Writing #TTRPG #Steampunk_Weird_West
@@ -44,4 +44,4 @@ Compare [[Blades-in-the-Dark#Incarceration]] to the Doom system in Fistful of Da
 I don't know if I like this system in Fistful of Darkness (p. 111). I could leave it out entirely or I could produce one where exposure leads to a risk of *turning* into a **Wendigo / Skinwalker**. 
 
 # Revenant
-It's nice to allow a player to settle one last score. However, the tone of the **Revenant** in Fistful of Darkness (p. 119just isn't right. Something like a "the End" mechanic with redemption of other characters may be 
+It's nice to allow a player to settle one last score. However, the tone of the **Revenant** in Fistful of Darkness (p. 109) just isn't right for my version of the Weird West. Something like a "the End" with "Redemption" mechanic from Dust Devils is better. E.g., when a character takes level 4 harm, they enter "The End": They know their days are numbered and the next will be their last score. Make it count!
