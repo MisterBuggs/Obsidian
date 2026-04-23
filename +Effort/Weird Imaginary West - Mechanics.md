@@ -2,7 +2,7 @@
 modified:
   - 2026-04-20T14:43:38+02:00
   - 2026-04-21T15:27:27+02:00
-  - 2026-04-23T16:26:14+02:00
+  - 2026-04-23T16:34:01+02:00
 created: 2026-04-20T13:57:06+02:00
 ---
 #Worldbuilding #Fantasy #Writing #TTRPG #Steampunk_Weird_West
@@ -16,10 +16,10 @@ created: 2026-04-20T13:57:06+02:00
 - I could run the first handful of games (until everyone has played at least once) without a crew sheet and **introduce the crew mechanic later**, letting people vote on what kind of crew this campaign should be.
 # Opening episode
 - I originally thought about starting with a funnel episode, in which each player embodies multiple minimal characters in a very deadly scenario. #Social_Media_Reddit has convinced me that this is a bad idea because of the strong synergy between FitD characters (help action) and the high emphasis on player agency in FitD. I am still thinking about starting characters with a half-empty sheet and discovering who they want to be (allocating skill points) only during the first session. At the end of the opening episode, people get to choose a playbook that works with their allocated skill points and that they want to play. Don't tell them the playbook: *Prepare a list of the unique leveling sentence for each playbook*, then, during session 1, write player initials next to **playbooks they interacted** with and then suggest 2-3 playbooks to each player at the end of session 1. If they don't like how that playbook plays, they can always create another character later - fully from scratch by regular rules that time. 
-# Factions
+# Faction mechanics
 - By design, the central hub city in Westmarches games must be relatively bland and safe. Otherwise: Why venture out into the wilderness. However, this makes running meaningful faction rivalry, which are essential to #Forged_In_The_Dark_FitD  , pretty difficult; especially on a hostile and unknown world map.
 - Give each faction a leader and a contact through which I can better embody these factions. For Tier 4-5 faction, consider also giving them 1-2 lieutenants with their own personal goals. I may write simple character cards for these characters in something like sillytavern/KoboldAI to semi-automate the faction game, e.g., faction projects, reactions to the PCs actions, etc.
-- Some factions in Fistful of Darkness are decent but most are pretty terrible. A list of homebrew factions can be found in [[Weird Imaginary West - Worldbuilding#Factions]]
+- ![[Weird Imaginary West - Worldbuilding#Factions]]
 # Map
 - Locations on the map and creatures found there and on the way there should roughly scale in *Tiers* ( #Forged_In_The_Dark_FitD  mechanic) by their distance to the hub city. Difficulty must also be telegraphed somehow, to enable informed decisions. 
 - In the beginning, only map major landmarks, like mountain ranges or nearby rivers to follow. Write a few *boss* / campaign-defining locations in greater detail. These are defined by having long clocks that majorly change the world. Other than that, use the generator and the random tables provided in Fistful of Darkness (e.g., p. 165, 168-173 and material by [[People#Michael E. Shea]]. I believe that Scum & Villainy also had a decent generator for the exposition to a run, always involving *a contact, an opportunity, an obvious approach, a not so obvious approach*.
