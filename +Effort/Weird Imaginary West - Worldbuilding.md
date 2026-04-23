@@ -1,5 +1,6 @@
 ---
 modified:
+  - 2026-04-23T17:14:44+02:00
   - 2026-04-21T17:37:17+02:00
   - 2026-04-20T11:13:49+02:00
   - 2026-04-23T16:49:28+02:00
@@ -26,10 +27,12 @@ Six Truths:
 6. Procuring Hellstone is one of the most lucrative but also most dangerous occupations, as it requires leaving the heavily militarized "safe" population centers and enter monster territory.
 # Factions - Worldbuilding
 Some factions in Fistful of Darkness are decent but most are pretty terrible. A list of homebrew factions can be found at [[Weird Imaginary West - Worldbuilding#Factions]]
+- **The Mayors Office**, Tier 4W: Voted into office by cashing in one too many favors, the Mayor is now busy holding his position, especially against the less democratically legitimized factions in town.
+- **Barnabas Saloon**, Tier 4W: Old Barnabas was the one to establish a settlement here in the first place and all of the central town is built upon his homesteaders claim registered with the San Francisco Mining Rights Office just before the cataclysm. No one really knows how old *Old Barnabas is
 - **Credit Union**: A cultish bank centered around using Hoodoo-inspired Nomismancy (Nomisma -mancy) with dollar bills (or alternatively Gold?) as the primary magical ingredient. Background: The dollar is backed by immense public trust, infusing it with magical power. 
 - **Wells & Fargo**: Used to specialize in appraising Gold and silver, they now primarily grade Hellstone (shaving a solid cut for their services). Hellstone appraisers are gagged and handcuffed and sometimes drugged: They are uniquely magically active individuals - that's why they can *feel the tingle* of Hellstone. However, it's too risky to keep a magic user around so much potent Hellstone without some security precautions against their spellcasting. 
-- **Name**, Tier 2S: A gang of outlaws / vigilantes and everything in between led by their charismatic leader "Gabriel" (no last name) carrying the legendary Colt *The left hand of God*, which never seems to miss a target (though that doesn't mean it can fly around corners or penetrate walls). 
-- **The United Western Church of Christ Justice**, Tier 2S: A zealous group of religious vigilantes led by charismatic preacher "Michael" (no last name), carrying the legendary Winchester Rifle *The right hand of God*, the bullets of which cut through rock and steel, never erring off a perfectly straight course. 
+- **The Leatherback Gang**, Tier 2S: A gang of outlaws / vigilantes and everything in between led by their charismatic leader "Gabriel" (no last name) carrying the legendary Colt *The left hand of God*, which never seems to miss a target (though that doesn't mean it can fly around corners or penetrate walls). Inspired by Cheyenne's gang in *Once upon a time in the west*
+- **The First American Church of Jesus Christy, Justice**, Tier 2S: A zealous group of religious vigilantes led by charismatic preacher "Michael" (no last name), carrying the legendary Winchester Rifle *The right hand of God*, the bullets of which cut through rock and steel, never erring off a perfectly straight course. Inspired by the preacher in *There will be blood*.
 # Worldbuilding exercise
 
 ## The Weirdborn: 
