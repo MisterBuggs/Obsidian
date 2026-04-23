@@ -2,6 +2,7 @@
 modified:
   - 2026-04-21T17:37:17+02:00
   - 2026-04-20T11:13:49+02:00
+  - 2026-04-23T16:29:24+02:00
 created: 2026-04-20T10:26:27+02:00
 tags:
   - Worldbuilding
@@ -25,11 +26,11 @@ Six Truths:
 6. Procuring Hellstone is one of the most lucrative but also most dangerous occupations, as it requires leaving the heavily militarized "safe" population centers and enter monster territory.
 
 # Factions
-The Rush: A closenit cult / bank centered around Nomismancy (Nomisma - mancy) using dollar bills, which are backed by immense public trust. 
+- Credit Union: A cultish bank centered using Hoodoo-inspired Nomismancy (Nomisma -mancy) with dollar bills as the primary magical ingredient. Background: The dollar is backed by immense public trust, infusing it with power.
 
 Worldbuilding exercise:
 
-## The Weirdborn: 
+# The Weirdborn: 
 1. **Q: What is the most “common” weirdborn creature people actually encounter—and what makes it dangerous despite being common?** A: Whatever animal used to be common where you live is now probably common as a monster. Thus, small mammal-derived and small bird-derived monsters, like ratlings and harpies probably belong to the more common monsters to encounter that cause *issues*. Monstrous insect swarms are dangerously common, too. Even small creatures like that are dangerous due to their increased not-quite-human intellect and an uncanny and unexplained way of seeming to "communicate" to keep humans out of the wilderness. 
 
 2. **Q: What’s the most domesticated animal that still occasionally produces monstrous offspring?** A: EVERY animal can turn. So far, the scientific community denies that humans can turn but stories about skinwalkers and wendigo's - humans that turned during prolonged isolation - are whispered about at the frontier. Domesticated dogs and horses turn relatively rarely, but still, breeding them has become a much more dangerous profession due to the occasional Barghest or Centaur. 
@@ -41,7 +42,7 @@ Worldbuilding exercise:
 5. **Q: What’s the single most terrifying creature that isn’t a boss monster—just something the frontier folk whisper about because it breaks the rules?** A: See explanation about the Wendigo / Skinwalker in Q2. Otherwise, Elk and Buffallo produce pretty huge monsters on land. Wale, Shark, and Giant Squid produce terrifying sea monsters. Eagles, Owls, and Vampire bats produce pretty terrifying flying beasts. It's hard to give one definitive answer to your question, but I guess, animal monsters that produce *societies* and can *use tools*, like Vampires, Harpies, Ratlings, Centaurs are inherently more scary than solitary beasts.
 
 
-## 🔥 Hellstone, Industry & the Frontier Economy
+# 🔥 Hellstone, Industry & the Frontier Economy
 
 These shape the campaign’s job structure and the incentives that drive expeditions.
 
@@ -56,7 +57,7 @@ These shape the campaign’s job structure and the incentives that drive expedit
 10. **What’s the black‑market Hellstone derivative that everyone pretends doesn’t exist?**
     
 
-## 🏛️ Society, Law & the “Safe Zones”
+# 🏛️ Society, Law & the “Safe Zones”
 
 These determine the tone of civilization and the stakes of leaving it.
 
@@ -71,7 +72,7 @@ These determine the tone of civilization and the stakes of leaving it.
 15. **What’s the biggest lie the government tells about the frontier?**
     
 
-## 🌙 Magic, Communion & the Weird
+# 🌙 Magic, Communion & the Weird
 
 These help define the supernatural tone and the PCs’ relationship to it.
 
@@ -86,7 +87,7 @@ These help define the supernatural tone and the PCs’ relationship to it.
 20. **What’s the one magical phenomenon that even experts can’t explain?**
     
 
-## 🗺️ The Frontier as a West Marches Sandbox
+# 🗺️ The Frontier as a West Marches Sandbox
 
 These help you build the hex map, rumors, and expedition structure.
 
