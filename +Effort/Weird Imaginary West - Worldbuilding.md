@@ -28,11 +28,22 @@ Six Truths:
 # Factions - Worldbuilding
 Some factions in Fistful of Darkness are decent but most are pretty terrible. A list of homebrew factions can be found at [[Weird Imaginary West - Worldbuilding#Factions]]
 - **The Mayors Office**, Tier 4W: Voted into office by cashing in one too many favors, the Mayor is now busy holding his position, especially against the less democratically legitimized factions in town.
-- **Barnabas Saloon**, Tier 4S: Old Barnabas was the one to establish a settlement here in the first place and all of the central town is built upon his homesteaders claim registered with the San Francisco Mining Rights Office just before the cataclysm. No one really knows how old *Old Barnabas* is, but for some mysterious reason he just refuses to diecsnd continues to lead, or at least defend his land and real estate empire: Land makes right. Inspired by the Tortoise in *Ringo*. 
+- **Barnabas' Saloon**, Tier 4S: Old Barnabas was the one to establish a settlement here in the first place and all of the central town is built upon his homesteaders claim registered with the San Francisco Mining Rights Office just before the cataclysm. He used to be a state marshal, hence not allowed to set up a miner's claim, but has lost most ties with the "outside government". No one really knows how old *Old Barnabas* is, but for some mysterious reason he just refuses to die and continues to lead, or at least defend his land and real estate empire: Land makes right. Inspired by the Tortoise in *Ringo*.
+- **Pinkertons**, Tier 3S: A paramilitary police force at the service of anyone with the necessary coin - but ultimately only serving themselves. Relatively close-nit / prefers not to venture out too far. 
 - **Credit Union**, Tier 3W: A cultish bank centered around using Hoodoo-inspired Nomismancy (Nomisma -mancy) with dollar bills (or alternatively Gold?) as the primary magical ingredient. Background: The dollar is backed by immense public trust, infusing it with magical power. 
 - **Wells & Fargo**, Tier 3S: Used to specialize in appraising Gold and silver, they now primarily grade Hellstone (shaving a solid cut for their services). Hellstone appraisers are gagged and handcuffed and sometimes drugged: They are uniquely magically active individuals - that's why they can *feel the tingle* of Hellstone. However, it's too risky to keep a magic user around so much potent Hellstone without some security precautions against their spellcasting. 
-- **The Leatherback Gang**, Tier 2W: A gang of outlaws / vigilantes and everything in between led by their charismatic leader "Gabriel" (no last name) carrying the legendary Colt *The left hand of God*, which never seems to miss a target (though that doesn't mean it can fly around corners or penetrate walls). Inspired by Cheyenne's gang in *Once upon a time in the west*
+- **The Leatherback Gang**, Tier 2W: A gang of outlaws / vigilantes and everything in between led by their charismatic leader "Gabriel" (no last name), a Pinkerton breakaway, carrying the legendary Colt *The left hand of God*, which never seems to miss a target (though that doesn't mean it can fly around corners or penetrate walls). Inspired by Cheyenne's gang in *Once upon a time in the west*
 - **The First American Church of Jesus Christ, Justice**, Tier 2S: A zealous group of religious vigilantes led by charismatic preacher "Michael" (no last name), carrying the legendary Winchester Rifle *The right hand of God*, the bullets of which cut through rock and steel, never erring off a perfectly straight course. Inspired by the preacher in *There will be blood*.
+- #To_do
+-   oil barons going out of business.
+-   former railway barons trying to keep their shares in this changed world.
+-   coachers and carriagemen
+-   Miners Guild
+-   horse breeding -> high danger because of weirdborn
+-   Sparkwrights = steampunk and magitech crafters
+-   The Sherriff's office -> degenerate to monster hunters
+-   Native Tribes from Fistful of Darkness
+-   Wong's and Rose's establishments from Fistful of Darkness
 # Worldbuilding exercise
 
 ## The Weirdborn: 
