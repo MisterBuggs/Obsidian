@@ -2,13 +2,13 @@
 modified:
   - 2026-04-20T14:43:38+02:00
   - 2026-04-21T15:27:27+02:00
-  - 2026-04-23T16:08:33+02:00
+  - 2026-04-23T16:10:00+02:00
 created: 2026-04-20T13:57:06+02:00
 ---
 #Worldbuilding #Fantasy #Writing #TTRPG #Steampunk_Weird_West
 Systems:
 - [Weird West | Cypher System Reference Document](https://cyphersrd.quest/04-genres/10-weird-west/), an official Weird West Module for Cypher.
-- [Fistfull_of_Darkness](https://mhhannoverde-my.sharepoint.com/:f:/r/personal/heisler_willem_mh-hannover_de/Documents/Privat%20MHH%20WBuys/Fistfull_of_Darkness?csf=1&web=1&e=QwhJ2c) #Forged_In_The_Dark game using the [[Blades-in-the-Dark]] system, which hopefully provides appropriate playbooks. Hang-ups are faction intrigue, which cannot happen in the *sanctuary* hub town and heat / wanted, which cannot turn the players against some sort of penal state. The hometown *must* remain bland and impartial or the players may stop venturing out. Index: p. 177
+- [Fistfull_of_Darkness](https://mhhannoverde-my.sharepoint.com/:f:/r/personal/heisler_willem_mh-hannover_de/Documents/Privat%20MHH%20WBuys/Fistfull_of_Darkness?csf=1&web=1&e=QwhJ2c) #Forged_In_The_Dark game using the [[Blades-in-the-Dark]] system, which hopefully provides appropriate playbooks. Hang-ups are faction intrigue, which cannot happen in the *sanctuary* hub town and heat / wanted, which cannot turn the players against some sort of penal state. The hometown *must* remain bland and impartial or the players may stop venturing out. Table of contents: p. 5. Index: p. 177.
 - [Dust Devils](https://github.com/harbinger87/RPG/blob/master/Dust%20Devils.pdf), a rules-light narrative TTRPG using poker cards.
 
 # Crews
@@ -33,7 +33,8 @@ Systems:
 	1. The outskirts of the hub town: The score starts on location. Complications on the travel there are handled narratively, as determined by the engagement roll; the engagement roll is *modified by gathering information*.
 	2. Within a day's travel: The score will start with an encounter on the road. Depending on the engagement roll, this encounter may be more or less hindering. The engagement roll is *modified by gathering information & loadout*.
 	3. Farther away: A dedicated Travel score is necessary before attempting the actual score.
-**CAVE:** Don't place too many interesting locations in zone 1 or the players may get hung up there. Most of the game should be inzone 2. Endgame locations should be in zone 3.
+**CAVE:** Don't place too many interesting locations in zone 1 or the players may get hung up there. Most of the game should be in zone 2. Endgame locations should be in zone 3.
+**Idea:** Make a hexmap with a max-distance of walking 6 hexes to reach any edge. Apply the table above for what happens when characters want to go somewhere. If they want to reach "ranks" 4 or 5 (endgame locations), they HAVE
 Random events and encounters for travel can be found on Fistful of Darkness p. 161.
 
 # There be Monsters
