@@ -1,3 +1,8 @@
+---
+modified:
+  - 2026-04-23T11:14:25+02:00
+created: 2026-04-23T11:08:42+02:00
+---
 # The Basics
 
 ## The Game
@@ -389,11 +394,11 @@ When you narrate the action after the roll, the GM and player collaborate togeth
 
 ### ACTION ROLL
 
-&#x23E3; &nbsp; **1d** for each **Action** rating dot.
+- **1d** for each **Action** rating dot.
 
-&#x2295; &nbsp; **+1d** if you have **Assistance**.
+- **+1d** if you have **Assistance**.
 
-&#x2295; &nbsp; **+1d** if you **Push** yourself -or- you accept a **Devil's Bargain**.
+- **+1d** if you **Push** yourself -or- you accept a **Devil's Bargain**.
 
 #### CONTROLLED
 
@@ -540,11 +545,11 @@ If you need to mark a harm level, but the row is already filled, the harm moves 
 
 #### HARM
 
-| []() |                                                            |                |
-| :--: | :--------------------------------------------------------- | :------------: |
-|  3   | *Shattered Right Leg* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   |   Need Help    |
-|  2   | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \| |      -1D       |
-|  1   | *Drained* &nbsp; \| &nbsp; *Battered*                      | Reduced Effect |
+| []() |                                                          |                |
+| :--: | :------------------------------------------------------- | :------------: |
+|  3   | *Shattered Right Leg* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |   Need Help    |
+|  2   | \|                                                       |      -1D       |
+|  1   | *Drained* &nbsp; \| &nbsp; *Battered*                    | Reduced Effect |
 
 *This character has three harm: a "Shattered Right Leg" (level 3) plus "Drained" and "Battered" (level 1). If they suffer another level 1 harm, it will move up to level 2. If they suffer another level 3 harm, it will move up to level 4: Fatal.*
 
