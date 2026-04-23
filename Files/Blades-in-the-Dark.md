@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-23T11:29:18+02:00
+  - 2026-04-23T11:32:18+02:00
 created: 2026-04-23T11:08:42+02:00
 ---
 # The Basics
@@ -771,7 +771,7 @@ In addition, each full row of stash (10 **coins**) indicates the **quality level
 
 ### Removing coin from your stash
 
-If you want to pull **coin** out of your stash, you may do so, at a cost. Your character sells off some of their assets and investments in order to get some quick cash. **For every 2 stash removed, you get 1 ****coin**** in cash.**
+If you want to pull **coin** out of your stash, you may do so, at a cost. Your character sells off some of their assets and investments in order to get some quick cash. **For every 2 stash removed, you get 1 coin in cash**.
 
 # The Faction Game
 
