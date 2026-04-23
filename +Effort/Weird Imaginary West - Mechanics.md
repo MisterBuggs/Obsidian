@@ -41,7 +41,9 @@ Systems:
 I don't really love how the end times are handled in Fistful of Darkness. The goal for characters may be to get out of this hell hole or to build an empire here in the wilderness. I thus prefer the Stash system as in the original [[Blades-in-the-Dark#Stash & Retirement]].
 
 # Heat
- The Doom / Rider system doesn't really vibe with my world building. Compare [[Blades-in-the-Dark#Incarceration]] to the Doom system in Fistful of Darkness for a suitable system between not being allowed in the safe hubtown as a measure of Heat -> wanted (potentially traumatizing, kinda like prison, but with the chance of discovering a new location, kinda like prison claims).
+ - The Doom / Rider system doesn't really vibe with my world building. Compare [[Blades-in-the-Dark#Incarceration]] to the Doom system in Fistful of Darkness for a suitable system between not being allowed in the safe hubtown as a measure of Heat -> wanted (potentially traumatizing, kinda like prison, but with the chance of discovering a new location, kinda like prison claims). 
+ - I may consider not fully excluding *business* in the hub town but rather viciously punishing it, i.e., always gives at least one Wanted level, except with a critical fortune roll. 
+ 
 
 # Mutations
 I don't know if I like this system in Fistful of Darkness (p. 111). I could leave it out entirely or I could produce one where exposure leads to a risk of *turning* into a **Wendigo / Skinwalker**. 
