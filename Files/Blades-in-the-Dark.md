@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-23T11:14:25+02:00
+  - 2026-04-23T11:17:15+02:00
 created: 2026-04-23T11:08:42+02:00
 ---
 # The Basics
@@ -601,11 +601,11 @@ Once you decide to resist a consequence and roll, you suffer the stress indicate
 
 ### RESISTANCE ROLL
 
-&#x23E3; &nbsp; **1d** for each **Attribute** rating.
+**1d** for each **Attribute** rating.
 
 You **reduce** or **avoid** the effects of the consequence (GM chooses).
 
-**Suffer 6 **Stress** minus the highest die result.**
+**Suffer 6 Stress** minus the highest die result.
 
 **Critical**: Clear 1 stress.
 
@@ -665,11 +665,11 @@ Other examples of fortune rolls:
 
 ### FORTUNE ROLL
 
-&#x23E3; &nbsp; *1d* for each **Trait** rating.
+- *1d* for each **Trait** rating.
 
-&#x2295; &nbsp; *+1d* for each **Major Advantage**.
+- +1d* for each **Major Advantage**.
 
-&#x2296; &nbsp; *-1d* for each **Major Disadvantage**.
+- *-1d* for each **Major Disadvantage**.
 
 * **Critical**: Exceptional result / Great, extreme effect.
 * **6**: Good result / Standard,  full effect.
