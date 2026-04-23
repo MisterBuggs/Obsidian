@@ -2,7 +2,7 @@
 modified:
   - 2026-04-21T17:37:17+02:00
   - 2026-04-20T11:13:49+02:00
-  - 2026-04-23T16:48:08+02:00
+  - 2026-04-23T16:49:28+02:00
 created: 2026-04-20T10:26:27+02:00
 tags:
   - Worldbuilding
@@ -26,10 +26,10 @@ Six Truths:
 6. Procuring Hellstone is one of the most lucrative but also most dangerous occupations, as it requires leaving the heavily militarized "safe" population centers and enter monster territory.
 # Factions - Worldbuilding
 Some factions in Fistful of Darkness are decent but most are pretty terrible. A list of homebrew factions can be found at [[Weird Imaginary West - Worldbuilding#Factions]]
-- Credit Union: A cultish bank centered around using Hoodoo-inspired Nomismancy (Nomisma -mancy) with dollar bills (or alternatively Gold?) as the primary magical ingredient. Background: The dollar is backed by immense public trust, infusing it with magical power. 
-- Wells & Fargo: Used to specialize in appraising Gold and silver, they now primarily grade Hellstone (shaving a solid cut for their services). Hellstone appraisers are gagged and handcuffed and sometimes drugged: They are uniquely magically active individuals - that's why they can *feel the tingle* of Hellstone. However, it's too risky to keep a magic user around so much potent Hellstone without some security precautions against their spellcasting. 
-- *Name*: A gang of outlaws / vigilantes and everything in between led by their charismatic leader "Gabriel" (no last name) carrying the legendary Colt *The left hand of God*, which never seems to miss a target (though that doesn't mean it can fly around corners or penetrate walls). 
-- The United Western Church of Justice: A zealous group of religious vigilantes led by charismatic preacher "Michael" (no last name), carrying the legendary Winchester Rifle *The right hand of God*, the bullets of which cut through rock and steel, never erring off a perfectly straight course. 
+- **Credit Union**: A cultish bank centered around using Hoodoo-inspired Nomismancy (Nomisma -mancy) with dollar bills (or alternatively Gold?) as the primary magical ingredient. Background: The dollar is backed by immense public trust, infusing it with magical power. 
+- **Wells & Fargo**: Used to specialize in appraising Gold and silver, they now primarily grade Hellstone (shaving a solid cut for their services). Hellstone appraisers are gagged and handcuffed and sometimes drugged: They are uniquely magically active individuals - that's why they can *feel the tingle* of Hellstone. However, it's too risky to keep a magic user around so much potent Hellstone without some security precautions against their spellcasting. 
+- **Name**, Tier 2S: A gang of outlaws / vigilantes and everything in between led by their charismatic leader "Gabriel" (no last name) carrying the legendary Colt *The left hand of God*, which never seems to miss a target (though that doesn't mean it can fly around corners or penetrate walls). 
+- **The United Western Church of Christ Justice**, Tier 2S: A zealous group of religious vigilantes led by charismatic preacher "Michael" (no last name), carrying the legendary Winchester Rifle *The right hand of God*, the bullets of which cut through rock and steel, never erring off a perfectly straight course. 
 # Worldbuilding exercise
 
 ## The Weirdborn: 
