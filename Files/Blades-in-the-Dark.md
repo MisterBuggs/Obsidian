@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-23T11:32:18+02:00
+  - 2026-04-23T11:43:24+02:00
 created: 2026-04-23T11:08:42+02:00
 ---
 # The Basics
@@ -1164,7 +1164,7 @@ When you **invent** or **craft** a creation with *spark-craft* features, you get
 
 > Follow the Inventing procedure with the GM to define your first spark-craft design.
 
-## Fortitude
+### Fortitude
 
 You may expend your **special armor** to resist a consequence of fatigue, weakness, or chemical effects, or to **push yourself** when working with technical skill or handling alchemicals.
 
@@ -1498,7 +1498,7 @@ If a cohort is destroyed, it may be replaced. Spend **coin** equal to your Tier 
 
 @TODO dropcaps
 
-**1****Choose a crew type.** The crew type determines the group's purpose, their special abilities, and how they advance.
+**1 Choose a crew type.** The crew type determines the group's purpose, their special abilities, and how they advance.
 
 You begin at **Tier 0**, with **strong hold** and 0 **rep**. You start with 2 **coin**.
 

@@ -2,7 +2,7 @@
 modified:
   - 2026-04-20T14:43:38+02:00
   - 2026-04-21T15:27:27+02:00
-  - 2026-04-23T11:36:24+02:00
+  - 2026-04-23T11:40:34+02:00
 created: 2026-04-20T13:57:06+02:00
 ---
 #Worldbuilding #Fantasy #Writing #TTRPG #Steampunk_Weird_West
@@ -29,8 +29,8 @@ Systems:
 
 # Travel
 - Define 3 Zones on the map:
-	1. The outskirts of the hub town: The score starts on location. Complications on the travel there are handled narratively, as determined by the engagement roll, modified by loadout,.
-	2. Within a day's travel: The score will start with an encounter on the road. Depending on the engagement roll, this encounter may be more or less hindering.
+	1. The outskirts of the hub town: The score starts on location. Complications on the travel there are handled narratively, as determined by the engagement roll; the engagement roll is *modified by gathering information*.
+	2. Within a day's travel: The score will start with an encounter on the road. Depending on the engagement roll, this encounter may be more or less hindering. The engagement roll is *modified by gathering information & loadout*.
 	3. Farther away: A dedicated Travel score is necessary before attempting the actual score.
 **CAVE:** Don't place too many interesting locations in zone 1 or the players may get hung up there. Most of the game should be inzone 2. Endgame locations should be in zone 3.
 
