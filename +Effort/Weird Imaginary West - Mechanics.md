@@ -2,7 +2,7 @@
 modified:
   - 2026-04-20T14:43:38+02:00
   - 2026-04-21T15:27:27+02:00
-  - 2026-04-23T11:31:22+02:00
+  - 2026-04-23T11:36:24+02:00
 created: 2026-04-20T13:57:06+02:00
 ---
 #Worldbuilding #Fantasy #Writing #TTRPG #Steampunk_Weird_West
@@ -21,6 +21,7 @@ Systems:
 
 # Factions
 - By design, the central hub city in Westmarches games must be relatively bland and safe. Otherwise: Why venture out into the wilderness. However, this makes running meaningful faction rivalry, which are essential to #Forged_In_The_Dark_FitD  , pretty difficult; especially on a hostile and unknown world map.
+- Give each faction a leader and a contact through which I can better embody these factions. For Tier 4-5 faction, consider also giving them 1-2 lieutenants with their own personal goals. I may write simple character cards for these characters in something like sillytavern/KoboldAI to semi-automate the faction game, e.g., faction projects, reactions to the PCs actions, etc.
 
 # Map
 - Locations on the map and creatures found there and on the way there should roughly scale in *Tiers* ( #Forged_In_The_Dark_FitD  mechanic) by their distance to the hub city. Difficulty must also be telegraphed somehow, to enable informed decisions. 
@@ -28,7 +29,7 @@ Systems:
 
 # Travel
 - Define 3 Zones on the map:
-	1. The outskirts of the hub town: The score starts on location. Complications on the travel there are handled narratively, as determined by the engagement.
+	1. The outskirts of the hub town: The score starts on location. Complications on the travel there are handled narratively, as determined by the engagement roll, modified by loadout,.
 	2. Within a day's travel: The score will start with an encounter on the road. Depending on the engagement roll, this encounter may be more or less hindering.
 	3. Farther away: A dedicated Travel score is necessary before attempting the actual score.
 **CAVE:** Don't place too many interesting locations in zone 1 or the players may get hung up there. Most of the game should be inzone 2. Endgame locations should be in zone 3.
