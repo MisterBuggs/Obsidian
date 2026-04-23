@@ -9,7 +9,7 @@ modified:
   - 2026-04-20T12:28:04+02:00
   - 2026-04-21T13:51:36+02:00
   - 2026-04-22T14:59:37+02:00
-  - 2026-04-23T10:34:56+02:00
+  - 2026-04-23T10:55:42+02:00
 created: 2026-04-09T09:39:29+02:00
 ---
 - [ ] Lack doctor to Haftpflicht. They have received the message but not responded yet.
@@ -28,7 +28,7 @@ created: 2026-04-09T09:39:29+02:00
 - [ ] #Peer_Review Intensive Care Medicine [[ICMX-D-26-00143.pdf]], [submit comments here](https://www.editorialmanager.com/icmx/l.asp?i=130475&l=2FBZLDQK "https://www.editorialmanager.com/icmx/l.asp?i=130475&l=2FBZLDQK")
 - [x] [[Elmira Aliabadi Job Interview]]
 - [ ] #People_Ross_McGlennon offered 20% discount for Frontiers Immunology Submission. Do I have or can I summon a paper within this year? Likely no desk rejection. 
-- [ ] Contact Falko Mohrs about "slow start"
+- [ ] Contact Falko Mohrs about "slow start" in Germany.
 - [ ] After receiving confirmation of full membership, apply for a DGHO Arbeitskreis. In that order: 
 	- [ ] [Zellbiologie und -therapie](https://www.dgho.de/arbeitskreise/p-z/zellbiologie-therapie)
 	- [ ] [AGIHO (Infektionen)](https://www.dgho.de/arbeitskreise/a-g/agiho)
