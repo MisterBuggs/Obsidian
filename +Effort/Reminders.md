@@ -9,7 +9,7 @@ modified:
   - 2026-04-20T12:28:04+02:00
   - 2026-04-21T13:51:36+02:00
   - 2026-04-22T14:59:37+02:00
-  - 2026-04-23T08:48:29+02:00
+  - 2026-04-23T08:54:15+02:00
 created: 2026-04-09T09:39:29+02:00
 ---
 - [ ] Lack doctor to Haftpflicht. They have received the message but not responded yet.
@@ -25,7 +25,8 @@ created: 2026-04-09T09:39:29+02:00
 	- [ ] #People_Petzoldt Steuerberater
 	- [ ] Personalausweis / Reisepass
 - [ ] #Peer_Review BMC Geriatrics [Revised Manuscript.docx](<file:///C:\Users\buyswill\Downloads\The Controversial Interpl>)
-- [ ] Prepare job interview / project ideas with #People_Elmira_Aliabadi <elmira.aliabadi@gmail.com>
+- [ ] #Peer_Review Intensive Care Medicine [[ICMX-D-26-00143.pdf]], [submit comments here](https://www.editorialmanager.com/icmx/l.asp?i=130475&l=2FBZLDQK "https://www.editorialmanager.com/icmx/l.asp?i=130475&l=2FBZLDQK")
+- [ ] Prepare [[Elmira Aliabadi Job Interview]] / project ideas with #People_Elmira_Aliabadi <elmira.aliabadi@gmail.com>
 - [ ] #People_Ross_McGlennon offered 20% discount for Frontiers Immunology Submission. Do I have or can I summon a paper within this year? Likely no desk rejection. 
 - [ ] After receiving confirmation of full membership, apply for a DGHO Arbeitskreis. In that order: 
 	- [ ] [Zellbiologie und -therapie](https://www.dgho.de/arbeitskreise/p-z/zellbiologie-therapie)
