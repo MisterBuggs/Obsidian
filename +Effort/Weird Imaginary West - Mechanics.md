@@ -2,7 +2,7 @@
 modified:
   - 2026-04-20T14:43:38+02:00
   - 2026-04-21T15:27:27+02:00
-  - 2026-04-23T14:38:53+02:00
+  - 2026-04-23T15:06:38+02:00
 created: 2026-04-20T13:57:06+02:00
 ---
 #Worldbuilding #Fantasy #Writing #TTRPG #Steampunk_Weird_West
@@ -39,3 +39,9 @@ I don't really love how the end times are handled in Fistful of Darkness. The go
 
 # Heat
 Compare [[Blades-in-the-Dark#Incarceration]] to the Doom system in Fistful of Darkness for a suitable system between not being allowed in the safe hubtown as a measure of Heat -> wanted (potentially traumatizing, kinda like prison, but with the chance of discovering a new location, kinda like prison claims) vs. the Doom System.
+
+# Mutations
+I don't know if I like this system in Fistful of Darkness (p. 111). I could leave it out entirely or I could produce one where exposure leads to a risk of *turning* into a **Wendigo / Skinwalker**. 
+
+# Revenant
+It's nice to allow a player to settle one last score. However, the tone of the **Revenant** in Fistful of Darkness (p. 119just isn't right. Something like a "the End" mechanic with redemption of other characters may be 
