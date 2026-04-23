@@ -3,6 +3,7 @@ modified:
   - 2026-04-20T14:40:33+02:00
   - 2026-04-21T13:52:15+02:00
   - 2026-04-22T10:37:43+02:00
+  - 2026-04-23T08:48:17+02:00
 created: 2026-04-20T14:39:22+02:00
 tags:
   - Obsidian
@@ -20,7 +21,7 @@ tags:
 | #People_MoBe              |                                   |                | Linked-In | Moritz Becker     |       |
 | #People_WiLi              | wli128@jhu.edu                    |                |           | William Li        |       |
 | #People_Hetavi_Zaveri     | hzaveri1@jhmi.edu                 |                |           |                   |       |
-| #People_Elmira_Adiabadi   | elmira.aliabadi@gmail.com         |                |           |                   |       |
+| #People_Elmira_Aliabadi   | elmira.aliabadi@gmail.com         |                |           |                   |       |
 | #People_Christin_Albrecht |                                   |                |           |                   |       |
 | #People_Ross_McGlennon    | immunology@frontiersin.com        |                |           |                   |       |
 | #People_LouZi             | louisazimmermann14@googlemail.com |                |           | Louisa Zimmermann |       |
