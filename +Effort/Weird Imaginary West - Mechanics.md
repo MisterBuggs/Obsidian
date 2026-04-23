@@ -2,13 +2,13 @@
 modified:
   - 2026-04-20T14:43:38+02:00
   - 2026-04-21T15:27:27+02:00
-  - 2026-04-23T16:03:46+02:00
+  - 2026-04-23T16:08:33+02:00
 created: 2026-04-20T13:57:06+02:00
 ---
 #Worldbuilding #Fantasy #Writing #TTRPG #Steampunk_Weird_West
 Systems:
 - [Weird West | Cypher System Reference Document](https://cyphersrd.quest/04-genres/10-weird-west/), an official Weird West Module for Cypher.
-- [Fistfull_of_Darkness](https://mhhannoverde-my.sharepoint.com/:f:/r/personal/heisler_willem_mh-hannover_de/Documents/Privat%20MHH%20WBuys/Fistfull_of_Darkness?csf=1&web=1&e=QwhJ2c) #Forged_In_The_Dark game using the [[Blades-in-the-Dark]] system, which hopefully provides appropriate playbooks. Hang-ups are faction intrigue, which cannot happen in the *sanctuary* hub town and heat / wanted, which cannot turn the players against some sort of penal state. The hometown *must* remain bland and impartial or the players may stop venturing out. 
+- [Fistfull_of_Darkness](https://mhhannoverde-my.sharepoint.com/:f:/r/personal/heisler_willem_mh-hannover_de/Documents/Privat%20MHH%20WBuys/Fistfull_of_Darkness?csf=1&web=1&e=QwhJ2c) #Forged_In_The_Dark game using the [[Blades-in-the-Dark]] system, which hopefully provides appropriate playbooks. Hang-ups are faction intrigue, which cannot happen in the *sanctuary* hub town and heat / wanted, which cannot turn the players against some sort of penal state. The hometown *must* remain bland and impartial or the players may stop venturing out. Index: p. 177
 - [Dust Devils](https://github.com/harbinger87/RPG/blob/master/Dust%20Devils.pdf), a rules-light narrative TTRPG using poker cards.
 
 # Crews
@@ -25,7 +25,8 @@ Systems:
 
 # Map
 - Locations on the map and creatures found there and on the way there should roughly scale in *Tiers* ( #Forged_In_The_Dark_FitD  mechanic) by their distance to the hub city. Difficulty must also be telegraphed somehow, to enable informed decisions. 
-- In the beginning, only map major landmarks, like mountain ranges or nearby rivers to follow. Write a few *boss* / campaign-defining locations in greater detail. These are defined by having long clocks that majorly change the world. Other than that, use the generator and the random tables provided in Fistful of Darkness (e.g., p. 165, 168 and material by [[People#Michael E. Shea]]. 
+- In the beginning, only map major landmarks, like mountain ranges or nearby rivers to follow. Write a few *boss* / campaign-defining locations in greater detail. These are defined by having long clocks that majorly change the world. Other than that, use the generator and the random tables provided in Fistful of Darkness (e.g., p. 165, 168-173 and material by [[People#Michael E. Shea]]. I believe that Scum & Villainy also had a decent generator for the exposition to a run, always involving *a contact, an opportunity, an obvious approach, a not so obvious approach*.
+- Exploring a location should reveal 1d4 new locations (plan when creating location)
 
 # Travel
 - Define 3 Zones on the map:
