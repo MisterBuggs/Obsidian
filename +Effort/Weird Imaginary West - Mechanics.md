@@ -2,7 +2,7 @@
 modified:
   - 2026-04-20T14:43:38+02:00
   - 2026-04-21T15:27:27+02:00
-  - 2026-04-23T15:11:29+02:00
+  - 2026-04-23T15:23:14+02:00
 created: 2026-04-20T13:57:06+02:00
 ---
 #Worldbuilding #Fantasy #Writing #TTRPG #Steampunk_Weird_West
@@ -38,7 +38,7 @@ Systems:
 I don't really love how the end times are handled in Fistful of Darkness. The goal for characters may be to get out of this hell hole or to build an empire here in the wilderness. I thus prefer the Stash system as in the original [[Blades-in-the-Dark#Stash & Retirement]].
 
 # Heat
-Compare [[Blades-in-the-Dark#Incarceration]] to the Doom system in Fistful of Darkness for a suitable system between not being allowed in the safe hubtown as a measure of Heat -> wanted (potentially traumatizing, kinda like prison, but with the chance of discovering a new location, kinda like prison claims) vs. the Doom System.
+ The Doom / Rider system doesn't really vibe with my world building. Compare [[Blades-in-the-Dark#Incarceration]] to the Doom system in Fistful of Darkness for a suitable system between not being allowed in the safe hubtown as a measure of Heat -> wanted (potentially traumatizing, kinda like prison, but with the chance of discovering a new location, kinda like prison claims).
 
 # Mutations
 I don't know if I like this system in Fistful of Darkness (p. 111). I could leave it out entirely or I could produce one where exposure leads to a risk of *turning* into a **Wendigo / Skinwalker**. 
