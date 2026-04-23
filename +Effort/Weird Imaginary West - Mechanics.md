@@ -2,7 +2,7 @@
 modified:
   - 2026-04-20T14:43:38+02:00
   - 2026-04-21T15:27:27+02:00
-  - 2026-04-23T16:10:00+02:00
+  - 2026-04-23T16:18:41+02:00
 created: 2026-04-20T13:57:06+02:00
 ---
 #Worldbuilding #Fantasy #Writing #TTRPG #Steampunk_Weird_West
@@ -34,7 +34,7 @@ Systems:
 	2. Within a day's travel: The score will start with an encounter on the road. Depending on the engagement roll, this encounter may be more or less hindering. The engagement roll is *modified by gathering information & loadout*.
 	3. Farther away: A dedicated Travel score is necessary before attempting the actual score.
 **CAVE:** Don't place too many interesting locations in zone 1 or the players may get hung up there. Most of the game should be in zone 2. Endgame locations should be in zone 3.
-**Idea:** Make a hexmap with a max-distance of walking 6 hexes to reach any edge. Apply the table above for what happens when characters want to go somewhere. If they want to reach "ranks" 4 or 5 (endgame locations), they HAVE
+**Idea:** Make a hexmap with a max-distance of walking 5 hexes to reach any edge. Apply the table above for what happens when characters want to go somewhere. If they want to reach "ranks" 4 or 5 (endgame locations), they HAVE to set up a *base camp* in the wilderness first as means of a range extender / a somewhat secured place to stay a night / hop-off point that is connected to the hub town by a reasonably secure passage. Once a *base camp* has been established, each following score can be started from the hub town or from any *base camp*. Treat a *base camp* like conquering contested turf: Always requires 2
 Random events and encounters for travel can be found on Fistful of Darkness p. 161.
 
 # There be Monsters
