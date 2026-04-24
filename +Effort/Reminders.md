@@ -18,7 +18,7 @@ created: 2026-04-09T09:39:29+02:00
 - [ ] Indira Photos Indian Clothing
 - [ ] Announce name change and change documents
 	- [x] MHH
-	- [ ] TK
+	- [x] TK
 	- [ ] Ärztekammer
 	- [ ] Ärzteversorgung
 	- [ ] MLP Bank
