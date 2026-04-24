@@ -1,6 +1,7 @@
 ---
 modified:
   - 2026-04-22T10:35:39+02:00
+  - 2026-04-24T16:50:49+02:00
 created: 2026-04-22T10:26:48+02:00
 tags:
   - Writing
@@ -39,9 +40,8 @@ Possible Order: A) Follow the product: 1. What cell (interline variability. 2. C
 WB, SDV, ETZ
 
 ## Theme Ideas
-
 - CAR-NK / CAR-M combination therapies
     - Especially attractive in a hematopoietically humanized (chimeric) donor animal or HSC from gastruloids
     - Need to check if there's enough prev lit
-- Review Spectrum of CAR-APC?? What's the catch / spark to make it a perspective
+- Systemtic Review Spectrum of CAR-APC?? What's the catch / spark to make it a perspective
 - Generating practically *unlimited* numbers of CAR cells in hematopoietically humanized livestock animals (including chimeras)

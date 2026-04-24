@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-24T16:45:50+02:00
+  - 2026-04-24T16:46:35+02:00
 created: 2026-04-24T15:25:44+02:00
 ---
 [[2026-04-24]] #People_SDV #JHU #Writing 
@@ -34,4 +34,4 @@ Topic: [[+Effort/L4i manuscript|L4i manuscript]]
 	- Include one of the teratoma plots with loss of teratoma forming potential ~day 5. Possibly with d3 teratoma if showing HD from there. The latter two should be prepared nicely but might go into a concise report instead. 
 	- Send one teratoma comparison to LuZi. 
 	- Add statistical hypothesis testing wherever there are 3 repeats. 
-	- #To_Do Send Zoom Link for [[2026-05-15]] at 8:
+	- #To_Do Send Zoom Link for [[2026-05-15]] at 9:30 am EDT. 
