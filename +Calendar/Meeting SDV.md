@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-24T16:30:39+02:00
+  - 2026-04-24T16:34:10+02:00
 created: 2026-04-24T15:25:44+02:00
 ---
 [[2026-04-24]] #People_SDV #JHU #Writing 
@@ -15,13 +15,13 @@ Topic: [[+Effort/L4i manuscript|L4i manuscript]]
 	- Methods section
 	- Results section
 - Status / Review & Editing
-	- Introduction
+	- Introduction -> was for a different paper.
 
 # To Do
 - SDV: 
 	- In the future, attempt a *pure* Ng protocol with E8 vs L4i measuring d11, 13, 15. 
 	- Send EB photos of Ng protocol days 3, 7, 12 (corresponding to mesoderm stage, vascular stage, hematopoietic stage)
-	- FACS plots: Change homogen
+	- FACS plots: Change homogenize box names. 
 - WB: 
 	- Protocol cartoon: Place a picture of an actual CFC in analysis box 3. Experiment with adding the cytospin onto the blood smear.
 	- Try making all arrows of equal length. Thinner arrows or grey arrows instead of black? 
