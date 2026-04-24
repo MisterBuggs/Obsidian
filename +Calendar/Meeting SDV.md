@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-24T16:15:55+02:00
+  - 2026-04-24T16:20:58+02:00
 created: 2026-04-24T15:25:44+02:00
 ---
 [[2026-04-24]] #People_SDV #JHU #Writing 
@@ -18,10 +18,14 @@ Topic: [[+Effort/L4i manuscript|L4i manuscript]]
 	- Introduction
 
 # To Do
-- SDV: In the future, attempt a *pure* Ng protocol with E8 vs L4i measuring d11, 13, 15. 
+- SDV: 
+	- In the future, attempt a *pure* Ng protocol with E8 vs L4i measuring d11, 13, 15. 
+	- Send EB photos of Ng protocol days 3, 7, 12 (corresponding to mesoderm stage, vascular stage, hematopoietic stage)
 - WB: 
 	- Protocol cartoon: Place a picture of an actual CFC in analysis box 3. Experiment with adding the cytospin onto the blood smear.
 	- Try making all arrows of equal length. Thinner arrows or grey arrows instead of black? 
 	- Place E8 / L4i label on a semi-opaque white rectangular background / ghost writing
 	- FACS plots: SDV-style axis labels.
 	- Bar graphs: Homogenize CFC bar graphs.
+	- Area plots: Take SDV's area plots and place them into the Powerpoint as editable file. 
+	- Slide 4 (HD16 data: Take out Elefanty, show WB EB)
