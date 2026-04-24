@@ -1,5 +1,6 @@
 ---
 modified:
+  - 2026-04-24T19:32:50+02:00
   - 2026-04-20T14:43:38+02:00
   - 2026-04-21T15:27:27+02:00
   - 2026-04-23T16:34:01+02:00
@@ -40,6 +41,7 @@ created: 2026-04-20T13:57:06+02:00
 # Heat
  - The Doom / Rider system doesn't really vibe with my world building. Compare [[Blades-in-the-Dark#Incarceration]] to the Doom system in Fistful of Darkness for a suitable system between not being allowed in the safe hubtown as a measure of Heat -> wanted (potentially traumatizing, kinda like prison, but with the chance of discovering a new location, kinda like prison claims). 
  - I may consider not fully excluding *business* in the hub town but rather viciously punishing it, i.e., *"conducting business" in the hub town always gives them at least one Wanted level, except if **completely quiet***. 
+ - if I *do* decide to run doom, I could easily reflavor the riders showing up in Fistful of darkness as the arcane weapons of the archangels showing up in this world, corrupting their weilder with their supernatural raw power. 
 # Mutations
 - I don't know if I like this system in Fistful of Darkness (p. 111). I could leave it out entirely or I could produce one where exposure leads to a risk of *turning* into a **Wendigo / Skinwalker**. 
 # Revenant
