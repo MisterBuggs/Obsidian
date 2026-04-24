@@ -16,6 +16,8 @@ tags:
 ---
 This is a TTRPG campaign about surviving a Steam Punk Weird West. The campaign uses the *Fistful of Darkness* TTRPG system, which is based on the *Blades in the Dark* OSR. 
 
+**Decision: Do I use Hellstone as the ultimate magical substance or is it sobering derived from monsters to encourage hunting? Like Leviathan blood and electroplasm in BitD. Inspired by the graphic novel *Rush*, I could also make monsters and people who turn grow golden tumors 
+
 Campaign Pitch:
 
 Six Truths:
