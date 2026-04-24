@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-24T16:20:58+02:00
+  - 2026-04-24T16:22:47+02:00
 created: 2026-04-24T15:25:44+02:00
 ---
 [[2026-04-24]] #People_SDV #JHU #Writing 
@@ -27,5 +27,5 @@ Topic: [[+Effort/L4i manuscript|L4i manuscript]]
 	- Place E8 / L4i label on a semi-opaque white rectangular background / ghost writing
 	- FACS plots: SDV-style axis labels.
 	- Bar graphs: Homogenize CFC bar graphs.
-	- Area plots: Take SDV's area plots and place them into the Powerpoint as editable file. 
-	- Slide 4 (HD16 data: Take out Elefanty, show WB EB)
+	- Area plots: Take SDV's area plots (and other additional data in there) and place them into the Powerpoint as editable file. 
+	- Slide 4 (HD16 data: Take out Elefanty, show WB EB). Slide 3 into manuscript and 4 in supplement or vice versa. Or give one to Ludo. 
