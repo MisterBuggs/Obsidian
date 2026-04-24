@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-24T15:50:02+02:00
+  - 2026-04-24T15:53:40+02:00
 created: 2026-04-24T15:25:44+02:00
 ---
 [[2026-04-24]] #People_SDV #JHU #Writing 
@@ -19,3 +19,4 @@ Topic: [[+Effort/L4i manuscript|L4i manuscript]]
 
 # To Do
 - SDV: In the future, attempt a *pure* Ng protocol with E8 vs L4i measuring d11, 13, 15. 
+- WB: Place a picture of an actual CFC in analysis box 3. 
