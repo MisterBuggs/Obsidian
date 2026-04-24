@@ -19,9 +19,9 @@ created: 2026-04-09T09:39:29+02:00
 - [ ] Announce name change and change documents
 	- [x] MHH
 	- [x] TK
-	- [ ] Ärztekammer
-	- [ ] Ärzteversorgung
-	- [ ] MLP Bank
+	- [x] Ärztekammer
+	- [x] Ärzteversorgung
+	- [x] MLP Bank
 	- [ ] #People_Petzoldt Steuerberater
 	- [x] Personalausweis / Reisepass
 - [ ] #Peer_Review BMC Geriatrics [Revised Manuscript.docx](<file:///C:\Users\buyswill\Downloads\The Controversial Interpl>)
