@@ -24,6 +24,8 @@ created: 2026-04-09T09:39:29+02:00
 	- [x] MLP Bank
 	- [x] #People_Petzoldt Steuerberater
 	- [x] Personalausweis / Reisepass
+	- [ ] märkische bank
+	- [ ] vermieter
 - [ ] #Peer_Review BMC Geriatrics [Revised Manuscript.docx](<file:///C:\Users\buyswill\Downloads\The Controversial Interpl>)
 - [ ] #Peer_Review Intensive Care Medicine [[ICMX-D-26-00143.pdf]], [submit comments here](https://www.editorialmanager.com/icmx/l.asp?i=130475&l=2FBZLDQK "https://www.editorialmanager.com/icmx/l.asp?i=130475&l=2FBZLDQK")
 - [x] [[Elmira Aliabadi Job Interview]]
