@@ -59,4 +59,4 @@ Author list, **not confirmed**: WB, #People_SDV , #People_SGD, #People_MoBe, #Pe
 	- MD11HD with [[CFC]].
 	- [[Adherent]] cell [[Flow Cytometry]], e.g., [[E32C4]] HD12 [[E8]] vs [[L4i]] into the supplement?
 	- If data is present in a matched E8 vs L4i manner, e.g., in  [[E32C4#^6e78e6|HD16]], show that these are really just BB9+ hemangioblast (potentially questioning their true HSC status but making them super potent for myeloid cell production)
-	- ![[+Calendar/Meeting SDV Cartoons|Meeting 2026-04-24]]
+	- ![[Meeting SDV|Meeting 2026-04-24]]
