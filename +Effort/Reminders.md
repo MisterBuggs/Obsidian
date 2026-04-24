@@ -17,7 +17,7 @@ created: 2026-04-09T09:39:29+02:00
 - [ ] Ärztekammer: Arztausweis verschickt?
 - [ ] Indira Photos Indian Clothing
 - [ ] Announce name change and change documents
-	- [ ] MHH
+	- [x] MHH
 	- [ ] TK
 	- [ ] Ärztekammer
 	- [ ] Ärzteversorgung
