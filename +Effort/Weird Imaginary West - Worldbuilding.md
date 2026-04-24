@@ -1,5 +1,6 @@
 ---
 modified:
+  - 2026-04-24T17:19:22+02:00
   - 2026-04-21T17:37:17+02:00
   - 2026-04-20T11:13:49+02:00
   - 2026-04-23T16:50:45+02:00
@@ -16,7 +17,7 @@ tags:
 ---
 This is a TTRPG campaign about surviving a Steam Punk Weird West. The campaign uses the *Fistful of Darkness* TTRPG system, which is based on the *Blades in the Dark* OSR. 
 
-**Decision: Do I use Hellstone as the ultimate magical substance or is it sobering derived from monsters to encourage hunting? Like Leviathan blood and electroplasm in BitD. Inspired by the graphic novel *Rush*, I could also make monsters and people who turn grow golden tumors 
+**Decision: Do I use Hellstone as the ultimate magical substance or is it sobering derived from monsters to encourage hunting? Like Leviathan blood and electroplasm in BitD. Inspired by the graphic novel *Rush*, I could also make monsters and people who turn grow solid golden tumors or bones of Gold, somewhat offering a jump off point for the Fistful of darkness [[+Effort/Weird Imaginary West - Mechanics#Mutations|mutation mechanic]]. 
 
 Campaign Pitch:
 
