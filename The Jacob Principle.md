@@ -1,10 +1,10 @@
 ---
 modified:
-  - 2026-04-24T08:52:31+02:00
+  - 2026-04-24T08:56:18+02:00
 created: 2026-04-24T08:34:24+02:00
 ---
 #TTRPG #Call_of_Cthulhu #Writing #Modern #Leisure [[2026-04-24]]
-Picking a previous scenario idea back up. Based on a real tragedy placed in NYC, as reported by the New York Times, as well as based on #Delta_Green "Im landscapes". Consider also taking inspiration from Uketsu's "Strange Houses" for designing the purported mother's apartment. 
+Picking a previous scenario idea back up. Based on a real tragedy placed in NYC, as reported by the New York Times, as well as based on #Delta_Green "Impossible landscapes". Consider also taking inspiration from Uketsu's "Strange Houses", see: https://youtu.be/wNS8tmK2RSY?is=trlejSR59iLQF4NX for designing the purported mother's apartment. Consider similar architectural details for [[A House Outside Time]]. 
 # Premise
 A confused and traumatized woman is in jail for refusing to give up the whereabouts of her son "Jacob", whom neighbors reported missing. The woman insists that she never had a child. Neighbors insist that she had a child. However, different neighbors report completely different, contradictory age ranges for said child. The contents of her apartment are suggestive of a child (is there DNA evidence of a boy child?). No father can be discerned, neither by the neighbors, much less the purported mother. 
 # Escalation
