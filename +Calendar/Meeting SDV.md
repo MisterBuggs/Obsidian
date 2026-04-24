@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-24T16:39:07+02:00
+  - 2026-04-24T16:45:50+02:00
 created: 2026-04-24T15:25:44+02:00
 ---
 [[2026-04-24]] #People_SDV #JHU #Writing 
@@ -16,7 +16,6 @@ Topic: [[+Effort/L4i manuscript|L4i manuscript]]
 	- Results section
 - Status / Review & Editing
 	- Introduction -> was for a different paper.
-
 # To Do
 - SDV: 
 	- In the future, attempt a *pure* Ng protocol with E8 vs L4i measuring d11, 13, 15. 
@@ -35,3 +34,4 @@ Topic: [[+Effort/L4i manuscript|L4i manuscript]]
 	- Include one of the teratoma plots with loss of teratoma forming potential ~day 5. Possibly with d3 teratoma if showing HD from there. The latter two should be prepared nicely but might go into a concise report instead. 
 	- Send one teratoma comparison to LuZi. 
 	- Add statistical hypothesis testing wherever there are 3 repeats. 
+	- #To_Do Send Zoom Link for [[2026-05-15]] at 8:
