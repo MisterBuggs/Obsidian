@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-25T19:40:44+02:00
+  - 2026-04-25T21:16:18+02:00
   - 2026-04-24T23:06:52+02:00
   - 2026-04-14T07:31:56+02:00
   - 2026-04-09T09:43:14+02:00
@@ -37,3 +37,4 @@ created: 2026-04-09T09:39:29+02:00
 	- [ ] [Zellbiologie und -therapie](https://www.dgho.de/arbeitskreise/p-z/zellbiologie-therapie)
 	- [ ] [AGIHO (Infektionen)](https://www.dgho.de/arbeitskreise/a-g/agiho)
 	- [ ] [Junge DGHO](https://www.dgho.de/arbeitskreise/i-k/junge_dgho)
+- [ ] Hartmann Bund Beiträge schon steuerlich gemeldet oder an #People_Petzoldt? 
