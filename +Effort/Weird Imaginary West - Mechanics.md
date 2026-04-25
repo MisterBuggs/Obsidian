@@ -38,6 +38,7 @@ created: 2026-04-20T13:57:06+02:00
 - The Underground run section (Fistful of Darkness p. 123ff) is pretty good also for above-ground monsters, including ambushes and monster hunts. Creative use of clocks! Also, neat idea to break runs up into **distinct objectives expressed as clocks**.
 # Stash / Retirement
 - I don't really love how the end times are handled in Fistful of Darkness. The goal for characters may be to get out of this hell hole or to build an empire here in the wilderness. I thus prefer the Stash system as in the original [[Blades-in-the-Dark#Stash & Retirement]].
+- if I do use the doom mechanic, though, then I could incorporate *Redemption*, as used in *Dust Devils*: This is your chance to get out of here... Or do you for here, in the hopes of making this just a little less of a heel
 # Heat
  - The Doom / Rider system doesn't really vibe with my world building. Compare [[Blades-in-the-Dark#Incarceration]] to the Doom system in Fistful of Darkness for a suitable system between not being allowed in the safe hubtown as a measure of Heat -> wanted (potentially traumatizing, kinda like prison, but with the chance of discovering a new location, kinda like prison claims). 
  - I may consider not fully excluding *business* in the hub town but rather viciously punishing it, i.e., *"conducting business" in the hub town always gives them at least one Wanted level, except if **completely quiet***. 
