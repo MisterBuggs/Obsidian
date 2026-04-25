@@ -1,5 +1,6 @@
 ---
 modified:
+  - 2026-04-25T07:56:22+02:00
   - 2026-04-24T16:46:35+02:00
 created: 2026-04-24T15:25:44+02:00
 ---
@@ -35,4 +36,4 @@ Topic: [[+Effort/L4i manuscript|L4i manuscript]]
 	- Send one teratoma comparison to LuZi. 
 	- Add statistical hypothesis testing wherever there are 3 repeats. 
 	- #To_Do Send Zoom Link for [[2026-05-15]] at 9:30 am EDT. 
-	- RE #People_ETZ : WB send a 2D diff in which E8 worked well but L4i worked better to #People_LuZi. 
+	- RE #People_ETZ : WB send a 2D diff in which *E8 worked well but L4i worked better* to #People_LuZi. Preferably from a known cell line, like RUES2. Thoughts: HD2 has RUES2 data (check PowerPoint, then FlowJo anew). Otherwise scour other data again. I have done few ESC HD experiments, because the focus was on clinical translation. Maybe some MDHD data, like [[E32C4#^01314a|MD11HD]] that is not required for the HD manuscript? Maybe HD15 can be salvaged. 
