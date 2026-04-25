@@ -35,3 +35,4 @@ Topic: [[+Effort/L4i manuscript|L4i manuscript]]
 	- Send one teratoma comparison to LuZi. 
 	- Add statistical hypothesis testing wherever there are 3 repeats. 
 	- #To_Do Send Zoom Link for [[2026-05-15]] at 9:30 am EDT. 
+	- RE #People_ETZ : WB send a 2D diff in which E8 worked well but L4i worked better to #People_LuZi. 
