@@ -58,11 +58,11 @@ I can appropriate the four divine weapons forged by God from Supernatural and up
 - Raphael, God's healing touch: Staff -> A Sheperd's crook (?)
 - Uriel, The Flame of Knowledge: Flame -> Lantern (Think [[lady with the lamp]] Call of Cthulhu scenario with Florence Nightingale as a nursing scientist inspired by Daoloth's maddenning light)
 - Raguel, The Word of God: Chains -> Shackles
-- Sariel, God's singeing gaze: Bow -> Bow
+- Sariel, God's singeing gaze: Bow -> A literal bow, likely carrie
 - Remiel, the watcher of the dead: Horn -> Undertaker's bell
-- Lucifer, the Fallen (formerly the Lightbringer): A broken crown (or a piece of the firmament) -> 
-- Samael, the Blind (formerly the Angel of Death): A broken mask (or a feather from Michael's wings?)
-- Azrael, the (?): The Scythe of Death -> Knife of Reaping
+- Lucifer, the Fallen (formerly the Lightbringer): A piece of Heaven -> The Silver Coin (an item that appears to be a regular silver dollar but at any time of day, the starlight is reflected in it. One side is scratched. Gives the wielder a knack to accumulate wealth at high moral cost).
+- Samael, the Blind (formerly the Angel of Death): A feather from Michael's wings -> a literal feather (likely coveted as sacred relic by the Natives).
+- Azrael, the Angel of Death: The Scythe of Death -> Knife of Reaping (?)
 # Worldbuilding exercise
 
 ## The Weirdborn: 
