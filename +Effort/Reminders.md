@@ -24,7 +24,7 @@ created: 2026-04-09T09:39:29+02:00
 	- [x] MLP Bank
 	- [x] #People_Petzoldt Steuerberater
 	- [x] Personalausweis / Reisepass
-	- [ ] märkische bank
+	- [x] märkische bank
 	- [ ] vermieter
 	- [ ] vbl altersvorsorge kundenservice@vbl.de Versicherungsnunmer 2102962448
 - [ ] #Peer_Review BMC Geriatrics [Revised Manuscript.docx](<file:///C:\Users\buyswill\Downloads\The Controversial Interpl>)
