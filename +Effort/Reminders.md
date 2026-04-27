@@ -27,7 +27,7 @@ created: 2026-04-09T09:39:29+02:00
 	- [ ] märkische bank. Meldebescheinigung übersenden. Online bei der Stadt bestellt, Rechnung: **MB/260427/152601**
 	- [x] vermieter
 	- [x] vbl altersvorsorge kundenservice@vbl.de Versicherungsnunmer 2102962448
-- [ ] #Peer_Review BMC Geriatrics [Revised Manuscript.docx](<file:///C:\Users\buyswill\Downloads\The Controversial Interpl>)
+- [x] #Peer_Review BMC Geriatrics [Revised Manuscript.docx](<file:///C:\Users\buyswill\Downloads\The Controversial Interpl>)
 - [ ] #Peer_Review Intensive Care Medicine [[ICMX-D-26-00143.pdf]], [submit comments here](https://www.editorialmanager.com/icmx/l.asp?i=130475&l=2FBZLDQK "https://www.editorialmanager.com/icmx/l.asp?i=130475&l=2FBZLDQK")
 - [x] [[Elmira Aliabadi Job Interview]]
 - [ ] #People_Ross_McGlennon offered 20% discount for Frontiers Immunology Submission. Do I have or can I summon a paper within this year? Likely no desk rejection. 
