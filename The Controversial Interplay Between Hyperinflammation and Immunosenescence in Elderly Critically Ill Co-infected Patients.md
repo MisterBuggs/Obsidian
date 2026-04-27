@@ -1,10 +1,11 @@
 ---
 modified:
-  - 2026-04-27T14:23:30+02:00
+  - 2026-04-27T14:27:21+02:00
 created: 2026-04-27T13:13:22+02:00
 ---
 #Peer_Review [[2026-04-27]] #BMC_Geriatrics #Sepsis 
 Reviewer Summary:
+In this retrospective cohort study entitled "The Controversial Interplay Between Hyperinflammation and Immunosenescence in Elderly Critically Ill Co-infected Patients", Xu et al. propose total protein and the neutrophil-to-lymphocate ratio as predictive of sepsis survival. 
 
 Recommendation:
 Major Comments:
@@ -29,18 +30,19 @@ Language & Proofing:
 17. Abstract, Methods, "TP-NLR": This abbreviation is used here but only introduced in the next paragraph. Please avoid non-standard abbreviations wherever possible and introduce abbreviations at first use.
 18. Abstract, Results, "FDR-adjusted P": FDR-adjusted p-values are more commonly referred to as q-values. 
 19. Starting on page 10, all pages are numbered "1". 
-20. Figure 3: This figure was almost certainly produced in Biorender. Biorender requires citation before publishing any figures designed using this tool. In its current state, this figure is rather confusing. It misses a clear start and endpoint and visual flow. Please consider limiting the scope of this figure to the findings of this manuscript and improving its structure and clarity. 
+20. Figure 3: This figure was almost certainly produced in Biorender. Biorender requires citation before publishing any figures designed using this tool. In its current state, this figure is rather confusing. It misses a clear start and endpoint and visual flow. Please consider limiting the scope of this figure to the findings of this manuscript and improving its structure and clarity.
 Further Suggestions:
 21. You may want to consider repeated subsampling to bootstrap a number of training and validation cohorts and confirm the robustness of your model. 
 22. Figure 2: Consider re-graphing these showing all patients, indicating their mortality either by dot color or dot shape.
 23. Discussion, general: Please consider reducing the educational  introductory aspect of the discussion, which delves rather deep into basic concepts, and instead interpret and discuss your results in the light of current literature. Please be careful not to invoke to many concepts on which your study does not include any original data. 
+24. Consider using the credit taxonomy for author contributions.
+25. During peer review, global line numbers are appreciated. 
 
 File:
-
-Confidential notes to the editor:
-
-Other notes:
 
 ![[Revised Manuscript.pdf]]
 
 ![[Revised Manuscript_Supplement.pdf]]
+Confidential notes to the editor:
+
+Other notes:
