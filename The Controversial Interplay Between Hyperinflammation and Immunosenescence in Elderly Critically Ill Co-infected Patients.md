@@ -1,18 +1,18 @@
 ---
 modified:
-  - 2026-04-27T14:58:33+02:00
+  - 2026-04-27T15:02:05+02:00
 created: 2026-04-27T13:13:22+02:00
 ---
 #Peer_Review [[2026-04-27]] #BMC_Geriatrics #Sepsis 
 Reviewer Summary:
-In this retrospective cohort study entitled "The Controversial Interplay Between Hyperinflammation and Immunosenescence in Elderly Critically Ill Co-infected Patients", Xu et al. propose total protein and the neutrophil-to-lymphocate ratio as predictive of sepsis survival in elderly patients. Regression analyses of a number of standard clinical and laboratory parameters are presented. This space has been extensively researched and similar models have been proposed, which the authors fail to discuss or compare. The novelty of this study is low. However, sepsis patient data is difficult to collect due to the rapid nature of the disease. Accordingly, these data of >100 patients should ultimately be published to enable later meta analyses. 
+In this retrospective cohort study entitled "The Controversial Interplay Between Hyperinflammation and Immunosenescence in Elderly Critically Ill Co-infected Patients", Xu et al. propose total protein and the neutrophil-to-lymphocate ratio as predictive of sepsis survival in elderly patients. Analyses of elderly vs. younger patients are not provided. This space has been extensively researched and similar models have been proposed, which the authors fail to discuss or compare. The novelty of this study is low. Data are not validated and no causal or mechanistic insight is provided. However, sepsis patient data is difficult to collect due to the rapid nature of the disease. Accordingly, these data of >100 patients should ultimately be published to enable later meta analyses. 
 
 Recommendation: Major revision.
 Major Comments:
 1. It is *critical* that the authors follow appropriate reporting guidelines to enable inclusion of these data into future meta-analyses. Please review the [STROBE guidelines](https://www.equator-network.org/reporting-guidelines/strobe/) and choose an appropriate checklist, e.g., the STROME-ID or RECORD.
-2. This manuscript does not present any data separated by age strata. While the cohort contains predominantly elderly patients, no conclusion about the contribution of age to sepsis pathology can be reached without a dedicated comparison. Also: Discussion, "Immunosenescence was evidenced": Neither the observed lymphopenia not hypoproteinemia can be clearly attributed to immunosenescence; especially in the absence of any comparison by age. 
-3. Discussion, "The mortality prediction model was validated as high-quality and ready for clinical implementation.": The model was developed but not validated in an independent cohort. Without validation in an independent or at least in a bootstrapped validation cohort, these data cannot be accurately interpreted. 
-4. These data cannot be accurately interpreted without an independent validation cohort or at the minimum bootstrapped training and validation cohorts, e.g., using a repeated 4:1 subsampling design. 
+2. This manuscript does not present any data separated by age strata. While the cohort contains predominantly elderly patients, no conclusion about the contribution of age to sepsis pathology can be reached without a dedicated comparison. 
+3. Discussion, "Immunosenescence was evidenced": Neither the observed lymphopenia not hypoproteinemia can be clearly attributed to immunosenescence; especially in the absence of any comparison by age. Causal or mechanistic insights cannot be inferred from this study design.
+4. Discussion, "The mortality prediction model was validated as high-quality and ready for clinical implementation.": The model was developed but not validated in an independent cohort. These data cannot be reliably interpreted without an independent validation cohort or at least bootstrapped training and validation cohorts, e.g., using a repeated 4:1 sub-sampling design. 
 Minor Comments:
 5. Introduction: Secondary infections in bacterial sepsis have been extensively explored. Consider briefly introducing findings from other studies as they pertain to the subsets of viral secondary infections and geriatric populations.
 6. Methods, Study subjects and design: Please provide tabular fine-grained exclusion criteria, e.g., what diseases were considered hematologic disorders (was any anemia included?), which rheumatic and autoimmune diseases were considered (where minor allergic conditions included, for example?), *severe* renal disease, *major* trauma, etc.
@@ -36,7 +36,7 @@ Language & Proofing:
 Further Suggestions:
 23. Figure 2: Consider re-graphing these showing all patients, indicating their mortality either by dot color or dot shape.
 24. Discussion, general: Please consider reducing the educational / introductory aspect of the discussion, which delves rather deep into basic concepts, and instead interpret and discuss your results in the light of current literature. Please be careful not to invoke to many concepts on which your study does not include any original data. 
-25. Consider using the credit taxonomy for author contributions.
+25. Consider using the CRediT taxonomy for author contributions.
 26. During peer review, global line numbers are appreciated. 
 
 File:
