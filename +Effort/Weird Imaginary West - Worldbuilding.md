@@ -5,7 +5,7 @@ modified:
   - 2026-04-20T11:13:49+02:00
   - 2026-04-23T16:50:45+02:00
   - 2026-04-24T10:52:49+02:00
-  - 2026-04-27T10:43:22+02:00
+  - 2026-04-27T10:46:58+02:00
 created: 2026-04-20T10:26:27+02:00
 tags:
   - Worldbuilding
@@ -53,13 +53,13 @@ Some factions in Fistful of Darkness are decent but most are pretty terrible. A 
 # Artifacts
 Divine artifacts may take the role of riders for the Doom mechanic in my game.
 I can appropriate the four divine weapons forged by God from Supernatural and update them (or at least some of them) to represent setting appropriate weapons, like guns.
-- Michael’s flaming Sword of Light
-- Gabriel’s world-shaking Trumpet of Revelation
-- Raphael’s living Staff of Restoration
-- Uriel’s burning Flame of Knowledge
-- Raguel’s storm-forged Chains of Justice
-- Sariel’s Moonlit Bow of fate: A 
-- Remiel’s golden Horn of Awakening.
+- Michael: Lance -> Rifle
+- Gabriel: Trumpet
+- Raphael: Staff
+- Uriel: Flaming Sword
+- Raguel: Chains
+- Sariel: Bow -> Bow
+- Remiel: Horn
 # Worldbuilding exercise
 
 ## The Weirdborn: 
