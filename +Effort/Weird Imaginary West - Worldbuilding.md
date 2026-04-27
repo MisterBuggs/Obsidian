@@ -5,7 +5,7 @@ modified:
   - 2026-04-20T11:13:49+02:00
   - 2026-04-23T16:50:45+02:00
   - 2026-04-24T10:52:49+02:00
-  - 2026-04-27T11:07:17+02:00
+  - 2026-04-27T11:12:08+02:00
 created: 2026-04-20T10:26:27+02:00
 tags:
   - Worldbuilding
@@ -55,14 +55,14 @@ Divine artifacts may take the role of riders for the Doom mechanic in my game.
 I can appropriate the four divine weapons forged by God from Supernatural and update them (or at least some of them) to represent setting appropriate weapons, like guns.
 - Michael, The Right Hand of God: Lance -> Rifle
 - Gabriel, The Left Hand of God: Sword - > Pistol
-- Raphael, God's healing touch: Staff
+- Raphael, God's healing touch: Staff -> A Sheperd's crook (?)
 - Uriel, The Flame of Knowledge: Flame -> Lantern (Think [[lady with the lamp]] Call of Cthulhu scenario with Florence Nightingale as a nursing scientist inspired by Daoloth's maddenning light)
-- Raguel, The Word of God: Chains
+- Raguel, The Word of God: Chains -> Shackles
 - Sariel, God's singeing gaze: Bow -> Bow
-- Remiel, the watcher of the dead: Horn
+- Remiel, the watcher of the dead: Horn -> Undertaker's bell
 - Lucifer, the Fallen (formerly the Lightbringer): A broken crown (or a piece of the firmament) -> 
 - Samael, the Blind (formerly the Angel of Death): A broken mask (or a feather from Michael's wings?)
-- Azrael, the (?): The dagger? 
+- Azrael, the (?): The Scythe of Death -> Knife of reaping
 # Worldbuilding exercise
 
 ## The Weirdborn: 
