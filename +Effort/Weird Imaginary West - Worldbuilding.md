@@ -5,7 +5,7 @@ modified:
   - 2026-04-20T11:13:49+02:00
   - 2026-04-23T16:50:45+02:00
   - 2026-04-24T10:52:49+02:00
-  - 2026-04-27T11:12:08+02:00
+  - 2026-04-27T11:13:45+02:00
 created: 2026-04-20T10:26:27+02:00
 tags:
   - Worldbuilding
@@ -62,7 +62,7 @@ I can appropriate the four divine weapons forged by God from Supernatural and up
 - Remiel, the watcher of the dead: Horn -> Undertaker's bell
 - Lucifer, the Fallen (formerly the Lightbringer): A broken crown (or a piece of the firmament) -> 
 - Samael, the Blind (formerly the Angel of Death): A broken mask (or a feather from Michael's wings?)
-- Azrael, the (?): The Scythe of Death -> Knife of reaping
+- Azrael, the (?): The Scythe of Death -> Knife of Reaping
 # Worldbuilding exercise
 
 ## The Weirdborn: 
