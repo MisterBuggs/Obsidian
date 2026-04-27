@@ -5,6 +5,7 @@ modified:
   - 2026-04-20T11:13:49+02:00
   - 2026-04-23T16:50:45+02:00
   - 2026-04-24T10:52:49+02:00
+  - 2026-04-27T10:43:22+02:00
 created: 2026-04-20T10:26:27+02:00
 tags:
   - Worldbuilding
@@ -37,7 +38,7 @@ Some factions in Fistful of Darkness are decent but most are pretty terrible. A 
 - **Credit Union**, Tier 3W: A cultish bank centered around using Hoodoo-inspired Nomismancy (Nomisma -mancy) with dollar bills (or alternatively Gold?) as the primary magical ingredient. Background: The dollar is backed by immense public trust, infusing it with magical power. 
 - **Wells & Fargo**, Tier 3S: Used to specialize in appraising Gold and silver, they now primarily grade Hellstone (shaving a solid cut for their services). Hellstone appraisers are gagged and handcuffed and sometimes drugged: They are uniquely magically active individuals - that's why they can *feel the tingle* of Hellstone. However, it's too risky to keep a magic user around so much potent Hellstone without some security precautions against their spellcasting. 
 - **The Leatherback Gang**, Tier 2W: A gang of outlaws / vigilantes and everything in between led by their charismatic leader "Gabriel" (no last name), a Pinkerton breakaway, carrying the legendary Colt *The left hand of God*, which never seems to miss a target (though that doesn't mean it can fly around corners or penetrate walls). Inspired by Cheyenne's gang in *Once upon a time in the west*
-- **The First American Church of Jesus Christ, Justice**, Tier 2S: A zealous group of religious vigilantes led by charismatic preacher Jacob Kerrigan, carrying the legendary Winchester Rifle *The right hand of God*, the bullets of which cut through rock and steel, never erring off a perfectly straight course. Inspired by the preacher in *There will be blood*.
+- **The First American Church of Jesus Christ, Justice**, Tier 2S: A zealous group of religious vigilantes led by charismatic preacher Jacob Kerrigan. Inspired by the preacher in *There will be blood*. 
 - #To_do
 -   oil barons going out of business.
 -   former railway barons trying to keep their shares in this changed world.
@@ -48,6 +49,17 @@ Some factions in Fistful of Darkness are decent but most are pretty terrible. A 
 -   The Sherriff's office -> degenerate to monster hunters
 -   Native Tribes from Fistful of Darkness
 -   Wong's and Rose's establishments from Fistful of Darkness
+
+# Artifacts
+Divine artifacts may take the role of riders for the Doom mechanic in my game.
+I can appropriate the four divine weapons forged by God from Supernatural and update them (or at least some of them) to represent setting appropriate weapons, like guns.
+- Michael’s flaming Sword of Light
+- Gabriel’s world-shaking Trumpet of Revelation
+- Raphael’s living Staff of Restoration
+- Uriel’s burning Flame of Knowledge
+- Raguel’s storm-forged Chains of Justice
+- Sariel’s Moonlit Bow of fate: A 
+- Remiel’s golden Horn of Awakening.
 # Worldbuilding exercise
 
 ## The Weirdborn: 
