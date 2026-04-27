@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-27T13:58:08+02:00
+  - 2026-04-27T14:03:26+02:00
 created: 2026-04-27T13:13:22+02:00
 ---
 #Peer_Review [[2026-04-27]]
@@ -20,14 +20,16 @@ Minor Comments:
 9. Figure 1 and associated results: Please discuss the risk of overfitting, especially in the absence of a validation cohort. NLR is an aggregated result. Do you observe similar results when looking at ```TP x Neutrophil count x Lymphocyte count```?
 10. Results, Multivariates logistic analysis: TP and NLR the independent factors impacting survival status, "The table presents paired values...": Which table?
 11. Results, Multivariates logistic analysis: TP and NLR the independent factors impacting survival status, "The simultaneous presence of lymphopenia, neutrophilia, and hypoproteinemia reflects...": Does this represent an interpretation or a literature review? In the former case, the data presented up to this point may tentatively but certainly not definitively support this conclusion. If this is meant to place the findings in the context of literature, please add citations. In either case, this may be better placed in the discussion section. 
-12. Table 2: According to the associated results section, shown here are patients positive or negative for viral co-infections. Please adjust the title and description of this table to reflect this.
-13. Please make sure to discuss the limitation that your data cannot discern cause and effect. It is as plausible that viral infection further worsens pathology as it is plausible thaMore severely septic patients may well have a higher risk of viral infection or endogenous viral reactivation. 
+12. Table 2: According to page 13, this table represents patients positive or negative for viral co-infections. According to page 15, the table represents patients positive / negative for bacteria, fungi, AND viruses. Please clarify in the text, the table title, and the table description, which of these is true. 
+13. Please make sure to discuss the limitation that your data cannot discern cause and effect. It is as plausible that viral infection further worsens pathology as it is plausible that more severely septic patients have a higher risk of viral infection or endogenous viral reactivation. 
+14. 
 Language & Proofing:
-14. Abstract, Methods, "TP-NLR": This abbreviation is used here but only introduced in the next paragraph. Please avoid non-standard abbreviations wherever possible and introduce abbreviations at first use.
-15. Abstract, Results, "FDR-adjusted P": FDR-adjusted p-values are more commonly referred to as q-values. 
+15. Abstract, Methods, "TP-NLR": This abbreviation is used here but only introduced in the next paragraph. Please avoid non-standard abbreviations wherever possible and introduce abbreviations at first use.
+16. Abstract, Results, "FDR-adjusted P": FDR-adjusted p-values are more commonly referred to as q-values. 
+17. Starting on page 10, all pages are numbered "1". 
 Further Suggestions:
-16. You may want to consider repeated subsampling to bootstrap a number of training and validation cohorts and confirm the robustness of your model. 
-17. Figure 2: Consider re-graphing these showing all patients, indicating their mortality either by dot color or dot shape.
+18. You may want to consider repeated subsampling to bootstrap a number of training and validation cohorts and confirm the robustness of your model. 
+19. Figure 2: Consider re-graphing these showing all patients, indicating their mortality either by dot color or dot shape.
 
 File:
 
