@@ -5,7 +5,7 @@ modified:
   - 2026-04-20T11:13:49+02:00
   - 2026-04-23T16:50:45+02:00
   - 2026-04-24T10:52:49+02:00
-  - 2026-04-27T11:13:45+02:00
+  - 2026-04-27T11:28:27+02:00
 created: 2026-04-20T10:26:27+02:00
 tags:
   - Worldbuilding
@@ -53,16 +53,16 @@ Some factions in Fistful of Darkness are decent but most are pretty terrible. A 
 # Artifacts
 Divine artifacts may take the role of riders for the Doom mechanic in my game.
 I can appropriate the four divine weapons forged by God from Supernatural and update them (or at least some of them) to represent setting appropriate weapons, like guns.
-- Michael, The Right Hand of God: Lance -> Rifle
-- Gabriel, The Left Hand of God: Sword - > Pistol
-- Raphael, God's healing touch: Staff -> A Sheperd's crook (?)
+- Michael, The Right Hand of God: Lance -> A Rifle
+- Gabriel, The Left Hand of God: Sword - > A Pistol
+- Raphael, God's healing touch: Staff -> A rancher's branding iron
 - Uriel, The Flame of Knowledge: Flame -> Lantern (Think [[lady with the lamp]] Call of Cthulhu scenario with Florence Nightingale as a nursing scientist inspired by Daoloth's maddenning light)
 - Raguel, The Word of God: Chains -> Shackles
-- Sariel, God's singeing gaze: Bow -> A literal bow, likely carrie
-- Remiel, the watcher of the dead: Horn -> Undertaker's bell
+- Sariel, God's singeing gaze: Bow -> A literal bow, likely carried by a native.
+- Remiel, the watcher of the dead: Horn -> The Undertaker's bell.
 - Lucifer, the Fallen (formerly the Lightbringer): A piece of Heaven -> The Silver Coin (an item that appears to be a regular silver dollar but at any time of day, the starlight is reflected in it. One side is scratched. Gives the wielder a knack to accumulate wealth at high moral cost).
 - Samael, the Blind (formerly the Angel of Death): A feather from Michael's wings -> a literal feather (likely coveted as sacred relic by the Natives).
-- Azrael, the Angel of Death: The Scythe of Death -> Knife of Reaping (?)
+- Azrael, the Angel of Death: The Scythe of Death -> A butcher's knife.
 # Worldbuilding exercise
 
 ## The Weirdborn: 
