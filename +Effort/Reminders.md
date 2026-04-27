@@ -32,7 +32,7 @@ created: 2026-04-09T09:39:29+02:00
 - [x] [[Elmira Aliabadi Job Interview]]
 - [ ] #People_Ross_McGlennon offered 20% discount for Frontiers Immunology Submission. Do I have or can I summon a paper within this year? Likely no desk rejection. 
 - [ ] Contact Falko Mohrs about "slow start" in Germany.
-- [ ] Book Wacken Access Pass
+- [x] Book Wacken Access Pass
 - [ ] After receiving confirmation of full membership, apply for a DGHO Arbeitskreis. In that order: 
 	- [ ] [Zellbiologie und -therapie](https://www.dgho.de/arbeitskreise/p-z/zellbiologie-therapie)
 	- [ ] [AGIHO (Infektionen)](https://www.dgho.de/arbeitskreise/a-g/agiho)
