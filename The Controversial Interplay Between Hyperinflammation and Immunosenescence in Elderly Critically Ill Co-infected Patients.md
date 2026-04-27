@@ -1,13 +1,13 @@
 ---
 modified:
-  - 2026-04-27T14:27:21+02:00
+  - 2026-04-27T14:33:03+02:00
 created: 2026-04-27T13:13:22+02:00
 ---
 #Peer_Review [[2026-04-27]] #BMC_Geriatrics #Sepsis 
 Reviewer Summary:
-In this retrospective cohort study entitled "The Controversial Interplay Between Hyperinflammation and Immunosenescence in Elderly Critically Ill Co-infected Patients", Xu et al. propose total protein and the neutrophil-to-lymphocate ratio as predictive of sepsis survival. 
+In this retrospective cohort study entitled "The Controversial Interplay Between Hyperinflammation and Immunosenescence in Elderly Critically Ill Co-infected Patients", Xu et al. propose total protein and the neutrophil-to-lymphocate ratio as predictive of sepsis survival in elderly patients. Regression analyses of a number of standard clinical and laboratory parameters are presented. This space has been extensively researched and similar models have been proposed, which the authors fail . The novelty of this study is low. The authors present primary patient data from >100 sepsis patients, which should be published to enable inclusion in later meta analyses. 
 
-Recommendation:
+Recommendation: Major revision.
 Major Comments:
 1. This manuscript does not present any data separated by age, e.g., in patients >60 vs <60 y.o. While the cohort contains predominantly elderly patients, no conclusion about the contribution of age to sepsis pathology can be reached without a dedicated comparison. 
 2. Discussion, "The mortality prediction model was validated as high-quality and ready for clinical implementation.": The model was developed but not validated in an independent cohort. Including: Discussion, "Immunosenescence was evidenced": Neither the observed lymphopenia not hypoproteinemia can be clearly attributed to immunosenescence; especially in the absence of any comparison by age. 
@@ -44,5 +44,6 @@ File:
 
 ![[Revised Manuscript_Supplement.pdf]]
 Confidential notes to the editor:
+I was torn between recommending rejection or major revisions. Sepsis patient data is hard to get in large numbers. Thus, this study should *ultimately* be published to make the data accessible for later meta-reviews. However, this manuscript on its own has very little value to the scientific community. The novelty is low and causality or any mechanism cannot be inferred due to the study design. 
 
 Other notes:
