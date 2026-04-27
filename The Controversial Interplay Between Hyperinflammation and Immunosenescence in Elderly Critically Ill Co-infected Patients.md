@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-27T14:08:17+02:00
+  - 2026-04-27T14:13:21+02:00
 created: 2026-04-27T13:13:22+02:00
 ---
 #Peer_Review [[2026-04-27]] #BMC_Geriatrics #Sepsis 
@@ -28,7 +28,7 @@ Language & Proofing:
 16. Abstract, Methods, "TP-NLR": This abbreviation is used here but only introduced in the next paragraph. Please avoid non-standard abbreviations wherever possible and introduce abbreviations at first use.
 17. Abstract, Results, "FDR-adjusted P": FDR-adjusted p-values are more commonly referred to as q-values. 
 18. Starting on page 10, all pages are numbered "1". 
-19. Figure 3: This figure was produced in biorender. 
+19. Figure 3: This figure was almost certainly produced in Biorender. Biorender requires citation before publishing any figures designed using this tool. In its current state, this figure is rather confusing. It misses a clear start and endpoint and visual flow. Please consider limiting the scope of this figure to the findings of this manuscript and improving its structure and clarity. 
 Further Suggestions:
 20. You may want to consider repeated subsampling to bootstrap a number of training and validation cohorts and confirm the robustness of your model. 
 21. Figure 2: Consider re-graphing these showing all patients, indicating their mortality either by dot color or dot shape.
