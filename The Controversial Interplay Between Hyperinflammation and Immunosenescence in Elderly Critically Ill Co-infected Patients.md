@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-27T14:51:59+02:00
+  - 2026-04-27T14:58:33+02:00
 created: 2026-04-27T13:13:22+02:00
 ---
 #Peer_Review [[2026-04-27]] #BMC_Geriatrics #Sepsis 
@@ -26,19 +26,18 @@ Minor Comments:
 14. Table 2: According to page 13, this table represents patients positive or negative for viral co-infections. According to page 15, the table represents patients positive / negative for bacteria, fungi, AND viruses (triple infection). Please clarify in the text, the table title, and the table description, which of these is accurate. 
 15. Please make sure to discuss the limitation that your data cannot discern cause and effect. It is as plausible that viral infection further worsens pathology as it is plausible that more severely septic patients have a higher risk of viral infection or endogenous viral reactivation. 
 16. Discussion, "In the later stages of infection": Many studies have explored early and concomitant septic hyperinflammation and hypoinflammation. The concept of two-staged sepsis-pathology is quite outdated. Please consider discussing your results in the light of concomitant hyper- and hypoinflammation in early sepsis. In that context, please also consider including data on the time between hospital admission and sepsis diagnosis or between sepsis diagnosis and the collection of specimen used in this study. Please specify which diagnostic criteria were used to diagnose sepsis.
-17. The current limitations section is insufficient. At a minimum, please also discuss the risk of overfitting in the absence of a validation cohort, whether selection criteria were appropriate for a general sepsis patient cohort, as well as the strengths and weaknesses of pathogen testing via sequencing. 
+17. The current limitations section is insufficient. At a minimum, generalizability of the data obtained in this cohort must be discussed. If no validation cohort can be provided, the limitation of a bootstrapped validation cohort and the risk of overfitting must be discussed, as well as steps taken to avoid this risk. 
 18. Please consider providing data stratified by disease severity (e.g., SOFA score or SOFA score increase), Comorbidity (e.g., Charlson Comorbidity index) as well as also presenting data stratified by patient sex. 
 Language & Proofing:
 19. Abstract, Methods, "TP-NLR": This abbreviation is used here but only introduced in the next paragraph. Please avoid non-standard abbreviations wherever possible and introduce abbreviations at first use.
 20. Abstract, Results, "FDR-adjusted P": FDR-adjusted p-values are more commonly referred to as q-values. 
 21. Starting on page 10, all pages are numbered "1". 
-22. Figure 3: This figure was almost certainly produced in Biorender. Biorender requires citation before publishing any figures designed using this tool. In its current state, this figure is rather confusing. It misses a clear start and endpoint and visual flow. Please consider limiting the scope of this figure to the findings of this manuscript and improving its structure and clarity.
+22. Figure 3: This figure was almost certainly produced in Biorender. I kindly remind the authors that Biorender requires attribution for publication. In its current state, this figure is rather confusing. It misses a clear start and endpoint and has little visual flow. Please consider limiting the scope of this figure to the findings of this manuscript and improving its structure and clarity.
 Further Suggestions:
-23. You may want to consider repeated subsampling to bootstrap a number of training and validation cohorts and confirm the robustness of your model. 
-24. Figure 2: Consider re-graphing these showing all patients, indicating their mortality either by dot color or dot shape.
-25. Discussion, general: Please consider reducing the educational  introductory aspect of the discussion, which delves rather deep into basic concepts, and instead interpret and discuss your results in the light of current literature. Please be careful not to invoke to many concepts on which your study does not include any original data. 
-26. Consider using the credit taxonomy for author contributions.
-27. During peer review, global line numbers are appreciated. 
+23. Figure 2: Consider re-graphing these showing all patients, indicating their mortality either by dot color or dot shape.
+24. Discussion, general: Please consider reducing the educational / introductory aspect of the discussion, which delves rather deep into basic concepts, and instead interpret and discuss your results in the light of current literature. Please be careful not to invoke to many concepts on which your study does not include any original data. 
+25. Consider using the credit taxonomy for author contributions.
+26. During peer review, global line numbers are appreciated. 
 
 File:
 
