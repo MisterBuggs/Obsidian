@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-27T14:18:36+02:00
+  - 2026-04-27T14:23:30+02:00
 created: 2026-04-27T13:13:22+02:00
 ---
 #Peer_Review [[2026-04-27]] #BMC_Geriatrics #Sepsis 
@@ -24,7 +24,7 @@ Minor Comments:
 13. Table 2: According to page 13, this table represents patients positive or negative for viral co-infections. According to page 15, the table represents patients positive / negative for bacteria, fungi, AND viruses. Please clarify in the text, the table title, and the table description, which of these is true. 
 14. Please make sure to discuss the limitation that your data cannot discern cause and effect. It is as plausible that viral infection further worsens pathology as it is plausible that more severely septic patients have a higher risk of viral infection or endogenous viral reactivation. 
 15. Discussion, "In the later stages of infection": Many studies have explored early and concomitant septic hyperinflammation and hypoinflammation; putting into question the older concept of two-staged sepsis-pathology. Please consider discussing your results in this light. 
-16. 
+16. The current limitations section is insufficient. At a minimum, please also discuss the risk of overfitting in the absence of a validation cohort, whether selection criteria were appropriate for a general sepsis patient cohort, as well as the strengths and weaknesses of pathogen testing via sequencing. 
 Language & Proofing:
 17. Abstract, Methods, "TP-NLR": This abbreviation is used here but only introduced in the next paragraph. Please avoid non-standard abbreviations wherever possible and introduce abbreviations at first use.
 18. Abstract, Results, "FDR-adjusted P": FDR-adjusted p-values are more commonly referred to as q-values. 
@@ -33,6 +33,7 @@ Language & Proofing:
 Further Suggestions:
 21. You may want to consider repeated subsampling to bootstrap a number of training and validation cohorts and confirm the robustness of your model. 
 22. Figure 2: Consider re-graphing these showing all patients, indicating their mortality either by dot color or dot shape.
+23. Discussion, general: Please consider reducing the educational  introductory aspect of the discussion, which delves rather deep into basic concepts, and instead interpret and discuss your results in the light of current literature. Please be careful not to invoke to many concepts on which your study does not include any original data. 
 
 File:
 
