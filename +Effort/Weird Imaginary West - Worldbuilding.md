@@ -5,7 +5,7 @@ modified:
   - 2026-04-20T11:13:49+02:00
   - 2026-04-23T16:50:45+02:00
   - 2026-04-24T10:52:49+02:00
-  - 2026-04-27T10:46:58+02:00
+  - 2026-04-27T10:53:35+02:00
 created: 2026-04-20T10:26:27+02:00
 tags:
   - Worldbuilding
@@ -53,13 +53,14 @@ Some factions in Fistful of Darkness are decent but most are pretty terrible. A 
 # Artifacts
 Divine artifacts may take the role of riders for the Doom mechanic in my game.
 I can appropriate the four divine weapons forged by God from Supernatural and update them (or at least some of them) to represent setting appropriate weapons, like guns.
-- Michael: Lance -> Rifle
-- Gabriel: Trumpet
+- Michael, The Right Hand of God: Lance -> Rifle
+- Gabriel, The Left Hand of God: Trumpet
 - Raphael: Staff
-- Uriel: Flaming Sword
+- Uriel: Flaming Sword -> Pistol?
 - Raguel: Chains
 - Sariel: Bow -> Bow
 - Remiel: Horn
+- The above are the traditional 7 Archangels (extended canon / Christian myth), but Lucifer is not included, neither is Samael. 
 # Worldbuilding exercise
 
 ## The Weirdborn: 
