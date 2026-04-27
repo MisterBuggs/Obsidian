@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-27T13:47:27+02:00
+  - 2026-04-27T13:52:29+02:00
 created: 2026-04-27T13:13:22+02:00
 ---
 #Peer_Review [[2026-04-27]]
@@ -18,11 +18,14 @@ Minor Comments:
 7. Table 1: Please indicate in the table description  whether these p-values were multiplicity corrected. Alternatively, consider naming the respective column q-values if these represent corrected p-values. 
 8. Table 1: Please consider including common sepsis-related organ-failure scores, like qSOFA and SOFA, or the components that make up these scores. Please also consider including the Charlson Comorbidity Index in this table. 
 9. Figure 1 and associated results: Please discuss the risk of overfitting, especially in the absence of a validation cohort. NLR is an aggregated result. Do you observe similar results when looking at ```TP x Neutrophil count x Lymphocyte count```?
+10. Results, Multivariates logistic analysis: TP and NLR the independent factors impacting survival status, "The table presents paired values...": Which table?
+11. Results, Multivariates logistic analysis: TP and NLR the independent factors impacting survival status, "The simultaneous presence of lymphopenia, neutrophilia, and hypoproteinemia reflects...": Does this represent an interpretation or a literature review? 
 Language & Proofing:
-10. Abstract, Methods, "TP-NLR": This abbreviation is used here but only introduced in the next paragraph. Please avoid non-standard abbreviations wherever possible and introduce abbreviations at first use.
-11. Abstract, Results, "FDR-adjusted P": FDR-adjusted p-values are more commonly referred to as q-values. 
+12. Abstract, Methods, "TP-NLR": This abbreviation is used here but only introduced in the next paragraph. Please avoid non-standard abbreviations wherever possible and introduce abbreviations at first use.
+13. Abstract, Results, "FDR-adjusted P": FDR-adjusted p-values are more commonly referred to as q-values. 
 Further Suggestions:
-12. You may want to consider repeated subsampling to bootstrap a number of training and validation cohorts and confirm the robustness of your model. 
+14. You may want to consider repeated subsampling to bootstrap a number of training and validation cohorts and confirm the robustness of your model. 
+15. Figure 2: Consider re-graphing these showing all patients, indicating their mortality either by dot color or dot shape.
 
 File:
 
