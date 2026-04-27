@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-27T14:37:03+02:00
+  - 2026-04-27T14:43:35+02:00
 created: 2026-04-27T13:13:22+02:00
 ---
 #Peer_Review [[2026-04-27]] #BMC_Geriatrics #Sepsis 
@@ -9,13 +9,13 @@ In this retrospective cohort study entitled "The Controversial Interplay Between
 
 Recommendation: Major revision.
 Major Comments:
-1. It is *critical* that the authors follow appropriate reporting guidelines to enable inclusion of these data into future meta-analyses. Please review the [STROBE guidelines](https://www.equator-network.org/reporting-guidelines/strobe/) 
-2. This manuscript does not present any data separated by age strata. While the cohort contains predominantly elderly patients, no conclusion about the contribution of age to sepsis pathology can be reached without a dedicated comparison. 
-3. Discussion, "The mortality prediction model was validated as high-quality and ready for clinical implementation.": The model was developed but not validated in an independent cohort. Including: Discussion, "Immunosenescence was evidenced": Neither the observed lymphopenia not hypoproteinemia can be clearly attributed to immunosenescence; especially in the absence of any comparison by age. 
+1. It is *critical* that the authors follow appropriate reporting guidelines to enable inclusion of these data into future meta-analyses. Please review the [STROBE guidelines](https://www.equator-network.org/reporting-guidelines/strobe/) and choose an appropriate checklist, e.g., the STROME-ID or RECORD.
+2. This manuscript does not present any data separated by age strata. While the cohort contains predominantly elderly patients, no conclusion about the contribution of age to sepsis pathology can be reached without a dedicated comparison. Also: Discussion, "Immunosenescence was evidenced": Neither the observed lymphopenia not hypoproteinemia can be clearly attributed to immunosenescence; especially in the absence of any comparison by age. 
+3. Discussion, "The mortality prediction model was validated as high-quality and ready for clinical implementation.": The model was developed but not validated in an independent cohort. Without validation in an independent or at least in a bootstrapped validation cohort, these data cannot be accurately interpreted. 
 Minor Comments:
 4. Introduction: Secondary infections in bacterial sepsis have been extensively explored. Consider briefly introducing findings from other studies as they pertain to the subsets of viral secondary infections and geriatric populations.
 5. Methods, Study subjects and design: Please provide tabular fine-grained exclusion criteria, e.g., what diseases were considered hematologic disorders (was any anemia included?), which rheumatic and autoimmune diseases were considered (where minor allergic conditions included, for example?), *severe* renal disease, *major* trauma, etc.
-6. Methods, Study subjects and design: Obtaining written informed consent from sepsis patients is infamously hard. This is aggravated in a geriatric cohort with a higher burden of comorbidities. Was written informed consent provided by each patient? Was written informed consent from legal guardians or first-degree relatives permissible? 
+6. Methods, Study subjects and design: Obtaining written informed consent from sepsis patients is infamously difficult due to rapid disease development, high morbidity, and the deteriorated mental status coomonly associated with sepsis. This is aggravated in a geriatric cohort with a higher burden of comorbidities. Was written informed consent provided by each patient? Was written informed consent from legal guardians or first-degree relatives permissible? 
 7. Methods, Study variables: Please specify which mortality was considered as primary outcome. Given the data type, I assume that total hospital mortality was used and not, for example, 28 day mortality. 
 8. Methods, tNGS: Were data compared with or confirmed by microbiological culture? This is still considered the Gold Standard for the sensitive and specific detection of pathogenic bacteria.
 9. Table 1: Please indicate in the table description  whether these p-values were multiplicity corrected. Alternatively, consider naming the respective column q-values if these represent corrected p-values. 
