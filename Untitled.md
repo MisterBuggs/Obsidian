@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-27T13:38:05+02:00
+  - 2026-04-27T13:43:31+02:00
 created: 2026-04-27T13:13:22+02:00
 ---
 #Peer_Review [[2026-04-27]]
@@ -15,11 +15,13 @@ Minor Comments:
 4. Methods, Study subjects and design: Obtaining written informed consent from sepsis patients is infamously hard. This is aggravated in a geriatric cohort with a higher burden of comorbidities. Was written informed consent provided by each patient? Was written informed consent from legal guardians or first-degree relatives permissible? 
 5. Methods, Study variables: Please specify which mortality was considered as primary outcome. Given the data type, I assume that total hospital mortality was used and not, for example, 28 day mortality. 
 6. Methods, tNGS: Were data compared with or confirmed by microbiological culture? This is still considered the Gold Standard for the sensitive and specific detection of pathogenic bacteria.
+7. Table 1: Please indicate in the table description  whether these p-values were multiplicity corrected. Alternatively, consider naming the respective column q-values if these represent corrected p-values. 
+8. Table 1: Please consider including common sepsis-related organ-failure scores, like qSOFA and SOFA, or the components that make up these scores. Please also consider including the Charlson Comorbidity Index in this table. 
 Language & Proofing:
-7. Abstract, Methods, "TP-NLR": This abbreviation is used here but only introduced in the next paragraph. Please avoid non-standard abbreviations wherever possible and introduce abbreviations at first use.
-8. Abstract, Results, "FDR-adjusted P": FDR-adjusted p-values are more commonly referred to as q-values. 
+9. Abstract, Methods, "TP-NLR": This abbreviation is used here but only introduced in the next paragraph. Please avoid non-standard abbreviations wherever possible and introduce abbreviations at first use.
+10. Abstract, Results, "FDR-adjusted P": FDR-adjusted p-values are more commonly referred to as q-values. 
 Further Suggestions:
-9. 
+11. 
 
 File:
 
