@@ -38,5 +38,5 @@ created: 2026-04-09T09:39:29+02:00
 	- [ ] [AGIHO (Infektionen)](https://www.dgho.de/arbeitskreise/a-g/agiho)
 	- [ ] [Junge DGHO](https://www.dgho.de/arbeitskreise/i-k/junge_dgho)
 - [ ] Hartmann Bund Beiträge schon steuerlich gemeldet oder an #People_Petzoldt? 
-- [ ] review paper William Li
+- [x] review paper William Li
 - [x] Doctolib Anamnesebogen
