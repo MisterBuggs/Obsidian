@@ -1,29 +1,29 @@
 ---
 modified:
-  - 2026-04-28T12:03:27+02:00
+  - 2026-04-28T12:14:12+02:00
 created: 2026-04-28T07:39:59+02:00
 ---
 #Random_Idea #Science_Fiction #Science_Computer [[2026-04-28]]
 
 TLDR: Animals require sleep to transfer mid-term to long-term memory. Can this be modeled in LLMs to achieve AGI?
 
-R
-
+# Prompt
 Does *any* multicellular organism exist which does not sleep? How about organisms with a central nervous system?
 Literature suggests that sleep or sleep-like states have been shown in all or nearly-all animals, especially those with a nervous system. See: [Comparative biology of sleep in diverse animals](https://journals.biologists.com/jeb/article/226/14/jeb245677/324840/Comparative-biology-of-sleep-in-diverse-animals)
 This claim is not uncontested. In my understanding, it comes down to the question of what sleep is. Organisms down to the level of nematodes show sleep-like periods of inactivity before molting, suggesting a very ancient evolution of sleep. On the other hand, it is unclear whether all non-vertebrates have equivalent brain wave patterns and increased sensory thresholds or just engage in *restful waking to conserve energy*. Another special case are continuous swimmers (like many sharks and shoal fish), for which unilateral sleep has not yet been demonstrated in all species, as well as blind animals, particularly in sensory input poor environments. Some speculate that sleep is required only in animals with complex sensory inputs as a means of pausing input to integrate the current world model and long term memory (bidirectionally). See: [Vertebrates That Never Sleep: Implications For Sleep’s Basic Function](https://www.sciencedirect.com/science/article/pii/S0361923098000185?via%3Dihub)
 
 Whichever the case, sleep seems to be a biological necessity or at least a *good move* in organisms with complex neural circuits. Sleep transfers a *tally* of mid-term memory ("world model") built during the waking period into long term. It also updates that world model with longterm memories including genetic memory modules. 
 
-**Synaptic Homeostasis:**
+# Synaptic Homeostasis
 Recent strong evidence seems to confirm the hypothesis that sleep is required to re-iterate over experiences, increasing the synaptic representation of important / key experiences while *deleting the noise*. See: 
 - General: [Sleep function and synaptic homeostasis - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1087079205000420) 
 - Specific: [Selection of experience for memory by hippocampal sharp wave ripples](https://www.science.org/doi/epdf/10.1126/science.adk8261), 
 - Layman's terms, Video: [Wie Ihr Gehirn auswählt, was es sich merkt](https://www.youtube.com/watch?v=ceFFEmkxTLg)
 
-**Central Question:** Could something like this be modeled by an LLM with iterative self prompting loop (conscious, awake) that builds a temporary context, interrupted by model training (sleep, dreaming). Could something like this even be *required* to achieve artificial general intelligence?
+# Central Question
+Could something like this be modeled by an LLM with iterative self prompting loop (conscious, awake) that builds a temporary context, interrupted by model training (sleep, dreaming). Could something like this even be *required* to achieve artificial general intelligence?
 
-**Thoughts:**
+# Further thoughts
 - Updating weights through back propagation in neural networks too thoroughly risks [Catastrophic forgetting](https://en.wikipedia.org/wiki/Catastrophic_interference), which is seen in artificial neural networks but not humans. Is this a feature of network architecture, i.e., the multiple levels of long-term potentiation from synaptic to cellular to architectural evolution of the brain? Is this also a feature of model size compared to input? After all, humans require about a decade of daily inputs to form a somewhat stable network capable of formal logic and a number of nodes far far outweighing any artificial neural network available today in 2026. 
 - Some work-arounds have been proposed, e.g., constraining nodes central for one task to *protect* it from being overwritten by newer training See: [#Arxiv 1612.00796](https://arxiv.org/pdf/1612.00796). 
 - Dreaming may or may not be required in addition to consolidation. This replay / simulation and integration of short-term and mid-term memory may also help prevent catastrophic forgetting, as it replays (and thereby elastically constrains) old nodes. 
@@ -32,3 +32,6 @@ Recent strong evidence seems to confirm the hypothesis that sleep is required to
 - If I understand correctly, this paper suggests that during non-permanent learning (during the wakefulness period, if you want), short-term memory can be transferred into mid-term by just updating a subset of the global parameter space but leaving most parameters untouched. This could greatly reduce the requirement for full fine-tuning (sleep) as it "softly" integrates information beyond the immediate context window (short term) but below memory tagged for long term retention (sleep). See [#Arxiv 2106.09685](https://arxiv.org/abs/2106.09685). 
 - System 2 thinking (reasoning) seems to require way more parameters than pure System 1 thinking (traditional LLMs). See: [From System 1 to System 2: A Survey of Reasoning Large Language Models](https://arxiv.org/pdf/2502.17419). Is this the reason that humans avoid system 2 when they can and that system 2 is so much slower and exhausting in humans? 
 - Imaginer-models (called"Dreamer", but I don't like this term as it happens during execution / wakefulness of the model) interleave action and simulated action and thereby build a top-down world-view, somewhat like the brain does, to accelerate learning from fewer inputs. See: [#Arxiv 1912.01603](https://arxiv.org/pdf/1912.01603)
+
+# Synthesis
+In my idea about sleeping LLMs, a self-prompting LLM, possibly using an "Imaginer / Dreamer" design would continuously build (imagine) a world model. It would have an actual context window (short term memory, in humans only ~7 items), but transfer anything outside that immediate context into a temporary neural synaptic representation using systems like LORA; synaptic but not cellular or architectural potentiation; mid-term memory on a within-one-day level. High loss (surprise) triggers higher "attention" or tagging for consolidation (linking to **Yang et al.**). It would then periodically shut off for actual full-model fine-tuning; Deep Sleep; cellular and brain-architectural potentiation. It may use parameter constraints to prevent catastrophic forgetting in these fine-tuning phases. Such constraints may involve a panel of experts architecture, protecting *unused experts* from fine-tuning.
