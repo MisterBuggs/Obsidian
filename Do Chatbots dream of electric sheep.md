@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-28T10:57:57+02:00
+  - 2026-04-28T11:09:23+02:00
 created: 2026-04-28T07:39:59+02:00
 ---
 #Random_Idea #Science_Fiction #Science_Computer [[2026-04-28]]
@@ -24,3 +24,4 @@ Recent strong evidence seems to confirm the hypothesis that sleep is required to
 - Some work-arounds have been proposed, e.g., constraining nodes central for one task to *protect* it from being overwritten by newer training See: [#Arxiv 1612.00796](https://arxiv.org/pdf/1612.00796). 
 - Dreaming may or may not be required in addition to consolidation. This replay / simulation and integration of short-term and mid-term memory may also help prevent catastrophic forgetting, as it replays (and thereby elastically constrains) old nodes. 
 - See [#Arxiv 1705.08690](https://arxiv.org/abs/1705.08690). An overview of continual learning for LLMs, yet without daring an interpretation, can be found here: [Continual Learning of Large Language Models: A Comprehensive Survey](https://dl.acm.org/doi/full/10.1145/3735633#sec-7). 
+- Panel of experts is itself a design to reduce catastrophic forgetting, as different circuits are used for and thus are trained on different tasks, preventing newer tasks overwriting currently unused "experts" / models. See: [#Arxiv 2406.16437](https://arxiv.org/abs/2406.16437). I would say this has some resemblance to human brains, which have specific specialized and rather static circuits for some tasks. On the other hand, I am surprised that the gating model, according to the aforementioned manuscript, has to be fixed / training must be terminated early, to achieve model convergence. Do humans have such a "gate" that remains fixed after early childhood to direct new experiences to appropriate circuits. Could this be a neural distillate of a worldview or personality?
