@@ -42,7 +42,7 @@ conscience and all the emergent phenomena like ethics are really just translatio
 
 Key pieces missing from LLMs IMO:
 - Volition
-- Continual world models
-- Mid-term memory beyond the context window
+- Continual top-down world models updated from sensory input. 
+- Mid-term memory beyond the context window that's more sparse but also more stable than context / attention. 
 - sleep for long term potentiation (or is that captured in attention-tagged fine tuning to a satisfactory degree?) 
-- Dreaming, i.e., reiteration over model outputs with relatively high chaos in a save environment, both to preserve a central tendency while also improving local generalization to the
+- true dreaming, i.e., reiteration over model outputs with relatively high chaos in a save environment, both to preserve a central tendency while also improving local generalization to the counter factual. 
