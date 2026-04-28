@@ -1,5 +1,7 @@
 ---
 modified:
+  - 2026-04-27T21:32:42+02:00
+  - 2026-04-25T21:16:18+02:00
   - 2026-04-24T23:06:52+02:00
   - 2026-04-14T07:31:56+02:00
   - 2026-04-09T09:43:14+02:00
@@ -8,8 +10,6 @@ modified:
   - 2026-04-17T17:01:06+02:00
   - 2026-04-20T12:28:04+02:00
   - 2026-04-21T13:51:36+02:00
-  - 2026-04-22T14:59:37+02:00
-  - 2026-04-27T12:59:21+02:00
 created: 2026-04-09T09:39:29+02:00
 ---
 - [ ] Lack doctor to Haftpflicht. They have received the message but not responded yet.
@@ -24,17 +24,19 @@ created: 2026-04-09T09:39:29+02:00
 	- [x] MLP Bank
 	- [x] #People_Petzoldt Steuerberater
 	- [x] Personalausweis / Reisepass
-	- [ ] märkische bank. Meldebescheinigung übersenden. Online bei der Stadt bestellt, Rechnung: **MB/260427/152601**
-	- [x] vermieter
-	- [x] vbl altersvorsorge kundenservice@vbl.de Versicherungsnunmer 2102962448
-- [x] #Peer_Review BMC Geriatrics [Revised Manuscript.docx](<file:///C:\Users\buyswill\Downloads\The Controversial Interpl>)
+	- [ ] märkische bank
+	- [ ] vermieter
+	- [ ] vbl altersvorsorge kundenservice@vbl.de Versicherungsnunmer 2102962448
+- [ ] #Peer_Review BMC Geriatrics [Revised Manuscript.docx](<file:///C:\Users\buyswill\Downloads\The Controversial Interpl>)
 - [ ] #Peer_Review Intensive Care Medicine [[ICMX-D-26-00143.pdf]], [submit comments here](https://www.editorialmanager.com/icmx/l.asp?i=130475&l=2FBZLDQK "https://www.editorialmanager.com/icmx/l.asp?i=130475&l=2FBZLDQK")
 - [x] [[Elmira Aliabadi Job Interview]]
 - [ ] #People_Ross_McGlennon offered 20% discount for Frontiers Immunology Submission. Do I have or can I summon a paper within this year? Likely no desk rejection. 
 - [ ] Contact Falko Mohrs about "slow start" in Germany.
-- [x] Book Wacken Access Pass
+- [ ] Book Wacken Access Pass
 - [ ] After receiving confirmation of full membership, apply for a DGHO Arbeitskreis. In that order: 
 	- [ ] [Zellbiologie und -therapie](https://www.dgho.de/arbeitskreise/p-z/zellbiologie-therapie)
 	- [ ] [AGIHO (Infektionen)](https://www.dgho.de/arbeitskreise/a-g/agiho)
 	- [ ] [Junge DGHO](https://www.dgho.de/arbeitskreise/i-k/junge_dgho)
 - [ ] Hartmann Bund Beiträge schon steuerlich gemeldet oder an #People_Petzoldt? 
+- [ ] review paper William Li
+- [ ] Doctolib Anamnesebogen
