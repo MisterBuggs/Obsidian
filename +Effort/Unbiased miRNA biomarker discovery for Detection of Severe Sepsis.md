@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-28T15:53:53+02:00
+  - 2026-04-28T15:59:18+02:00
 created: 2026-04-28T13:49:38+02:00
 ---
 #Peer_Review [[2026-04-28]] #ICMx
@@ -20,13 +20,14 @@ Minor Comments:
 9. Methods, line 114: Which type of mortality was documented? Hospital mortality or also 7 day mortality, 28 day mortality, etc., even after discharge? How was loss-to-follow up handled? 
 10. Methods, line 129: These numbers add up to 60, not to 116, as stated in the abstract. Which one is correct?
 11. Methods, line 136-137: How did the authors decide which miRNA's to include? In future studies on the remaining material, it may be interesting to use sequencing methods instead to avoid limiting discovery to known targets of interest. 
-12. Methods, general: Please consider generally adding catalog numbers, either in t
-13. Conclusion: The authors suggest that these markers could be used for early sepsis detection. However, no sampling before fever spikes is being reported. Accordingly, this is a hypothesis that should be clearly worded as an outlook requiring further studies.
-14. 
+12. Methods, general: Please consider generally adding catalog numbers, either in the text or as a supplemental materials table. 
+13. Methods, line 158: ddCt scores are commonly normalized to a housekeeping gene (or miRNA in this case). Do I understand the authors correctly, that they normalized ddCt scores to spike-in controls and then to the global / aggregate miRNA expression of a sample instead of to a housekeeping gene, before comparing it to other samples?
+14. Conclusion: The authors suggest that these markers could be used for early sepsis detection. However, no sampling before fever spikes is being reported. Accordingly, this is a hypothesis that should be clearly worded as an outlook requiring further studies.
+15. 
 Language & Proofing:
-15. This may be a function of the editorial manager, but there are currently two different line numberings displayed in the reviewer copy. One of them doesn't match the actual lines, so comments are made using the coherent line numbers.
+16. This may be a function of the editorial manager, but there are currently two different line numberings displayed in the reviewer copy. One of them doesn't match the actual lines, so comments are made using the coherent line numbers.
 Further Suggestions:
-16. 
+17. 
 
 File:
 ![[ICMX-D-26-00143.pdf]]
