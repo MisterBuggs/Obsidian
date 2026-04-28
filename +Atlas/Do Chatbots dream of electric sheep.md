@@ -1,11 +1,11 @@
 ---
 modified:
-  - 2026-04-28T12:28:29+02:00
+  - 2026-04-28T12:39:58+02:00
 created: 2026-04-28T07:39:59+02:00
 ---
-#Random_Idea #Science_Fiction #Science_Computer [[2026-04-28]]
+#Random_Idea #Science_Fiction #Science_Computer #Writing [[2026-04-28]]
 
-TLDR: Animals require sleep to transfer mid-term to long-term memory. Can this be modeled in LLMs to achieve AGI?
+TLDR: Animals require sleep to transfer mid-term to long-term memory. Can this be modeled in LLMs to achieve AGI? ^d1f6fd
 
 # Prompt
 Does *any* multicellular organism exist which does not sleep? How about organisms with a central nervous system?
