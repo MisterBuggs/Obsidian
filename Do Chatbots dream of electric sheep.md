@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-28T11:31:56+02:00
+  - 2026-04-28T12:03:27+02:00
 created: 2026-04-28T07:39:59+02:00
 ---
 #Random_Idea #Science_Fiction #Science_Computer [[2026-04-28]]
@@ -27,3 +27,4 @@ Recent strong evidence seems to confirm the hypothesis that sleep is required to
 - Panel of experts is itself a design to reduce catastrophic forgetting, as different circuits are used for and thus are trained on different tasks, preventing newer tasks overwriting currently unused "experts" / models. See: [#Arxiv 2406.16437](https://arxiv.org/abs/2406.16437). I would say this has some resemblance to human brains, which have specific specialized and rather static circuits for some tasks. On the other hand, I am surprised that the gating model, according to the aforementioned manuscript, has to be fixed / training must be terminated early, to achieve model convergence. Do humans have such a "gate" that remains fixed after early childhood to direct new experiences to appropriate circuits. Could this be a neural distillate of a worldview or personality?
 - If I understand correctly, this paper suggests that during non-permanent learning (during the wakefulness period, if you want), short-term memory can be transferred into mid-term by just updating a subset of the global parameter space but leaving most parameters untouched. This could greatly reduce the requirement for full fine-tuning (sleep) as it "softly" integrates information beyond the immediate context window (short term) but below memory tagged for long term retention (sleep). See [#Arxiv 2106.09685](https://arxiv.org/abs/2106.09685). 
 - System 2 thinking (reasoning) seems to require way more parameters than pure System 1 thinking (traditional LLMs). See: [From System 1 to System 2: A Survey of Reasoning Large Language Models](https://arxiv.org/pdf/2502.17419). Is this the reason that humans avoid system 2 when they can and that system 2 is so much slower and exhausting in humans? 
+- Imaginer-models (called"Dreamer", but I don't like this term as it happens during execution / wakefulness of the model) interleave action and simulated action and thereby build a top-down world-view, somewhat like the brain does, to accelerate learning from fewer inputs. See: [#Arxiv 1912.01603](https://arxiv.org/pdf/1912.01603)
