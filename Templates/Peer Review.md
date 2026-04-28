@@ -1,4 +1,4 @@
-#Peer_Review {{date}}
+#Peer_Review {{[[date]]}}
 Reviewer Summary:
 
 Recommendation:
