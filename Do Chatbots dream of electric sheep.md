@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-28T12:14:12+02:00
+  - 2026-04-28T12:16:48+02:00
 created: 2026-04-28T07:39:59+02:00
 ---
 #Random_Idea #Science_Fiction #Science_Computer [[2026-04-28]]
@@ -34,4 +34,4 @@ Could something like this be modeled by an LLM with iterative self prompting loo
 - Imaginer-models (called"Dreamer", but I don't like this term as it happens during execution / wakefulness of the model) interleave action and simulated action and thereby build a top-down world-view, somewhat like the brain does, to accelerate learning from fewer inputs. See: [#Arxiv 1912.01603](https://arxiv.org/pdf/1912.01603)
 
 # Synthesis
-In my idea about sleeping LLMs, a self-prompting LLM, possibly using an "Imaginer / Dreamer" design would continuously build (imagine) a world model. It would have an actual context window (short term memory, in humans only ~7 items), but transfer anything outside that immediate context into a temporary neural synaptic representation using systems like LORA; synaptic but not cellular or architectural potentiation; mid-term memory on a within-one-day level. High loss (surprise) triggers higher "attention" or tagging for consolidation (linking to **Yang et al.**). It would then periodically shut off for actual full-model fine-tuning; Deep Sleep; cellular and brain-architectural potentiation. It may use parameter constraints to prevent catastrophic forgetting in these fine-tuning phases. Such constraints may involve a panel of experts architecture, protecting *unused experts* from fine-tuning.
+In my idea about sleeping LLMs, a self-prompting LLM, possibly using an "Imaginer / Dreamer" design would continuously build (imagine) a world model. It would have an actual context window (short term memory, in humans only ~7 items), but transfer anything outside that immediate context into a temporary neural synaptic representation using systems like LORA; synaptic but not cellular or architectural potentiation; mid-term memory on a within-one-day level. High loss (surprise) triggers higher "attention" or tagging for consolidation (see [[Do Chatbots dream of electric sheep#Synaptic Homeostasis|Synaptic Homeostasis]] above). It would then periodically shut off for actual full-model fine-tuning; Deep Sleep; cellular and brain-architectural potentiation. It may use parameter constraints to prevent catastrophic forgetting in these fine-tuning phases. Such constraints may involve a panel of experts architecture, protecting *unused experts* from fine-tuning. Fine-tuning may also involve actual "dreaming", i.e., training on attention-filtered self-outputs, which in itself should protect older weights from catastrophic failure and may enhance generalization to cases that haven't yet been encountered. 
