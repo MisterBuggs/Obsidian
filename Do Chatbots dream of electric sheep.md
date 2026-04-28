@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-28T10:52:49+02:00
+  - 2026-04-28T10:57:57+02:00
 created: 2026-04-28T07:39:59+02:00
 ---
 #Random_Idea #Science_Fiction #Science_Computer [[2026-04-28]]
@@ -21,5 +21,6 @@ Recent strong evidence seems to confirm the hypothesis that sleep is required to
 
 **Thoughts:**
 - Updating weights through back propagation in neural networks too thoroughly risks [Catastrophic forgetting](https://en.wikipedia.org/wiki/Catastrophic_interference), which is seen in artificial neural networks but not humans. Is this a feature of network architecture, i.e., the multiple levels of long-term potentiation from synaptic to cellular to architectural evolution of the brain? Is this also a feature of model size compared to input? After all, humans require about a decade of daily inputs to form a somewhat stable network capable of formal logic and a number of nodes far far outweighing any artificial neural network available today in 2026. 
-	- Some work-arounds have been proposed, e.g., constraining nodes central for one task to *protect* it from being overwritten by newer training See: [#Arxiv 1612.00796](https://arxiv.org/pdf/1612.00796). 
-- Dreaming may or may not be required in addition to consolidation. This replay / simulation and integration of short-term and mid-term memory may also help prevent catastrophic forgetting, as it replays (and there)
+- Some work-arounds have been proposed, e.g., constraining nodes central for one task to *protect* it from being overwritten by newer training See: [#Arxiv 1612.00796](https://arxiv.org/pdf/1612.00796). 
+- Dreaming may or may not be required in addition to consolidation. This replay / simulation and integration of short-term and mid-term memory may also help prevent catastrophic forgetting, as it replays (and thereby elastically constrains) old nodes. 
+- See [#Arxiv 1705.08690](https://arxiv.org/abs/1705.08690). An overview of continual learning for LLMs, yet without daring an interpretation, can be found here: [Continual Learning of Large Language Models: A Comprehensive Survey](https://dl.acm.org/doi/full/10.1145/3735633#sec-7). 
