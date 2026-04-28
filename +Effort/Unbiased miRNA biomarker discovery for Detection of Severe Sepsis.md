@@ -4,6 +4,8 @@ modified:
 created: 2026-04-28T13:49:38+02:00
 ---
 #Peer_Review [[2026-04-28]] #ICMx
+#To_Do : Continue review at the results section, line 176 on page 10.
+
 Reviewer Summary:
 
 Recommendation:
@@ -21,7 +23,7 @@ Minor Comments:
 10. Methods, line 129: These numbers add up to 60, not to 116, as stated in the abstract. Which one is correct?
 11. Methods, line 136-137: How did the authors decide which miRNA's to include? In future studies on the remaining material, it may be interesting to use sequencing methods instead to avoid limiting discovery to known targets of interest. 
 12. Methods, general: Please consider generally adding catalog numbers, either in the text or as a supplemental materials table. 
-13. Methods, line 158: ddCt scores are commonly normalized to a housekeeping gene (or miRNA in this case). Do I understand the authors correctly, that they normalized ddCt scores to spike-in controls and then to the global / aggregate miRNA expression of a sample instead of to a housekeeping gene, before comparing it to other samples?
+13. Methods, line 158: ddCt scores are commonly normalized to a housekeeping gene (or miRNA in this case). Do I understand the authors correctly, that they normalized ddCt scores to spike-in controls and then to the global / aggregate miRNA expression of a sample instead of a housekeeping gene, before comparing it to other samples?
 14. Conclusion: The authors suggest that these markers could be used for early sepsis detection. However, no sampling before fever spikes is being reported. Accordingly, this is a hypothesis that should be clearly worded as an outlook requiring further studies.
 15. 
 Language & Proofing:
