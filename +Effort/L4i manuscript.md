@@ -1,6 +1,5 @@
 ---
 modified:
-  - 2026-04-09T15:48:23+02:00
   - 2026-03-18T11:57:42+01:00
   - 2026-04-01T11:44:56+02:00
   - 2026-04-09T17:05:24+02:00
@@ -10,6 +9,7 @@ modified:
   - 2026-04-17T16:48:33+02:00
   - 2026-04-22T16:38:46+02:00
   - 2026-04-24T15:25:52+02:00
+  - 2026-04-28T12:56:57+02:00
 created: 2026-03-16T15:31:22+01:00
 tags:
   - JHU
@@ -30,6 +30,8 @@ Author list, **not confirmed**: WB, #People_SDV , #People_SGD, #People_MoBe, #Pe
 - [x] Add post-CFC FACS for [HD16 CFC day 11.wsp](<file:///C:\Users\buyswill\OneDrive - mh-hannover.de\L4i manuscript\HD16\HD16 CFC day 11.wsp>) to show that all cell types are there. Also for the data provided by #People_SDV . Into Suppl?
 - [x] Calculate absolute production efficiencies for HD16: This file has the absolute viable numbers: [Notes HD16.txt](<file:///C:\Users\buyswill\OneDrive - mh-hannover.de\L4i manuscript\HD16\Notes HD16.txt>). This file has the percentages: [3 lines HD summary for L4i manuscript.xlsx](<file:///C:\Users\buyswill\OneDrive - mh-hannover.de\L4i manuscript\3 lines HD summary for L4i manuscript.xlsx>). 
 - [x] WB: Overview teratoma: Which lines do I have imaged and counted already? Presumably requires #People_SDV or #People_WiLi to [Get files](app://obsidian.md/Get%20files): Look through teratoma boxes. I believe there should be teratoma for at least 3 iPSC lines.
+- [ ] WB: Statistical Hypothesis testing
+	- [ ] Collect all data that should undergo statistical hypothesis testing, i.e., all with 3 or more samples, in the same excel file in a format conducive to testing in R or in Python. #To_Do What library will I use? What's the preferred format for the data?
 - [ ] WB: Generally use FACS plot axes in the style #People_SDV uses in [L4i manuscript_Figures_WB.pptx](<file:///C:\Users\buyswill\OneDrive - mh-hannover.de\L4i manuscript\L4i manuscript_Figures_WB.pptx>) with markers on the end of a line.
 - [ ] Confirm that all plots use SEM or all SD, no back and forth.
 - [ ] Attempt statistical hypothesis tests wherever possible to confirm better performance of L4i.
