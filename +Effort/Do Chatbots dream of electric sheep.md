@@ -1,7 +1,7 @@
 ---
 modified:
   - 2026-04-28T21:19:56+02:00
-  - 2026-04-29T13:39:43+02:00
+  - 2026-04-29T14:12:16+02:00
 created: 2026-04-28T07:39:59+02:00
 ---
 #Random_Idea #Science_Fiction #Science_Computer #Writing [[2026-04-28]]
@@ -59,7 +59,7 @@ This is boiling down to 2 semi-related topics:
 - Computer consciousness -> continual world modeling, volition, policy, iterative action.
 - Computer memory -> Sleep, Dream, Attention-tagging, specialized circuits / Panel of Experts, acute context, mid-term synapse priming, long-term encoding.
 - A connecting function, likely layered between acute attention, mid-term and long-term memory which regular harmonizes the computer consciousness and computer memory bi-directionally. 
-See [#Arxiv 2404.16789](https://arxiv.org/abs/2404.16789) for a review on continual learning in LLMs; especially section 4. This space is already decently explored and getting more and more explored. 
+See [#Arxiv 2404.16789](https://arxiv.org/abs/2404.16789) or "[Continual Learning with RL for LLMs](https://cameronrwolfe.substack.com/p/rl-continual-learning)" for a review on continual learning in LLMs. This space is already decently explored and getting more and more explored. 
 
-# Pruning delusions
-The actual novelty that isn'
+# Pruning my delusions
+The actual novelty that isn't already explored by replay buffers and generative replay, as well as various continual learning techniques in LLMs, may be the iterative and ultimately cyclic nature of explorative / unstable wakefulness vs an offline sleep phase to stabilize the model. **I'm returning to sleep as the central unexplored space in LLM design.** Experimentally, this could be compared to full online vs full offline training (the two defaults) to check for an advantage.
