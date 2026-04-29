@@ -28,7 +28,7 @@ Minor Comments:
 Language & Proofing:
 16. This may be a function of the editorial manager, but there are currently two different line numberings displayed in the reviewer copy. One of them doesn't match the actual lines, so comments are made using the coherent line numbers.
 Further Suggestions:
-17. 
+17. Lines 182 - 184: Please comment on this finding. Given the extensive tissue micro-necrosis observed in sepsis, I 
 
 File:
 ![[ICMX-D-26-00143.pdf]]
