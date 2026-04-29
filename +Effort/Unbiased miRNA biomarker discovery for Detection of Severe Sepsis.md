@@ -1,7 +1,7 @@
 ---
 modified:
   - 2026-04-28T16:00:19+02:00
-  - 2026-04-29T10:57:53+02:00
+  - 2026-04-29T11:04:15+02:00
 created: 2026-04-28T13:49:38+02:00
 ---
 #Peer_Review [[2026-04-28]] #ICMx
@@ -35,10 +35,11 @@ Language & Proofing:
 19. Line 197 & 212: Readers will likely be familiar with heatmaps.
 20. Lines 275f: This sentence is currently unclear, especially "in a sample of 13".
 21. The available figure quality is insufficient for an accurate review. Please communicate with your editor whether the original figure quality of format was insufficient or whether figure quality was automatically downscaled in the editorial manager. 
-22. Line 316: Correlati
+22. Line 316ff: Positive correlation can also indicate a regulatory function to preserve homeostasis (rheostat). I recommend introducing previous work on the miRNAs discovered in this study with a little more detail and to be more specific when interpreting the concrete findings of this study rather than summoning broad concepts like "inflammation" or "oxidative stress". 
+23. Lines 320-323 and corresponding results section: It is important to check findings of GO analyses for biological relevance (which the aut. For example, most GO analyses show housekeeping genes with little concrete and interpretable relevance to the pathology of interest. 
 Further Suggestions:
-23. Currently, the results section contains quite some interpretation and discussion in the context of related literature. You might consider separating straight results and interpretation / discussion more clearly. 
-24. Please consider whether you can combine the key findings of figures 4-9 to achieve a synthesis that elevates these figures from data aggregation to interpretable results. Under the constraint of a very grainy image quality with generally illegible text inside the figures provided to this reviewer, figure 5 (day 1) seems to be by far the most interesting and interconnected time point, while differential expression seems to be almost absent by days 3 and 5 of sepsis development. It might be interesting to further probe this finding. 
+24. Currently, the results section contains quite some interpretation and discussion in the context of related literature. You might consider separating straight results and interpretation / discussion more clearly. 
+25. Please consider whether you can combine the key findings of figures 4-9 to achieve a synthesis that elevates these figures from data aggregation to interpretable results. Under the constraint of a very grainy image quality with generally illegible text inside the figures provided to this reviewer, figure 5 (day 1) seems to be by far the most interesting and interconnected time point, while differential expression seems to be almost absent by days 3 and 5 of sepsis development. It might be interesting to further probe this finding. 
 
 File:
 ![[ICMX-D-26-00143.pdf]]
