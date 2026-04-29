@@ -1,7 +1,7 @@
 ---
 modified:
   - 2026-04-28T16:00:19+02:00
-  - 2026-04-29T10:33:59+02:00
+  - 2026-04-29T10:38:44+02:00
 created: 2026-04-28T13:49:38+02:00
 ---
 #Peer_Review [[2026-04-28]] #ICMx
@@ -27,13 +27,14 @@ Minor Comments:
 12. Methods, line 158: ddCt scores are commonly normalized to a housekeeping gene (or miRNA in this case). Do I understand the authors correctly, that they normalized ddCt scores to spike-in controls and then to the global / aggregate miRNA expression of a sample instead of a housekeeping gene, before comparing it to other samples?
 13. Conclusion: The authors suggest that these markers could be used for early sepsis detection. However, no sampling before fever spikes is being reported. Accordingly, this is a hypothesis that should be clearly worded as an outlook requiring further studies.
 14. Line 201ff: Please introduce or thoroughly discuss the somewhat arbitrary definition of late vs. early-onset sepsis depending on the timing of a fever spike after some nebulous starting time. This is not standard nomenclature outside sepsis of the newborn, which is not the topic here. Do you mean early vs late sepsis phases or stages, not early vs late ~~onset~~? Please also consider a more balanced discussion of sepsis hyper- and hypo-inflammation: The two-stage model of sepsis as early hyperinflammation and late hypo-inflammation / immune paralysis is quite outdated. Instead, features of hyperinflammation and hypoinflammation seem to occur in parallel throughout sepsis progression, even within the first 24h of diagnosis. 
-15. Line 222f: Please formulate clearly what you considered as significant dysregulation, e.g., "showed no statistically significant difference between patients with and without sepsis irrespective of SIRS (>Log2-fold difference, FDR q<0.05)." (if this was the chosen comparison). 
+15. Line 222f: Please formulate clearly what you considered as significant dysregulation, e.g., "showed no statistically significant difference between patients with and without sepsis irrespective of SIRS (|Log2-fold difference| >1, FDR q<0.05)." (if this was the chosen comparison). 
 16. Lines 227ff: Please consider denoting these as q-values if they have been multiplicity adjusted. Due to the highly parallel nature of these tests, these must be multiplicity corrected if they have not already.
+17. Please add table descriptions. Most importantly, please detail whether these p-values are multiplicity adjusted and consider naming them q-values if they are.
 Language & Proofing:
-17. This may be a function of the editorial manager, but there are currently two different line numberings displayed in the reviewer copy. One of them doesn't match the actual lines, so comments are made using the coherent line numbers.
-18. Line 197 & 212: Readers will likely be familiar with heatmaps.
+18. This may be a function of the editorial manager, but there are currently two different line numberings displayed in the reviewer copy. One of them doesn't match the actual lines, so comments are made using the coherent line numbers.
+19. Line 197 & 212: Readers will likely be familiar with heatmaps.
 Further Suggestions:
-19. Currently, the results section contains quite some interpretation and discussion in the context of related literature. You might consider separating straight results and interpretation / discussion more clearly. 
+20. Currently, the results section contains quite some interpretation and discussion in the context of related literature. You might consider separating straight results and interpretation / discussion more clearly. 
 
 File:
 ![[ICMX-D-26-00143.pdf]]
