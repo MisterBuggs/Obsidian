@@ -1,7 +1,7 @@
 ---
 modified:
   - 2026-04-28T16:00:19+02:00
-  - 2026-04-29T11:39:27+02:00
+  - 2026-04-29T11:42:55+02:00
 created: 2026-04-28T13:49:38+02:00
 ---
 #Peer_Review [[2026-04-28]] #ICMx
@@ -31,21 +31,21 @@ Minor Comments:
 12. Conclusion: The authors suggest that these markers could be used for early sepsis detection. However, no sampling before fever spikes is being reported. Accordingly, this is a hypothesis that should be clearly worded as an outlook requiring further studies.
 13. Line 201ff: Please introduce or thoroughly discuss the somewhat arbitrary definition of late vs. early-onset sepsis depending on the timing of a fever spike after some nebulous starting point. This is not standard nomenclature except in sepsis of the newborn. Do you mean early vs late sepsis *phases* or *stages*, not early vs late ~~onset~~ sepsis? Please also discussing septic hyper- and hypo-inflammation with more nuance: The two-stage model of sepsis as early hyperinflammation and late hypo-inflammation / immune paralysis is quite outdated. Instead, features of hyperinflammation and hypoinflammation seem to occur in parallel throughout sepsis pathology, even within the first 24h of diagnosis. Many sections of the discussion, e.g., lines 343ff & 352ff hinge on this flawed assumption. Such broad assumptions are especially problematic when they are not accompanied by any mechanistic data.
 14. Line 222f: Please formulate clearly what you considered as a significant dysregulation, e.g., "showed no statistically significant difference between patients with and without sepsis irrespective of SIRS (|Log2-fold difference| >1, q<0.05)." (if this was the chosen comparison). The same applies to the equivalent day 3 and day 5 sections, too. 
-15. Lines 227ff: Please consider denoting these as q-values if they have been multiplicity adjusted. Due to the highly parallel nature of these tests, these must be multiplicity corrected if they have not already. Please also add table descriptions. Most importantly, please detail whether these p-values are multiplicity adjusted using FDR-methods and consider naming them q-values if they were. The same applies to the equivalent day 3 and day 5 sections. 
-16. The methods section suggests that patients were stratified by sepsis status, SIRS, and septic shock. This data is not shown. It may make sense to show additional analyses stratefied by age, sex, and comorbidity (e.g., Charleson Comorbidity Index). 
-17. Line 316ff: Positive correlation can also indicate a regulatory function to preserve homeostasis (rheostat). I recommend introducing previous work on the miRNAs discovered in this study with a little more detail and to be more specific when interpreting the concrete findings of this study rather than summoning broad concepts like "inflammation" or "oxidative stress". 
-18. Lines 320-323 and corresponding results section: It is important to check findings of GO analyses for biological relevance. For example, most GO analyses show housekeeping genes with little concrete and interpretable relevance to the pathology of interest. 
+15. Lines 227ff: Please consider denoting these as q-values if they have been multiplicity adjusted. Due to the highly parallel nature of these tests, these must be multiplicity corrected if they have not been already. Please also add table descriptions. 
+16. The methods section suggests that patients were stratified by sepsis status, SIRS, and septic shock. This data is not shown. It may make sense to also show additional analyses stratified by age, sex, and comorbidity (e.g., Charleson Comorbidity Index). 
+17. Line 316ff: Positive correlation can also indicate a regulatory function to preserve homeostasis (rheostat). I recommend introducing previous work on the miRNAs discovered in this study with a little more detail and to be more specific when interpreting the concrete findings of this study rather than summoning broad concepts like "inflammation" or "apoptosis". 
+18. Lines 320-323 and corresponding results section: It is important to check findings of GO analyses for biological relevance. For example, most GO analyses show housekeeping pathways with little interpretable relevance to the pathology of interest. 
 19. Line 337, "consistent": No data specifically showing the consistency across the dataset, e.g., phase separation of septic and non-septic patients regarding this miRNA, is presented in the corresponding results section. 
 Language & Proofing:
-20. This may be a function of the editorial manager, but there are currently two different line numberings displayed in the reviewer copy. One of them doesn't match the actual lines, so comments are made using the coherent line numbers.
+20. This may be a function of the editorial manager, but there are currently two different line numberings displayed in the reviewer copy. One of them doesn't match the actual lines, so comments are made using the coherent line numbering.
 21. Line 197 & 212: Readers will likely be familiar with heatmaps.
 22. Lines 275f: This sentence is currently unclear, especially "in a sample of 13".
-23. The available figure quality is insufficient for an accurate review. Please communicate with your editor whether the original figure quality of format was insufficient or whether figure quality was automatically downscaled in the editorial manager. 
-24. Line 406: I assume that the authors mean that they did not receive external funding for this study, i.e., the study was funded from institutional resources?
+23. The available figure quality is insufficient for an accurate review. Please communicate with the editor whether the original figure quality was insufficient, whether the file format was inappropriate, or whether the figure quality was automatically downscaled in the editorial manager after your submission.
+24. Line 406: I assume the authors mean that they did not receive *external* funding for this study, i.e., the study was funded from institutional resources?
 Further Suggestions:
 25. Currently, the results section contains quite some interpretation and discussion in the context of related literature. You might consider separating straight results and interpretation / discussion more clearly. 
-26. Please consider whether you can combine the key findings of figures 4-9 to achieve a synthesis that elevates these figures from data aggregation to interpretable results. Under the constraint of a very grainy image quality with generally illegible text inside the figures provided to this reviewer, figure 5 (day 1) seems to be by far the most interesting and interconnected time point, while differential expression seems to be almost absent by days 3 and 5 of sepsis development. It might be interesting to further probe this finding. 
-27. Lines 326-336 are rather basic / introductory and may be somewhat inflated for a reader with experience in the field.
+26. Please consider whether you can combine the key findings of figures 4-9 to achieve a synthesis that elevates these figures from data aggregation to interpretable results. Under the constraint of a very grainy image quality with generally illegible text inside the figures provided to this reviewer, figure 5 (day 1) seems to be by far the most informative time point, while differential expression seems to be almost absent by days 3 and 5 after first fever spike. It might be interesting to further probe this finding. 
+27. Lines 326-336 are rather basic / introductory and may be somewhat excessive for a reader with experience in the field.
 
 File:
 ![[ICMX-D-26-00143.pdf]]
