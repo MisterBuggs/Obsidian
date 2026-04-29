@@ -1,7 +1,7 @@
 ---
 modified:
   - 2026-04-28T16:00:19+02:00
-  - 2026-04-29T10:01:07+02:00
+  - 2026-04-29T10:11:51+02:00
 created: 2026-04-28T13:49:38+02:00
 ---
 #Peer_Review [[2026-04-28]] #ICMx
@@ -18,17 +18,19 @@ Minor Comments:
 6. Methods: Limiting study inclusion to "patients with neurological hemorrhage" may be a legitimate departmental constraint. This constraint to a very specific patient population may limit generalizability and should thus be included in the manuscript title, e.g., "in a cohort of 116 ICU patients with neurological hemorrhage" or similar. Study reporting guidelines (see above) usually also include guidance on informative, discovery-optimized titles. 
 7. Methods, line 123: Sampling in relation to fever spikes is a little outdated but has biological rationale. I commend the authors for stating this so clearly in the abstract. How where sepsis cases without fever handled, which are common especially in the elderly population? I recommend also including documentation how your blood draw timings related to the time of sepsis diagnosis by Sepsis-3 criteria, first antibiotic use, and first collection of blood cultures in a given patient, as opposed to first fever spike. 
 8. Methods, lines 101-105 & line 128: According to related literature, about 30% of patients with cerebral hemorrhage develop central fever. Did all patients in this study, including controls, have a fever spike? While I commend the authors on using such stringent controls, I highly recommend also including a baseline control of Neuro-ICU patients with cerebral hemorrhage but without signs of infection, including fever.
-9. Methods, line 114: Which type of mortality was documented? Hospital mortality or also 7 day mortality, 28 day mortality, etc., even after discharge? How was loss-to-follow up handled? 
-10. Methods, line 129: These numbers add up to 60, not to 116, as stated in the abstract. Which one is correct?
-11. Methods, line 136-137: How did the authors decide which miRNA's to include? In future studies on the remaining material, it may be interesting to use sequencing methods instead to avoid limiting discovery to known targets of interest. 
-12. Methods, general: Please consider generally adding catalog numbers, either in the text or as a supplemental materials table. 
-13. Methods, line 158: ddCt scores are commonly normalized to a housekeeping gene (or miRNA in this case). Do I understand the authors correctly, that they normalized ddCt scores to spike-in controls and then to the global / aggregate miRNA expression of a sample instead of a housekeeping gene, before comparing it to other samples?
-14. Conclusion: The authors suggest that these markers could be used for early sepsis detection. However, no sampling before fever spikes is being reported. Accordingly, this is a hypothesis that should be clearly worded as an outlook requiring further studies.
-15. 
+9. Results, line 1977-199: The method section had suggested that patients were sampled on days 1, 3, and 5 *after* a fever spike. This section suggests that sepsis patients were included and sampled using some unclear other criteria and that fever spikes occurred during the observation period. Please clarify the inclusion criteria, sampling strategy, and categorization t
+10. Methods, line 114: Which type of mortality was documented? Hospital mortality or also 7 day mortality, 28 day mortality, etc., even after discharge? How was loss-to-follow up handled? 
+11. Methods, line 129: These numbers add up to 60, not to 116, as stated in the abstract. Which one is correct?
+12. Methods, line 136-137: How did the authors decide which miRNA's to include? In future studies on the remaining material, it may be interesting to use sequencing methods instead to avoid limiting discovery to known targets of interest. 
+13. Methods, general: Please consider generally adding catalog numbers, either in the text or as a supplemental materials table. 
+14. Methods, line 158: ddCt scores are commonly normalized to a housekeeping gene (or miRNA in this case). Do I understand the authors correctly, that they normalized ddCt scores to spike-in controls and then to the global / aggregate miRNA expression of a sample instead of a housekeeping gene, before comparing it to other samples?
+15. Conclusion: The authors suggest that these markers could be used for early sepsis detection. However, no sampling before fever spikes is being reported. Accordingly, this is a hypothesis that should be clearly worded as an outlook requiring further studies.
+16. 
 Language & Proofing:
-16. This may be a function of the editorial manager, but there are currently two different line numberings displayed in the reviewer copy. One of them doesn't match the actual lines, so comments are made using the coherent line numbers.
+17. This may be a function of the editorial manager, but there are currently two different line numberings displayed in the reviewer copy. One of them doesn't match the actual lines, so comments are made using the coherent line numbers.
+18. Line 197: Readers may be familiar with heatmaps.
 Further Suggestions:
-17. Lines 182 - 184: Please comment on this finding. Given the extensive tissue micro-necrosis observed in sepsis, I 
+19. 
 
 File:
 ![[ICMX-D-26-00143.pdf]]
