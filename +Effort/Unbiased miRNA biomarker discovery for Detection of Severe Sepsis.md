@@ -1,12 +1,12 @@
 ---
 modified:
   - 2026-04-28T16:00:19+02:00
-  - 2026-04-29T11:14:21+02:00
+  - 2026-04-29T11:18:39+02:00
 created: 2026-04-28T13:49:38+02:00
 ---
 #Peer_Review [[2026-04-28]] #ICMx
 Reviewer Summary:
-In this observational study entitled "Unbiased miRNA biomarker discovery for Detection of Severe Sepsis" Loh et al.
+In this observational study entitled "Unbiased miRNA biomarker discovery for Detection of Severe Sepsis" Loh et al. quantify a set of pre-selected miRNAs in patients with neurological hemorrhage and with or without sepsis at three timepoints. The rationale for this study is strong. In addition, collecting structured longitudinal data from >100 sepsis patients is challenging and these data must ultimately be published. Unfortunately, in its current form, the manuscript has a number of critical flaws, as detailed below. Most importantly, the inclusion and sampling strategy and the selection of controls are currently quite vague and the manuscript does not detail adherence to established reporting guidelines, like STROBE-ME or another appropriate guideline from the Equator network.  
 
 Recommendation:
 Major Comments:
