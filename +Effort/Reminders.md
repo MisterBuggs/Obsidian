@@ -1,6 +1,5 @@
 ---
 modified:
-  - 2026-04-27T21:32:42+02:00
   - 2026-04-25T21:16:18+02:00
   - 2026-04-24T23:06:52+02:00
   - 2026-04-14T07:31:56+02:00
@@ -10,6 +9,7 @@ modified:
   - 2026-04-17T17:01:06+02:00
   - 2026-04-20T12:28:04+02:00
   - 2026-04-21T13:51:36+02:00
+  - 2026-04-29T09:26:46+02:00
 created: 2026-04-09T09:39:29+02:00
 ---
 - [ ] Lack doctor to Haftpflicht. They have received the message but not responded yet.
@@ -24,7 +24,7 @@ created: 2026-04-09T09:39:29+02:00
 	- [x] MLP Bank
 	- [x] #People_Petzoldt Steuerberater
 	- [x] Personalausweis / Reisepass
-	- [ ] märkische bank
+	- [ ] märkische bank: Send copy of Personalausweis or Meldebescheinigung
 	- [x] vermieter
 	- [x] vbl altersvorsorge kundenservice@vbl.de Versicherungsnunmer 2102962448
 - [x] #Peer_Review BMC Geriatrics [Revised Manuscript.docx](<file:///C:\Users\buyswill\Downloads\The Controversial Interpl>)
