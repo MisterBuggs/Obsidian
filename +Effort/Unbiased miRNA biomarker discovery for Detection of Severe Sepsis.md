@@ -1,7 +1,7 @@
 ---
 modified:
   - 2026-04-28T16:00:19+02:00
-  - 2026-04-29T10:18:23+02:00
+  - 2026-04-29T10:22:41+02:00
 created: 2026-04-28T13:49:38+02:00
 ---
 #Peer_Review [[2026-04-28]] #ICMx
@@ -26,7 +26,7 @@ Minor Comments:
 11. Methods, general: Please consider generally adding catalog numbers, either in the text or as a supplemental materials table. 
 12. Methods, line 158: ddCt scores are commonly normalized to a housekeeping gene (or miRNA in this case). Do I understand the authors correctly, that they normalized ddCt scores to spike-in controls and then to the global / aggregate miRNA expression of a sample instead of a housekeeping gene, before comparing it to other samples?
 13. Conclusion: The authors suggest that these markers could be used for early sepsis detection. However, no sampling before fever spikes is being reported. Accordingly, this is a hypothesis that should be clearly worded as an outlook requiring further studies.
-14. Please introduce or thoroughly discuss the somewhat arbitrary definition of late vs. early-onset sepsis depending on the timing of a fever spike after some nebulous starting time.
+14. Line 201ff: Please introduce or thoroughly discuss the somewhat arbitrary definition of late vs. early-onset sepsis depending on the timing of a fever spike after some nebulous starting time. This is not standard nomenclature outside sepsis of the newborn, which is not the topic here. Do you mean early vs late sepsis phases or stages, not early vs late ~~onset~~? Please also consider a more balanced discussion of sepsis hyper- and hypo-inflammation: The two-stage model of sepsis as early hyperinflammation and late hypo-inflammation / immune paralysis is quite outdated. Instead, features of hyperinflammation and hypoinflammation seem to occur in parallel throughout sepsis progression, even within the first 24h of diagnosis. 
 Language & Proofing:
 15. This may be a function of the editorial manager, but there are currently two different line numberings displayed in the reviewer copy. One of them doesn't match the actual lines, so comments are made using the coherent line numbers.
 16. Line 197: Readers may be familiar with heatmaps.
