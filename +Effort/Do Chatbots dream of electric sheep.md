@@ -1,7 +1,7 @@
 ---
 modified:
   - 2026-04-28T21:19:56+02:00
-  - 2026-04-29T12:59:06+02:00
+  - 2026-04-29T13:01:51+02:00
 created: 2026-04-28T07:39:59+02:00
 ---
 #Random_Idea #Science_Fiction #Science_Computer #Writing [[2026-04-28]]
@@ -57,5 +57,5 @@ Agents need to operate in an environment to achieve AGI. LLMs don't. The path to
 5) Iterate over steps 1-4 to learn a better observed world model, imagine more accurate future world models, an appropriate volition to work towards change the modeled world from the current to a better one, effective policies to achieve that goal, an appropriate action space within that policy. 
 This is boiling down to 2 semi-related topics: 
 - Computer consciousness -> continual world modeling, volition, policy, iterative action.
-- Computer memory -> Sleep, Dream, Attention-tagging, specialized circuits / Panel of Experts.
--
+- Computer memory -> Sleep, Dream, Attention-tagging, specialized circuits / Panel of Experts, acute context, mid-term synapse priming, long-term encoding.
+- A connecting function, likely layered between acute attention, mid-term and long-term memory which regular harmonizes the computer consciousness and computer memory bi-directionally. 
