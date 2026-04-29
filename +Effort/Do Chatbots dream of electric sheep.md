@@ -1,7 +1,7 @@
 ---
 modified:
   - 2026-04-28T21:19:56+02:00
-  - 2026-04-29T13:38:49+02:00
+  - 2026-04-29T13:39:43+02:00
 created: 2026-04-28T07:39:59+02:00
 ---
 #Random_Idea #Science_Fiction #Science_Computer #Writing [[2026-04-28]]
@@ -59,4 +59,4 @@ This is boiling down to 2 semi-related topics:
 - Computer consciousness -> continual world modeling, volition, policy, iterative action.
 - Computer memory -> Sleep, Dream, Attention-tagging, specialized circuits / Panel of Experts, acute context, mid-term synapse priming, long-term encoding.
 - A connecting function, likely layered between acute attention, mid-term and long-term memory which regular harmonizes the computer consciousness and computer memory bi-directionally. 
-See [#Arxiv 2404.16789](https://arxiv.org/abs/2404.16789) for a review on continual learning in LLMs; especially section 4. This space is already decen
+See [#Arxiv 2404.16789](https://arxiv.org/abs/2404.16789) for a review on continual learning in LLMs; especially section 4. This space is already decently explored and getting more and more explored. 
