@@ -1,6 +1,6 @@
 ---
 modified:
-  - 2026-04-29T17:01:43+02:00
+  - 2026-04-29T17:19:57+02:00
 created: 2026-04-29T16:01:20+02:00
 ---
 #People_Hetavi_Zaveri [[2026-04-29]] #Leadership #Team #Funding #MHH 
