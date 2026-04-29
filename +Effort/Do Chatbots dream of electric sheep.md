@@ -1,6 +1,7 @@
 ---
 modified:
   - 2026-04-28T21:19:56+02:00
+  - 2026-04-29T12:53:28+02:00
 created: 2026-04-28T07:39:59+02:00
 ---
 #Random_Idea #Science_Fiction #Science_Computer #Writing [[2026-04-28]]
@@ -36,7 +37,7 @@ Could something like this be modeled by an LLM with iterative self prompting loo
 # Synthesis
 In my idea about sleeping LLMs, a self-prompting LLM, possibly using an "Imaginer / Dreamer" design would continuously build (imagine) a world model. It would have an actual context window (short term memory, in humans only ~7 items), but transfer anything outside that immediate context into a temporary neural synaptic representation using systems like LORA; synaptic but not cellular or architectural potentiation; mid-term memory on a within-one-day level. High loss (surprise) triggers higher "attention" or tagging for consolidation (see [[Do Chatbots dream of electric sheep#Synaptic Homeostasis|Synaptic Homeostasis]] above). It would then periodically shut off for actual full-model fine-tuning; Deep Sleep; cellular and brain-architectural potentiation. It may use parameter constraints to prevent catastrophic forgetting in these fine-tuning phases. Such constraints may involve a panel of experts architecture, protecting *unused experts* from fine-tuning. Fine-tuning may also involve actual "dreaming", i.e., training on attention-filtered self-outputs, which in itself should protect older weights from catastrophic failure and may enhance generalization to cases that haven't yet been encountered. 
 
-# Lightbulb moment
+# Lightbulb moment 1
 The following idea might be tinted by my father's scholarly interest in the neurology of "wanting", i.e., the ability of a well functioning brain to develop a will. This volition is separate from the executive function of a sentient agent to execute its will. Various machine learning techniques enable decent and growing executive functions, but the volition, to my understanding, always comes from the user, either through choosing the reward in reinforcement learning or through prompting in Chatbots. Looking at nature, volition is extremely badly understood. Like ethics and morale are all about what we should want. However, ultimately, one must consider volition a learned property of the human brain to recognize a difference between an observed and ideal state. Regressing, in the Freudian and conceptual stage, to the untrained consciousness of a newborn, the rewards are chemically hard coded. Then, a more and more complex world model is developed through continuous learning that enables more and more complex intermediary wants to achieve the same chemical end goal of pleasure and the absence of pain. Does that mean that
 conscience and all the emergent phenomena like ethics are really just translation layers between happy chemicals and the world, i.e., a very complex and sometimes paradoxical optimization function for achieving more happy chemicals per given time? How does this translate to computers or more concisely: How to learn volition? 
 
@@ -46,3 +47,11 @@ Key pieces missing from LLMs IMO:
 - Mid-term memory beyond the context window that's more sparse but also more stable than context / attention. 
 - sleep for long term potentiation (or is that captured in attention-tagged fine tuning to a satisfactory degree?) 
 - true dreaming, i.e., reiteration over model outputs with relatively high chaos in a save environment, both to preserve a central tendency while also improving local generalization to the counter factual. 
+
+# Lightbulb Moment 2
+Agents need to operate in an environment to achieve AGI. LLMs don't. The path to AGI is comparing the world models (which LLMs effectively are) with an environment to 
+1) Rate the difference between the observed world model and multiple *imagined world model*.
+2) Informing a volition to get from the observed to an imagined world model with a higher utility.
+3) Develop a policy to achieve the preferred imagined worldmodel with high likelyhood.
+4) Implement an action according to that policy.
+5) Iterate over 1-4 to learn 
