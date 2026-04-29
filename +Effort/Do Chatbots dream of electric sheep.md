@@ -1,7 +1,7 @@
 ---
 modified:
   - 2026-04-28T21:19:56+02:00
-  - 2026-04-29T12:53:28+02:00
+  - 2026-04-29T12:59:06+02:00
 created: 2026-04-28T07:39:59+02:00
 ---
 #Random_Idea #Science_Fiction #Science_Computer #Writing [[2026-04-28]]
@@ -50,8 +50,12 @@ Key pieces missing from LLMs IMO:
 
 # Lightbulb Moment 2
 Agents need to operate in an environment to achieve AGI. LLMs don't. The path to AGI is comparing the world models (which LLMs effectively are) with an environment to 
-1) Rate the difference between the observed world model and multiple *imagined world model*.
+1) Rate the difference between the observed world model and multiple *imagined world models*.
 2) Informing a volition to get from the observed to an imagined world model with a higher utility.
 3) Develop a policy to achieve the preferred imagined worldmodel with high likelyhood.
 4) Implement an action according to that policy.
-5) Iterate over 1-4 to learn 
+5) Iterate over steps 1-4 to learn a better observed world model, imagine more accurate future world models, an appropriate volition to work towards change the modeled world from the current to a better one, effective policies to achieve that goal, an appropriate action space within that policy. 
+This is boiling down to 2 semi-related topics: 
+- Computer consciousness -> continual world modeling, volition, policy, iterative action.
+- Computer memory -> Sleep, Dream, Attention-tagging, specialized circuits / Panel of Experts.
+-
