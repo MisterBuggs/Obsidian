@@ -1,7 +1,7 @@
 ---
 modified:
   - 2026-04-28T16:00:19+02:00
-  - 2026-04-29T10:47:47+02:00
+  - 2026-04-29T10:54:06+02:00
 created: 2026-04-28T13:49:38+02:00
 ---
 #Peer_Review [[2026-04-28]] #ICMx
@@ -33,10 +33,10 @@ Language & Proofing:
 17. This may be a function of the editorial manager, but there are currently two different line numberings displayed in the reviewer copy. One of them doesn't match the actual lines, so comments are made using the coherent line numbers.
 18. Line 197 & 212: Readers will likely be familiar with heatmaps.
 19. Lines 275f: This sentence is currently unclear, especially "in a sample of 13".
-20. The
+20. The available figure quality is insufficient for an accurate review. Please communicate with your editor whether the original figure quality of format was insufficient or whether figure quality was automatically downscaled in the editorial manager. 
 Further Suggestions:
 21. Currently, the results section contains quite some interpretation and discussion in the context of related literature. You might consider separating straight results and interpretation / discussion more clearly. 
-22. Please consider whether you can combine the key findings of figures 4-9 to achieve a synthesis that elevates these figures from data aggregation to interpretable results. 
+22. Please consider whether you can combine the key findings of figures 4-9 to achieve a synthesis that elevates these figures from data aggregation to interpretable results. Under the constraint of a very grainy image quality with generally illegible text inside the figures provided to this reviewer, figure 5 (day 1) seems to be by far the most interesting and interconnected time point, while differential expression seems to be almost absent by days 3 and 5 of sepsis development. It might be interesting to further probe this finding. 
 
 File:
 ![[ICMX-D-26-00143.pdf]]
