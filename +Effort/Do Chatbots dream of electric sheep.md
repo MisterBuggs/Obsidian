@@ -60,3 +60,6 @@ This is boiling down to 2 semi-related topics:
 - Computer memory -> Sleep, Dream, Attention-tagging, specialized circuits / Panel of Experts, acute context, mid-term synapse priming, long-term encoding.
 - A connecting function, likely layered between acute attention, mid-term and long-term memory which regular harmonizes the computer consciousness and computer memory bi-directionally. 
 See [#Arxiv 2404.16789](https://arxiv.org/abs/2404.16789) for a review on continual learning in LLMs; especially section 4. This space is already decently explored and getting more and more explored. 
+
+# Pruning delusions
+The actual novelty that isn'
