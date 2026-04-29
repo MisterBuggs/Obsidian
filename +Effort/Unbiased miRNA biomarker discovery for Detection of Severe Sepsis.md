@@ -1,11 +1,12 @@
 ---
 modified:
   - 2026-04-28T16:00:19+02:00
-  - 2026-04-29T11:09:26+02:00
+  - 2026-04-29T11:14:21+02:00
 created: 2026-04-28T13:49:38+02:00
 ---
 #Peer_Review [[2026-04-28]] #ICMx
 Reviewer Summary:
+In this observational study entitled "Unbiased miRNA biomarker discovery for Detection of Severe Sepsis" Loh et al.
 
 Recommendation:
 Major Comments:
@@ -26,7 +27,7 @@ Minor Comments:
 11. Methods, general: Please consider generally adding catalog numbers, either in the text or as a supplemental materials table. 
 12. Methods, line 158: ddCt scores are commonly normalized to a housekeeping gene (or miRNA in this case). Do I understand the authors correctly, that they normalized ddCt scores to spike-in controls and then to the global / aggregate miRNA expression of a sample instead of a housekeeping gene, before comparing it to other samples?
 13. Conclusion: The authors suggest that these markers could be used for early sepsis detection. However, no sampling before fever spikes is being reported. Accordingly, this is a hypothesis that should be clearly worded as an outlook requiring further studies.
-14. Line 201ff: Please introduce or thoroughly discuss the somewhat arbitrary definition of late vs. early-onset sepsis depending on the timing of a fever spike after some nebulous starting time. This is not standard nomenclature outside sepsis of the newborn, which is not the topic here. Do you mean early vs late sepsis phases or stages, not early vs late ~~onset~~? Please also consider a more balanced discussion of sepsis hyper- and hypo-inflammation: The two-stage model of sepsis as early hyperinflammation and late hypo-inflammation / immune paralysis is quite outdated. Instead, features of hyperinflammation and hypoinflammation seem to occur in parallel throughout sepsis progression, even within the first 24h of diagnosis. Line 343ff also hinges on this flawed assumption. Such broad assumptions are especially problematic when they are not accompanied by any mechanistic data for confirmation.
+14. Line 201ff: Please introduce or thoroughly discuss the somewhat arbitrary definition of late vs. early-onset sepsis depending on the timing of a fever spike after some nebulous starting time. This is not standard nomenclature outside sepsis of the newborn, which is not the topic here. Do you mean early vs late sepsis phases or stages, not early vs late ~~onset~~? Please also consider a more balanced discussion of sepsis hyper- and hypo-inflammation: The two-stage model of sepsis as early hyperinflammation and late hypo-inflammation / immune paralysis is quite outdated. Instead, features of hyperinflammation and hypoinflammation seem to occur in parallel throughout sepsis progression, even within the first 24h of diagnosis. Many sections of the discussion, e.g., Lines 343ff & 352ff hinge on this flawed assumption. Such broad assumptions are especially problematic when they are not accompanied by any mechanistic data for confirmation.
 15. Line 222f: Please formulate clearly what you considered as significant dysregulation, e.g., "showed no statistically significant difference between patients with and without sepsis irrespective of SIRS (|Log2-fold difference| >1, FDR q<0.05)." (if this was the chosen comparison). The same applies to the equivalent day 3 and day 5 sections, too. 
 16. Lines 227ff: Please consider denoting these as q-values if they have been multiplicity adjusted. Due to the highly parallel nature of these tests, these must be multiplicity corrected if they have not already. Please also add table descriptions. Most importantly, please detail whether these p-values are multiplicity adjusted using FDR-methods and consider naming them q-values if they were. The same applies to the equivalent day 3 and day 5 sections. 
 17. The methods section suggests that patients were stratified by sepsis status, SIRS, and septic shock. This data is not shown. It may make sense to show additional analyses stratefied by age, sex, and comorbidity (e.g., Charleson Comorbidity Index). 
@@ -38,10 +39,11 @@ Language & Proofing:
 22. Line 197 & 212: Readers will likely be familiar with heatmaps.
 23. Lines 275f: This sentence is currently unclear, especially "in a sample of 13".
 24. The available figure quality is insufficient for an accurate review. Please communicate with your editor whether the original figure quality of format was insufficient or whether figure quality was automatically downscaled in the editorial manager. 
+25. Line 406: I assume that the authors mean that they did not receive external funding for this study, i.e., the study was funded from institutional resources?
 Further Suggestions:
-25. Currently, the results section contains quite some interpretation and discussion in the context of related literature. You might consider separating straight results and interpretation / discussion more clearly. 
-26. Please consider whether you can combine the key findings of figures 4-9 to achieve a synthesis that elevates these figures from data aggregation to interpretable results. Under the constraint of a very grainy image quality with generally illegible text inside the figures provided to this reviewer, figure 5 (day 1) seems to be by far the most interesting and interconnected time point, while differential expression seems to be almost absent by days 3 and 5 of sepsis development. It might be interesting to further probe this finding. 
-27. Lines 326-336 are rather basic / introductory and may be somewhat inflated for a reader with experience in the field. 
+26. Currently, the results section contains quite some interpretation and discussion in the context of related literature. You might consider separating straight results and interpretation / discussion more clearly. 
+27. Please consider whether you can combine the key findings of figures 4-9 to achieve a synthesis that elevates these figures from data aggregation to interpretable results. Under the constraint of a very grainy image quality with generally illegible text inside the figures provided to this reviewer, figure 5 (day 1) seems to be by far the most interesting and interconnected time point, while differential expression seems to be almost absent by days 3 and 5 of sepsis development. It might be interesting to further probe this finding. 
+28. Lines 326-336 are rather basic / introductory and may be somewhat inflated for a reader with experience in the field.
 
 File:
 ![[ICMX-D-26-00143.pdf]]
