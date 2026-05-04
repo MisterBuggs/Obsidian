@@ -1,5 +1,8 @@
 ---
 modified:
+  - 2026-05-04T18:45:33+02:00
+  - 2026-04-30T16:34:43+02:00
+  - 2026-04-25T21:16:18+02:00
   - 2026-04-24T23:06:52+02:00
   - 2026-04-14T07:31:56+02:00
   - 2026-04-09T09:43:14+02:00
@@ -7,13 +10,10 @@ modified:
   - 2026-04-16T10:46:56+02:00
   - 2026-04-17T17:01:06+02:00
   - 2026-04-20T12:28:04+02:00
-  - 2026-04-21T13:51:36+02:00
-  - 2026-04-29T09:26:46+02:00
-  - 2026-05-04T12:10:12+02:00
 created: 2026-04-09T09:39:29+02:00
 ---
 - [ ] Lack doctor to Haftpflicht. They have received the message but not responded yet.
-- [ ] Renter's insurance QBE check response. Contest their last charge (Bank of America Credit Card)
+- [ ] Renter's insurance QBE check response
 - [ ] Ärztekammer: Arztausweis verschickt?
 - [ ] Indira Photos Indian Clothing
 - [ ] Announce name change and change documents
@@ -40,8 +40,8 @@ created: 2026-04-09T09:39:29+02:00
 - [ ] Hartmann Bund Beiträge schon steuerlich gemeldet oder an #People_Petzoldt? 
 - [x] review paper William Li
 - [x] Doctolib Anamnesebogen
-- [x] TK web anmeldung
-- [ ] Klinikwäsche Tel: 17-5779. Ort K05 U0 3040 E-Knoten.
-- [x] #People_WiLi Review review paper
-- [ ] mlife Schulung inkl. Präsenztermin siehe: [Inhalt: Ärztlicher Dienst: Weiterbilden-Online](https://weiterbilden-online.mh-hannover.de/ilias.php?baseClass=ilrepositorygui&cmd=render&ref_id=10370)
-- [ ] [[2026-04-30#To Do|L4i Statistik]]
+- [ ] Lunch Seminar CGaCT 2026-05-22
+- [ ] ISSCR poster
+- [ ] twincore absagen
+- [ ] salvage [[2026-05-04]] additions to [[+Effort/Reminders|Reminders]]
+- [ ] Muttertagsgeschenk bestellen
