@@ -3,7 +3,7 @@ modified:
   - 2026-04-29T23:37:30+02:00
   - 2026-04-28T21:19:56+02:00
   - 2026-04-29T14:12:16+02:00
-  - 2026-05-04T13:00:32+02:00
+  - 2026-05-04T13:34:34+02:00
 created: 2026-04-28T07:39:59+02:00
 ---
 #Random_Idea #Science_Fiction #Science_Computer #Writing [[2026-04-28]]
@@ -70,3 +70,7 @@ The actual novelty that isn't already explored by replay buffers and generative 
 
 # Checking my axioms
 I thought that my model of consciousness, sapience, and sentience as a mere translational layer between hardcoded biochemistry and a complex world was dependent on a top down rather than a bottom up world model. However, irrespective even of the most drastic bottom up models that presume perfect bottom up construction of a perceived reality from senses alone, pairs of imagined world models and actions leading to them must be learned either way; again regressing to a biological automaton ground state. Note that the basic biological reward function evolves only over many many generations of agents (evolutionary time scale), while volition is emergent enough to develop largely independent or even seemingly contradictory goals: Non-alignment between the basic reward function and emergent volition may be a conditio sine qua non for AGI, even if the implications of that for AI safety are not great. 
+
+# Experiments
+- This manuscript suggests that there may be animals that never sleep: [Vertebrates That Never Sleep: Implications For Sleep’s Basic Function](https://www.sciencedirect.com/science/article/pii/S0361923098000185?via%3Dihub). I wonder if they are fundamentally incapable of adapting to new environments: If they can learn long term memory without catastrophic forgetting.
+- Despite their fundamentally different physiology and anatomy, [[s41586-023-06203-4.pdf|octopus sleep]]. This makes a strong example that sleep is required for intelligence. Comparative biology could answer the question whether a process like long-term potentiation (see [[elife-84257-v1.pdf]] & [[octopus-brain-manifests-a-vertebrate-like-long-term-potentiation.pdf]]) is required to keep up intelligence, whether it's a good move, or just nice to have.
