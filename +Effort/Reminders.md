@@ -1,6 +1,5 @@
 ---
 modified:
-  - 2026-04-25T21:16:18+02:00
   - 2026-04-24T23:06:52+02:00
   - 2026-04-14T07:31:56+02:00
   - 2026-04-09T09:43:14+02:00
@@ -10,10 +9,11 @@ modified:
   - 2026-04-20T12:28:04+02:00
   - 2026-04-21T13:51:36+02:00
   - 2026-04-29T09:26:46+02:00
+  - 2026-05-04T09:04:31+02:00
 created: 2026-04-09T09:39:29+02:00
 ---
 - [ ] Lack doctor to Haftpflicht. They have received the message but not responded yet.
-- [ ] Renter's insurance QBE check response
+- [ ] Renter's insurance QBE check response. Contest their last charge (Bank of America Credit Card)
 - [ ] Ärztekammer: Arztausweis verschickt?
 - [ ] Indira Photos Indian Clothing
 - [ ] Announce name change and change documents
@@ -40,3 +40,4 @@ created: 2026-04-09T09:39:29+02:00
 - [ ] Hartmann Bund Beiträge schon steuerlich gemeldet oder an #People_Petzoldt? 
 - [x] review paper William Li
 - [x] Doctolib Anamnesebogen
+- [ ] TK web anmeldung
