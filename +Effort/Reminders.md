@@ -9,7 +9,7 @@ modified:
   - 2026-04-20T12:28:04+02:00
   - 2026-04-21T13:51:36+02:00
   - 2026-04-29T09:26:46+02:00
-  - 2026-05-04T12:02:43+02:00
+  - 2026-05-04T12:10:12+02:00
 created: 2026-04-09T09:39:29+02:00
 ---
 - [ ] Lack doctor to Haftpflicht. They have received the message but not responded yet.
@@ -41,7 +41,7 @@ created: 2026-04-09T09:39:29+02:00
 - [x] review paper William Li
 - [x] Doctolib Anamnesebogen
 - [x] TK web anmeldung
-- [ ] Klinikwäsche 2672
+- [ ] Klinikwäsche Tel: 17-5779. Ort K05 U0 3040 E-Knoten.
 - [ ] #People_WiLi Review review paper
 - [ ] mlife Schulung inkl. Präsenztermin siehe: [Inhalt: Ärztlicher Dienst: Weiterbilden-Online](https://weiterbilden-online.mh-hannover.de/ilias.php?baseClass=ilrepositorygui&cmd=render&ref_id=10370)
 - [ ] [[2026-04-30#To Do|L4i Statistik]]
