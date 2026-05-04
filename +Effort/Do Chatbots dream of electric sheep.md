@@ -3,6 +3,7 @@ modified:
   - 2026-04-29T23:37:30+02:00
   - 2026-04-28T21:19:56+02:00
   - 2026-04-29T14:12:16+02:00
+  - 2026-05-04T13:00:32+02:00
 created: 2026-04-28T07:39:59+02:00
 ---
 #Random_Idea #Science_Fiction #Science_Computer #Writing [[2026-04-28]]
@@ -45,7 +46,9 @@ conscience and all the emergent phenomena like ethics are really just translatio
 Key pieces missing from LLMs IMO:
 - Volition
 - Continual top-down world models updated from sensory input. 
-- Mid-term memory beyond the context window that's more sparse but also more stable than context / attention. 
+- Mid-term memory beyond the context window that's more sparse but also more stable than context / attention. Actually, short and mid-term memory could also be handled by RAG or LORA to a degree:
+	- [What is Retrieval-Augmented Generation (RAG) - GeeksforGeeks](https://www.geeksforgeeks.org/nlp/what-is-retrieval-augmented-generation-rag/)
+	- [What is Low Rank Adaptation (LoRA)? - GeeksforGeeks](https://www.geeksforgeeks.org/deep-learning/what-is-low-rank-adaptation-lora/). 
 - sleep for long term potentiation (or is that captured in attention-tagged fine tuning to a satisfactory degree?) 
 - true dreaming, i.e., reiteration over model outputs with relatively high chaos in a save environment, both to preserve a central tendency while also improving local generalization to the counter factual. 
 
