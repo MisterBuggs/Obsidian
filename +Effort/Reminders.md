@@ -42,6 +42,6 @@ created: 2026-04-09T09:39:29+02:00
 - [x] Doctolib Anamnesebogen
 - [x] TK web anmeldung
 - [ ] Klinikwäsche Tel: 17-5779. Ort K05 U0 3040 E-Knoten.
-- [ ] #People_WiLi Review review paper
+- [x] #People_WiLi Review review paper
 - [ ] mlife Schulung inkl. Präsenztermin siehe: [Inhalt: Ärztlicher Dienst: Weiterbilden-Online](https://weiterbilden-online.mh-hannover.de/ilias.php?baseClass=ilrepositorygui&cmd=render&ref_id=10370)
 - [ ] [[2026-04-30#To Do|L4i Statistik]]
