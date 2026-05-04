@@ -6,6 +6,7 @@ modified:
   - 2026-04-23T16:50:45+02:00
   - 2026-04-24T10:52:49+02:00
   - 2026-04-27T11:30:12+02:00
+  - 2026-05-04T15:39:53+02:00
 created: 2026-04-20T10:26:27+02:00
 tags:
   - Worldbuilding
@@ -43,7 +44,7 @@ Some factions in Fistful of Darkness are decent but most are pretty terrible. A 
 -   oil barons going out of business.
 -   former railway barons trying to keep their shares in this changed world.
 -   coachers and carriagemen
--   Miners Guild
+-   Miners Guild; totally look at this for setting the tone and informing one possible direction of the campaign; hired gun a la Pinkerton and local Sherrifs (with the aid of formal military?) actually dropped proper bombs from airplanes onto miners and both sides used Gatling guns): [West Virginia coal wars - Wikipedia](https://en.wikipedia.org/wiki/West_Virginia_coal_wars#Battle_of_Blair_Mountain). 
 -   horse breeding -> high danger because of weirdborn
 -   Sparkwrights = steampunk and magitech crafters
 -   The Sherriff's office -> degenerate to monster hunters
