@@ -29,7 +29,8 @@ created: 2026-04-09T09:39:29+02:00
 - [ ] [[+Effort/L4i manuscript|L4i manuscript]]: Think about whether the statistic can be optimized in any way, then prepare final figures.
 - [ ] Goldschmiedin anrufen
 - [ ] Vorbereitung SOP CTC
-- [ ] Finish setting up Cline with CLI for  [[CoCo AI in VSCode]] after #MHH/IT set up node.js 
+- [ ] Finish setting up Cline with CLI for  [[CoCo AI in VSCode]] after #MHH/IT set up node.js
+- [ ] Check ()[https://www.mhh.de/institute-zentren-forschungseinrichtungen/institut-fuer-zelltherapeutika/cellular-therapy-centre-ctc]
 - [x] Announce name change and change documents
 	- [x] MHH
 	- [x] TK
