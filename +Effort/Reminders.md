@@ -16,17 +16,6 @@ created: 2026-04-09T09:39:29+02:00
 - [ ] Renter's insurance QBE check response
 - [ ] Ärztekammer: Arztausweis verschickt?
 - [ ] Indira Photos Indian Clothing
-- [ ] Announce name change and change documents
-	- [x] MHH
-	- [x] TK
-	- [x] Ärztekammer
-	- [x] Ärzteversorgung
-	- [x] MLP Bank
-	- [x] #People_Petzoldt Steuerberater
-	- [x] Personalausweis / Reisepass
-	- [ ] märkische bank: Send copy of Personalausweis or Meldebescheinigung
-	- [x] vermieter
-	- [x] vbl altersvorsorge kundenservice@vbl.de Versicherungsnunmer 2102962448
 - [ ] #People_Ross_McGlennon offered 20% discount for Frontiers Immunology Submission. Do I have or can I summon a paper within this year? Likely no desk rejection. 
 - [ ] Contact Falko Mohrs about "slow start" in Germany.
 - [ ] After receiving confirmation of full membership, apply for a DGHO Arbeitskreis. In that order: 
@@ -41,6 +30,17 @@ created: 2026-04-09T09:39:29+02:00
 - [ ] Goldschmiedin anrufen
 - [ ] Vorbereitung SOP CTC
 - [ ] Finish setting up Cline with CLI for  [[CoCo AI in VSCode]] after #MHH/IT set up node.js 
+- [x] Announce name change and change documents
+	- [x] MHH
+	- [x] TK
+	- [x] Ärztekammer
+	- [x] Ärzteversorgung
+	- [x] MLP Bank
+	- [x] #People_Petzoldt Steuerberater
+	- [x] Personalausweis / Reisepass
+	- [x] märkische bank: Send copy of Personalausweis or Meldebescheinigung
+	- [x] vermieter
+	- [x] vbl altersvorsorge kundenservice@vbl.de Versicherungsnunmer 2102962448
 - [x] #Peer_Review BMC Geriatrics [Revised Manuscript.docx](<file:///C:\Users\buyswill\Downloads\The Controversial Interpl>)
 - [x] #Peer_Review Intensive Care Medicine [[ICMX-D-26-00143.pdf]], [submit comments here](https://www.editorialmanager.com/icmx/l.asp?i=130475&l=2FBZLDQK "https://www.editorialmanager.com/icmx/l.asp?i=130475&l=2FBZLDQK")
 - [x] [[Elmira Aliabadi Job Interview]]
