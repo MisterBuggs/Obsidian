@@ -1,6 +1,5 @@
 ---
 modified:
-  - 2026-05-04T18:45:33+02:00
   - 2026-04-30T16:34:43+02:00
   - 2026-04-25T21:16:18+02:00
   - 2026-04-24T23:06:52+02:00
@@ -10,6 +9,7 @@ modified:
   - 2026-04-16T10:46:56+02:00
   - 2026-04-17T17:01:06+02:00
   - 2026-04-20T12:28:04+02:00
+  - 2026-05-05T08:50:57+02:00
 created: 2026-04-09T09:39:29+02:00
 ---
 - [ ] Lack doctor to Haftpflicht. They have received the message but not responded yet.
@@ -42,6 +42,8 @@ created: 2026-04-09T09:39:29+02:00
 - [x] Doctolib Anamnesebogen
 - [ ] Lunch Seminar CGaCT 2026-05-22
 - [ ] ISSCR poster
-- [ ] twincore absagen
+- [x] twincore absagen
 - [ ] salvage [[2026-05-04]] additions to [[+Effort/Reminders|Reminders]]
 - [ ] Muttertagsgeschenk bestellen
+- [ ] mlife Schulung
+- [ ] [[+Effort/L4i manuscript|L4i manuscript]] 
