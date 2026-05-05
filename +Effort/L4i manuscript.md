@@ -9,7 +9,7 @@ modified:
   - 2026-04-22T16:38:46+02:00
   - 2026-04-24T15:25:52+02:00
   - 2026-04-28T12:56:57+02:00
-  - 2026-05-05T15:39:33+02:00
+  - 2026-05-05T16:03:34+02:00
 created: 2026-03-16T15:31:22+01:00
 tags:
   - JHU
@@ -48,6 +48,7 @@ Author list, **not confirmed**: WB, #People_SDV , #People_SGD, #People_MoBe, #Pe
 - [ ] #People_SDV: make Sankey-like yellow/ green/ blue percentage charts accessible in Powerpoint. 
 
 # Process notes
+- No statistical significance in simple 1:1 group comparisons of efficiency using Wilcoxon matched pairs or paired t-tests (either of which may arguably be the correct one here)
 - Present [[+Effort/E32C6|E32C6]] HD1 for non-permissive lines, [[+Effort/JHU/E32C|E32C4]] for insufficient lineage commitment in E8, and [[E5C3 dTomato]] for a good line that got even higher numbers in L4i.
 - Present [[E5C3 dTomato]] functionality.
 - Frame days 12-13, 16-18, 20 as GMP, Myeloblast, Myelocyte to enable presenting d6 alongside d7 protocols.
@@ -55,8 +56,6 @@ Author list, **not confirmed**: WB, #People_SDV , #People_SGD, #People_MoBe, #Pe
 - Suppl: 
 	- #People_SDV 3D HDNg E8 vs L4i.
 	- [[+Effort/E32C6#^54e3bf|HD3]] media, density optimization, together with HD16 SPELS vs SPELS-BSA. 34/45/BB9 Kinetic? Also in [[+Effort/E32C6#^3c1a3e|HD9]]. 
-	- 
-	- 
 	- WB [[E32C4#^6e78e6|HD16]] 3D HDWB E8 vs L4i disaggregated EB and quantitative CFC from disaggregated EB. Not enough cells for FACS from floaters before CFC. Possibly show results from floating cell CFC with FACS after but not before CFC.
 	- WB [[E32C4#^8b6950|HD18]] composition of EBs together with CD34 fluorescence microscopy [BM organoids](https://1drv.ms/f/c/2c6e7480743f438e/IgBUIQvfYDuBRbGz6dZk6FsGAb1bwiNWQlWSfw0aQPvlQ8c?e=4pquww) (and possibly CD45; @"Malika Sharma" <msharm50@jh.edu>).
 	- MD11HD with [[CFC]].
