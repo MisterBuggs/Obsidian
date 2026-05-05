@@ -9,7 +9,7 @@ modified:
   - 2026-04-16T10:46:56+02:00
   - 2026-04-17T17:01:06+02:00
   - 2026-04-20T12:28:04+02:00
-  - 2026-05-05T17:01:30+02:00
+  - 2026-05-05T17:02:39+02:00
 created: 2026-04-09T09:39:29+02:00
 ---
 - [ ] Lack doctor to Haftpflicht. They have received the message but not responded yet.
@@ -27,9 +27,10 @@ created: 2026-04-09T09:39:29+02:00
 - [ ] Prepare ISSCR poster
 - [ ] [[m.life training]]
 - [ ] [[+Effort/L4i manuscript|L4i manuscript]]: Think about whether the statistic can be optimized in any way, then prepare final figures.
-- [ ] Goldschmiedin anrufen
+- [ ] Goldschmiedin zurückrufen
 - [ ] Vorbereitung SOP CTC
 - [ ] Finish setting up Cline with CLI for  [[CoCo AI in VSCode]] after #MHH/IT set up node.js	
+- [ ] contact hbrs@mh-hannover.de & check web page of [Karriereentwicklung](https://www.mhh.de/akademische-karriereentwicklung) for funding opportunities for #People_Hetavi_Zaveri 
 - [ ] Check [ATMP GMP DU website](https://www.mhh.de/institute-zentren-forschungseinrichtungen/institut-fuer-zelltherapeutika/cellular-therapy-centre-ctc) for
 	- [ ] Deutscher und **Englischer** Text gut, British English bevorzugt
 	- [ ] Erwähnt die hämatologische Klinik
