@@ -9,7 +9,7 @@ modified:
   - 2026-04-16T10:46:56+02:00
   - 2026-04-17T17:01:06+02:00
   - 2026-04-20T12:28:04+02:00
-  - 2026-05-05T08:50:57+02:00
+  - 2026-05-05T10:08:46+02:00
 created: 2026-04-09T09:39:29+02:00
 ---
 - [ ] Lack doctor to Haftpflicht. They have received the message but not responded yet.
@@ -45,5 +45,5 @@ created: 2026-04-09T09:39:29+02:00
 - [x] twincore absagen
 - [ ] salvage [[2026-05-04]] additions to [[+Effort/Reminders|Reminders]]
 - [ ] Muttertagsgeschenk bestellen
-- [ ] mlife Schulung
+- [ ] [[m.life training]]
 - [ ] [[+Effort/L4i manuscript|L4i manuscript]] 
