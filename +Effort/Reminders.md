@@ -9,7 +9,7 @@ modified:
   - 2026-04-16T10:46:56+02:00
   - 2026-04-17T17:01:06+02:00
   - 2026-04-20T12:28:04+02:00
-  - 2026-05-05T13:10:34+02:00
+  - 2026-05-05T13:12:09+02:00
 created: 2026-04-09T09:39:29+02:00
 ---
 - [ ] Lack doctor to Haftpflicht. They have received the message but not responded yet.
@@ -49,4 +49,4 @@ created: 2026-04-09T09:39:29+02:00
 - [ ] [[+Effort/L4i manuscript|L4i manuscript]] 
 - [ ] Goldschmiedin anrufen
 - [ ] Vorbereitung SOP
-- [ ] Finish seSet up Cline / CLI for  [[CoCo AI in VSCode]]
+- [ ] Finish setting up Cline with CLI for  [[CoCo AI in VSCode]] after #MHH/IT set up node.js 
