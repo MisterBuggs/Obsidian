@@ -9,7 +9,7 @@ modified:
   - 2026-04-22T16:38:46+02:00
   - 2026-04-24T15:25:52+02:00
   - 2026-04-28T12:56:57+02:00
-  - 2026-05-05T16:11:17+02:00
+  - 2026-05-05T16:03:34+02:00
 created: 2026-03-16T15:31:22+01:00
 tags:
   - JHU
@@ -26,7 +26,7 @@ Author list, **not confirmed**: WB, #People_SDV , #People_SGD, #People_MoBe, #Pe
 # L4i To Do
 #To_Do [[+Calendar/2026-04-09|2026-04-09]]
 - [ ] WB: Statistical Hypothesis testing
-	- [ ] Consider more complex tests down the line, which can integrate another axis, e.g., E8 / TIRN in ng / wb *or* E8 / TIRN for cfu-gm  cfu-e. 
+	- [ ] Consider more complex tests down the line, which can integrate another axis, e.g., E8 / TIRN in ng / wb *or* E8 / TIRN for cfu-gm / cfu-e. 
 	- [x] Collect all data that should undergo statistical hypothesis testing, i.e., all with 3 or more samples, in the same excel file in a format conducive to testing in R or in Python. #To_Do What library will I use? What's the preferred format for the data?
 - [ ] WB: Generally use FACS plot axes in the style #People_SDV uses in [L4i manuscript_Figures_WB.pptx](<file:///C:\Users\buyswill\OneDrive - mh-hannover.de\L4i manuscript\L4i manuscript_Figures_WB.pptx>) with markers on the end of a line.
 - [ ] Confirm that all plots use SEM or all SD, no back and forth.

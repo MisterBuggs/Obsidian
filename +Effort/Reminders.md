@@ -9,7 +9,7 @@ modified:
   - 2026-04-16T10:46:56+02:00
   - 2026-04-17T17:01:06+02:00
   - 2026-04-20T12:28:04+02:00
-  - 2026-05-05T13:12:09+02:00
+  - 2026-05-05T16:14:13+02:00
 created: 2026-04-09T09:39:29+02:00
 ---
 - [ ] Lack doctor to Haftpflicht. They have received the message but not responded yet.
@@ -27,26 +27,26 @@ created: 2026-04-09T09:39:29+02:00
 	- [ ] märkische bank: Send copy of Personalausweis or Meldebescheinigung
 	- [x] vermieter
 	- [x] vbl altersvorsorge kundenservice@vbl.de Versicherungsnunmer 2102962448
-- [x] #Peer_Review BMC Geriatrics [Revised Manuscript.docx](<file:///C:\Users\buyswill\Downloads\The Controversial Interpl>)
-- [x] #Peer_Review Intensive Care Medicine [[ICMX-D-26-00143.pdf]], [submit comments here](https://www.editorialmanager.com/icmx/l.asp?i=130475&l=2FBZLDQK "https://www.editorialmanager.com/icmx/l.asp?i=130475&l=2FBZLDQK")
-- [x] [[Elmira Aliabadi Job Interview]]
 - [ ] #People_Ross_McGlennon offered 20% discount for Frontiers Immunology Submission. Do I have or can I summon a paper within this year? Likely no desk rejection. 
 - [ ] Contact Falko Mohrs about "slow start" in Germany.
-- [x] Book Wacken Access Pass
 - [ ] After receiving confirmation of full membership, apply for a DGHO Arbeitskreis. In that order: 
 	- [ ] [Zellbiologie und -therapie](https://www.dgho.de/arbeitskreise/p-z/zellbiologie-therapie)
 	- [ ] [AGIHO (Infektionen)](https://www.dgho.de/arbeitskreise/a-g/agiho)
 	- [ ] [Junge DGHO](https://www.dgho.de/arbeitskreise/i-k/junge_dgho)
 - [ ] Hartmann Bund Beiträge schon steuerlich gemeldet oder an #People_Petzoldt? 
+- [ ] Present: Lunch Seminar CGaCT 2026-05-22
+- [ ] Prepare ISSCR poster
+- [ ] [[m.life training]]
+- [ ] [[+Effort/L4i manuscript|L4i manuscript]]: Think about whether the statistic can be optimized in any way, then prepare final figures.
+- [ ] Goldschmiedin anrufen
+- [ ] Vorbereitung SOP CTC
+- [ ] Finish setting up Cline with CLI for  [[CoCo AI in VSCode]] after #MHH/IT set up node.js 
+- [x] #Peer_Review BMC Geriatrics [Revised Manuscript.docx](<file:///C:\Users\buyswill\Downloads\The Controversial Interpl>)
+- [x] #Peer_Review Intensive Care Medicine [[ICMX-D-26-00143.pdf]], [submit comments here](https://www.editorialmanager.com/icmx/l.asp?i=130475&l=2FBZLDQK "https://www.editorialmanager.com/icmx/l.asp?i=130475&l=2FBZLDQK")
+- [x] [[Elmira Aliabadi Job Interview]]
+- [x] Book Wacken Access Pass 
 - [x] review paper William Li
 - [x] Doctolib Anamnesebogen
-- [ ] Lunch Seminar CGaCT 2026-05-22
-- [ ] ISSCR poster
 - [x] twincore absagen
 - [x] salvage [[2026-05-04]] additions to [[+Effort/Reminders|Reminders]]
 - [x] Muttertagsgeschenk bestellen
-- [ ] [[m.life training]]
-- [ ] [[+Effort/L4i manuscript|L4i manuscript]] 
-- [ ] Goldschmiedin anrufen
-- [ ] Vorbereitung SOP
-- [ ] Finish setting up Cline with CLI for  [[CoCo AI in VSCode]] after #MHH/IT set up node.js 
