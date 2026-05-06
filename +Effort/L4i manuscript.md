@@ -9,7 +9,7 @@ modified:
   - 2026-04-24T15:25:52+02:00
   - 2026-04-28T12:56:57+02:00
   - 2026-05-05T17:06:25+02:00
-  - 2026-05-06T15:13:54+02:00
+  - 2026-05-06T15:14:51+02:00
 created: 2026-03-16T15:31:22+01:00
 tags:
   - JHU
@@ -28,7 +28,7 @@ Author list, **not confirmed**: WB, #People_SDV , #People_SGD, #People_MoBe, #Pe
 - [ ] Graphing
 	- [ ] Consider polishing the GGPLOT figures for iPSC_efficiency and ml_efficiency at the 3 time points instead of going back an forth between Excel and VSCode for graphing and testing, respectively, and to ensure a perfect match between data and figures. 
 	- [ ] Add test results to figures, document test methodology on GitHub.
-	- [ ] Add panels to #Inkscape figure layouts for Blood. Consider adding that Inkscape extension that lets you
+	- [ ] Add panels to #Inkscape figure layouts for Blood. Consider adding that Inkscape extension that lets you resize line graphs without distortion ("SciScape" or something).
 	- [x] Consider more complex tests down the line, which can integrate another axis, e.g., E8 / TIRN in ng / wb *or* E8 / TIRN for cfu-gm / cfu-e. 
 	- [x] Collect all data that should undergo statistical hypothesis testing, i.e., all with 3 or more samples, in the same excel file in a format conducive to testing in R or in Python. #To_Do What library will I use? What's the preferred format for the data?
 - [ ] Maybe #People_SDV can get 2 more cell lines with her current experiments using the reprocell line(s) and RUES02? See [[+Effort/L4i manuscript#Process notes|Process notes]] 
