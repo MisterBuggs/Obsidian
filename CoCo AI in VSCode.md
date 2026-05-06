@@ -1,7 +1,7 @@
 ---
 modified:
   - 2026-05-05T10:23:53+02:00
-  - 2026-05-06T10:32:50+02:00
+  - 2026-05-06T10:35:40+02:00
 created: 2026-05-05T10:09:54+02:00
 ---
 #Science_Computer #Learn #Statistic 
@@ -19,6 +19,8 @@ relates to #BayBE , #Sequencing_RNA
 
 ## Set up MCP Server in Continue
 ### json for ZED
+from https://docs.hpc.gwdg.de/services/ai-services/coco/index.html
+```
 {
   "context_servers": {
     "tool-server": {
@@ -34,9 +36,10 @@ relates to #BayBE , #Sequencing_RNA
     }
   }
 }
-
-### Continue example
-fromhttps://docs.continue.dev/reference 
+```
+### Continue config yaml example
+from https://docs.continue.dev/reference 
+```
 name: My Config
 version: 1.0.0
 schema: v1
@@ -50,6 +53,6 @@ mcpServers:
     cwd: /Users/NAME/project
     env:
       NODE_ENV: production
-
+```
 ### Notes
 This seems to require me to run a local MCP server.
