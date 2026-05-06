@@ -1,6 +1,5 @@
 ---
 modified:
-  - 2026-05-05T17:22:09+02:00
   - 2026-04-30T16:34:43+02:00
   - 2026-04-25T21:16:18+02:00
   - 2026-04-24T23:06:52+02:00
@@ -10,6 +9,7 @@ modified:
   - 2026-04-16T10:46:56+02:00
   - 2026-04-17T17:01:06+02:00
   - 2026-04-20T12:28:04+02:00
+  - 2026-05-06T15:08:38+02:00
 created: 2026-04-09T09:39:29+02:00
 ---
 - [ ] Lack doctor to Haftpflicht. They have received the message but not responded yet.
@@ -26,7 +26,7 @@ created: 2026-04-09T09:39:29+02:00
 - [ ] Present: Lunch Seminar CGaCT 2026-05-22
 - [ ] Prepare ISSCR poster
 - [ ] [[m.life training]]
-- [ ] [[+Effort/L4i manuscript|L4i manuscript]]: Think about whether the statistic can be optimized in any way, then prepare final figures. 
+- [ ] [[+Effort/L4i manuscript|L4i manuscript]]
 - [ ] Vorbereitung SOP CTC
 - [ ] Finish setting up Cline with CLI for  [[CoCo AI in VSCode]] after #MHH/IT set up node.js	
 - [ ] contact hbrs@mh-hannover.de & check web page of [Karriereentwicklung](https://www.mhh.de/akademische-karriereentwicklung) for funding opportunities for #People_Hetavi_Zaveri 
