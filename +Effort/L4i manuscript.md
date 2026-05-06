@@ -9,7 +9,7 @@ modified:
   - 2026-04-24T15:25:52+02:00
   - 2026-04-28T12:56:57+02:00
   - 2026-05-05T17:06:25+02:00
-  - 2026-05-06T10:21:59+02:00
+  - 2026-05-06T15:13:54+02:00
 created: 2026-03-16T15:31:22+01:00
 tags:
   - JHU
@@ -25,15 +25,16 @@ Author list, **not confirmed**: WB, #People_SDV , #People_SGD, #People_MoBe, #Pe
 
 # L4i To Do
 #To_Do [[+Calendar/2026-04-09|2026-04-09]]
-- [ ] WB: Statistical Hypothesis testing
-	- [ ] Maybe #People_SDV can get 2 more cell lines with her current experiments using the reprocell line(s) and RUES02? See [[+Effort/L4i manuscript#Process notes|Process notes]] 
-	- [ ] Add test results to figures, document test methodology on GitHub. Consider polishing the GGPLOT figures for iPSC_efficiency and ml_efficiency instead of going back an forth between excel and VSCode for graphing and testing, and to ensure a perfect match.
+- [ ] Graphing
+	- [ ] Consider polishing the GGPLOT figures for iPSC_efficiency and ml_efficiency at the 3 time points instead of going back an forth between Excel and VSCode for graphing and testing, respectively, and to ensure a perfect match between data and figures. 
+	- [ ] Add test results to figures, document test methodology on GitHub.
+	- [ ] Add panels to #Inkscape figure layouts for Blood. Consider adding that Inkscape extension that lets you
 	- [x] Consider more complex tests down the line, which can integrate another axis, e.g., E8 / TIRN in ng / wb *or* E8 / TIRN for cfu-gm / cfu-e. 
 	- [x] Collect all data that should undergo statistical hypothesis testing, i.e., all with 3 or more samples, in the same excel file in a format conducive to testing in R or in Python. #To_Do What library will I use? What's the preferred format for the data?
+- [ ] Maybe #People_SDV can get 2 more cell lines with her current experiments using the reprocell line(s) and RUES02? See [[+Effort/L4i manuscript#Process notes|Process notes]] 
 - [ ] WB: Generally use FACS plot axes in the style #People_SDV uses in [L4i manuscript_Figures_WB.pptx](<file:///C:\Users\buyswill\OneDrive - mh-hannover.de\L4i manuscript\L4i manuscript_Figures_WB.pptx>) with markers on the end of a line.
-- [ ] Confirm that all plots use SEM or all SD, no back and forth.
-- [ ] WB: Attempt absolute quantifications as stacked area plots like #People_SDV 
-- [ ] Make Biorender overview cartoon to tie down the story, then order figures accordingly.
+- [ ] WB: Attempt absolute quantification as stacked area plots like #People_SDV 
+- [ ] Make ~~Biorender~~ #Inkscape overview cartoon to tie down the story, then order figures accordingly.
 - [ ] Re-analyse [HD19](app://obsidian.md/E32C4#^4550c0)?
 - [ ] WB / #People_SDV : Discuss taking the d9 timepoint out of  #People_SDV 's percentage plots (yellow / green / blue), as d9 is missing from the Ng protocol data. The official Ng protocol should be measured d13-15; reviewers will criticize that we compare as early as d10-12 instead and do not show late timepoints. Transferring Ng-floaters into terminal diff media until d17  20 would really complement these data.
 - [ ] #People_SDV: make Sankey-like yellow/ green/ blue percentage charts accessible in Powerpoint. 
@@ -49,7 +50,7 @@ Author list, **not confirmed**: WB, #People_SDV , #People_SGD, #People_MoBe, #Pe
 - [x] #People_SDV : Send 1) percentages CD34 / 45 quadrants for experiments of interest, 2) their viability in FACS, 3)Trypan-blue negative (viable) cell count at harvest, 4) original iPSC-number in that culture, 5) volume at each feeding step.
 
 # Process notes
-- Mixed models with cell_line or author_protocol (2D )
+- Mixed models with cell_line or author_protocol (2D / 3D) as grouping factor are the way to go. Due to the low sample number, I calculated only main effects, ignoring interactions. 
 - No statistical significance in simple 1:1 group comparisons of efficiency using Wilcoxon matched pairs (or paired t-tests for that matter). Assuming high variance between but not within groups, i.e., L4i is always better than E8 but the extent to which a certain cell line "performs" varies wildly, I will need data for an **additional 2-3 cell lines to achieve statistical significance** for the naive efficiency calculations in Wilcoxon, as per a naive data simulation with maximum independence between lines ([paired wilcoxon test.xlsx](<file:///C:\Users\buyswill\OneDrive - mh-hannover.de\L4i manuscript\Statistical Hypothesis testing>)). 
 - Present [[+Effort/E32C6|E32C6]] HD1 for non-permissive lines, [[+Effort/JHU/E32C|E32C4]] for insufficient lineage commitment in E8, and [[E5C3 dTomato]] for a good line that got even higher numbers in L4i.
 - Present [[E5C3 dTomato]] functionality.
