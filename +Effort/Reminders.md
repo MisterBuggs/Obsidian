@@ -27,7 +27,6 @@ created: 2026-04-09T09:39:29+02:00
 - [ ] Prepare ISSCR poster
 - [ ] [[m.life training]]
 - [ ] [[+Effort/L4i manuscript|L4i manuscript]]: Think about whether the statistic can be optimized in any way, then prepare final figures. 
-- [ ] Goldschmiedin zurückrufen
 - [ ] Vorbereitung SOP CTC
 - [ ] Finish setting up Cline with CLI for  [[CoCo AI in VSCode]] after #MHH/IT set up node.js	
 - [ ] contact hbrs@mh-hannover.de & check web page of [Karriereentwicklung](https://www.mhh.de/akademische-karriereentwicklung) for funding opportunities for #People_Hetavi_Zaveri 
@@ -35,6 +34,7 @@ created: 2026-04-09T09:39:29+02:00
 	- [ ] Deutscher und **Englischer** Text gut, British English bevorzugt
 	- [ ] Erwähnt die hämatologische Klinik
 	- [ ] Vorstellung meiner Arbeitsgruppe
+- [x] Goldschmiedin zurückrufen
 - [x] Announce name change and change documents
 	- [x] MHH
 	- [x] TK
