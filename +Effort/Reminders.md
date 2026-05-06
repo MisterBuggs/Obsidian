@@ -9,7 +9,7 @@ modified:
   - 2026-04-16T10:46:56+02:00
   - 2026-04-17T17:01:06+02:00
   - 2026-04-20T12:28:04+02:00
-  - 2026-05-06T15:08:38+02:00
+  - 2026-05-06T16:51:26+02:00
 created: 2026-04-09T09:39:29+02:00
 ---
 - [ ] Lack doctor to Haftpflicht. They have received the message but not responded yet.
@@ -28,6 +28,7 @@ created: 2026-04-09T09:39:29+02:00
 - [ ] [[m.life training]]
 - [ ] [[+Effort/L4i manuscript|L4i manuscript]]
 - [ ] Vorbereitung SOP CTC
+- [ ] Miltenyi ISSCR travel award application before 2026-05-22 https://www.miltenyibiotec.com/DE-en/lp/pluripotent-stem-cell-research-travel-award/submission-hq.html
 - [ ] Finish setting up Cline with CLI for  [[CoCo AI in VSCode]] after #MHH/IT set up node.js	
 - [ ] contact hbrs@mh-hannover.de & check web page of [Karriereentwicklung](https://www.mhh.de/akademische-karriereentwicklung) for funding opportunities for #People_Hetavi_Zaveri 
 - [ ] Check [ATMP GMP DU website](https://www.mhh.de/institute-zentren-forschungseinrichtungen/institut-fuer-zelltherapeutika/cellular-therapy-centre-ctc) for
