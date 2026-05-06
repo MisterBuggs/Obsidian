@@ -1,7 +1,7 @@
 ---
 modified:
   - 2026-05-05T10:23:53+02:00
-  - 2026-05-06T11:26:22+02:00
+  - 2026-05-06T12:34:15+02:00
 created: 2026-05-05T10:09:54+02:00
 ---
 #Science_Computer #Learn #Statistic 
@@ -17,6 +17,8 @@ relates to #BayBE , #Sequencing_RNA
 - ```Tab```: Fill in current suggested autocomplete. May need to disable tab spacing, see [[CoCo AI in VSCode#Continue Plugin]]. 
 - ```Ctrl+RightArrow```: Like ```Tab``` above but word for word. 
 
+## Arcana
+It would be real neat if GWDG enabled models called through SAIA to use [Arcana](https://chat-ai.academiccloud.de/arcanas/) / RAG. 
 ## Set up MCP Server in Continue (?)
 I don't yet fully grasp what I get from MCP servers that I don't get in Continue base functionality. To me, it sounds like I only get customizable Agent mode, which is likely not worth the hassle to set up a local MCP server and translate the settings from the ZED documentation to the continue documentation. 
 ### json for ZED
