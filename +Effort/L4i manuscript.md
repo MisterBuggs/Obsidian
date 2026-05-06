@@ -9,7 +9,7 @@ modified:
   - 2026-04-24T15:25:52+02:00
   - 2026-04-28T12:56:57+02:00
   - 2026-05-05T17:06:25+02:00
-  - 2026-05-06T17:58:27+02:00
+  - 2026-05-06T18:02:16+02:00
 created: 2026-03-16T15:31:22+01:00
 tags:
   - JHU
@@ -67,6 +67,18 @@ Author list, **not confirmed**: WB, #People_SDV , #People_SGD, #People_MoBe, #Pe
 	- If data is present in a matched E8 vs L4i manner, e.g., in  [[E32C4#^6e78e6|HD16]], show that these are really just BB9+ hemangioblast (potentially questioning their true HSC status but making them super potent for myeloid cell production)
 	- ![[Meeting SDV|Meeting 2026-04-24]]
 # Methods
-- Qwen 3.5 397B A17B, standard settings in academiccloud.de: "Bayesian linear mixed-effects models were fitted using Bambi v0.17 with weakly informative priors (Normal(0, 0.5) for fixed effects, HalfNormal(0, 0.5) for variance components). Four MCMC chains with 2,000 post-warmup samples each were used (8,000 total samples). Convergence was assessed via R̂ statistics (all < 1.01) and divergence checks (0 divergences)."
+- Qwen 3.5 397B A17B, standard settings in academiccloud.de: "Bayesian linear mixed-effects models were fitted using Bambi v0.17 with weakly informative priors, as per Bambi-Standard (Normal(0, 0.5) for fixed effects, HalfNormal(0, 0.5) for variance components). Four MCMC chains with 2,000 post-warmup samples each were used (8,000 total samples). Convergence was assessed via R̂ statistics (all < 1.01) and divergence checks (0 divergences)."
+- *Cave:*: Check bambi standards. Consider performing a sensitivity analysis by comparing standard results to narrow and wide priors:
+	Test with wider priors
+	priors_wide = {
+	    "stem_cell_type": bmb.Prior("Normal", mu=0, sigma=1),
+	    "1|cell_line": bmb.Prior("Normal", mu=0, sigma=1),
+	}
+	
+	Test with narrower priors
+	priors_narrow = {
+	    "stem_cell_type": bmb.Prior("Normal", mu=0, sigma=0.25),
+	    "1|cell_line": bmb.Prior("Normal", mu=0, sigma=0.25),
+	}
 - Qwen 3.5 397B A17B, standard settings in academiccloud.de: "A linear mixed-effects model was used to assess the effect of stem_cell_type  iPSC efficiency (iPSC_cd34pos_cd45pos), with cell_line as a random intercept to account for between-line variability. The tirn stem cell type showed significantly higher efficiency compared to primed (β=0.36, 95% CI [0.09, 0.63], p=0.009). Although mixed-effects modeling was employed to account for cell line variability, the limited number of cell lines (N=4) precludes reliable estimation of between-line variance components. Results were validated using a fixed-effects linear model (p=0.045), confirming robustness of the stem_cell_type effect. Secondary analysis revealed significant differences between cell lines (F(3,5)=6.79, p=0.030), with E5C3 dTomato and E32C4 showing higher baseline efficiency than RUES02 (p<0.05 for both)."
 - Both previous: See [mixed_models_3D_iPSC_d12_efficiency_V1.py](<file:///C:\Users\buyswill\OneDrive - mh-hannover.de\L4i manuscript\Statistical Hypothesis testing>)
