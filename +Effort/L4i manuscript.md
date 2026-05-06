@@ -27,7 +27,8 @@ Author list, **not confirmed**: WB, #People_SDV , #People_SGD, #People_MoBe, #Pe
 #To_Do [[+Calendar/2026-04-09|2026-04-09]]
 - [ ] Graphing
 	- [ ] Consider polishing the GGPLOT figures for iPSC_efficiency and ml_efficiency at the 3 time points instead of going back an forth between Excel and VSCode for graphing and testing, respectively, and to ensure a perfect match between data and figures. 
-	- [ ] Apply clean / final MixedLM and OLS model to all efficiency variables of interest.
+	- [ ] Apply clean / final MixedLM and OLS model to all efficiency variables of interest. 
+	- [ ] Repeat with balanced groups (excluding L4i only experiments) as a sanity check. Make box plots with mean & jitter overlay, plus Spagetti connections for balanced groups. 
 	- [ ] Add test results to figures, document test methodology on GitHub. Do not perform Bayesian analyses for everything right now: Ain't got that kinda time. 
 	- [ ] Add panels to #Inkscape figure layouts for Blood. Consider adding that Inkscape extension that lets you resize line graphs without distortion ("SciScape" or whatever it's called).
 	- [x] Consider more complex tests down the line, which can integrate another axis, e.g., E8 / TIRN in ng / wb *or* E8 / TIRN for cfu-gm / cfu-e. 
